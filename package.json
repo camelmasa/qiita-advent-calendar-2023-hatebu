@@ -1,0 +1,26 @@
+{
+  "name": "@huckleberry-inc/encryption-secret-manager",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "lint": "biome check .",
+    "lint:apply": "biome check --apply .",
+    "lint:apply:suggested": "biome check --apply-suggested .",
+    "format": "biome format .",
+    "format:apply": "biome format --write .",
+    "test": "node --test --require ts-node/register src/*.test.ts"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.4.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
