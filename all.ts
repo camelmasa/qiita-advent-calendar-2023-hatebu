@@ -7,7 +7,7 @@ interface DataEntry {
 }
 
 const convertAndSaveMarkdown = async () => {
-  const data = await fsPromises.readFile("2023-12-29.json", "utf-8");
+  const data = await fsPromises.readFile("2024-01-29.json", "utf-8");
   const jsonData: DataEntry[] = JSON.parse(data);
   const sortedData = jsonData.sort((a, b) => b.hatebu - a.hatebu)
 

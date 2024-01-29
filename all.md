@@ -1,478 +1,510 @@
-- [カフェをぶち抜くコーヒーは誰でも淹れられる](https://note.com/sumiren_t/n/n27f6bd8e644b) B! 1152
-- [Gmailの新スパム規制対応全部書く](https://zenn.dev/ken_yoshi/articles/gmail-new-requirements-2024) B! 948
-- [転職活動を10年続けてたら人生行き詰ってきた話](https://qiita.com/saoyagi2/items/2c0bb9647ee9e16b7f4b) B! 846
-- [【日本人エンジニア必携】英語命名規則の決定版](https://qiita.com/hironori_narita/items/4b06db0953053d41c4a0) B! 750
+- [カフェをぶち抜くコーヒーは誰でも淹れられる](https://note.com/sumiren_t/n/n27f6bd8e644b) B! 1159
+- [Gmailの新スパム規制対応全部書く](https://zenn.dev/ken_yoshi/articles/gmail-new-requirements-2024) B! 993
+- [転職活動を10年続けてたら人生行き詰ってきた話](https://qiita.com/saoyagi2/items/2c0bb9647ee9e16b7f4b) B! 855
+- [【日本人エンジニア必携】英語命名規則の決定版](https://qiita.com/hironori_narita/items/4b06db0953053d41c4a0) B! 789
 - [https://note.com/_kurikin/n/n13c2270f1203](https://note.com/_kurikin/n/n13c2270f1203) B! 726
-- [もう仕事に追われたくない！自分起点で楽しく働くための自己管理術](https://qiita.com/technuma/items/df14245d75244b8f437d) B! 644
-- [本番サーバー60台のホスト名を全部 cat にしてしまった話](https://qiita.com/yonex/items/204a5f41d1b40efe305e) B! 555
-- [なぜエンジニア組織をうまくマネジメントできないと悩む経営者が多いのか？](https://qiita.com/kunihirotanaka/items/06b4789b60e2e1d5c661) B! 553
-- [【11万文字越え】プログラミング初心者に贈る即戦力ガイド](https://qiita.com/nuco_bk/items/27f5ad03d0c4b41241fc) B! 523
-- [【閲覧注意】イライラ不可避なUIデザイン10選](https://qiita.com/9re-pe/items/0296f8a8c11490efda21) B! 517
-- [「//このコメントを消したら動かない」は大体Shift_JISの2バイト目が原因で発生する](https://qiita.com/shirokuma89dev/items/1e3a01aa8071507850cd) B! 494
-- [ITS健保制覇攻略ーー補助がこんなにお得なのに意外と使われていない件](https://techblog.kayac.com/it-kenpo-guide-2023) B! 488
-- [「0.1+0.2≠0.3」を説明できないエンジニアがいるらしい](https://qiita.com/higashi_nc/items/9a5ea00415a008f06843) B! 487
-- [Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(前編)](https://qiita.com/nfujita55a/items/37b05801209f6058808e) B! 479
-- [【2023年版 優良ツールまとめ】このツールを使っていないエンジニアは人生を悔い改めよ](https://qiita.com/kokiiii/items/7d634e3c3b6c096a492b) B! 478
-- [Visual Studio Codeに入れるべき拡張機能【2023年最新版】](https://qiita.com/midiambear/items/f38686bd4d139e0cd46c) B! 476
-- [新NISAでの個別株投資を考えてみる](https://note.com/uki_profit/n/nc22e324b26ad) B! 435
-- [OSS 観光名所を貼るスレ](https://blog.pokutuna.com/entry/oss-sightseeing-spots) B! 416
-- [パスキーの基本とそれにまつわる誤解を解きほぐす](https://blog.agektmr.com/2023/12/passkey-mythbusting) B! 411
-- [ゲーム作りとかCGとかに関わる数学(初歩)①](https://qiita.com/tsuchinokoman/items/938f62f62ac0e9bcb3bc) B! 401
-- [アウトプットガチ勢が作った高速記事作成フレームワーク](https://qiita.com/Sicut_study/items/9b20ac5ded003cb6d55a) B! 393
-- [全社横断で「誰が何をやっているのか」を可視化する取り組み](https://blog.recruit.co.jp/rtc/2023/12/18/who-knows-what/) B! 392
-- [最近気に入っているOSSを淡々と紹介する](https://zenn.dev/noplan_inc/articles/3a623b2eb6d42d) B! 370
-- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f) B! 358
-- [Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(後編)](https://qiita.com/nfujita55a/items/51eefd1e9578927e118a) B! 349
+- [もう仕事に追われたくない！自分起点で楽しく働くための自己管理術](https://qiita.com/technuma/items/df14245d75244b8f437d) B! 657
+- [なぜエンジニア組織をうまくマネジメントできないと悩む経営者が多いのか？](https://qiita.com/kunihirotanaka/items/06b4789b60e2e1d5c661) B! 556
+- [本番サーバー60台のホスト名を全部 cat にしてしまった話](https://qiita.com/yonex/items/204a5f41d1b40efe305e) B! 556
+- [【11万文字越え】プログラミング初心者に贈る即戦力ガイド](https://qiita.com/nuco_bk/items/27f5ad03d0c4b41241fc) B! 520
+- [【閲覧注意】イライラ不可避なUIデザイン10選](https://qiita.com/9re-pe/items/0296f8a8c11490efda21) B! 519
+- [外部からいきなりCTOとして就任する時に気をつけていること](https://note.com/bto/n/ne15a74ff6afe) B! 503
+- [「//このコメントを消したら動かない」は大体Shift_JISの2バイト目が原因で発生する](https://qiita.com/shirokuma89dev/items/1e3a01aa8071507850cd) B! 496
+- [ITS健保制覇攻略ーー補助がこんなにお得なのに意外と使われていない件](https://techblog.kayac.com/it-kenpo-guide-2023) B! 493
+- [「0.1+0.2≠0.3」を説明できないエンジニアがいるらしい](https://qiita.com/higashi_nc/items/9a5ea00415a008f06843) B! 491
+- [【2023年版 優良ツールまとめ】このツールを使っていないエンジニアは人生を悔い改めよ](https://qiita.com/kokiiii/items/7d634e3c3b6c096a492b) B! 484
+- [Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(前編)](https://qiita.com/nfujita55a/items/37b05801209f6058808e) B! 482
+- [Visual Studio Codeに入れるべき拡張機能【2023年最新版】](https://qiita.com/midiambear/items/f38686bd4d139e0cd46c) B! 478
+- [新NISAでの個別株投資を考えてみる](https://note.com/uki_profit/n/nc22e324b26ad) B! 444
+- [OSS 観光名所を貼るスレ](https://blog.pokutuna.com/entry/oss-sightseeing-spots) B! 418
+- [パスキーの基本とそれにまつわる誤解を解きほぐす](https://blog.agektmr.com/2023/12/passkey-mythbusting) B! 415
+- [ゲーム作りとかCGとかに関わる数学(初歩)①](https://qiita.com/tsuchinokoman/items/938f62f62ac0e9bcb3bc) B! 407
+- [最近気に入っているOSSを淡々と紹介する](https://zenn.dev/noplan_inc/articles/3a623b2eb6d42d) B! 407
+- [全社横断で「誰が何をやっているのか」を可視化する取り組み](https://blog.recruit.co.jp/rtc/2023/12/18/who-knows-what/) B! 398
+- [アウトプットガチ勢が作った高速記事作成フレームワーク](https://qiita.com/Sicut_study/items/9b20ac5ded003cb6d55a) B! 395
+- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f) B! 367
+- [Gmailが2024年2月から(大量)送信者に求めてることが分からない闇への防衛術(後編)](https://qiita.com/nfujita55a/items/51eefd1e9578927e118a) B! 353
+- [マイクロサービス化は本当に難しい](https://zenn.dev/aeonpeople/articles/93e7a6cc84854d) B! 342
 - [9時間足すんだっけ引くんだっけ問題～あるいは、諸プログラミング言語はいかにタイムゾーンと向き合っているか](https://www.m3tech.blog/entry/time-types) B! 331
-- [マイクロサービス化は本当に難しい](https://zenn.dev/aeonpeople/articles/93e7a6cc84854d) B! 326
+- [なぜソーシャルログインの際にemailをキーにして参照するのか](https://zenn.dev/ritou/articles/ca7be3f329e68f) B! 317
 - [MySQL 5.7 から 8.0 にしたらテストが激遅になった](https://qiita.com/kunit/items/7f5883121a621a775e53) B! 317
-- [なぜソーシャルログインの際にemailをキーにして参照するのか](https://zenn.dev/ritou/articles/ca7be3f329e68f) B! 315
-- [運用に携わる人全員に見てほしい！ Ops Guidesの紹介](https://qiita.com/jacopen/items/32f76d05138117e038eb) B! 312
-- [「転職した方が上がる」エンジニア給与バブルの終焉と、雑すぎる一部人材紹介会社](https://note.com/makaibito/n/n06edb5379914?sub_rt=share_pb) B! 307
-- [VScodeだけでGit操作を完結させるのだ～～ッ!!](https://zenn.dev/praha/articles/db1c4bcc4ef48c) B! 297
-- [キーボードの話](https://publish.obsidian.md/naoya/articles/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A9%B1) B! 286
-- [趣味でKaggleを始めたことをきっかけにデータサイエンティストになった話](https://qiita.com/Muji___rushi/items/7d107c9561a461118f61) B! 284
-- [Three.jsで新宿駅構内図を3Dで可視化してみる](https://qiita.com/satoshi7190/items/23d192372877af75b283) B! 279
-- [Dockerによる開発環境構築のための概念理解と方法解説](https://qiita.com/S4nTo/items/977d28b0eac316915702) B! 266
-- [プログラミングの原則：enumの比較はすべてバグ](https://tech.uzabase.com/entry/2023/12/03/100712) B! 258
-- [全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】](https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3) B! 257
-- [中途入社のソフトウェアエンジニアがWebサービス開発に参加するとき役立ったこと](https://blog.kymmt.com/entry/onboarding-2023) B! 255
-- [2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf) B! 248
-- [フロントエンドの新規開発でNext.jsの採用を見送った話](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-10) B! 236
-- [【2023年版】ブックマークすべきGitHubリポジトリまとめ](https://qiita.com/KNR109/items/b5dadd056da9b227041b) B! 236
-- [一休レストランで Next.js App Router から Remix に乗り換えた話](https://user-first.ikyu.co.jp/entry/2023/12/15/093427) B! 235
-- [【入門】事例で学ぶ要件定義](https://qiita.com/KNR109/items/8b37f7f8c051868d9a98) B! 231
-- [ ジュニアエンジニアを脱却するための「コンテナ流儀」](https://tech.uzabase.com/entry/2023/12/23/110731) B! 231
-- [思わず天を仰いでしまうID関連システムトラブル](https://kthrtty.hatenadiary.org/entry/2023/12/25/215508) B! 230
-- [Enumとてもつらい、でも負けない](https://www.m3tech.blog/entry/enum-considered-painful) B! 230
-- [格安PCのWindows がボリュームライセンスという闇](https://qiita.com/oishi-d/items/f8115f923376afed5a71) B! 226
-- [認可のベストプラクティスとDDDでの実装パターン](https://zenn.dev/loglass/articles/76e559f1a13776) B! 220
-- [「キャッシュは麻薬」という標語からの脱却](https://onk.hatenablog.jp/entry/2023/12/18/000000) B! 218
-- [敵対的プロンプト技術まとめ](https://qiita.com/fuyu_quant/items/d9a44dfe3a7315f255ee) B! 216
-- [新人プログラマ アンチパターン：原理原則多すぎて脳みそOOMエラー](https://qiita.com/_mi/items/d008267d2e181bc7ba25) B! 209
-- [ADR を1年間書いてみた感想](https://user-first.ikyu.co.jp/entry/2023/12/13/115112) B! 209
-- [カンファレンス会場の会場ルーターを落としてしまった話](https://notoken.hatenadiary.com/entry/2023/12/06/233552) B! 209
-- [社内をパスワードレスにするため頑張った話（前編）](https://qiita.com/akihiro_suto/items/1536a623638d5aaa9456) B! 199
+- [運用に携わる人全員に見てほしい！ Ops Guidesの紹介](https://qiita.com/jacopen/items/32f76d05138117e038eb) B! 315
+- [「転職した方が上がる」エンジニア給与バブルの終焉と、雑すぎる一部人材紹介会社](https://note.com/makaibito/n/n06edb5379914?sub_rt=share_pb) B! 308
+- [VScodeだけでGit操作を完結させるのだ～～ッ!!](https://zenn.dev/praha/articles/db1c4bcc4ef48c) B! 299
+- [Three.jsで新宿駅構内図を3Dで可視化してみる](https://qiita.com/satoshi7190/items/23d192372877af75b283) B! 290
+- [趣味でKaggleを始めたことをきっかけにデータサイエンティストになった話](https://qiita.com/Muji___rushi/items/7d107c9561a461118f61) B! 289
+- [キーボードの話](https://publish.obsidian.md/naoya/articles/%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AE%E8%A9%B1) B! 289
+- [Dockerによる開発環境構築のための概念理解と方法解説](https://qiita.com/S4nTo/items/977d28b0eac316915702) B! 270
+- [プログラミングの原則：enumの比較はすべてバグ](https://tech.uzabase.com/entry/2023/12/03/100712) B! 262
+- [全エンジニアが知っておくべきGithubレポジトリTop28【2023最新版】](https://qiita.com/tadashiro_ninomiya/items/e8d56c3a642eac3e17f3) B! 262
+- [中途入社のソフトウェアエンジニアがWebサービス開発に参加するとき役立ったこと](https://blog.kymmt.com/entry/onboarding-2023) B! 256
+- [2023年度版フロントエンド開発環境構築徹底解説](https://qiita.com/kjm_nuco/items/1b97cb3d9f43c5828adf) B! 251
+- [一休レストランで Next.js App Router から Remix に乗り換えた話](https://user-first.ikyu.co.jp/entry/2023/12/15/093427) B! 243
+- [ ジュニアエンジニアを脱却するための「コンテナ流儀」](https://tech.uzabase.com/entry/2023/12/23/110731) B! 242
+- [【2024年最新版】ブックマークすべきGitHubリポジトリまとめ](https://qiita.com/KNR109/items/b5dadd056da9b227041b) B! 239
+- [フロントエンドの新規開発でNext.jsの採用を見送った話](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-10) B! 238
+- [【入門】事例で学ぶ要件定義](https://qiita.com/KNR109/items/8b37f7f8c051868d9a98) B! 236
+- [思わず天を仰いでしまうID関連システムトラブル](https://kthrtty.hatenadiary.org/entry/2023/12/25/215508) B! 235
+- [Enumとてもつらい、でも負けない](https://www.m3tech.blog/entry/enum-considered-painful) B! 231
+- [格安PCのWindows がボリュームライセンスという闇](https://qiita.com/oishi-d/items/f8115f923376afed5a71) B! 225
+- [敵対的プロンプト技術まとめ](https://qiita.com/fuyu_quant/items/d9a44dfe3a7315f255ee) B! 224
+- [「キャッシュは麻薬」という標語からの脱却](https://onk.hatenablog.jp/entry/2023/12/18/000000) B! 224
+- [認可のベストプラクティスとDDDでの実装パターン](https://zenn.dev/loglass/articles/76e559f1a13776) B! 223
+- [ADR を1年間書いてみた感想](https://user-first.ikyu.co.jp/entry/2023/12/13/115112) B! 214
+- [カンファレンス会場の会場ルーターを落としてしまった話](https://notoken.hatenadiary.com/entry/2023/12/06/233552) B! 214
+- [新人プログラマ アンチパターン：原理原則多すぎて脳みそOOMエラー](https://qiita.com/_mi/items/d008267d2e181bc7ba25) B! 212
+- [社内をパスワードレスにするため頑張った話（前編）](https://qiita.com/akihiro_suto/items/1536a623638d5aaa9456) B! 205
+- [データ職種の課題図書リストを作りたい - 下町柚子黄昏記 by @yuzutas0 ](https://yuzutas0.hatenablog.com/entry/2023/12/03/235900) B! 195
+- [削除のビジネスロジックをドメイン層に閉じ込める簡単で強力な「DeletableIDパターンの紹介」](https://zenn.dev/loglass/articles/c5f57be65d4640) B! 192
 - [【2023年最新】エンジニア向けおすすめ書籍](https://qiita.com/KNR109/items/8d21acfac87146c1fc66) B! 190
-- [データ職種の課題図書リストを作りたい - 下町柚子黄昏記 by @yuzutas0 ](https://yuzutas0.hatenablog.com/entry/2023/12/03/235900) B! 190
-- [削除のビジネスロジックをドメイン層に閉じ込める簡単で強力な「DeletableIDパターンの紹介」](https://zenn.dev/loglass/articles/c5f57be65d4640) B! 189
+- [DB初心者が自作DBMS始めてみた](https://qiita.com/yamoyamoto/items/e86b5d081a42810ba920) B! 186
 - [タイミーのRailsアプリケーションについて書きます](https://tech.timee.co.jp/entry/2023/12/01/100000) B! 183
-- [DB初心者が自作DBMS始めてみた](https://qiita.com/yamoyamoto/items/e86b5d081a42810ba920) B! 181
-- [コンテナのベストプラクティスに対しておこがましくも言ってみる](https://qiita.com/umanetes/items/e0257dafb920726c4f94) B! 176
-- [全エンジニア必見！情報収集のためのリンク集](https://qiita.com/kazuki_tachikawa/items/773b4a07ae3f73f22a48) B! 176
-- [TypeScriptでどこまで「関数型プログラミング」するか ─ 「手続き Haskell」から考察する](https://user-first.ikyu.co.jp/entry/2023/12/10/134411) B! 172
-- [メール配信システムを SaaS から新規社内システムへ移行した](https://www.m3tech.blog/entry/migrating-email-delivery-system-from-saas-to-in-house) B! 170
-- [何か俺が考える最強の「麻雀点数申告練習アプリケーション」を作ってみる ~ Pythonによる麻雀点数計算問題の自動生成と音声による点数申告 ~](https://www.m3tech.blog/entry/majiang-question) B! 168
-- [Rust で SQLite を再実装した](https://kawasin73.hatenablog.com/entry/2023/12/07/081734) B! 167
-- [ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778) B! 156
+- [コンテナのベストプラクティスに対しておこがましくも言ってみる](https://qiita.com/umanetes/items/e0257dafb920726c4f94) B! 180
+- [全エンジニア必見！情報収集のためのリンク集](https://qiita.com/kazuki_tachikawa/items/773b4a07ae3f73f22a48) B! 179
+- [TypeScriptでどこまで「関数型プログラミング」するか ─ 「手続き Haskell」から考察する](https://user-first.ikyu.co.jp/entry/2023/12/10/134411) B! 177
+- [メール配信システムを SaaS から新規社内システムへ移行した](https://www.m3tech.blog/entry/migrating-email-delivery-system-from-saas-to-in-house) B! 173
+- [Rust で SQLite を再実装した](https://kawasin73.hatenablog.com/entry/2023/12/07/081734) B! 170
+- [何か俺が考える最強の「麻雀点数申告練習アプリケーション」を作ってみる ~ Pythonによる麻雀点数計算問題の自動生成と音声による点数申告 ~](https://www.m3tech.blog/entry/majiang-question) B! 169
+- [【Unity】グラフィックス周りを業務で扱うまでにやったこと](https://zenn.dev/siguma_sig/articles/4c5294d3b6ef77) B! 165
+- [Python 3.8以降の型ヒント革命：DataclassとPydanticの徹底比較](https://zenn.dev/nyanchu/articles/python_typing) B! 163
+- [ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778) B! 160
+- [一休レストラン開発チームより「一休レストランのふつうのRustバックエンド開発」](https://user-first.ikyu.co.jp/entry/2023/12/25/132215) B! 157
 - [チームで1年間コードレビューを最優先に実施したら開発生産性に良い影響を与えてくれたかも](https://zenn.dev/team_soda/articles/4faec057f57e74) B! 150
 - [俺の管理画面 2023年冬](https://techblog.kayac.com/admin-stack-2023winter) B! 148
-- [一休レストラン開発チームより「一休レストランのふつうのRustバックエンド開発」](https://user-first.ikyu.co.jp/entry/2023/12/25/132215) B! 142
-- [正規表現ミスって一晩誰もサービスにログインできなくしてしまった話](https://qiita.com/tinoji/items/0d29922e653a6c734e9f) B! 142
-- [Terraform職人のためのOpenTofu入門](https://qiita.com/minamijoyo/items/16d1b5b15a60d17e350a) B! 136
-- [いろんなウェブサービスにパスキーでログインしてみる](https://zenn.dev/kinmemodoki/articles/52c28acd4a62ba) B! 131
-- [WebAssembly の過去・現在・未来](https://qiita.com/sachaos/items/e3a613b018febb898fde) B! 130
-- [プロ驚き屋AIをチームのSlackに招待しタイムラインを荒らす](https://qiita.com/icoxfog417/items/4f596bde78380cd0950d) B! 130
-- [シェル芸の可読性を向上させるマルチライナー記法のススメ](https://qiita.com/ko1nksm/items/868269973d0d197b5584) B! 129
-- [もっと log/slog を使おう](https://zenn.dev/mattn/articles/87e74778098a26) B! 124
-- [型パズルを理解しTypeScript中級者になる8のポイント](https://creators.bengo4.com/entry/2023/12/22/000000) B! 123
-- [作りたいものは作り始める前に今すぐにデプロイしよう](https://qiita.com/squid-cat/items/e6bb159a3c2b30e3405f) B! 123
-- [年間退職率が 37.0% → 3.5% に！](https://zenn.dev/magicmoment/articles/team-growth-202312) B! 119
-- [スタートアップの熱狂と急成長を両立させる野望](https://dev.henry.jp/entry/ambition-to-combine-startup-enthusiasm-and-rapid-growth) B! 118
-- [知っていますか？Pandasをノーコーディングで高速化（CPU環境でも）できるらしい… FireDucks🔥🐦](https://qiita.com/DeepTama/items/09b5f57654aa7a8af6a7) B! 108
-- [社内版Railsアップグレードガイドを公開します](https://tech.timee.co.jp/entry/2023/12/25/000000) B! 107
-- [SQLiteでLinderaを使った日本語全文検索](https://blog.chairoi.me/entry/sqlite-fts-lindera) B! 105
-- [設計書を書かない設計で開発効率を向上させた話](https://tech-blog.tabelog.com/entry/advent-calendar-20231223) B! 105
-- [新たに学ぶ領域の技術書・専門書の知識定着力と実践力を上げる読書手法](https://qiita.com/kamesennin/items/f0dff4531523037a3a37) B! 102
-- [Suno AI の作り方（技術者の観点から）](https://yukara-ikemiya.github.io/arayuru-genjitu-blog/post/20231224/) B! 101
-- [トレーディングのための機械学習問題設定](https://qiita.com/blog_UKI/items/46d45f7a4e34033b427c) B! 100
-- [Docker が俺の Postgres を勝手に全世界に公開しやがって色々怒られた話](https://qiita.com/isso_719/items/c22e617986c821b2f624) B! 99
-- [「型システム入門」の先へ：TypeScriptの型システムのいくつかの側面](https://blog.miz-ar.info/2023/12/beyond-tapl/) B! 97
-- [「型システム入門」の先へ：TypeScriptの型システムのいくつかの側面](https://blog.miz-ar.info/2023/12/beyond-tapl/) B! 97
-- [一休レストランの XState 導入記](https://user-first.ikyu.co.jp/entry/2023/12/22/190342) B! 97
-- [機械学習初心者がKaggleの「入門」を高速で終えるための、おすすめ資料などまとめ（2023年12月版）](https://note.com/currypurin/n/na821f2ee4948) B! 90
-- [【POSIX準拠】set -o pipefailを使おう！ただしdash、テメーはダメだ](https://qiita.com/ko1nksm/items/44bef2b8487a07e7a870) B! 88
-- [Architecture Decision Record を一年運用してみた](https://qiita.com/hanhan1978/items/067abd7b28b0807e8c87) B! 88
+- [作りたいものは作り始める前に今すぐにデプロイしよう](https://qiita.com/squid-cat/items/e6bb159a3c2b30e3405f) B! 145
+- [正規表現ミスって一晩誰もサービスにログインできなくしてしまった話](https://qiita.com/tinoji/items/0d29922e653a6c734e9f) B! 141
+- [Terraform職人のためのOpenTofu入門](https://qiita.com/minamijoyo/items/16d1b5b15a60d17e350a) B! 139
+- [スタートアップの熱狂と急成長を両立させる野望](https://dev.henry.jp/entry/ambition-to-combine-startup-enthusiasm-and-rapid-growth) B! 134
+- [WebAssembly の過去・現在・未来](https://qiita.com/sachaos/items/e3a613b018febb898fde) B! 133
+- [プロ驚き屋AIをチームのSlackに招待しタイムラインを荒らす](https://qiita.com/icoxfog417/items/4f596bde78380cd0950d) B! 133
+- [いろんなウェブサービスにパスキーでログインしてみる](https://zenn.dev/kinmemodoki/articles/52c28acd4a62ba) B! 132
+- [シェル芸の可読性を向上させるマルチライナー記法のススメ](https://qiita.com/ko1nksm/items/868269973d0d197b5584) B! 132
+- [もっと log/slog を使おう](https://zenn.dev/mattn/articles/87e74778098a26) B! 131
+- [型パズルを理解しTypeScript中級者になる8のポイント](https://creators.bengo4.com/entry/2023/12/22/000000) B! 126
+- [年間退職率が 37.0% → 3.5% に！](https://zenn.dev/magicmoment/articles/team-growth-202312) B! 118
+- [Bourneシェルの終焉まで残り1年 ～ 新しいシェルへの移行は完了していますか？](https://qiita.com/ko1nksm/items/82f1b64fc656a512aca4) B! 113
+- [設計書を書かない設計で開発効率を向上させた話](https://tech-blog.tabelog.com/entry/advent-calendar-20231223) B! 113
+- [知っていますか？Pandasをノーコーディングで高速化（CPU環境でも）できるらしい… FireDucks🔥🐦](https://qiita.com/DeepTama/items/09b5f57654aa7a8af6a7) B! 112
+- [社内版Railsアップグレードガイドを公開します](https://tech.timee.co.jp/entry/2023/12/25/000000) B! 112
+- [SQLiteでLinderaを使った日本語全文検索](https://blog.chairoi.me/entry/sqlite-fts-lindera) B! 110
+- [一休レストランの XState 導入記](https://user-first.ikyu.co.jp/entry/2023/12/22/190342) B! 104
+- [新たに学ぶ領域の技術書・専門書の知識定着力と実践力を上げる読書手法](https://qiita.com/kamesennin/items/f0dff4531523037a3a37) B! 104
+- [Docker が俺の Postgres を勝手に全世界に公開しやがって色々怒られた話](https://qiita.com/isso_719/items/c22e617986c821b2f624) B! 104
+- [Suno AI の作り方（技術者の観点から）](https://yukara-ikemiya.github.io/arayuru-genjitu-blog/post/20231224/) B! 103
+- [トレーディングのための機械学習問題設定](https://qiita.com/blog_UKI/items/46d45f7a4e34033b427c) B! 101
+- [「型システム入門」の先へ：TypeScriptの型システムのいくつかの側面](https://blog.miz-ar.info/2023/12/beyond-tapl/) B! 99
+- [「型システム入門」の先へ：TypeScriptの型システムのいくつかの側面](https://blog.miz-ar.info/2023/12/beyond-tapl/) B! 99
+- [機械学習初心者がKaggleの「入門」を高速で終えるための、おすすめ資料などまとめ（2023年12月版）](https://note.com/currypurin/n/na821f2ee4948) B! 92
+- [【POSIX準拠】set -o pipefailを使おう！ただしdash、テメーはダメだ](https://qiita.com/ko1nksm/items/44bef2b8487a07e7a870) B! 90
+- [Architecture Decision Record を一年運用してみた](https://qiita.com/hanhan1978/items/067abd7b28b0807e8c87) B! 89
+- [パイプに関係するさまざまなバッファ、ちゃんと意識していますか？](https://qiita.com/ko1nksm/items/945a234cd3a88b26a687) B! 84
 - [デジタル庁のサイト、その後…](https://qiita.com/mu_tomoya/items/14cd7c7ca4c6d1af96ca) B! 83
 - [Snowflake で1万"列"データを扱う技術](https://qiita.com/hoto17296/items/6bd47424f0f40b1ef4f1) B! 82
-- [パイプに関係するさまざまなバッファ、ちゃんと意識していますか？](https://qiita.com/ko1nksm/items/945a234cd3a88b26a687) B! 81
 - [認証と署名の整理をしましょう（またかよ）](https://qiita.com/lemiyachi/items/e64de854e714843ea62e) B! 79
-- [1年前の自分が読みたかった、データエンジニアリング入門](https://qiita.com/SoySoySoyB/items/44fda40de0276a83957a) B! 78
+- [Cloud Run で作るサーバーレス アーキテクチャ 23 連発 - これのときはこう！](https://zenn.dev/google_cloud_jp/articles/cloudrun-architectures) B! 79
+- [1年前の自分が読みたかった、データエンジニアリング入門](https://qiita.com/SoySoySoyB/items/44fda40de0276a83957a) B! 79
+- [巨大企業でDX革新を起こすということ](https://zenn.dev/aeonpeople/articles/574989fab01f2f) B! 79
+- [あらゆるプログラミング言語の最先端を行くScala 3のマクロ](https://tarao.hatenablog.com/entry/scala3-multi-stage) B! 78
 - [1人目のQAエンジニアが最初の品質向上施策を決めるまで](https://tech.commmune.jp/entry/2022/04/26/110000) B! 78
 - [宿泊管理システムのフロントエンド設計と改善の変遷](https://user-first.ikyu.co.jp/entry/2023/12/14/091116) B! 78
-- [あらゆるプログラミング言語の最先端を行くScala 3のマクロ](https://tarao.hatenablog.com/entry/scala3-multi-stage) B! 77
+- [その監視、必要ですか？](https://qiita.com/ryota_hnk/items/17560fcff9ba59402493) B! 77
+- [VSCodeでプロジェクトを開くとき、ついでにいろいろやる方法](https://techblog.gmo-ap.jp/2023/12/16/vscode-tasks-json/) B! 77
 - [効果検証のための因果推論手法のチートシート](https://qiita.com/_jinta/items/98ac5bbe9ba5bfff1c8a) B! 74
-- [VSCodeでプロジェクトを開くとき、ついでにいろいろやる方法](https://techblog.gmo-ap.jp/2023/12/16/vscode-tasks-json/) B! 74
-- [Cloud Run で作るサーバーレス アーキテクチャ 23 連発 - これのときはこう！](https://zenn.dev/google_cloud_jp/articles/cloudrun-architectures) B! 73
-- [その監視、必要ですか？](https://qiita.com/ryota_hnk/items/17560fcff9ba59402493) B! 73
-- [Honoで見直すMPAの開発者体験](https://zenn.dev/adwd/articles/5dbf31790ded71) B! 72
-- [巨大企業でDX革新を起こすということ](https://zenn.dev/aeonpeople/articles/574989fab01f2f) B! 70
+- [Honoで見直すMPAの開発者体験](https://zenn.dev/adwd/articles/5dbf31790ded71) B! 73
+- [3年間Stripe Connectを運用した経験を共有します](https://www.m3tech.blog/entry/2023/12/22/080000) B! 72
 - [TypeScriptにおけるDDDのドメインオブジェクトの課題と対策](https://zenn.dev/commmune/articles/874a7bfc342702) B! 70
+- [CDN業者にやられた話](https://qiita.com/tosiooooooo/items/fed737383d3a3d5cf0e3) B! 70
 - [C言語でWASM Runtimeを実装した話を書きます。](https://zenn.dev/ri5255/articles/845ef3dab5ab47) B! 69
-- [フロントエンドのキャッチアップ大変だよねという話 2023](https://zenn.dev/genda_jp/articles/d48f1e956b112f) B! 68
-- [3年間Stripe Connectを運用した経験を共有します](https://www.m3tech.blog/entry/2023/12/22/080000) B! 68
-- [Storybook 腐らせない](https://zenn.dev/yumemi_inc/articles/do-not-let-the-storybook-rot) B! 65
+- [フロントエンドのキャッチアップ大変だよねという話 2023](https://zenn.dev/genda_jp/articles/d48f1e956b112f) B! 69
+- [プログラミング言語Rustになぜ注目するのか](https://qiita.com/comware_takatsuru/items/9607df56a5803f68588e) B! 66
+- [Storybook 腐らせない](https://zenn.dev/yumemi_inc/articles/do-not-let-the-storybook-rot) B! 66
+- [開発スピードを早めるDeveloperToolでのデバッグ](https://tech.iimon.co.jp/entry/2023/12/21/120411) B! 65
 - [Amazon Connect + GPT-4 Turboで、発話の「時刻と日付」の言い回しをどこまで認識してくれるか調査[電話予約の無人化] ](https://dev.classmethod.jp/articles/connect-chatgpt-phrasing-time-day/) B! 64
-- [開発スピードを早めるDeveloperToolでのデバッグ](https://tech.iimon.co.jp/entry/2023/12/21/120411) B! 64
 - [スマートフォンアプリのA/Bテスト実装例](https://www.m3tech.blog/entry/smartphone-app-ab-testing) B! 64
-- [プログラミング言語Rustになぜ注目するのか](https://qiita.com/comware_takatsuru/items/9607df56a5803f68588e) B! 64
-- [LangChain の新記法「LangChain Expression Language (LCEL)」入門](https://zenn.dev/os1ma/articles/acd3472c3a6755) B! 61
-- [個人開発の SwiftUI アプリのアーキテクチャを MVVM から MV にした](https://maiyama4.hatenablog.com/entry/2023/12/27/142625) B! 61
-- [MySQLで全文検索機能を使う際のパフォーマンスについて調査してみた](https://tech.iimon.co.jp/entry/2023/12/01/113000) B! 60
-- [年末だしRedashのクエリ棚卸しでもしましょう (調査用サンプルクエリ付き) ](https://www.m3tech.blog/entry/2023/12/09/110000) B! 60
-- [【日本人エンジニア必見】英語圏の優良学習コンテンツまとめ](https://qiita.com/phen/items/94bd9e5d5dfd665ad044) B! 59
-- [良いシェルスクリプトのためのkillとtrapの基本 ～ シグナル番号は使わない、シグナル名を使う](https://qiita.com/ko1nksm/items/7187dfd03ee8307e58af) B! 58
-- [プロダクト開発はなぜ直観に反するのか](https://creators.bengo4.com/entry/2023/12/25/000000) B! 58
-- [WordPressの小ネタ集](https://qiita.com/AkiHamano/items/a37af0113e384fff0be6) B! 56
-- [else ifが複数回出てきたら考えること](https://zenn.dev/aldagram_tech/articles/8df77a8edb519c) B! 56
-- [フィーチャフラグを扱うときのささやかなTIPS](https://blog.nishimu.land/entry/2023/12/19/000000) B! 56
+- [良いシェルスクリプトのためのkillとtrapの基本 ～ シグナル番号は使わない、シグナル名を使う](https://qiita.com/ko1nksm/items/7187dfd03ee8307e58af) B! 62
+- [LangChain の新記法「LangChain Expression Language (LCEL)」入門](https://zenn.dev/os1ma/articles/acd3472c3a6755) B! 62
+- [個人開発の SwiftUI アプリのアーキテクチャを MVVM から MV にした](https://maiyama4.hatenablog.com/entry/2023/12/27/142625) B! 62
+- [MySQLで全文検索機能を使う際のパフォーマンスについて調査してみた](https://tech.iimon.co.jp/entry/2023/12/01/113000) B! 62
+- [年末だしRedashのクエリ棚卸しでもしましょう (調査用サンプルクエリ付き) ](https://www.m3tech.blog/entry/2023/12/09/110000) B! 62
+- [【日本人エンジニア必見】英語圏の優良学習コンテンツまとめ](https://qiita.com/phen/items/94bd9e5d5dfd665ad044) B! 60
+- [シェルとUNIXコマンドの未来 ～ これからの10年で起きるシェルスクリプトの変化](https://qiita.com/ko1nksm/items/4907c1c88d478cac0be5) B! 59
+- [プロダクト開発はなぜ直観に反するのか](https://creators.bengo4.com/entry/2023/12/25/000000) B! 59
+- [WordPressの小ネタ集](https://qiita.com/AkiHamano/items/a37af0113e384fff0be6) B! 58
+- [else ifが複数回出てきたら考えること](https://zenn.dev/aldagram_tech/articles/8df77a8edb519c) B! 58
+- [MetaQuest3をモニターとして使ってみた記事](https://tech.andpad.co.jp/entry/2023/12/03/100000) B! 58
+- [フィーチャフラグを扱うときのささやかなTIPS](https://blog.nishimu.land/entry/2023/12/19/000000) B! 57
+- [業務で説明に失敗したUIに対するモヤモヤをどう言語化すべきだったのか反省会](https://qiita.com/SAKUA/items/775b1c1c2cac64f0e9ef) B! 57
+- [「DDDもスクラムも当たり前」な開発者組織に入って気付かされたDDDの価値を出すための条件](https://note.com/go_nambu/n/n9b15c88dcf10) B! 55
+- [マイクロサービスとメッセージングのなぜ [希望編]](https://rheb.hatenablog.com/entry/microservices_messaging_3) B! 55
 - [WasmGCについて予習する](https://zenn.dev/askua/articles/afe3a3b43b82cb) B! 54
 - [エンジニアを目指す学生の励まし方](https://studio-graph.hateblo.jp/entry/2023/12/10/233128) B! 54
-- [「DDDもスクラムも当たり前」な開発者組織に入って気付かされたDDDの価値を出すための条件](https://note.com/go_nambu/n/n9b15c88dcf10) B! 54
-- [マイクロサービスとメッセージングのなぜ [希望編]](https://rheb.hatenablog.com/entry/microservices_messaging_3) B! 54
-- [E2E自動テストの布教に立ち塞がる5つの壁と打ち込んだ楔](https://zenn.dev/magicmoment/articles/e2e-test-20231219) B! 53
-- [RustによるマクロサービスフレームワークSpin入門](https://zenn.dev/chikoski/articles/advent-of-spin-2023) B! 52
-- [MetaQuest3をモニターとして使ってみた記事](https://tech.andpad.co.jp/entry/2023/12/03/100000) B! 52
-- [ISUCON13で行われたDNS水責め攻撃について](https://kazeburo.hatenablog.com/entry/2023/12/02/235258) B! 52
-- [ブログ校正の作法：textlintで強化するテクニカルライティング](https://qiita.com/yug1224/items/4230dcf9fc557d721f1f) B! 51
-- [HTBの新作配信でCloudflareのキャッシュの挙動を壮絶に調査した件](https://zenn.dev/kameoncloud/articles/9f4a1230219725) B! 51
-- [開発プロジェクトはギャルマインドで乗り切ろ🤟💫](https://qiita.com/ichiharaaaa/items/7543838f71dd3f3fa0f4) B! 50
-- [ギークでスマートな人達が活躍する組織を支える3つのポイント](https://www.m3tech.blog/entry/hit-geek-and-smart) B! 50
-- [最近（？）dockerイメージがお引越ししたはなし](https://yoku0825.blogspot.com/2023/12/mysqldockercontainer-registryoraclecom.html) B! 49
-- [Vim で SQL を素で編集してるの？](https://zenn.dev/mattn/articles/8716db121781d2) B! 49
-- [2023年版！エンジニア必見のチートシート集](https://qiita.com/hryk_nu/items/d2bd69201778abecedd4) B! 49
-- [Amazon Bedrock「Claude2.1」の最大20万トークンで何が変わるか確認してみた](https://acro-engineer.hatenablog.com/entry/2023/12/13/120000) B! 48
-- [Amazon Bedrock「Claude2.1」の最大20万トークンで何が変わるか確認してみた](https://acro-engineer.hatenablog.com/entry/2023/12/13/120000) B! 48
+- [2023年版！エンジニア必見のチートシート集](https://qiita.com/hryk_nu/items/d2bd69201778abecedd4) B! 54
+- [ISUCON13で行われたDNS水責め攻撃について](https://kazeburo.hatenablog.com/entry/2023/12/02/235258) B! 54
+- [未定非 Aurora な RDS から Aurora へ移行する時に考えること全部盛り](https://ishiiiiii.hatenablog.com/entry/2023/12/23/174739) B! 53
+- [RustによるマクロサービスフレームワークSpin入門](https://zenn.dev/chikoski/articles/advent-of-spin-2023) B! 53
+- [HTBの新作配信でCloudflareのキャッシュの挙動を壮絶に調査した件](https://zenn.dev/kameoncloud/articles/9f4a1230219725) B! 53
+- [ギークでスマートな人達が活躍する組織を支える3つのポイント](https://www.m3tech.blog/entry/hit-geek-and-smart) B! 53
+- [ブログ校正の作法：textlintで強化するテクニカルライティング](https://qiita.com/yug1224/items/4230dcf9fc557d721f1f) B! 52
+- [E2E自動テストの布教に立ち塞がる5つの壁と打ち込んだ楔](https://zenn.dev/magicmoment/articles/e2e-test-20231219) B! 52
+- [CTOのいない会社にEMとして入社するあなたに　](https://zenn.dev/saka0ken/articles/abb6328931aaff) B! 52
+- [DBeaverでやらかした話](https://qiita.com/tosiooooooo/items/46b2ae7c0687dc061775) B! 52
+- [Vim で SQL を素で編集してるの？](https://zenn.dev/mattn/articles/8716db121781d2) B! 51
+- [開発プロジェクトはギャルマインドで乗り切ろ🤟💫](https://qiita.com/ichiharaaaa/items/7543838f71dd3f3fa0f4) B! 51
+- [最近（？）dockerイメージがお引越ししたはなし](https://yoku0825.blogspot.com/2023/12/mysqldockercontainer-registryoraclecom.html) B! 50
+- [突然、Google Play Console デベロッパーアカウントが停止され、アプリが全て削除された話](https://qiita.com/hukusuke1007/items/1e5352a9bfdd08be3ab1) B! 50
+- [Honoの今の状況](https://yusukebe.com/posts/2023/current-status-of-hono/) B! 49
+- [Cloud Runで開発用環境を沢山作る](https://user-first.ikyu.co.jp/entry/2023/12/16/112705) B! 49
+- [4年分の負債を解消するために React ディレクトリ構成について真剣に考えてみた](https://qiita.com/uminoooon18/items/0ba109feddedf6a3539b) B! 48
 - [宣言的UIの構築をシンプルなプロセスで理解する](https://zenn.dev/htr_art/articles/e94c24ba483590) B! 48
-- [Cloud Runで開発用環境を沢山作る](https://user-first.ikyu.co.jp/entry/2023/12/16/112705) B! 48
-- [【解決済み】突然、Google Play Console デベロッパーアカウントが停止され、アプリが全て削除された話](https://qiita.com/hukusuke1007/items/1e5352a9bfdd08be3ab1) B! 48
-- [Honoの今の状況](https://yusukebe.com/posts/2023/current-status-of-hono/) B! 47
+- [シフトレフトがなぜ効果的なのか「抽象度」から考える](https://zenn.dev/loglass/articles/b8b8b5688e91a2) B! 48
+- [テックブログを GitHub で管理できるようにしました ](https://tech.smarthr.jp/entry/2023/12/04/174144) B! 48
 - [SCSSからCSSネスティングに切り替えたい人に贈る3つの罠](https://qiita.com/amiami/items/54c4fa66edbbbeaa2b08) B! 47
-- [4年分の負債を解消するために React ディレクトリ構成について真剣に考えてみた](https://qiita.com/uminoooon18/items/0ba109feddedf6a3539b) B! 47
+- [IaC、あるいはインフラ抽象化レイヤー導入時に考えたらいいんじゃないかと思うことを雑多に書く](https://dasalog.hatenablog.jp/entry/2023/12/04/100026) B! 47
+- [Amazon Bedrock「Claude2.1」の最大20万トークンで何が変わるか確認してみた](https://acro-engineer.hatenablog.com/entry/2023/12/13/120000) B! 47
+- [Amazon Bedrock「Claude2.1」の最大20万トークンで何が変わるか確認してみた](https://acro-engineer.hatenablog.com/entry/2023/12/13/120000) B! 47
+- [「頭がいい人」で終わらせない思考様式の種類の話](https://site.hacklife.net/articles/think-about-intelligence/) B! 47
 - [リクルートの社内ICTを大公開します！](https://zenn.dev/yueda256/articles/50098ee9f63f42) B! 47
-- [テックブログを GitHub で管理できるようにしました ](https://tech.smarthr.jp/entry/2023/12/04/174144) B! 47
 - [Amazon Connect + GPT-4 Turboで、予約内容を復唱後、顧客の色々な返答を正しくヒアリングできるか検証](https://dev.classmethod.jp/articles/amazon-connect-gpt-confirm/) B! 46
 - [Q&A + RAG に特化したLLMをSFTで学習させ4bit量子化モデルを作り、GPT3.5以上の性能を7Bモデルで達成する](https://secon.dev/entry/2023/12/15/080000-qa-rag-llm-sft/) B! 46
-- [シフトレフトがなぜ効果的なのか「抽象度」から考える](https://zenn.dev/loglass/articles/b8b8b5688e91a2) B! 46
+- [プログラマのフルリモートワークにダジャレが向いている理由とその功罪](https://blog.kengo-toda.jp/entry/wordplay-is-the-ultimate-solution) B! 46
 - [VPC Flow LogsをAthena + QuickSightで 分析してデータ転送料金の内訳を調査する 〜 実践的なコスト最適化の洞察 〜](https://tech.uzabase.com/entry/2023/12/01/222609) B! 46
-- [CTOのいない会社にEMとして入社するあなたに　](https://zenn.dev/saka0ken/articles/abb6328931aaff) B! 46
 - [JavaScriptの非同期処理について](https://qiita.com/Carol_fan/items/c6d26d18d0de36db6976) B! 46
+- [SOCから始めるマルウェア解析](https://qiita.com/schectman-hell/items/c8f41750f6037a5aae78) B! 46
 - [ロードバランサ配下のサーバを全部切り離してサービス停止させてしまった話](https://qiita.com/yuki_ink/items/06db1383c18c334aacb0) B! 46
 - [2023年のコンパイル時レイトレーシング](https://in-neuro.hatenablog.com/entry/2023/12/16/233332) B! 45
 - [初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714) B! 45
-- [SOCから始めるマルウェア解析](https://qiita.com/schectman-hell/items/c8f41750f6037a5aae78) B! 45
-- [IaC、あるいはインフラ抽象化レイヤー導入時に考えたらいいんじゃないかと思うことを雑多に書く](https://dasalog.hatenablog.jp/entry/2023/12/04/100026) B! 44
-- [プログラマのフルリモートワークにダジャレが向いている理由とその功罪](https://blog.kengo-toda.jp/entry/wordplay-is-the-ultimate-solution) B! 44
+- [Next.jsプロジェクトに追加したい設定11個](https://qiita.com/tksst/items/bf62d50b25af69505e8e) B! 45
+- [医療のマスターDBを爆速で検索するWebサービスを爆速で作った](https://zenn.dev/kohii/articles/13fbf3d0dc2170) B! 44
 - [SRE を立ち上げた4ヶ月後の世界](https://zenn.dev/magicmoment/articles/the-world-4-months-after-launching-sre-202312) B! 44
-- [Next.jsプロジェクトに追加したい設定11個](https://qiita.com/tksst/items/bf62d50b25af69505e8e) B! 44
 - [Railsの設定をアップグレードしていく技術 ](https://blog.willnet.in/entry/2023/12/21/164630) B! 44
+- [テックイベントの開催で食べ物、飲み物、音楽、道案内にこだわってみたよ🌞](https://tech.techtouch.jp/entry/commit-to-food-drink-music-and-directions-in-event) B! 44
+- [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81) B! 43
+- [TypeScriptのジェネリクス型を使って型に柔軟性を持たせる](https://tech.iimon.co.jp/entry/2023/12/13/144713) B! 43
 - [Rails+PostgreSQL+Apartmentでたった1行の変更がレスポンスタイムを3倍速にした話](https://techblog.kayac.com/coin-speedup-x3) B! 43
 - [GoエンジニアがReactにチャレンジして驚いた5つのこと](https://zenn.dev/magicmoment/articles/what-go-engineer-found-surprising) B! 43
-- [テックイベントの開催で食べ物、飲み物、音楽、道案内にこだわってみたよ🌞](https://tech.techtouch.jp/entry/commit-to-food-drink-music-and-directions-in-event) B! 43
-- [医療のマスターDBを爆速で検索するWebサービスを爆速で作った](https://zenn.dev/kohii/articles/13fbf3d0dc2170) B! 42
-- [TypeScriptのジェネリクス型を使って型に柔軟性を持たせる](https://tech.iimon.co.jp/entry/2023/12/13/144713) B! 42
+- [認知負荷の種類と対策と組織文化について](https://sugamasao.hatenablog.com/entry/2023/12/03/160411) B! 43
+- [AtCoder ガチ言語 Haskell 🔥](https://zenn.dev/toyboot4e/books/seriously-haskell) B! 42
+- [イオンネクスト CTO を募集します](https://qiita.com/taruishi-ma/items/0ecd504aec2f35da569b) B! 42
+- [Solr クエリを速度改善したら Solr 全体のパフォーマンスが向上した](https://user-first.ikyu.co.jp/entry/2023/12/06/173215) B! 42
+- [社内発OSSのドッグフーディングでみんな捗る！](https://techblog.kayac.com/oss-dogfooding) B! 42
 - [ノーコード開発なのに盛大にやらかした](https://qiita.com/takahiko/items/3d5abdd9ec4cb6a77e5e) B! 42
 - [大学の C++ 講義で使っているオンラインコンパイラ](https://zenn.dev/reputeless/articles/cpp-online-compiler) B! 41
-- [イオンネクスト CTO を募集します](https://qiita.com/taruishi-ma/items/0ecd504aec2f35da569b) B! 41
-- [「頭がいい人」で終わらせない思考様式の種類の話](https://site.hacklife.net/articles/think-about-intelligence/) B! 41
-- [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81) B! 41
-- [Solr クエリを速度改善したら Solr 全体のパフォーマンスが向上した](https://user-first.ikyu.co.jp/entry/2023/12/06/173215) B! 41
-- [社内発OSSのドッグフーディングでみんな捗る！](https://techblog.kayac.com/oss-dogfooding) B! 41
-- [認知負荷の種類と対策と組織文化について](https://sugamasao.hatenablog.com/entry/2023/12/03/160411) B! 41
 - [ESLint の Suggestions から学ぶ、コードの自動修正の奥深さ](https://www.mizdra.net/entry/2023/12/04/093000) B! 40
 - [インクジェットプリンターの目詰まりとの戦い](https://techblog.kayac.com/inkjet-printer) B! 40
 - [エクセル読み込みをPOIからFastExcelに置き換えてパフォーマンスを改善する](https://zenn.dev/loglass/articles/03dfda8e1fe86d) B! 40
+- [GPT-4 Turboにドキュメントのチャンク分けを任せてみる](https://tech.explaza.jp/entry/2023/12/04/162659) B! 39
+- [共有会をより効果的にするために考えたあれやこれ](https://www.m3tech.blog/entry/2023/12/08/110000) B! 39
 - [ファイルサーバーを業務中に再起動しちゃったので経緯と原因と対策を共有します](https://qiita.com/waitonly/items/3c5f89fe35a1e30948c1) B! 39
-- [GPT-4 Turboにドキュメントのチャンク分けを任せてみる](https://tech.explaza.jp/entry/2023/12/04/162659) B! 38
-- [スクラム開発未経験からスクラムマスターになってみた](https://creators.bengo4.com/entry/2023/12/14/000000) B! 38
-- [不用意にサーバーでアプリを起動してハングアップさせてしまった話](https://qiita.com/danishi/items/6510668800de35df0e23) B! 38
-- [APIって何？例を交えてわかりやすく解説](https://techblog.gmo-ap.jp/2023/12/14/api_description/) B! 37
+- [不用意にサーバーでアプリを起動してハングアップさせてしまった話](https://qiita.com/danishi/items/6510668800de35df0e23) B! 39
+- [APIって何？例を交えてわかりやすく解説](https://techblog.gmo-ap.jp/2023/12/14/api_description/) B! 38
+- [ データ品質の5つの分類と品質管理プロセス ](https://techblog.kazaneya.com/20231218-dataquality/) B! 38
+- [スクラム開発未経験からスクラムマスターになってみた](https://creators.bengo4.com/entry/2023/12/14/000000) B! 37
+- [CSSのmarginをあまり書かなくなった話](https://zenn.dev/highgrenade/articles/b033c39ab13699) B! 37
 - [OpenAI Embeddings APIとベクトル検索エンジンValdを使って類似文章検索をしてみよう](https://techblog.lycorp.co.jp/ja/20231202a) B! 37
-- [共有会をより効果的にするために考えたあれやこれ](https://www.m3tech.blog/entry/2023/12/08/110000) B! 37
-- [ データ品質の5つの分類と品質管理プロセス ](https://techblog.kazaneya.com/20231218-dataquality/) B! 37
+- [プロジェクトリーダーってなんだ](https://note.com/yoshifujit/n/n3f26cced155d) B! 37
+- [OpenTelemetry SDK for Go Deep Dive](https://zenn.dev/hkdord/articles/opentelemetry-sdk-deep-dive) B! 36
 - [Rustで学ぶWIT入門](https://zenn.dev/chikoski/articles/webassembly-interface-type-101) B! 36
-- [CSSのmarginをあまり書かなくなった話](https://zenn.dev/highgrenade/articles/b033c39ab13699) B! 36
-- [プロジェクトリーダーってなんだ](https://note.com/yoshifujit/n/n3f26cced155d) B! 36
-- [OpenTelemetry SDK for Go Deep Dive](https://zenn.dev/hkdord/articles/opentelemetry-sdk-deep-dive) B! 35
-- [OpenTelemetry SDK for Go Deep Dive](https://zenn.dev/hkdord/articles/opentelemetry-sdk-deep-dive) B! 35
+- [OpenTelemetry SDK for Go Deep Dive](https://zenn.dev/hkdord/articles/opentelemetry-sdk-deep-dive) B! 36
 - [フロントエンドのLinterやCIを改善した話](https://zenn.dev/hush_in/articles/2083213554328f) B! 35
+- [Dr.WernerのKeynoteは全てのSREに聞いてほしい話だった](https://qiita.com/shotaTsuge/items/793601fe7cc64ab7feeb) B! 35
+- [データサイエンスにおける本質を理解することの重要性と難しさ](https://qiita.com/gorira_tatsu/items/a52db781e8baf8b2e9a3) B! 35
 - [「Webデザイナー」、おぼえていますか](https://techblog.jmdc.co.jp/entry/20231220) B! 35
+- [Webアーキテクチャで迷わないためのイリティ（-ility）のすゝめ](https://qiita.com/becyn/items/b7dfe8765b0acf735134) B! 35
+- [やりたいことをするための環境を探そう](https://qiita.com/newta/items/443bba984e09e79652e2) B! 35
 - [スライド作成で画像を探し回るのが面倒なので生成AIで解消してみた【テンプレ公開】](https://qiita.com/Tyamamoto1007/items/791161f8bde1bd8545ad) B! 34
 - [C++erですがCOMに翻弄されています: 再入との戦い](https://qiita.com/yumetodo/items/f961bc96594b9b5619c2) B! 34
+- [カジュアルに使えるスタブサーバとしてhttpstubとgrpcstubを作って使っている](https://k1low.hatenablog.com/entry/2023/12/12/083000) B! 34
 - [OpenTelemetry 分散トレーシングのシステムアーキテクチャ](https://zenn.dev/sumiren/articles/7a935f14ed7265) B! 34
-- [Dr.WernerのKeynoteは全てのSREに聞いてほしい話だった](https://qiita.com/shotaTsuge/items/793601fe7cc64ab7feeb) B! 34
+- [GitHub CodespacesによってVS Codeの開発環境を共通化する](https://zenn.dev/yuhei_fujita/articles/github-codespaces-introduction) B! 34
+- [ESLintのローカルルールで独自のコーディング規約を実装する](https://blog.nnn.dev/entry/2023/12/22/234500) B! 34
+- [機械学習モデルのA/BテストをしやすくするGo言語のAPI設計](https://www.m3tech.blog/entry/2023/12/11/170000) B! 34
 - [ノーコードツールの高度な処理をコードで実装！iOS・macOSのショートカットアプリで手軽に定形プロンプト](https://www.m3tech.blog/entry/2023/12/23/000000) B! 34
 - [Cloudflare のIPアドレスってどうなってる？](https://qiita.com/appare45/items/e78bb5b5625473638cad) B! 34
+- [グルーとしてのEM](https://note.com/dora_e_m/n/nd2a49456cb98) B! 34
 - [async/awaitは今後もベストフレンドであり続けるか](https://scrapbox.io/hadashiA/async%2Fawait%E3%81%AF%E4%BB%8A%E5%BE%8C%E3%82%82%E3%83%99%E3%82%B9%E3%83%88%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A7%E3%81%82%E3%82%8A%E7%B6%9A%E3%81%91%E3%82%8B%E3%81%8B) B! 33
-- [カジュアルに使えるスタブサーバとしてhttpstubとgrpcstubを作って使っている](https://k1low.hatenablog.com/entry/2023/12/12/083000) B! 33
-- [GitHub CodespacesによってVS Codeの開発環境を共通化する](https://zenn.dev/yuhei_fujita/articles/github-codespaces-introduction) B! 33
-- [データサイエンスにおける本質を理解することの重要性と難しさ](https://qiita.com/gorira_tatsu/items/a52db781e8baf8b2e9a3) B! 33
-- [ESLintのローカルルールで独自のコーディング規約を実装する](https://blog.nnn.dev/entry/2023/12/22/234500) B! 33
+- [Goを改善するためのGo Telemetry](https://zenn.dev/ymotongpoo/articles/20231222-gotelemetry) B! 33
+- [VSCode上でCodeWhispererとCopilotを両方使うと、捗る (AIが脆弱性診断→AIが解説)](https://zenn.dev/ncdc/articles/429bbe6779ccf2) B! 33
+- [あなたの知らない(かもしれない)文字コードの世界 TypeScript版😊👍🏿パ👨‍👩‍👦🇦🇿🏴󠁧󠁢󠁥󠁮󠁧󠁿](https://zenn.dev/aldagram_tech/articles/79d35b2779e326) B! 33
+- [🥇Golden Testを導入してUI開発の不安を解消する](https://zenn.dev/arsaga/articles/f88b46aad05dba) B! 33
 - [【Git】新規ローカルブランチ作成時に自動でFirst Commitを行う for Four Keys](https://techblog.gmo-ap.jp/2023/12/05/git-new-local-branch-first-commit-four-keys/) B! 33
-- [機械学習モデルのA/BテストをしやすくするGo言語のAPI設計](https://www.m3tech.blog/entry/2023/12/11/170000) B! 33
-- [やりたいことをするための環境を探そう](https://qiita.com/newta/items/443bba984e09e79652e2) B! 33
-- [グルーとしてのEM](https://note.com/dora_e_m/n/nd2a49456cb98) B! 33
-- [VSCode上でCodeWhispererとCopilotを両方使うと、捗る (AIが脆弱性診断→AIが解説)](https://zenn.dev/ncdc/articles/429bbe6779ccf2) B! 32
+- [VSCode GitHub Copilotでいい感じのクエリを作ってもらおう](https://zenn.dev/layerx/articles/2023-12-19-vscode-copilot-query) B! 32
+- [専任スクラムマスターを置くまでの思考過程と置いてどうなったか？](https://zenn.dev/loglass/articles/95f367d2a6ced7) B! 32
 - [Scala 3のマクロTips 100連発](https://tarao.hatenablog.com/entry/2023/12/12/113647) B! 31
-- [VSCode GitHub Copilotでいい感じのクエリを作ってもらおう](https://zenn.dev/layerx/articles/2023-12-19-vscode-copilot-query) B! 31
-- [あなたの知らない(かもしれない)文字コードの世界 TypeScript版😊👍🏿パ👨‍👩‍👦🇦🇿🏴󠁧󠁢󠁥󠁮󠁧󠁿](https://zenn.dev/aldagram_tech/articles/79d35b2779e326) B! 31
+- [私が使う最小設定（2023年）](https://qiita.com/takaxp/items/fbc3e50dd2907b48cafa) B! 31
 - [Ruby フルタイムコミッタの仕事報告 2023年Q4](https://tech.andpad.co.jp/entry/2023/12/20/100000) B! 31
 - [フロントエンドのディレクトリ構成を整理してコードの凝集度を高める](https://zenn.dev/atamaplus/articles/frontend-package-by-feature) B! 31
-- [専任スクラムマスターを置くまでの思考過程と置いてどうなったか？](https://zenn.dev/loglass/articles/95f367d2a6ced7) B! 31
-- [Goを改善するためのGo Telemetry](https://zenn.dev/ymotongpoo/articles/20231222-gotelemetry) B! 30
+- [GitHubの無料プランのプライベートリポジトリでActions Manual Approvalをゴリ押し実装する方法](https://techblog.kayac.com/actions-manual-approval-without-environments) B! 31
 - [文字ときどきRuby](https://blog.tmtms.net/entry/202312-moji-ruby) B! 30
+- [LLM開発のためのデータエンジニアリング](https://qiita.com/cvusk/items/2873aa386936cdb518e0) B! 30
 - [Houdiniを使って衣装の位置合わせを自動化したい](https://aquatic-hideout.hatenablog.com/entry/2023/12/24/074631) B! 30
 - [ ショートカット.app で遊ぶ](https://onishi.hatenablog.com/entry/2023/12/20/122021) B! 30
-- [GitHubの無料プランのプライベートリポジトリでActions Manual Approvalをゴリ押し実装する方法](https://techblog.kayac.com/actions-manual-approval-without-environments) B! 30
+- [「JS体操」のすゝめ 〜その①〜](https://techblog.kayac.com/shall-we-js-taiso-vol1) B! 30
+- [データ品質をコード化！AIプラットフォームのデータ品質管理システム](https://techblog.lycorp.co.jp/ja/20231225a) B! 30
 - [文字ときどきRuby](https://blog.tmtms.net/entry/202312-moji-ruby) B! 30
 - [一体いつから開発サーバーを触っていると錯覚していた？　※12/19追記](https://qiita.com/mahanma/items/3f64b837f27eac64eb71) B! 30
-- [「JS体操」のすゝめ 〜その①〜](https://techblog.kayac.com/shall-we-js-taiso-vol1) B! 29
+- [開発現場の貢献実感のためにできること（代表の稲田によるテックブログでした！）](https://tech.andpad.co.jp/entry/2023/12/25/164429) B! 29
+- [バックエンドエンジニアがフロントエンドを触ってみた話](https://blog.nnn.dev/entry/2023/12/13/110000) B! 29
+- [意外と知られていない、Linuxのメモリホットプラグのインタフェースについて](https://qiita.com/YasunoriGoto1/items/657fd0dcd6887881f9a9) B! 29
+- [【エンジニア向け】生産性を上げるチートシートまとめ](https://qiita.com/KNR109/items/0b59c841a7efa567f952) B! 29
 - [転職活動で色んな媒体を試してみた](https://bayashimura.hateblo.jp/entry/2023/12/15/183025) B! 29
 - [Elasticsearchのベクトル検索速度を調べてみた](https://acro-engineer.hatenablog.com/entry/2023/12/18/191315) B! 28
-- [開発現場の貢献実感のためにできること（代表の稲田によるテックブログでした！）](https://tech.andpad.co.jp/entry/2023/12/25/164429) B! 28
-- [🥇Golden Testを導入してUI開発の不安を解消する](https://zenn.dev/arsaga/articles/f88b46aad05dba) B! 28
-- [バックエンドエンジニアがフロントエンドを触ってみた話](https://blog.nnn.dev/entry/2023/12/13/110000) B! 28
+- [立ち上げ期にこそ取り入れる！ 組織を強固にする「全員SRE」という文化](https://tech.uzabase.com/entry/culture-that-every-engineers-are-sre) B! 28
 - [本番環境でやらかしちゃった人 Advent Calendar 2019〜2022 総合ランキング](https://qiita.com/yonex/items/2252260381bb3d4e5d77) B! 28
+- [生成AI と wikipedia記事 で 子供向けお仕事提案bot を作ってみよう(Azure OpenAI + RAG)](https://nttdocomo-developers.jp/entry/20231221_1) B! 28
 - [PostgreSQLを支える日本のコミュニティの紹介](https://soudai.hatenablog.com/entry/2023/12/05/002001) B! 27
-- [GKEでMLバッチ運用のコツ](https://www.m3tech.blog/entry/ai-gke-ml-batch) B! 27
-- [LLM開発のためのデータエンジニアリング](https://qiita.com/cvusk/items/2873aa386936cdb518e0) B! 27
-- [意外と知られていない、Linuxのメモリホットプラグのインタフェースについて](https://qiita.com/YasunoriGoto1/items/657fd0dcd6887881f9a9) B! 27
-- [GKEでMLバッチ運用のコツ](https://www.m3tech.blog/entry/ai-gke-ml-batch) B! 27
-- [生成AI と wikipedia記事 で 子供向けお仕事提案bot を作ってみよう(Azure OpenAI + RAG)](https://nttdocomo-developers.jp/entry/20231221_1) B! 27
-- [データモデリングにおける適切な関連の作り方](https://qiita.com/nakaken0629/items/02633743068f217a0429) B! 26
-- [AI搭載ターミナルwarpを使おう](https://techblog.gmo-ap.jp/2023/12/19/warp/) B! 26
-- [【エンジニア向け】生産性を上げるチートシートまとめ](https://qiita.com/KNR109/items/0b59c841a7efa567f952) B! 26
-- [「組織改善スクラム」に取り組んでいます！](https://techblog.jmdc.co.jp/entry/20231209) B! 26
-- [巨大なテーブルコンポーネントを仮想スクロール化してブラウザのメモリ使用量を1/10にした話](https://zenn.dev/loglass/articles/loglass-report-virtual-scroll) B! 26
-- [世にも奇妙なQUERY関数](https://www.m3tech.blog/entry/bizarre_gss_query) B! 26
-- [弊社で使っているAzureリソースのスルメ系命名規則を紹介します](https://zenn.dev/aeonpeople/articles/0b4a4be83d0dfd) B! 25
-- [弊社で使っているAzureリソースのスルメ系命名規則を紹介します](https://zenn.dev/aeonpeople/articles/0b4a4be83d0dfd) B! 25
-- [事例から学ぶクラウドへのOpenTelemetry導入のハマりどころ](https://dev.henry.jp/entry/cloud-native-opentelemetry) B! 25
-- [レトロスペクティブ「WWW」について記事を書きます！](https://techblog.jmdc.co.jp/entry/20231207) B! 25
-- [3年近く運営している社内勉強会の話をします！](https://techblog.jmdc.co.jp/entry/20231212) B! 25
+- [データモデリングにおける適切な関連の作り方](https://qiita.com/nakaken0629/items/02633743068f217a0429) B! 27
+- [AI搭載ターミナルwarpを使おう](https://techblog.gmo-ap.jp/2023/12/19/warp/) B! 27
+- [事例から学ぶクラウドへのOpenTelemetry導入のハマりどころ](https://dev.henry.jp/entry/cloud-native-opentelemetry) B! 27
+- [「組織改善スクラム」に取り組んでいます！](https://techblog.jmdc.co.jp/entry/20231209) B! 27
+- [巨大なテーブルコンポーネントを仮想スクロール化してブラウザのメモリ使用量を1/10にした話](https://zenn.dev/loglass/articles/loglass-report-virtual-scroll) B! 27
+- [世にも奇妙なQUERY関数](https://www.m3tech.blog/entry/bizarre_gss_query) B! 27
+- [GKEでMLバッチ運用のコツ](https://www.m3tech.blog/entry/ai-gke-ml-batch) B! 26
+- [弊社で使っているAzureリソースのスルメ系命名規則を紹介します](https://zenn.dev/aeonpeople/articles/0b4a4be83d0dfd) B! 26
+- [弊社で使っているAzureリソースのスルメ系命名規則を紹介します](https://zenn.dev/aeonpeople/articles/0b4a4be83d0dfd) B! 26
+- [レトロスペクティブ「WWW」について記事を書きます！](https://techblog.jmdc.co.jp/entry/20231207) B! 26
+- [3年近く運営している社内勉強会の話をします！](https://techblog.jmdc.co.jp/entry/20231212) B! 26
+- [GKEでMLバッチ運用のコツ](https://www.m3tech.blog/entry/ai-gke-ml-batch) B! 26
+- [IT健保メシコンプリートを支える技術](https://tech.trustbank.co.jp/entry/2023/12/6/0000) B! 26
+- [Unity 製 WebGL ゲームを AWS でお手軽公開](https://zenn.dev/happy_elements/articles/hekk_ac_20231215) B! 25
 - [Looker APIを活用して確実なデプロイを実現させる](https://www.m3tech.blog/entry/looker_deploy) B! 25
+- [輪読会の参加ハードルを低くする工夫とアウトプットを出すまでの道のり](https://zenn.dev/magicmoment/articles/easy-book-discussion-202312) B! 25
 - [技術的な雑談をするテックトークを開催して半年が経ちました ](https://tech.timee.co.jp/entry/2023/12/02/000000) B! 25
-- [IT健保メシコンプリートを支える技術](https://tech.trustbank.co.jp/entry/2023/12/6/0000) B! 25
+- [Reactコンポーネント同士の結合度を考える](https://zenn.dev/yumemi_inc/articles/react-coupling-loose) B! 25
 - [TypeScriptを他のツールで取り扱うためのコンパイラオプションについて](https://qiita.com/uhyo/items/c33489155e1817479948) B! 24
-- [Unity 製 WebGL ゲームを AWS でお手軽公開](https://zenn.dev/happy_elements/articles/hekk_ac_20231215) B! 24
+- [BigQueryでクエリを書いたときにハマった罠集](https://sucrose.hatenablog.com/entry/2023/12/16/234248) B! 24
+- [Snowflakeの力を引き出すためのdbtを活用したデータ基盤開発の全貌](https://techblog.cartaholdings.co.jp/entry/snowflake-dbt-data-platform-vision) B! 24
 - [HatenaBlog Workflows を導入してテックブログの執筆環境を改善しました](https://tech.andpad.co.jp/entry/2023/12/01/100000) B! 24
+- [チームの公用語を英語にした話 A story about making English our team's official language](https://tech.andpad.co.jp/entry/2023/12/22/100000) B! 24
+- [スタートアップのエンジニアの集まりが"組織"になるまでの過程から学んだこと](https://note.com/qluto/n/n024e1e52cc24) B! 24
 - [はてなブログとblogsyncの歴史](https://songmu.jp/riji/entry/2023-12-11-blogsync-history.html) B! 24
 - [CTOからICへの転身はできなかったけど楽しく組織改善やってますという話](https://techblog.jmdc.co.jp/entry/20231225) B! 24
 - [画像を理解するGPT-4 Visionで、既存の画像認識モデルを説明可能にする ~ 新宿の特徴は"ビル群"だが、日本橋の特徴は"密集したビル"? ~](https://www.m3tech.blog/entry/photo2geo_gpt4) B! 24
-- [Reactコンポーネント同士の結合度を考える](https://zenn.dev/yumemi_inc/articles/react-coupling-loose) B! 24
+- [goroutine leakを解消したい！](https://zenn.dev/magicmoment/articles/goroutine-leak-202312) B! 24
 - [HatenaBlog Workflows を導入してテックブログの執筆環境を改善しました](https://tech.andpad.co.jp/entry/2023/12/01/100000) B! 24
 - [職場を明るくする](https://devblog.thebase.in/entry/work-happy) B! 23
 - [『Pythonではじめる数理最適化』の7章「商品推薦のための興味のスコアリング」をStanで解く](https://zenn.dev/tokin_tokin/articles/44daebd2833971) B! 23
-- [チームの公用語を英語にした話 A story about making English our team's official language](https://tech.andpad.co.jp/entry/2023/12/22/100000) B! 23
-- [スタートアップのエンジニアの集まりが"組織"になるまでの過程から学んだこと](https://note.com/qluto/n/n024e1e52cc24) B! 23
+- [import polars as pd でどこまでいけるか！](https://qiita.com/yururoi/items/4d1690bdce77dcfab33a) B! 23
+- [SvelteKit はどのようにコンパイルしているのか？](https://blog.osstech.co.jp/posts/2023/11/how-sveltekit-compiles/) B! 23
+- [VSCodeの設定の切り替えや共有に便利なプロファイル機能を活用しよう](https://qiita.com/loftkun/items/cf44155510e4a2e18637) B! 23
+- [Terraform v1.7.0で久々にアップデートのあったグラフ機能でイイ感じにTerraformを可視化したい人生だった](https://techblog.ap-com.co.jp/entry/2023/12/14/140255) B! 23
 - [ヘンリーに入社しました(8ヶ月前に)](https://u1.hatenablog.com/entry/2023/12/17/133902) B! 23
 - [特級呪物と化したAWS IoT Enterprise Buttonを勤怠ボタンとして活用する](https://qiita.com/yakiniku0220/items/ecb89f7bb72fa07a76b0) B! 23
 - [CloudFrontのログを使って機械学習で異常検知を試してみた](https://tech.iimon.co.jp/entry/2023/12/16/175242) B! 23
 - [スクラムを0から導入してみた話](https://techblog.jmdc.co.jp/entry/20231206) B! 23
 - [Rubyの型チェッカー「Sorbet」を導入した話](https://qiita.com/tomohiko9090/items/2491649e2144acafee73) B! 23
-- [輪読会の参加ハードルを低くする工夫とアウトプットを出すまでの道のり](https://zenn.dev/magicmoment/articles/easy-book-discussion-202312) B! 23
-- [goroutine leakを解消したい！](https://zenn.dev/magicmoment/articles/goroutine-leak-202312) B! 23
 - [Windowsクライアント向けJavaアプリケーションをActive Directoryで配布する](https://rheb.hatenablog.com/entry/2023/12/14/123311) B! 23
-- [import polars as pd でどこまでいけるか！](https://qiita.com/yururoi/items/4d1690bdce77dcfab33a) B! 22
-- [Snowflakeの力を引き出すためのdbtを活用したデータ基盤開発の全貌](https://techblog.cartaholdings.co.jp/entry/snowflake-dbt-data-platform-vision) B! 22
 - [数あるSwiftの非同期処理の実現方法をきちんと理解した上で使い分けよう](https://k0mach1.hatenablog.com/entry/2023/12/11/180153) B! 22
 - [アドベントカレンダーもいいけど Vim 駅伝もいいよ](https://zenn.dev/vim_jp/articles/2023-12-01-vim-ekiden-and-advent) B! 22
+- [大規模言語モデルを自作しよう！(Transformers+DeepSpeed+torch.compile+flash_attn2）](https://zenn.dev/selllous/articles/transformers_pretrain_to_ft) B! 22
 - [エージェント型AIシステム構築の7つの原則： OpenAI『Practices for Governing Agentic AI』を読み解く](https://note.com/mahlab/n/nf6bc6078460d) B! 22
 - [troccoの裏側でも使われているOSSのEmbulkのcore部分のソースコードリーディングについて書きます](https://zenn.dev/gtnao/articles/deep-dive-embulk) B! 22
-- [Terraform v1.7.0で久々にアップデートのあったグラフ機能でイイ感じにTerraformを可視化したい人生だった](https://techblog.ap-com.co.jp/entry/2023/12/14/140255) B! 22
+- [cache を最適化して RuboCop の CI 実行時間を劇的に改善した話](https://techblog.jmdc.co.jp/entry/20231211) B! 22
 - [Idempotency-Keyヘッダによるマイクロサービスの冪等性の担保](https://www.m3tech.blog/entry/2023/12/15/110000) B! 22
 - [Tidy First?](https://qiita.com/kawasima/items/c31e9f770bb042a92254) B! 22
 - [BigQuery データ共有にはデータセットへのアクセス権の付与より Analytics Hub を選ぶ](https://qiita.com/na0/items/a9a0e374b279bc913ba1) B! 21
-- [VSCodeの設定の切り替えや共有に便利なプロファイル機能を活用しよう](https://qiita.com/loftkun/items/cf44155510e4a2e18637) B! 21
-- [大規模言語モデルを自作しよう！(Transformers+DeepSpeed+torch.compile+flash_attn2）](https://zenn.dev/selllous/articles/transformers_pretrain_to_ft) B! 21
+- [1日目: Agenda](https://blog.jxck.io/entries/2023-12-01/3pca-agenda.html) B! 21
+- [Markdown Modeと久々に向き合う](https://qiita.com/tadsan/items/7bb0099479f647d2c106) B! 21
 - [Google Cloud Tasksのあれこれ](https://zenn.dev/s_tokutake/articles/22edc021f6277f) B! 21
-- [cache を最適化して RuboCop の CI 実行時間を劇的に改善した話](https://techblog.jmdc.co.jp/entry/20231211) B! 21
+- [Go サーバーで外部 API アクセスの原子性を頑張る](https://techblog.kayac.com/go-external-api-atomicity) B! 21
+- [dbtでCIを実現するために、Github ActionsでAWSのVPC越えしたい。](https://techblog.kayac.com/dbt-actions-awsvpc) B! 21
 - [AI・機械学習チーム流MLOpsの歴史](https://www.m3tech.blog/entry/ai-mlops-history) B! 21
+- [NewsPicksアプリのGoogle Playでの評価が1年で爆上がりした話](https://tech.uzabase.com/entry/2023/12/20/234918) B! 21
 - [Generative Recommendation : LLMを活用した推薦システム](https://www.wantedly.com/companies/wantedly/post_articles/870149) B! 21
 - [ボランティアメンバーで大規模カンファレンスの高度なハイブリッド配信を行うためにやったこと](https://jaco.udcp.info/entry/2023/12/08/223420) B! 21
 - [Haskell の Array](https://zenn.dev/naoya_ito/articles/87a8a21d52c302) B! 20
 - [PyMC-MarketingによるBayesian Marketing Mix Modeling](https://qiita.com/uenotakato/items/88f3420201c3d20fa7ee) B! 20
 - [AWS Lambda FunctionをScala.jsで書いて爆速Scalaを満喫しよう](https://blog.3qe.us/entry/2023/12/09/223552) B! 20
-- [Markdown Modeと久々に向き合う](https://qiita.com/tadsan/items/7bb0099479f647d2c106) B! 20
-- [Go サーバーで外部 API アクセスの原子性を頑張る](https://techblog.kayac.com/go-external-api-atomicity) B! 20
+- [Scala 3でデータ指向プログラミングは可能か](https://blog.j5ik2o.me/entry/2023/12/14/000000) B! 20
+- [クラウド移行における設計共有の重要性](https://made.livesense.co.jp/entry/2023/12/22/090000) B! 20
 - [デジカルiOSアプリの歴史](https://www.m3tech.blog/entry/2023/12/14/131922) B! 20
-- [NewsPicksアプリのGoogle Playでの評価が1年で爆上がりした話](https://tech.uzabase.com/entry/2023/12/20/234918) B! 20
+- [Kuma UI はどのように React Server Components をサポートしているのか](https://zenn.dev/readyfor_blog/articles/939991bd64c2c3) B! 20
 - [Reddit で振り返る今年の英語圏 Haskell 界隈の話題](https://qiita.com/lesguillemets/items/cab7652cd243896c2b3e) B! 19
 - [Rubyでプロパティベースドテスト(Property Based Testing)する](https://diggle.engineer/entry/property-based-testing-with-ruby-introduction) B! 19
 - [Ruby構文解析器開発日録#1](https://ydah.net/blog/posts/20231223/) B! 19
-- [Scala 3でデータ指向プログラミングは可能か](https://blog.j5ik2o.me/entry/2023/12/14/000000) B! 19
-- [1日目: Agenda](https://blog.jxck.io/entries/2023-12-01/3pca-agenda.html) B! 19
-- [プロダクト開発チームとDevOpsチームでのプロダクト課題改善の取り組み](https://tech.layerx.co.jp/entry/2023/12/05/090000) B! 19
-- [クラウド移行における設計共有の重要性](https://made.livesense.co.jp/entry/2023/12/22/090000) B! 19
+- [Next.js14 の PPR(Partial Prerendering)は、画面表示速度を改善するか?](https://qiita.com/yaskitie/items/fdaa104e73b3c49872a7) B! 19
+- [“The Five-Factor Serverless“ AWS Lambda の9年を振り返りつつ、これからを考える。](https://qiita.com/_kensh/items/9e0ed0154e2ddfb3f25d) B! 19
 - [細かすぎ…？FigmaやWebで文字の表示位置がズレる問題を知っておこう](https://goodpatch-tech.hatenablog.com/entry/figma-web-zure-shitteokou) B! 19
 - [デザインシステムめっちゃ見る④ スペーシング編](https://techblog.jmdc.co.jp/entry/20231221) B! 19
-- [dbtでCIを実現するために、Github ActionsでAWSのVPC越えしたい。](https://techblog.kayac.com/dbt-actions-awsvpc) B! 19
 - [blenderを使って「自分の埴輪」を作る：藤井寺市　オリジナル3D埴輪メーカーの事例](https://techblog.kayac.com/haniwa-blender) B! 19
 - [note の Ruby バージョンを 3.2.2 へアップグレードしました](https://note.com/tic40/n/n5335ddad5934) B! 19
-- [Kuma UI はどのように React Server Components をサポートしているのか](https://zenn.dev/readyfor_blog/articles/939991bd64c2c3) B! 19
+- [食べログエンジニア組織2023年振り返り](https://tech-blog.tabelog.com/entry/advent-calendar-20231225) B! 19
 - [コンポーネントライブラリのアクセシビリティを高めている話](https://zenn.dev/ubie_dev/articles/38b2b93272ee60) B! 19
+- [アップロード画像を全消しした話](https://qiita.com/tosiooooooo/items/9a368c3529b84cecd564) B! 19
 - [jsの主要ライブラリ7選を徹底解説](https://qiita.com/soraa24926/items/e6ae5f6f13941c60ab0a) B! 18
 - [Rユーザーの9割が知らない高速化の禁断の裏技！！！](https://bob3.hatenablog.com/entry/2023/12/08/000000) B! 18
 - [The Case Against Passkeys](https://d.s01.ninja/entry/20231223/1703307483) B! 18
-- [“The Five-Factor Serverless“ AWS Lambda の9年を振り返りつつ、これからを考える。](https://qiita.com/_kensh/items/9e0ed0154e2ddfb3f25d) B! 18
-- [2023 年に行ったN予備校 Android アプリの開発まとめ](https://blog.nnn.dev/entry/2023/12/10/110000) B! 18
+- [プロダクト開発チームとDevOpsチームでのプロダクト課題改善の取り組み](https://tech.layerx.co.jp/entry/2023/12/05/090000) B! 18
+- [数理最適化の練習問題をLLMを使って自動生成する](https://zenn.dev/ohtaman/articles/optima_practice) B! 18
 - [レガシーブラウザ向けのビルドオプションを剪定する](https://blog.nnn.dev/entry/2023/12/20/170000) B! 18
 - [【React】並び替えられるTodoアプリを作ってみた](https://techblog.gmo-ap.jp/2023/12/12/react-movable-todo/) B! 18
 - [GCPのバッチ処理サービス「Batch」を試してみる](https://techblog.gmo-ap.jp/2023/12/17/gcp-batch/) B! 18
+- [モバイルクライアントアプリにおける「どんなログを出してるのか？」「どの様に役立てているのか？」事例](https://techblog.kayac.com/unity-app-log) B! 18
 - [【WebGL2】GPU Instancing x Transform Feedback で大量のインスタンスの計算と描画をGPUで行う](https://techblog.kayac.com/webgl-gpu-instancing-transform-feedback) B! 18
 - [有意義な輪読会を開催し続けるコツ](https://techblog.lycorp.co.jp/ja/20231209a) B! 18
 - [pandasのSeriesとMagicMockの併用でハマった件](https://www.m3tech.blog/entry/2023/12/18/110000) B! 18
 - [使いこなせていますか？Python 組み込み関数全71件 完全解説[2023 最新版]](https://qiita.com/t_aki/items/a5e578aecf8cc20bec31) B! 18
-- [食べログエンジニア組織2023年振り返り](https://tech-blog.tabelog.com/entry/advent-calendar-20231225) B! 18
+- [Denoのまとめ (2023)](https://zenn.dev/uki00a/articles/whats-new-for-deno-in-2023) B! 17
 - [Mustache Templateの実装を書いた](https://techblog.karupas.org/entry/2023/12/15/000000) B! 17
 - [MDN 翻訳コミュニティで私がやったこと](https://debiru.hatenablog.com/entry/20231202/mdn-translation-community) B! 17
 - [DevOpsのループ図およびシフトレフトテスト/シフトライトテストについての考察](https://nihonbuson.hatenadiary.jp/entry/DevOps-and-ShiftRight) B! 17
-- [数理最適化の練習問題をLLMを使って自動生成する](https://zenn.dev/ohtaman/articles/optima_practice) B! 17
-- [立ち上げ期にこそ取り入れる！ 組織を強固にする「全員SRE」という文化](https://tech.uzabase.com/entry/culture-that-every-engineers-are-sre) B! 17
-- [モバイルクライアントアプリにおける「どんなログを出してるのか？」「どの様に役立てているのか？」事例](https://techblog.kayac.com/unity-app-log) B! 17
+- [2024年以降でも Android で WebView ベースのアプリを作るあなたへ](https://zenn.dev/aldagram_tech/articles/bbb12025b9747d) B! 17
+- [新世代ElastiCache for Redisの性能：マルチコアを効率的に利用できるRedis7.1+Graviton3](https://blog.applibot.co.jp/2023/12/15/elasticache-for-redis7-graviton3-optimized-multicore-performance/) B! 17
+- [年間30回の社内外発信をやったデータサイエンティストの情報収集から発信までの流れを共有します！](https://qiita.com/junhyeong_kim/items/c1851943888e0b06eedc) B! 17
+- [2023 年に行ったN予備校 Android アプリの開発まとめ](https://blog.nnn.dev/entry/2023/12/10/110000) B! 17
 - [コア機能のリファクタリングで取り組んだこと](https://zenn.dev/magicmoment/articles/core-refactoring-202312) B! 17
-- [2024年以降でも Android で WebView ベースのアプリを作るあなたへ](https://zenn.dev/aldagram_tech/articles/bbb12025b9747d) B! 16
-- [新世代ElastiCache for Redisの性能：マルチコアを効率的に利用できるRedis7.1+Graviton3](https://blog.applibot.co.jp/2023/12/15/elasticache-for-redis7-graviton3-optimized-multicore-performance/) B! 16
+- [私が考えるマイクロソフトで成功、活躍している人](https://qiita.com/Takashi_Masumori/items/f0e7142c57762821e3e0) B! 17
+- [Playframework 3.0.0 にアップデートしてみたメモ](https://tech.assured.jp/entry/2023/12/28/1200) B! 16
+- [MysqlRewinder という gem を作った](https://engineering.dena.com/blog/2023/12/mysql_rewinder/) B! 16
+- [Azure OpenAI Service で GPT-4 Turbo（gpt-4-1106-preview）のモデルをデプロイする（※ 現状は特定のリージョンのみ）【Microsoft Azure】](https://qiita.com/youtoy/items/659d4764799e30f65772) B! 16
 - [「JS体操」のすゝめ 〜その②〜](https://techblog.kayac.com/shall-we-js-taiso-vol2) B! 16
+- [Axon Framework で簡単にEventSourcing+CQRSなアプリケーションを作る](https://www.m3tech.blog/entry/2023/12/13/141354) B! 16
 - [RAG(Retrieval Augmented Generation)を用いたPostgreSQLアシスタントAIの試作](https://qiita.com/comware_hiratsuka/items/7fbc9df423dd64160f73) B! 16
 - [test_profを用いたRailsの自動テストの高速化の実践例](https://tech.smarthr.jp/entry/2023/12/05/120000) B! 16
-- [私が考えるマイクロソフトで成功、活躍している人](https://qiita.com/Takashi_Masumori/items/f0e7142c57762821e3e0) B! 16
+- [DenoとFreshでペアプロ・モブプロ用タイマー『timer.team』を開発して得た知見⏰](https://zenn.dev/lef237/articles/8e4eb3112928d6) B! 15
 - [<遅刻しますごめんなさい>周りが強すぎるので、ここはあえてexecute入門](https://google.com/) B! 15
 - [rfコマンドの紹介: Rubyでテキスト処理を便利に](https://tech.buty4649.net/entry/2023/12/21/144601) B! 15
-- [Playframework 3.0.0 にアップデートしてみたメモ](https://tech.assured.jp/entry/2023/12/28/1200) B! 15
-- [MysqlRewinder という gem を作った](https://engineering.dena.com/blog/2023/12/mysql_rewinder/) B! 15
 - [現代開発者のためのCSS基礎技術](https://qiita.com/arowM/items/4f06ca5506c522ea3dfe) B! 15
 - [Mackerel 個人ダッシュボード使いこなし術](https://onk.hatenablog.jp/entry/2023/12/01/000000) B! 15
 - [[アップデート]Amazon Connect Contact Lens で、チャットのリアルタイム会話分析ができるようになりました](https://dev.classmethod.jp/articles/amazon-connect-contact-lens-real-time-conversational-analytics-chat/) B! 15
-- [Azure OpenAI Service で GPT-4 Turbo（gpt-4-1106-preview）のモデルをデプロイする（※ 現状は特定のリージョンのみ）【Microsoft Azure】](https://qiita.com/youtoy/items/659d4764799e30f65772) B! 15
+- [Chat GPTを使ってFigmaの面倒な作業を自動化する](https://note.com/shingo2000/n/nf7f3c5f7c6d7) B! 15
 - [社内をパスワードレスにするため頑張った話（中編）](https://qiita.com/akihiro_suto/items/f2d2b637635bebe287ea) B! 15
-- [年間30回の社内外発信をやったデータサイエンティストの情報収集から発信までの流れを共有します！](https://qiita.com/junhyeong_kim/items/c1851943888e0b06eedc) B! 15
+- [スクラムマスターを1年間経験して変わったこと](https://qiita.com/YUM_3/items/c96f35fd61bcda171f8c) B! 15
 - [【今さら聞けない?!】T3 Stack によるフルスタックWebアプリ開発](https://qiita.com/yym_06/items/ae1ba9d1d15619486f82) B! 15
 - [エンジニアのおもしろツイートまとめ](https://qiita.com/141sksk/items/23f0c50268ef14f90dc5) B! 15
-- [ZLogger v2 による .NET 8活用事例 と Unity C# 11対応の紹介](https://neue.cc/2023/12/19_zlogger2.html) B! 14
-- [C++ コンパイル時パスワード認証　〜コードを不正コンパイルから守ろう！〜](https://qiita.com/Raclamusi/items/89b9b7df0cd61e285a54) B! 14
-- [DenoとFreshでペアプロ・モブプロ用タイマー『timer.team』を開発して得た知見⏰](https://zenn.dev/lef237/articles/8e4eb3112928d6) B! 14
+- [8日目: P3P](https://blog.jxck.io/entries/2023-12-08/3pca-p3p.html) B! 14
 - [デザインシステム「Tsukuri」の立ち上げから現在まで〜取り組みとその成果〜](https://tech.andpad.co.jp/entry/2023/12/06/100000) B! 14
 - [Four Keys導入で変わる？エンジニア組織の生産性可視化と現場マネージャーの本音](https://techblog.gmo-ap.jp/2023/12/01/four-keys-engineering-productivity-manager-insights/) B! 14
-- [スクラムマスターを1年間経験して変わったこと](https://qiita.com/YUM_3/items/c96f35fd61bcda171f8c) B! 14
-- [Axon Framework で簡単にEventSourcing+CQRSなアプリケーションを作る](https://www.m3tech.blog/entry/2023/12/13/141354) B! 14
-- [litprotocol周り](https://qiita.com/advent-calendar/2023) B! 14
-- [Denoのまとめ (2023)](https://zenn.dev/uki00a/articles/whats-new-for-deno-in-2023) B! 13
+- [ZLogger v2 による .NET 8活用事例 と Unity C# 11対応の紹介](https://neue.cc/2023/12/19_zlogger2.html) B! 13
+- [C++ プログラミングの生産性を少し改善する Visual Studio の機能（2023）](https://zenn.dev/reputeless/articles/cpp-vs2022-tips) B! 13
+- [C++ コンパイル時パスワード認証　〜コードを不正コンパイルから守ろう！〜](https://qiita.com/Raclamusi/items/89b9b7df0cd61e285a54) B! 13
 - [2023年の Linear Haskell で純粋・並列 FFT を実装する──「Haskell は Rust になれるのか？」補遺](https://zenn.dev/konn/articles/2023-12-14-pure-parallel-fft-in-linear-haskell) B! 13
-- [Chat GPTを使ってFigmaの面倒な作業を自動化する](https://note.com/shingo2000/n/nf7f3c5f7c6d7) B! 13
 - [SIerがGoogle史上最強のAI「Gemini」を解説してみる](https://qiita.com/yamazombie/items/f3e8f5e25cf40bb84bbd) B! 13
+- [AutoMLからVertexAIに移行した話](https://techblog.gmo-ap.jp/2023/12/18/automl_to_vertexai/) B! 13
 - [大学の授業でCloudflare使いまくって自己満足開発したよ！](https://zenn.dev/calloc134/articles/c5ae165b16b969) B! 13
-- [アップロード画像を全消しした話](https://qiita.com/tosiooooooo/items/9a368c3529b84cecd564) B! 13
-- [C++ プログラミングの生産性を少し改善する Visual Studio の機能（2023）](https://zenn.dev/reputeless/articles/cpp-vs2022-tips) B! 12
+- [MetaQuest3ではじめる、モグラ叩きMR](https://techblog.kayac.com/metaquest3-mogura-mr) B! 13
+- [ActionDispatch等をスタンドアローンで動かしてミニマムなRailsのような何かをDIYしたらRailsともっと仲良くなれた話](https://qiita.com/jonakp/items/6659e5847ab462cfe550) B! 13
+- [プログラマなら知っておきたい画像ファイルの知識](https://qiita.com/ymiya14/items/17159773cf3bb54d2179) B! 13
+- [すべてが私になった日](https://qiita.com/rubytail/items/6ad1e658d8f4093d831e) B! 13
+- [IRB: Let's Use Autocomplete](https://qiita.com/tompng/items/1bf23c9ea9e0d0bebe4c) B! 12
 - [【URP14】シャドウマップを自作して、キャラクターの影をキャラクターが受けないようにする](https://zenn.dev/r_ngtm/articles/urp14-custom-shadow) B! 12
 - [3日目: 自動で送られる Cookie](https://blog.jxck.io/entries/2023-12-03/3pca-cookie.html) B! 12
-- [8日目: P3P](https://blog.jxck.io/entries/2023-12-08/3pca-p3p.html) B! 12
-- [AutoMLからVertexAIに移行した話](https://techblog.gmo-ap.jp/2023/12/18/automl_to_vertexai/) B! 12
+- [【育成施策】AWS Skill Builder の圧倒的な量、圧倒的なクオリティの無償コンテンツを活用し、ポテンシャル採用メンバー向けの育成カリキュラムを考えてみた](https://dev.classmethod.jp/articles/a-curriculum-designed-for-potential-members-with-aws-skill-builder/) B! 12
+- [はてなブログから OSS blogsync への寄付のご報告と「HatenaBlog Workflows Boilerplate」でのGitHub Workflow の仕組みと工夫](https://developer.hatenastaff.com/entry/2023/12/25/081148) B! 12
 - [useStateはなぜ値を保持できるのかもう1回考える](https://qiita.com/satomi310/items/685951139983f913adeb) B! 12
-- [ActionDispatch等をスタンドアローンで動かしてミニマムなRailsのような何かをDIYしたらRailsともっと仲良くなれた話](https://qiita.com/jonakp/items/6659e5847ab462cfe550) B! 12
 - [noteのSvelte componentを事前ビルドして配布するようにしました](https://note.zochang.com/n/n7caa5d6dcfc0) B! 12
 - [ZOZO開発組織の2023年の振り返りと現状](https://qiita.com/sonots/items/ca77f06ac0a806fd2e30) B! 12
-- [すべてが私になった日](https://qiita.com/rubytail/items/6ad1e658d8f4093d831e) B! 12
-- [IRB: Let's Use Autocomplete](https://qiita.com/tompng/items/1bf23c9ea9e0d0bebe4c) B! 11
+- [Rebooting Ubie Vitals](https://zenn.dev/ubie_dev/articles/26e63af41709c4) B! 12
+- [PythonのData Appsフレームワーク Streamlit, Dash, Panel を比較(With ChatGPT)](https://qiita.com/OgawaHideyuki/items/f2b7aef8b8d61051f382) B! 11
 - [19日目: Super Cookie](https://blog.jxck.io/entries/2023-12-19/super-cookie.html) B! 11
+- [Cloudflare Zero Trust導入でよくあるネットワーク課題はどのように改善するのかまとめてみました。](https://dev.classmethod.jp/articles/saitchan-zerotrust-20231205/) B! 11
 - [[初級編]LLMへ至る道~損失関数ってなにをしているの？~[2日目]](https://dev.classmethod.jp/articles/road-to-llm-advent-calendar-2023-02/) B! 11
 - [MOTHWINGのブランドサイトを支えるCloudflareの技術](https://zenn.dev/delta/articles/0f03775cc498e3) B! 11
-- [【育成施策】AWS Skill Builder の圧倒的な量、圧倒的なクオリティの無償コンテンツを活用し、ポテンシャル採用メンバー向けの育成カリキュラムを考えてみた](https://dev.classmethod.jp/articles/a-curriculum-designed-for-potential-members-with-aws-skill-builder/) B! 11
 - [コミュニケーションプラン](https://techblog.gmo-ap.jp/2023/12/08/communicationplan/) B! 11
-- [はてなブログから OSS blogsync への寄付のご報告と「HatenaBlog Workflows Boilerplate」でのGitHub Workflow の仕組みと工夫](https://developer.hatenastaff.com/entry/2023/12/25/081148) B! 11
 - [Valibot と同じ作者のフォームライブラリ Modular Forms を試してみた](https://techblog.jmdc.co.jp/entry/20231223) B! 11
 - [kannonを実プロダクトに組み込んで3倍高速化を達成した話](https://www.m3tech.blog/entry/2023/12/07/113000) B! 11
+- [超一流のプロダクトマネージャーへの道：世界観編](https://www.m3tech.blog/entry/2023/12/19/173946) B! 11
 - [OSS 活動を通して貢献できた Meilisearch を紹介したい](https://qiita.com/mosuka/items/fbda479b25a7ccd7c350) B! 11
 - [食べログiOSアプリでユニットテストを書けるようにしていく話](https://tech-blog.tabelog.com/entry/advent-calendar-20231222) B! 11
 - [技術イベントが社内にもたらした変化と効果](https://techblog.raccoon.ne.jp/archives/1701335530.html) B! 11
 - [Tesla の公式API をPostman から実行し、車両データの取得やエアコンの操作などを行ってみる](https://www.cdata.com/jp/blog/tesla-fleet-api-postman) B! 10
-- [PythonのData Appsフレームワーク Streamlit, Dash, Panel を比較(With ChatGPT)](https://qiita.com/OgawaHideyuki/items/f2b7aef8b8d61051f382) B! 10
-- [Cloudflare Zero Trust導入でよくあるネットワーク課題はどのように改善するのかまとめてみました。](https://dev.classmethod.jp/articles/saitchan-zerotrust-20231205/) B! 10
+- [【Unity】Debug.Logはもう古い！？ Unity公式のLoggingパッケージ「Unity Logging」の使い方まとめ](https://www.hanachiru-blog.com/entry/2023/12/15/070000) B! 10
 - [Mackerelと連携する外形監視エージェントmaprobeにOtel metrics送信機能を追加した](https://sfujiwara.hatenablog.com/entry/maprobe-otel-metrics) B! 10
+- [統計検定1級(R)の勉強の仕方【2023年末版】](https://qiita.com/Ayumu_walker/items/461705df5afd8eedf692) B! 10
 - [Amazon Connect で、「キュー内の最大問い合わせ数」を設定した際の考慮事項や動作を確認してみた](https://dev.classmethod.jp/articles/amazon-connect-maximum-queue-limit/) B! 10
+- [Cloud Run ことはじめ - Next.js アプリを 10 分でデプロイする](https://zenn.dev/google_cloud_jp/articles/nextjs-on-cloudrun) B! 10
 - [mabl Experience'23で「複数チームでmablを活用する際の課題と対応」について話しました](https://www.m3tech.blog/entry/2023/12/05/110000) B! 10
 - [障害に前向きに向き合っていきたい〜「ポストモーテムから学ぶ会」誕生秘話〜](https://tech.andpad.co.jp/entry/2023/12/14/100000) B! 10
+- [「社会に貢献し続ける」会社で働いています](https://tech.bm-sms.co.jp/entry/2023/12/20/093000) B! 10
 - [Slackアプリ経由でChatGPTと連想ゲームをしてみた。](https://techblog.gmo-ap.jp/2023/12/03/slack-chatgpt-word-association-game/) B! 10
 - [IndexedDBの基本を学ぶ](https://tech.iimon.co.jp/entry/2023/12/15/111146) B! 10
+- [デザインシステムめっちゃ見る① 概要編](https://techblog.jmdc.co.jp/entry/20231202) B! 10
 - [もうすぐリリースするecspresso v2.3に入る新機能紹介](https://techblog.kayac.com/ecspresso-v2.3-notice) B! 10
-- [MetaQuest3ではじめる、モグラ叩きMR](https://techblog.kayac.com/metaquest3-mogura-mr) B! 10
 - [TextMesh Proで絵文字を出す](https://techblog.kayac.com/textmesh-pro-emoji) B! 10
-- [超一流のプロダクトマネージャーへの道：世界観編](https://www.m3tech.blog/entry/2023/12/19/173946) B! 10
 - [生成AIの進化に置いてかれないためにフォロー必須なアカウント47選](https://qiita.com/ken1041/items/8f5108c40f21e9480de9) B! 10
 - [Flakyテストから学ぶテスト自動実行分散システム設計入門](https://tech-blog.tabelog.com/entry/advent-calendar-20231224) B! 10
 - [新規開発したらオーバースペックだった件、原因は意外なところにあった](https://qiita.com/rompasinai/items/ab8a3069223c725ae876) B! 10
+- [DMARCのレポートを可視化するdmarc-report-converterの紹介](https://zenn.dev/kikutaro/articles/12e07255519212) B! 9
 - [Osaka でも Ruby の Hanami を開催できるか検証した結果](https://qiita.com/ogomr/items/542c49bf488d5f1852ba) B! 9
-- [【Unity】Debug.Logはもう古い！？ Unity公式のLoggingパッケージ「Unity Logging」の使い方まとめ](https://www.hanachiru-blog.com/entry/2023/12/15/070000) B! 9
-- [A.I.VOICE for Gamesを使ってUnityエディタ内でカットシーンの仮当てボイス生成を半自動化](https://qiita.com/Takaaki_Ichijo/items/9b9d810c739e947e1abd) B! 9
+- [21日目: SameSite Cookie](https://blog.jxck.io/entries/2023-12-21/same-site.html) B! 9
 - [WASM Component Modelについて書き殴る](https://zenn.dev/newgyu/articles/82a181212c7bb2) B! 9
-- [Cloud Run ことはじめ - Next.js アプリを 10 分でデプロイする](https://zenn.dev/google_cloud_jp/articles/nextjs-on-cloudrun) B! 9
 - [Kubernetes と cgroup v2](https://qiita.com/superbrothers/items/16b66bae0582f5ed479b) B! 9
-- [リソース制限をかけたKubernetes Podの中でhtopをしてもホスト上のリソースが表示されるのはなぜか](https://blog.inductor.me/entry/why-htop-shows-host-metrics-in-containers) B! 9
-- [「社会に貢献し続ける」会社で働いています](https://tech.bm-sms.co.jp/entry/2023/12/20/093000) B! 9
+- [【5分でVBA学習】マクロ処理高速化 ～Excelフィルタリングツール コード解説 #1～](https://qiita.com/TakuyaSuzuki/items/158ec6815509fd27de67) B! 9
 - [【Rails 7.1】ActiveRecord#Enumでメソッドの自動生成を制御する](https://techblog.gmo-ap.jp/2023/12/04/rails-7-1-activerecord-enum/) B! 9
 - [何故僕たちは React のコンポーネントを分割するのか](https://rokoucha.net/%E4%BD%95%E6%95%85%E5%83%95%E3%81%9F%E3%81%A1%E3%81%AF%20React%20%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E3%82%92%E5%88%86%E5%89%B2%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B) B! 9
 - [MultipassでM1 Macに仮想環境を作ってみた](https://tech.iimon.co.jp/entry/2023/12/22/070000) B! 9
 - [メンテしづらいドキュメントを減らす取り組み](https://techblog.jmdc.co.jp/entry/20231201) B! 9
-- [デザインシステムめっちゃ見る① 概要編](https://techblog.jmdc.co.jp/entry/20231202) B! 9
 - [Devise のセッション有効期限と Timeoutable, Rememberable の設定次第で意図しない挙動になることについて](https://techblog.jmdc.co.jp/entry/20231213) B! 9
-- [プログラマなら知っておきたい画像ファイルの知識](https://qiita.com/ymiya14/items/17159773cf3bb54d2179) B! 9
 - [【2023年版】今年生まれた新しいプログラミング言語を紹介！](https://qiita.com/wataru86/items/c37130714957d007950c) B! 9
 - [コンポーネント指向のススメ](https://qiita.com/y-min/items/c3cc011dbb1228030beb) B! 9
 - [AWS と考える Observability のベストプラクティス](https://qiita.com/AoTo0330/items/3731f2ff7fbbe1299ca9) B! 9
 - [Driving Value with Sprint Goals](https://qiita.com/kawasima/items/04e386fa4a23bf519ec5) B! 9
-- [GCPの拒否ポリシーが有能なので使用方法を解説します（IAMロールの権限制御） # GoogleCloud](https://dev.classmethod.jp/articles/google-cloud-deny-policy/) B! 8
+- [2023年の Go での気づきに思いを馳せて構築するオレオレ Go サーバープロジェクトレイアウト](https://zenn.dev/otakakot/articles/f162ee149d375b) B! 8
+- [PMF達成の立役者！Full TypeScript Architecture の選定背景と構成](https://zenn.dev/ascend/articles/ascend-full-typescript-architecture) B! 8
+- [A.I.VOICE for Gamesを使ってUnityエディタ内でカットシーンの仮当てボイス生成を半自動化](https://qiita.com/Takaaki_Ichijo/items/9b9d810c739e947e1abd) B! 8
+- [S3+Athena構成の弊社データ基盤の限界が近い](https://qiita.com/myu_mx/items/68559717bd100a75c274) B! 8
+- [デジタルアイデンティティの仕事をはじめたらやるべき7つのこと](https://qiita.com/kura_lab/items/d46f2d0617cf543ddbd9) B! 8
+- [AWS WAFのログから特定Cookieの機密情報をKinesis Data Firehose + Lambda関数でマスクしてS3に保存するIaCをCDKで実装する](https://qiita.com/yuki549/items/7881e8e9e966cadfb9a1) B! 8
 - [「さばのて」でMackerelアラートをもっと深掘り！ サーバーを重くした黒幕は誰だ〜](https://kmuto.hatenablog.com/entry/2023/12/14/094500) B! 8
+- [リソース制限をかけたKubernetes Podの中でhtopをしてもホスト上のリソースが表示されるのはなぜか](https://blog.inductor.me/entry/why-htop-shows-host-metrics-in-containers) B! 8
 - [新任・採用広報の3ヶ月の仕事報告とふりかえり](https://tech.andpad.co.jp/entry/2023/12/04/100000) B! 8
 - [スタートアップの舞台裏、アンドパッドに新卒一期生として入社して感じたこと](https://tech.andpad.co.jp/entry/2023/12/19/100000) B! 8
-- [【5分でVBA学習】マクロ処理高速化 ～Excelフィルタリングツール コード解説 #1～](https://qiita.com/TakuyaSuzuki/items/158ec6815509fd27de67) B! 8
+- [アジャイルにおけるフロー効率を追い求めた結果、開発メンバーのエンゲージメントが低下したので改善した話](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-02) B! 8
 - [clusterとPM](https://scrapbox.io/htomine/cluster%E3%81%A8PM) B! 8
 - [Henry の開発はなにが楽しい？ソフトウェアエンジニアにとっての魅力と挑戦をご紹介します！](https://dev.henry.jp/entry/2023/12/20/195512) B! 8
+- [ロバストPython 型チェックをより効果的に導入するための考え方](https://tech.iimon.co.jp/entry/2023/12/08/000000) B! 8
 - [データストラテジストのための、データ戦略策定に役立つ5+1冊](https://qiita.com/anntoque/items/1a0b5802d6140d910cd1) B! 8
 - [【パリピ注意】LottieというアニメーションファイルをSTUDIOのノーコードで実装してみた](https://qiita.com/okamu_/items/5b5f2a87336c1d15e0a5) B! 8
 - [新米パパ、産後パパ育休を取る](https://tech-blog.tabelog.com/entry/advent-calendar-20231208) B! 8
+- [生成AIによる記事作成支援において、プロジェクトの各ステップで意識したポイントと、プロジェクトを通して得た気づき](https://tech-blog.tabelog.com/entry/advent-calendar-20231215) B! 8
 - [テクノロジーマネジメントとビジネス成長と自己組織化の罠](https://yo-iida.hatenablog.com/entry/2023/12/19/150629) B! 8
 - [【Git】「.git」の中をGitに管理させてみた](https://qiita.com/arubaito/items/3332d64ae0c8fce9a0d2) B! 8
 - [テストシナリオを作る時に考える縦軸と横軸の話](https://qiita.com/afracs/items/37c890cb2fc047d97d13) B! 8
 - [C++ コンパイル時「出力」で画像ファイル生成](https://qiita.com/Raclamusi/items/fd9c5b52c514a6420e2c) B! 7
-- [2023年の Go での気づきに思いを馳せて構築するオレオレ Go サーバープロジェクトレイアウト](https://zenn.dev/otakakot/articles/f162ee149d375b) B! 7
-- [PMF達成の立役者！Full TypeScript Architecture の選定背景と構成](https://zenn.dev/ascend/articles/ascend-full-typescript-architecture) B! 7
+- [Slack だけで動作する勤怠/時間管理を実装した話](https://qiita.com/seratch/items/c9a83e397065623b2b8b) B! 7
 - [[ChatGPT+DB+LINE]自分のことをずっと覚えていてくれるキャラをノーコードで作ろう！](https://qiita.com/okinakamasayoshi/items/07a6b2c41fb6d50dbd5e) B! 7
+- [All I know about Vue 3's Vapor Mode Details (2023/12) ](https://qiita.com/ubugeeei/items/b28a04a41348b6e49293) B! 7
 - [InnoDB redo logを解読している話](https://tombo2.hatenablog.com/entry/2023/12/19/033704) B! 7
-- [S3+Athena構成の弊社データ基盤の限界が近い](https://qiita.com/myu_mx/items/68559717bd100a75c274) B! 7
-- [デジタルアイデンティティの仕事をはじめたらやるべき7つのこと](https://qiita.com/kura_lab/items/d46f2d0617cf543ddbd9) B! 7
-- [AWS WAFのログから特定Cookieの機密情報をKinesis Data Firehose + Lambda関数でマスクしてS3に保存するIaCをCDKで実装する](https://qiita.com/yuki549/items/7881e8e9e966cadfb9a1) B! 7
+- [11日目: Cookie Banner](https://blog.jxck.io/entries/2023-12-11/3pca-banner.html) B! 7
+- [GCPの拒否ポリシーが有能なので使用方法を解説します（IAMロールの権限制御） # GoogleCloud](https://dev.classmethod.jp/articles/google-cloud-deny-policy/) B! 7
 - [Gemini Proを使ってみる【無料版GPT-4】](https://qiita.com/relu/items/e82a4f30dff37cf2e6c5) B! 7
 - [Momento ChacheとAmazon ElastiCache Serverlessの性能/機能/特徴について比較してみた。](https://zenn.dev/yoshii0110/articles/516fc30c4051d8) B! 7
 - [役割における仕事の性質の変化](https://tech.andpad.co.jp/entry/2023/12/07/100000) B! 7
 - [Debian12 bookwormの更新でハマった件もしくはAlpine Linuxからdistrolessへの乗り換え時の注意点](https://tech.andpad.co.jp/entry/2023/12/09/100000) B! 7
 - [Next.jsのapp routerに移行した話](https://zenn.dev/urotea/articles/3fbaa77d77b788) B! 7
-- [アジャイルにおけるフロー効率を追い求めた結果、開発メンバーのエンゲージメントが低下したので改善した話](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-02) B! 7
+- [shadcn/uiを使って簡単なWebページを作ってみた](https://zenn.dev/d2c_mtech_blog/articles/54dfd40120a299) B! 7
+- [これからデータサイエンス、AIを本格的に学ぶ人へ 📚](https://qiita.com/DeepTama/items/47cc0bdb888da6be05fa) B! 7
 - [ドワンゴの「ものづくりが好き」というエンジニア文化の話](https://blog.nnn.dev/entry/2023/12/16/110000) B! 7
+- [Visionフレームワークを活用した猫のポーズ検出 #はてなエンジニアアドベントカレンダー2023](https://yutailang0119.hatenablog.com/entry/2023/12/01/000000) B! 7
+- [iOS アプリのマルチモジュール開発とインターフェースモジュール](https://maiyama4.hatenablog.com/entry/2023/12/13/184702) B! 7
 - [private-isuで70万点取るためにやったこと](https://giarrium.hatenablog.com/entry/2023/12/17/130000) B! 7
 - [React-three-fiberを使ってみた！](https://tech.iimon.co.jp/entry/2023/12/14/164842) B! 7
 - [Elasticsearchについて](https://tech.iimon.co.jp/entry/2023/12/25/112413) B! 7
 - [スタートアップの開発責任者から上場ベンチャーのPdMに転身して1年を振り返る](https://techblog.jmdc.co.jp/entry/20231217) B! 7
 - [NIPPON ITチャリティ駅伝にカヤックから今年は2チーム出た話 2023](https://techblog.kayac.com/nit-ekiden-2023) B! 7
+- [マルチテナンシーのKubernetesクラスタとサービス間通信の認可](https://techblog.lycorp.co.jp/ja/20231213a) B! 7
 - [NewsPicksでプッシュ通知にレコメンドエンジンを導入した設計方針](https://tech.uzabase.com/entry/2023/12/16/012158) B! 7
 - [Next.jsとAWSで認証つきサイトを爆速でホストする(Next.js + Cognito + S3 + Cloudfront)](https://qiita.com/musutafakemaru/items/a00f4fe5448aa1969210) B! 7
 - [プロパティベーステストをやってみよう](https://qiita.com/kiwa-y/items/354744ef7393d07a8928) B! 7
 - [Prompt Flowで評価Flowを自作してRAGのイケてるLLMOpsを実現してみた](https://nttdocomo-developers.jp/entry/20231211_1) B! 7
+- [DDD を成功させるためにドメインエキスパートと「言葉集め会」で「生の言葉」を聞いてみよう](https://qiita.com/t2-kob/items/aa56037b9c654ff11b24) B! 7
 - [素Turbo](https://kinoppyd.dev/blog/suturbo/) B! 7
-- [生成AIによる記事作成支援において、プロジェクトの各ステップで意識したポイントと、プロジェクトを通して得た気づき](https://tech-blog.tabelog.com/entry/advent-calendar-20231215) B! 7
 - [開発戦力になる過程で身に着けた価値観と考え方10選](https://techblog.raccoon.ne.jp/archives/1702604309.html) B! 7
-- [Slack だけで動作する勤怠/時間管理を実装した話](https://qiita.com/seratch/items/c9a83e397065623b2b8b) B! 6
+- [xargs 完全理解マニュアル - xargs は拡張引数 (extended arguments) の略って知っていますか？](https://qiita.com/ko1nksm/items/34cd96d39c2c5cd80eb4) B! 7
+- [しんどくないSLI/SLOプラクティスをNew Relicで？](https://blog.jp.square-enix.com/iteng-blog/posts/00069-effortless-sli-slo-with-newrelic/) B! 6
+- [AI搭載エディタ「Cursor」にHaskellを書かせてみた](https://zenn.dev/lotz/articles/56829a79f883d5) B! 6
 - [「スクリーン上でブラウザのウィンドウを動かしたら描画に影響」「2つのブラウザのウィンドウの一方を動かすと他方に影響」という方向の実装作品の技術メモ【JavaScript】](https://qiita.com/youtoy/items/945edb13856417c8c901) B! 6
 - [PHPカンファレンスの過去14+3回の登壇を振り返る](https://qiita.com/ockeghem/items/af1cc430d7dbb133d55b) B! 6
 - [ロバストなPythonコードを書くための基本的なテクニック](https://qiita.com/Brutus/items/f1c5e06b1a95b46345b1) B! 6
 - [GUI フレームワーク Slint の紹介](https://qiita.com/task_jp/items/5e76f66366673d46afcd) B! 6
 - [最も大きい「n丁目」を調べてみた](https://qiita.com/nbayashi/items/46319da02614439d69ca) B! 6
-- [All I know about Vue 3's Vapor Mode Details (2023/12) ](https://qiita.com/ubugeeei/items/b28a04a41348b6e49293) B! 6
+- [Snowflakeパフォーマンスのカギはやっぱりデータモデリング](https://zenn.dev/ryotas_data/articles/34624130412e14) B! 6
+- [4日目: 3rd Party Cookie の正体](https://blog.jxck.io/entries/2023-12-04/3pca-3rd-party-cookie.html) B! 6
 - [6日目: トラッキングの問題](https://blog.jxck.io/entries/2023-12-06/3pca-tracking.html) B! 6
-- [11日目: Cookie Banner](https://blog.jxck.io/entries/2023-12-11/3pca-banner.html) B! 6
-- [21日目: SameSite Cookie](https://blog.jxck.io/entries/2023-12-21/same-site.html) B! 6
+- [22日目: Privacy Sandbox](https://blog.jxck.io/entries/2023-12-24/privacy-sandbox.html) B! 6
 - [Web標準の互換性を表す Baseline という概念の紹介](https://qiita.com/debiru/items/1f4bfdfb5bbb0b9c5a3a) B! 6
 - [OpenTelemetryでメトリックを計装するときによく出現するReaderやAggregationなど色々な用語をまとめて紹介します (id:lufiabb)](https://mackerel.io/ja/blog/entry/2023/12/21/192203) B! 6
 - [OpenTelemetry の Node.js Example で SDKが何をしているのか](https://blog.ojisan.io/otel-node-sdk/) B! 6
+- [線形回帰において「多重共線性があると推定が不安定になる」とは？](https://zenn.dev/tatamiya/articles/eeb97aae490f3ee8f0e9) B! 6
 - [米国の大学・企業でのKaggle実績の受け取られ方雑感](https://yutori-datascience.hatenablog.com/entry/2023/12/06/135615) B! 6
 - [Microsoft Entra ID ライセンス クイズ](https://zenn.dev/microsoft/articles/8a46ff89339001) B! 6
 - [実際の業務でPower Automateを活用した事例10選！](https://www.fulogabc.net/entry/power-automate-jirei-10) B! 6
@@ -484,32 +516,43 @@
 - [Customer Reliability Engineeringとはなんだったのか](https://creators.bengo4.com/entry/2023/12/09/000000) B! 6
 - [QAがPull Requestから影響範囲を調べてリグレッションテストを実施している話](https://tech.commmune.jp/entry/2023/10/25/112000) B! 6
 - [ニアリアルタイムで投稿レコメンドをユーザーに届ける](https://tech.commmune.jp/entry/2023/12/22/173000) B! 6
-- [これからデータサイエンス、AIを本格的に学ぶ人へ 📚](https://qiita.com/DeepTama/items/47cc0bdb888da6be05fa) B! 6
+- [2023年SREチームでやったこと](https://engineer.crowdworks.jp/entry/2023sre) B! 6
 - [Four Keys導入で感じた良かった事と課題](https://techblog.gmo-ap.jp/2023/12/06/four-keys-broblems/) B! 6
 - [【Adobe Photoshop】AIを活用してクリスマスカードを作る](https://techblog.gmo-ap.jp/2023/12/13/christmas_card/) B! 6
-- [Visionフレームワークを活用した猫のポーズ検出 #はてなエンジニアアドベントカレンダー2023](https://yutailang0119.hatenablog.com/entry/2023/12/01/000000) B! 6
-- [iOS アプリのマルチモジュール開発とインターフェースモジュール](https://maiyama4.hatenablog.com/entry/2023/12/13/184702) B! 6
+- [Java 21のSequenced Collectionsのreversedの実装について](https://techblog.gmo-ap.jp/2023/12/15/java-21-sequenced-collections/) B! 6
+- [大生成AI時代に学ぶAIのしくみ基礎の基礎](https://goodpatch-tech.hatenablog.com/entry/ai_super_basic_in_2023) B! 6
 - [WebGLからWebGPUにステップアップしよう！](https://qiita.com/emadurandal/items/624fe7edd147d5a648b1) B! 6
 - [フロントエンドの"バリデーション"は最低限の方がいいらしい。](https://qiita.com/mi2__user/items/f2f415ccbb0a625c8647) B! 6
-- [ロバストPython 型チェックをより効果的に導入するための考え方](https://tech.iimon.co.jp/entry/2023/12/08/000000) B! 6
+- [本番環境でAmplifyを3年くらい使ってみている弊社環境のご紹介](https://qiita.com/miu_crescent/items/c3404b10b8626e82c9c3) B! 6
 - [めざせ☆全問正解　正規表現マスター！](https://tech.iimon.co.jp/entry/2023/12/10/125341) B! 6
 - [ReactとWebAPIを取得して画面表示してみよう！！](https://tech.iimon.co.jp/entry/mountain) B! 6
 - [ecscheduleを触ってみる！(v0.11)](https://tech.iimon.co.jp/entry/2023/12/20/000000) B! 6
 - [ID認証のOSS、Oryをさわってみた](https://techblog.jmdc.co.jp/entry/20231219) B! 6
+- [【MLIR】GPU上で走る自作言語のコンパイラを作っている話](https://zenn.dev/lemolatoon3/articles/self-made-lang-run-on-gpu) B! 6
 - [ログラスのバックエンド技術スタック2023](https://zenn.dev/loglass/articles/open-loglass-tech-stack-2023) B! 6
+- [Amazon ECSにおけるカナリアリリースの実現](https://techblog.lycorp.co.jp/ja/20231210a) B! 6
+- [Vite だけではサポートできないブラウザのための @vitejs/plugin-legacy プラグイン紹介と注意点](https://techblog.lycorp.co.jp/ja/20231218a) B! 6
 - [BI を導入しよう！ Power BI と Tableau と Domo と Qlik とを比較してみた](https://qiita.com/s-shimabukuro/items/af18a7b8fa6fe4ef91a1) B! 6
-- [DDD を成功させるためにドメインエキスパートと「言葉集め会」で「生の言葉」を聞いてみよう](https://qiita.com/t2-kob/items/aa56037b9c654ff11b24) B! 6
+- [【令和最新版】一歩上を目指すITエンジニアが知っておきたいビジネス用語集](https://qiita.com/miumiu0917/items/71273cb5f7bd0f5c9adb) B! 6
 - [持続可能な開発組織に必要な文化 6選](https://tech-blog.tabelog.com/entry/advent-calendar-20231218) B! 6
+- [新卒エンジニアとして書いた1年前の記事を振り返って](https://tech-blog.tabelog.com/entry/advent-calendar-20231219) B! 6
 - [【WSL2】時間のかかるコマンドが終了したらデスクトップ通知が出るようにした](https://qiita.com/Sohjin/items/f882385a86a120bc8213) B! 6
+- [転職活動をはじめます。やりたいことを「考える時間」と「検証する時間」をつくる。](https://qiita.com/newta/items/cd151e1d821ea2741c9a) B! 6
+- [ディメンショナルモデリングでアクセス分析のファクトテーブルをどう設計するか](https://techblog.kazaneya.com/20231215-access-fact-table-design/) B! 6
+- [🎉🎉最高にイカしたバウンディングボックスを紹介するぜ🎉🎉](https://qiita.com/yuneco/items/4ef41286136493d76f9d) B! 6
 - [C++の構築環境に関して](https://qiita.com/exli3141/items/17f6682916909e13914d) B! 5
 - [Haskellで、手軽にプロパティベーステスト](https://zenn.dev/takenobu_hs/articles/a4b6bc0847182c) B! 5
-- [AI搭載エディタ「Cursor」にHaskellを書かせてみた](https://zenn.dev/lotz/articles/56829a79f883d5) B! 5
+- [システム開発上中流工程でユビキタス言語化された日本語プログラミング言語と日本語識別子を使った数学的形式言語のソースコード対比](https://qiita.com/mylifewithviolin/items/e32e2b8711a1cac765e1) B! 5
 - [DXOpalでスイカゲームみたいなのを作った](https://qiita.com/sonota88/items/105e141d18372918e675) B! 5
-- [BigQueryでクエリを書いたときにハマった罠集](https://sucrose.hatenablog.com/entry/2023/12/16/234248) B! 5
-- [4日目: 3rd Party Cookie の正体](https://blog.jxck.io/entries/2023-12-04/3pca-3rd-party-cookie.html) B! 5
+- [7日目: Cookie2](https://blog.jxck.io/entries/2023-12-07/3pca-cookie2.html) B! 5
+- [ちょうぜつソフトウェア設計入門から1年、オブジェクト指向を求めて](https://qiita.com/tanakahisateru/items/a2522e0823e2440ff207) B! 5
+- [認証と身元確認の強度について改めて考えてみようと思った](https://qiita.com/kokukuma/items/5fecaffa7b6973c655eb) B! 5
+- [LLM・プロンプトの評価フレームワークについてまとめてみた](https://zenn.dev/pomcho555/articles/8e42f0a4ce39eb) B! 5
 - [最高のvim環境を構築するためのdocker術](https://zenn.dev/vim_jp/articles/0004-build_up_environment_of_my_vim_in_container) B! 5
 - [plenary.nvim による非同期処理](https://qiita.com/delphinus/items/2d60bd2f00834c7709e6) B! 5
-- [線形回帰において「多重共線性があると推定が不安定になる」とは？](https://zenn.dev/tatamiya/articles/eeb97aae490f3ee8f0e9) B! 5
+- [整数計画ソルバーでシフトスケジューリング問題を解いてみた](https://zenn.dev/umepon/articles/5aef89c5c348de) B! 5
+- [[上級編]LLMへ至る道~Transformerは何をするのか~[15日目]](https://dev.classmethod.jp/articles/road-to-llm-advent-calendar-2023-15/) B! 5
+- [AWSの生成AI最新機能ハンズオン！BedrockのKnowledge BaseとAgentsに入門しよう](https://qiita.com/minorun365/items/86a3667290a8e5657f65) B! 5
 - [仮想通貨で月に1万円を稼ぐC級Botterになろう](https://note.com/qash/n/n11f79a69daad) B! 5
 - [Go Conference mini 2023 Winter IN KYOTOでLTしてきました！](https://tech.andpad.co.jp/entry/2023/12/05/100000) B! 5
 - [楽しさ満載！レゴで学ぶスクラム研修](https://tech.andpad.co.jp/entry/2023/12/08/100000) B! 5
@@ -519,84 +562,93 @@
 - [アソビューに入社して4ヶ月、満足度が高かった制度3選](https://tech.asoview.co.jp/entry/2023/12/11/100027) B! 5
 - [【Figma × Googleスプレッドシート】で作業を効率化し、課題解決に集中できるようにする！](https://tech.asoview.co.jp/entry/2023/12/13/080000) B! 5
 - [夜明け前のデザインシステム再考〜デザインシステムの目的と指標](https://creators.bengo4.com/entry/2023/12/20/000000) B! 5
-- [2023年SREチームでやったこと](https://engineer.crowdworks.jp/entry/2023sre) B! 5
-- [shadcn/uiを使って簡単なWebページを作ってみた](https://zenn.dev/d2c_mtech_blog/articles/54dfd40120a299) B! 5
-- [Java 21のSequenced Collectionsのreversedの実装について](https://techblog.gmo-ap.jp/2023/12/15/java-21-sequenced-collections/) B! 5
+- [BigQuery の Execution Plan を体感&可視化で理解してパフォーマンスチューニングする](https://qiita.com/zakuro/items/fee4eeb771c6ccc60b16) B! 5
+- [日記を習慣化して本にして売ってみた](https://note.com/hisasann/n/n4b132d7a41c6) B! 5
 - [【Python】噂の"LightweightMMM"を使ってみた](https://techblog.gmo-ap.jp/2023/12/21/python_lightweightmmm/) B! 5
-- [大生成AI時代に学ぶAIのしくみ基礎の基礎](https://goodpatch-tech.hatenablog.com/entry/ai_super_basic_in_2023) B! 5
 - [welldayというHRSaaSチャレンジのAtoZ](https://note.com/mutta/n/n0a0e23105752?sub_rt=share_h) B! 5
-- [本番環境でAmplifyを3年くらい使ってみている弊社環境のご紹介](https://qiita.com/miu_crescent/items/c3404b10b8626e82c9c3) B! 5
 - [jest基礎とテスト戦略](https://tech.iimon.co.jp/entry/2023/12/11/121847) B! 5
 - [Gitコマンドチートシート](https://qiita.com/Pakku8914/items/5dfe07248eabd1c4ef98) B! 5
 - [部署横断でもくもく会をやってみた](https://techblog.jmdc.co.jp/entry/20231205) B! 5
 - [サーベイメール一斉送信の負荷対策](https://techblog.jmdc.co.jp/entry/20231224) B! 5
-- [【Meta Quest3】WebXRでできる！フルカラーパススルーMR開発【Unity】](https://techblog.kayac.com/2023/12/23/093000) B! 5
 - [子供が自分でEC2のマイクラサーバーを起動できるように家族用Alexaスキルを作ってみた](https://zenn.dev/ryo_kawamata/articles/e9502a8f8d2cc3) B! 5
 - [社内業務の生産性を爆上げしたGPTs / 利用推進のための取り組み](https://note.com/majackyy/n/n10b8191ef9ac) B! 5
-- [Amazon ECSにおけるカナリアリリースの実現](https://techblog.lycorp.co.jp/ja/20231210a) B! 5
-- [Vite だけではサポートできないブラウザのための @vitejs/plugin-legacy プラグイン紹介と注意点](https://techblog.lycorp.co.jp/ja/20231218a) B! 5
+- [メモリモデル入門（Sequential ConsistencyとTotal Store Orderを理解する）](https://techblog.lycorp.co.jp/ja/20231216a) B! 5
 - [スクラムマスターのいないスクラムチームへの挑戦](https://zenn.dev/magicmoment/articles/no-sm-team-202312) B! 5
 - [エンジニアとしてブレイクスルーしたければまずキーボードを2つに割るんだ](https://zenn.dev/magicmoment/articles/break-your-keyboard-in-two-202312) B! 5
 - [【Golang】Azure OpenAI で Embedding したベクトルを使って、自前検索エンジンを作ろう](https://zenn.dev/microsoft/articles/20231208_go_aoai_pg_vector) B! 5
+- [AWS SESでのドメイン認証（SPF・DKIM・DMARC）設定のポイント](https://miraitranslate-tech.hatenablog.jp/entry/aws-ses-sender-domain-authentication) B! 5
 - [【github】mainブランチに対して直接pushを禁止する保護ルールを設定をする](https://zenn.dev/json_hardcoder/articles/f9b534377103a4) B! 5
 - [健康管理のために Next.js × OpenAI × Vercel で体重管理アプリを作ってみた](https://qiita.com/s_w_high/items/5590f00b273444012386) B! 5
 - [今モノレポやるならどのツール使うのがいいのん??](https://qiita.com/john-Q/items/ef7c433a5f441ff89ffb) B! 5
 - [1000円以下のマイコンだけで物体形状の学習と推論を行う](https://qiita.com/ksasao/items/bda58db0d24b03349e27) B! 5
-- [【令和最新版】一歩上を目指すITエンジニアが知っておきたいビジネス用語集](https://qiita.com/miumiu0917/items/71273cb5f7bd0f5c9adb) B! 5
+- [社内のインシデント体制を改善した話](https://qiita.com/kashee337/items/5791a5dfab7a1019a2cb) B! 5
+- [マニュアル作成フロントエンドの設計](https://zenn.dev/panda_blog/articles/801ff189fca44a) B! 5
+- [マニュアル作成フロントエンドの実装](https://zenn.dev/panda_blog/articles/801ff189fca44a) B! 5
 - [「Vueって何？」から始めるVue.js入門](https://qiita.com/MIDO-ruby7/items/6ab4bac960c3520a55d5) B! 5
 - [技術選定におけるCSSフレームワークの選定方法](https://qiita.com/muscle_gori02/items/55625071384b94db7d83) B! 5
+- [後方互換性のあるGoだからこそ実装依存なコードに気をつけたい話](https://zenn.dev/team_soda/articles/careful-go-impl-for-backward-compatibility) B! 5
 - [段階的な移行を成功させたストラテジパターン](https://tech-blog.tabelog.com/entry/advent-calendar-20231201) B! 5
 - [カスタマーフライデーで得た「ユーザーの声」が施策につながった事例の紹介](https://tech-blog.tabelog.com/entry/advent-calendar-20231207) B! 5
-- [新卒エンジニアとして書いた1年前の記事を振り返って](https://tech-blog.tabelog.com/entry/advent-calendar-20231219) B! 5
 - [RailsフロントエンドをNext.js(SPA)に移行した〜バックエンド視点での振り返り〜](https://tech.timee.co.jp/entry/2023/12/16/000000) B! 5
-- [転職活動をはじめます。やりたいことを「考える時間」と「検証する時間」をつくる。](https://qiita.com/newta/items/cd151e1d821ea2741c9a) B! 5
-- [ディメンショナルモデリングでアクセス分析のファクトテーブルをどう設計するか](https://techblog.kazaneya.com/20231215-access-fact-table-design/) B! 5
+- [機械学習領域のテックリードになって1年間取り組んできたこと](https://www.wantedly.com/companies/wantedly/post_articles/879242) B! 5
+- [学園祭において混雑可視化マップを作成および提供した話](https://qiita.com/TAKAYAMAN2180/items/e853436fdec0f7cf0083) B! 5
 - [エンジニアリングマネージャの役割パターン６種](https://qiita.com/newta/items/64c9b93f8b000d68b0fe) B! 5
 - [Functional Design: Principles, Patterns, and Practices](https://qiita.com/kawasima/items/9db1165490433c7ba19a) B! 5
 - [systemdでserviceをstraceする時のtips](https://rheb.hatenablog.com/entry/systemd-service-strace) B! 5
-- [しんどくないSLI/SLOプラクティスをNew Relicで？](https://blog.jp.square-enix.com/iteng-blog/posts/00069-effortless-sli-slo-with-newrelic/) B! 4
+- [あの日見た障害の原因を僕達はまだ知らない。](https://zenn.dev/come25136/articles/fd8c78bc75758c) B! 5
+- [初めての転職活動に役立つ情報を実体験を元に丁寧に解説【職務経歴書 / 企業研究 / 面接対策】](https://qiita.com/keynyaan/items/358a4004867f916f162b) B! 4
 - [Expressより18倍速いというElysiaJS、Bun圧倒的?](https://qiita.com/toshirot/items/579d6f7cf7dfa787f291) B! 4
 - [Cloudflare Pagesで動作するAstro製ブログのランタイムをbunに移行した話](https://qiita.com/Yu_yukk_Y/items/0678fb8e04a093493502) B! 4
 - [C言語で複素数値を構築する：CMPLXマクロの話](https://zenn.dev/mod_poppo/articles/c-cmplx-macro) B! 4
+- [Try to make a try!](https://zenn.dev/wx257osn2/articles/try_to_make_a_try-saiudhleghbaowlb) B! 4
+- [契約プログラミング機能のこれまでとこれから](https://onihusube.hatenablog.com/entry/2023/12/25/220134) B! 4
 - [Go 1.21 で追加された log/slog を本番環境に実戦投入しました](https://medium.com/arigatobank-tech-blog/go-1-21-slog-5f0d9804204f) B! 4
+- [Go と TinyGo の cgo 呼び出しオーバーヘッドの比較](https://qiita.com/sago35/items/885e4244b55301aaedf7) B! 4
 - [OpenAPIからGoとDart(Flutter)のコードを生成し、横断的かつスピーディーにアプリ開発する](https://zenn.dev/altiveinc/articles/generate-code-from-openapi) B! 4
 - [Haskellのzip関数を一般化すると何になるか](https://zenn.dev/mod_poppo/articles/generalizing-zip) B! 4
 - [2023年にHaskell関連で知ってよかったこと](https://kazu-yamamoto.hatenablog.jp/entry/2023/12/19/073356) B! 4
-- [AtCoder ガチ言語 Haskell 🔥](https://zenn.dev/toyboot4e/books/seriously-haskell) B! 4
 - [Reline::Faceで快適ターミナル生活](https://shimane.monstar-lab.com/hasumin/reline-face) B! 4
+- [Brainf*ckを直接実行できるCPUを作った (その1)](https://primenumber.hatenadiary.jp/entry/2023/12/09/073045) B! 4
 - [最終行に改行がないテキストファイルをシェルスクリプトで上手く扱う方法](https://qiita.com/ko1nksm/items/c2dd51e4bdd9bd903b13) B! 4
+- [シェルスクリプトの関数で「戻り値」を返す方法、全部まとめ（bash/zshの新機能 関数置換･値置換の使用例）](https://qiita.com/ko1nksm/items/2c5543744cebd4fb1e61) B! 4
 - [TypeScript豆知識集](https://zenn.dev/yodaka/articles/0c5c5e02994b9f) B! 4
 - [ファイルベースルーティングフレームワークを作る！](https://zenn.dev/yusukebe/articles/7c9f96f8c52b8a) B! 4
 - [物理から作るスイカゲーム](https://qiita.com/comefrombottom/items/244cdf905e9275b5ee5f) B! 4
+- [機運到来！Photon Quantum](https://zenn.dev/photon_japan/articles/17de1584a6b8be) B! 4
 - [【日本語版】All we know about Vue 3's Vapor Mode](https://qiita.com/ubugeeei/items/73a2416fd46cfe6311a8) B! 4
 - [今年の Vue のアップデートを確認する](https://blog.nekohack.me/posts/vue-3-updates-2023/) B! 4
+- [データモデリングによって何を解決したいのか](https://zenn.dev/tenajima/articles/vorwm4h1h3fkrg58) B! 4
 - [GIPKことはじめ](https://nippondanji.blogspot.com/2023/12/gipk-generated-invisible-primary-keys.html) B! 4
 - [MySQL にいい感じにコントリビュートする方法(非公式)](https://rabbitfoot141.hatenablog.com/entry/2023/12/06/170449) B! 4
 - [PostgreSQL:レプリケーションされないテーブルの犯人はUnlogged Tableでした](https://dev.classmethod.jp/articles/unlogged-table-not-replicated/) B! 4
-- [7日目: Cookie2](https://blog.jxck.io/entries/2023-12-07/3pca-cookie2.html) B! 4
+- [9日目: DNT](https://blog.jxck.io/entries/2023-12-09/3pca-dnt.html) B! 4
 - [14日目: Partitioning](https://blog.jxck.io/entries/2023-12-14/partitioning.html) B! 4
 - [16日目: Bounce Tracking](https://blog.jxck.io/entries/2023-12-16/bounce-tracking.html) B! 4
 - [18日目: Cloaking](https://blog.jxck.io/entries/2023-12-18/cloaking.html) B! 4
-- [22日目: Privacy Sandbox](https://blog.jxck.io/entries/2023-12-24/privacy-sandbox.html) B! 4
-- [ちょうぜつソフトウェア設計入門から1年、オブジェクト指向を求めて](https://qiita.com/tanakahisateru/items/a2522e0823e2440ff207) B! 4
+- [20 日目: 3rd Party Cookie Deprecation](https://blog.jxck.io/entries/2023-12-20/deprecation.html) B! 4
+- [23日目: Interest Based Advertising](https://blog.jxck.io/entries/2023-12-25/interest-based-advertising.html) B! 4
 - [Auth0 Management APIについて](https://www.tc3.co.jp/what_is_auth0_management_api/) B! 4
-- [認証と身元確認の強度について改めて考えてみようと思った](https://qiita.com/kokukuma/items/5fecaffa7b6973c655eb) B! 4
 - [GKE Upgrade Event を Datadog Monitor で Slack に通知する](https://minato128.hateblo.jp/entry/2023/12/06/085704) B! 4
 - [AWSでのGitLab実装パターンについてまとめてみた](https://dev.classmethod.jp/articles/gitlab-aws-202310-kidapan/) B! 4
 - [AWSでのGitLab実装パターンについてまとめてみた](https://dev.classmethod.jp/articles/gitlab-aws-202310-kidapan/) B! 4
 - [MLOpsの意義：機械学習プロジェクトを成功させるための鍵](https://qiita.com/nokoxxx1212/items/276df4b3c18ef2ad08b8) B! 4
-- [LLM・プロンプトの評価フレームワークについてまとめてみた](https://zenn.dev/pomcho555/articles/8e42f0a4ce39eb) B! 4
+- [ナレッジワークの Platform Engineering](https://zenn.dev/knowledgework/articles/knowledgework-platform-engineering-prologue) B! 4
 - [Webdriver.ioという自動テストフレームワークって知っている？](https://zenn.dev/taku_nakagawa/articles/848b5deb15bf9a) B! 4
+- [テスターちゃんクリスマススペシャル「バグバッシュ大会」](https://testerchan.hatenadiary.com/entry/2023/12/25/000025) B! 4
+- [大きなプロジェクトがコケるときには『受け身』をとりましょう](https://made.livesense.co.jp/entry/2023/12/22/120000) B! 4
 - [書籍「Pythonではじめる数理最適化」の改訂版のお知らせ-数理最適化問題の行列表現の実装に入門-](https://qiita.com/iwanaga-jiro/items/045a04abd47390904e27) B! 4
-- [整数計画ソルバーでシフトスケジューリング問題を解いてみた](https://zenn.dev/umepon/articles/5aef89c5c348de) B! 4
 - [国産量子コンピュータ・システム(3号機)の概要を紹介します](https://qiita.com/snuffkin/items/62c657e4d665c986d42f) B! 4
 - [[初級編]LLMへ至る道 ~そもそも機械学習ってなんなの？本企画の説明を添えて~[1日目]](https://dev.classmethod.jp/articles/road-to-llm-advent-calendar-2023-01/) B! 4
-- [[上級編]LLMへ至る道~Transformerは何をするのか~[15日目]](https://dev.classmethod.jp/articles/road-to-llm-advent-calendar-2023-15/) B! 4
+- [基盤モデルとロボットの融合：家庭で楽しむAI技術](https://karaage.hatenadiary.jp/entry/2023_robotics_ac) B! 4
+- [Agents for Amazon BedrockでWeb上のブログやニュースを要約する](https://qiita.com/nasuvitz/items/c34419150eaee78544cc) B! 4
 - [AWS re:Invent 2023 3日目のアプデ特集（生成AIモデル、ベクターDB等）](https://qiita.com/minorun365/items/037e04312bc8f4f3b25e) B! 4
+- [Lambda + Monolithはアンチパターンなのか？ マイクロサービスでなく「小さくはじめる」選択肢](https://zenn.dev/watany/articles/183d40f8e31a45) B! 4
 - [48個の LLM を用いた Instruction データセットの品質スコアリング](https://qiita.com/kunishou/items/efd9f68d6aa86d56dc73) B! 4
 - [LLMをローカル環境で動かすことは貴族の遊びなのか？](https://qiita.com/sald_ra/items/24b571ea2b9c0fa04c56) B! 4
 - [#03：Data Modelling and Transformation(データモデリング＆データ変換)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-03-data-modelling-and-transformation/) B! 4
+- [Power Automate の数式って難しい？だったら生成 AI に聞いちゃえ！](https://qiita.com/Takashi_Masumori/items/c462f1570a2eca5254af) B! 4
 - [AEONグループでテックブログやアドベントカレンダーをやることになった話](https://qiita.com/Tocyuki/items/e1bdf81e5e0efd09d0fa) B! 4
+- [開発が少しやり易くなるiTerm2の設定と使い方](https://zenn.dev/aldagram_tech/articles/0fc671a41021f3) B! 4
 - [デザインシステム「Tsukuri」でテキストフィールドのコンポーネント設計に挑戦した話](https://tech.andpad.co.jp/entry/2023/12/13/150000) B! 4
 - [目標を変えたらモチベーションが上がり組織の課題解決にも繋がった話](https://tech.andpad.co.jp/entry/2023/12/18/101000) B! 4
 - [ネイティブアプリのストア評価4.5！劇的に改善した施策のご紹介](https://tech.asoview.co.jp/entry/2023/12/07/100641) B! 4
@@ -605,32 +657,37 @@
 - [上流工程、そしてスクラムへ](https://tech.asoview.co.jp/entry/2023/12/21/153600) B! 4
 - [入社2ヶ月エンジニアから見るアソビュー！での働き方](https://tech.asoview.co.jp/entry/2023/12/24/093230) B! 4
 - [スプレッドシートとGoogle Apps Scriptでtextlintの辞書ファイルを生成する](https://creators.bengo4.com/entry/2023/12/04/090000) B! 4
+- [情勢の変化とリモート勤務、福岡を選んだ私の働き方](https://creators.bengo4.com/entry/2023/12/15/000000) B! 4
+- [「プロダクトとしてのドキュメント」を目指してドキュメンテーションへの考え方をアンラーンする](https://tech.bm-sms.co.jp/entry/2023/12/03/093000) B! 4
 - [マネジメントの密度を高める](https://atsushisakai.medium.com/management-density-89fc6eb9d29b) B! 4
-- [BigQuery の Execution Plan を体感&可視化で理解してパフォーマンスチューニングする](https://qiita.com/zakuro/items/fee4eeb771c6ccc60b16) B! 4
 - [バイセルのテックカンパニーへの変遷、CTOとしての取り組みを振り返る](https://note.com/kyuns/n/n6f56f69db333) B! 4
 - [HTMLでモグラたたきゲームをつくりました](https://qiita.com/koichi-hasegawa/items/865ce68ebf875eef1420) B! 4
 - [愛の告白をBGPに載せて](https://qiita.com/wenjiewise/items/441bdcb594ab3e3e2b88) B! 4
 - [VR卓球ゲーム開発の裏側](https://note.cover-corp.com/n/n586658827883) B! 4
+- [BigQuery Remote Functionsによる形態素解析](https://inside.dmm.com/articles/bq-remote-functions/) B! 4
 - [Nand2Tetris の ALU の設計が美しくて感動した話](https://hsjoihs.hatenablog.com/entry/2023/12/07/215935) B! 4
-- [日記を習慣化して本にして売ってみた](https://note.com/hisasann/n/n4b132d7a41c6) B! 4
+- [Flutterにおけるデザインの作り方（個人開発向け）⭐️](https://zenn.dev/minn/articles/21ec85eba28284) B! 4
 - [生成系AIの画像添付を使って可能性を探ってみた。](https://techblog.gmo-ap.jp/2023/12/02/generativeai-image/) B! 4
 - [GoogleのVertex AI PaLM Embedding APIを使って類似記事タイトルをレコメンドする](https://techblog.gmo-ap.jp/2023/12/10/recommend_article_title_in_gcp/) B! 4
 - [Google CloudでSpot VMを利用する](https://techblog.gmo-ap.jp/2023/12/20/google-cloud-spot-vm/) B! 4
 - [Stable DiffusionのSDXL1.0モデルと拡張機能のあれこれ](https://techblog.gmo-ap.jp/2023/12/24/stable-diffusion-sdxl/) B! 4
+- [MySQL5.7とMySQL8のcollation周りについて](https://techblog.hacomono.jp/entry/2023/12/20/070000) B! 4
 - [TypeScriptプロジェクトでディレクトリ単位のカプセル化をする](https://tech.iimon.co.jp/entry/2023/12/07/140000) B! 4
-- [VSCode おすすめ拡張機能と設定](https://tech.iimon.co.jp/entry/2023/12/23/163000) B! 4
+- [請求書発行のためにEmbulkを使って爆速でデータを集約した話](https://user-first.ikyu.co.jp/entry/2023/12/12/111154) B! 4
 - [【HTML＆CSS】初心者が躓きがちなスタイリングについて解説してみた](https://qiita.com/k_uki512/items/ac6c19b15dbbd24d8ea0) B! 4
+- [GitHubのプロフィールを充実させてみよう♪](https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede) B! 4
 - [テックイベント参加レポート（Kaigi on Rails 2023に参加してきました！）](https://techblog.jmdc.co.jp/entry/20231204) B! 4
 - [デザインシステムめっちゃ見る③-1 カラー編 (前編)](https://techblog.jmdc.co.jp/entry/20231214) B! 4
 - [デザインシステムめっちゃ見る③-2 カラー編 (後編)](https://techblog.jmdc.co.jp/entry/20231215) B! 4
 - [会社のカードキーを無くさない技術](https://techblog.kayac.com/avoid-losing-office-key) B! 4
-- [【MLIR】GPU上で走る自作言語のコンパイラを作っている話](https://zenn.dev/lemolatoon3/articles/self-made-lang-run-on-gpu) B! 4
+- [ログベースのアラートポリシーとSlackを連携して、開発サーバーの問題を迅速に発見しよう](https://techblog.kayac.com/2023-log-alert) B! 4
+- [【Meta Quest3】WebXRでできる！フルカラーパススルーMR開発【Unity】](https://techblog.kayac.com/2023/12/23/093000) B! 4
 - [Blender Python APIで複数オブジェクトを用いたアニメーション作成](https://qiita.com/KMASAHIRO/items/fcc9cb79c08d7d1bac40) B! 4
 - [丁稚奉公から始まる異業種探索 〜3ヶ月でPdMがドメインエキスパートになる方法 〜](https://note.com/tomosooon/n/n0e4bfb7a6bdd) B! 4
+- [品質志向の高いエンジニアリング組織でQAエンジニアは必要ですか？](https://note.com/lg_tester_ohira/n/ncc3f4bce0779) B! 4
+- [動作例からKubernetes PDBの挙動を理解する](https://engineering.mercari.com/blog/entry/20231204-k8s-understanding-pdb/) B! 4
 - [全国すべての鉄道路線の可視化への挑戦](https://techblog.lycorp.co.jp/ja/20231201a) B! 4
-- [マルチテナンシーのKubernetesクラスタとサービス間通信の認可](https://techblog.lycorp.co.jp/ja/20231213a) B! 4
-- [メモリモデル入門（Sequential ConsistencyとTotal Store Orderを理解する）](https://techblog.lycorp.co.jp/ja/20231216a) B! 4
-- [データ品質をコード化！AIプラットフォームのデータ品質管理システム](https://techblog.lycorp.co.jp/ja/20231225a) B! 4
+- [ヤフー検索におけるビジュアルリグレッションテストの取り組みと、TypeScript Compiler APIの活用事例](https://techblog.lycorp.co.jp/ja/20231214b) B! 4
 - [アラート対応に追われる日々にサヨナラ！効率化できる仕組み作りのポイント](https://www.m3tech.blog/entry/alert_operation) B! 4
 - [Cloud Run × Event-Driven Architecture の並列分散処理によるデータ処理高速化への取り組み](https://zenn.dev/magicmoment/articles/parallel-distributed-processing-202312) B! 4
 - [Engineering Manager になって3ヶ月の私が大切にしていること](https://zenn.dev/magicmoment/articles/novice-engineering-manager-202312) B! 4
@@ -644,19 +701,18 @@
 - [LLMで叶える「あの人のコメントが読みたい！」](https://tech.uzabase.com/entry/2023/12/05/202804) B! 4
 - [5000万件のDynamoDBテーブルをダウンタイム無しで移行した話](https://tech.uzabase.com/entry/2023/12/13/190231) B! 4
 - [turbo/gen で対話式雛形コード生成](https://zenn.dev/json_hardcoder/articles/1e8628dab0f31c) B! 4
+- [需要予測 と ゼロ過剰](https://qiita.com/shnchr/items/a8900aaa9429c3c78ee5) B! 4
 - [Zodのバリデーション実装時間を短縮しバックエンドとの整合性を保つ](https://qiita.com/ay-kapi/items/b959ee60fed8a84a9973) B! 4
 - [開発者必見！Chromeの拡張機能おすすめ40選【2023年版】](https://qiita.com/ishigero/items/1887820e3e8b98591a6d) B! 4
-- [マニュアル作成フロントエンドの設計](https://zenn.dev/panda_blog/articles/801ff189fca44a) B! 4
-- [マニュアル作成フロントエンドの実装](https://zenn.dev/panda_blog/articles/801ff189fca44a) B! 4
-- [VSCode の左側のアレを出したり消したり出来るようにする方法](https://qiita.com/tomoasleep/items/fcab2110b6fe03c809e4) B! 4
 - [お手軽にダッシュボードを作ってみた](https://qiita.com/yoshitake_tatsuhiro/items/4bf26bad64b0dc5ab5cf) B! 4
+- [Figma から Next.js を生成する方法について調べてみた](https://blog.recruit.co.jp/rtc/2023/12/22/figma-next-js/) B! 4
 - [Reactでシンプルなタイマーアプリを作りながら学ぶChrome拡張機能開発入門 ](https://qiita.com/yushi32/items/b9db9489df053b08268e) B! 4
 - [【JavaScript】Promise 〜 初めてのAPI操作 〜](https://qiita.com/hidebo_yamada/items/90551d3fa921f5ffc12f) B! 4
 - [JSONって何？](https://qiita.com/kyan96/items/4323a2ff373bf246278b) B! 4
-- [後方互換性のあるGoだからこそ実装依存なコードに気をつけたい話](https://zenn.dev/team_soda/articles/careful-go-impl-for-backward-compatibility) B! 4
 - [Cursor Editorというこれまた便利そうなエディタを見つけた](https://qiita.com/ussy_k/items/cfee1b94a10830d7ad86) B! 4
 - [セルフ振り返りで己を磨き上げろ！](https://tech-blog.tabelog.com/entry/advent-calendar-20231209) B! 4
 - [食べログネット予約における非同期メッセージ発行の設計パターン - Transactional Outbox のメリット](https://tech-blog.tabelog.com/entry/advent-calendar-20231211) B! 4
+- [プロダクト開発一筋だったエンジニアがリファクタリングに挑んで感じたこと](https://tech-blog.tabelog.com/entry/advent-calendar-20231212) B! 4
 - [チームにモブワークを取り入れてみた話](https://tech-blog.tabelog.com/entry/advent-calendar-20231216) B! 4
 - [Android OS14かJetpackCompose基礎](https://tech-blog.tabelog.com/entry/advent-calendar-20231217) B! 4
 - [食べログ新規サービスの開発チームにプロセスや考え方をインタビューしてみた](https://tech-blog.tabelog.com/entry/advent-calendar-20231220) B! 4
@@ -670,29 +726,32 @@
 - [Vue Fes Japan 2023 参加レポ](https://zenn.dev/yoriso/articles/83cb3390ee3fc7) B! 4
 - [dialog要素を使ってアクセシブルなモーダルを作ってみよう](https://zenn.dev/otacle/articles/124f8fe65528e8) B! 4
 - [文章中に<br>タグ入れるのやめてください](https://qiita.com/mu_tomoya/items/ed144dd0f642458f3573) B! 4
+- [外部組織に分析目的でデータを提供するインフラ設計において考慮すること](https://techblog.kazaneya.com/20231225-data-sharing-infra/) B! 4
 - [EMに挑戦する前に、知っておくべき役割の本質](https://www.wantedly.com/companies/wantedly/post_articles/875245) B! 4
 - [画像を別の形式に変換するクソアプリ](https://qiita.com/de_teiu_tkg/items/f71e06e8cf7343453f2e) B! 4
 - [Pandasでメモリを効率的に扱うテクニック5選](https://techblog.raksul.com/entry/2023/12/22/110601) B! 4
-- [xargs 完全理解マニュアル - xargs は拡張引数 (extended arguments) の略って知っていますか？](https://qiita.com/ko1nksm/items/34cd96d39c2c5cd80eb4) B! 4
 - [手探り技術広報1年目の記録](https://note.com/honchang/n/nb1c78e139ae8?sub_rt=share_pb) B! 4
 - [サイトを停止させた話 ～慢心は敵！バックアップはゼッタイ！～](https://qiita.com/benjuwan/items/84a394f1884f5694f047) B! 4
-- [あの日見た障害の原因を僕達はまだ知らない。](https://zenn.dev/come25136/articles/fd8c78bc75758c) B! 4
 - [New Relicをフルに活用するためにデータ量とコストに気を配る](https://techblog.tver.co.jp/entry/kaga/tver-advent-calendar-2023-newrelic-data-optimization) B! 3
 - [SnykでSBOM生成してみた](https://dev.classmethod.jp/articles/snyk-sbom-202312-kdpn/) B! 3
 - [Pythonエンジニアが感じたRailsの戸惑いポイント](https://diggle.engineer/entry/python_engineer_confusion) B! 3
-- [初めての転職活動に役立つ情報を実体験を元に丁寧に解説【職務経歴書 / 企業研究 / 面接対策】](https://qiita.com/keynyaan/items/358a4004867f916f162b) B! 3
+- [LINQ -> Python チートシート](https://zenn.dev/shimat/articles/d8812d20e803cf) B! 3
 - [C# ではじめる OpenTelemetry。](https://blog.neno.dev/entry/2023/12/23/194947) B! 3
 - [メモリ領域の再利用は結構気を付けたほうがよい件](https://qiita.com/43x2/items/b07894b2db77d744e937) B! 3
-- [契約プログラミング機能のこれまでとこれから](https://onihusube.hatenablog.com/entry/2023/12/25/220134) B! 3
 - [Denoでnpmモジュールを実行してみよう - Zenn CLI編](https://zenn.dev/magurotuna/articles/run-zenn-cli-with-deno) B! 3
+- [Fortran, Python, Juliaの計算速度比較: Newton方程式を例に](https://kamemori.com/research/fortran/speed_harmonic_oscillator_1d_ja.html) B! 3
+- [依存ライブラリはメンテナンスされていますか？dep-doctorによるメンテナンスチェクのススメ](https://qiita.com/kyoshidajp/items/796f308b2c934bbdc4b7) B! 3
 - [Go1.22で追加される新しい乱数パッケージmath/rand/v2の紹介](https://zenn.dev/koya_iwamura/articles/d299d266cd4ea9) B! 3
-- [Go と TinyGo の cgo 呼び出しオーバーヘッドの比較](https://qiita.com/sago35/items/885e4244b55301aaedf7) B! 3
+- [Kotlin/Wasmが生成するWasmGCコードを眺める](https://zenn.dev/tanishiking/articles/2023-12-kotlin-wasm-mapping) B! 3
 - [JavaとJavaScriptが違うことをビジネスサイドに伝える例](https://qiita.com/nakamoto/items/c0dc1cc51284755fca70) B! 3
 - [php-play.devを運用してみて](https://zenn.dev/glassmonkey/articles/74ad10c6501f27) B! 3
 - [ブラウザで動くR、WebRが熱い！](https://zenn.dev/eitsupi/articles/webr-is-2023) B! 3
+- [cargo workspace で使える tips](https://zenn.dev/eduidl/articles/rust-workspace-tips) B! 3
+- [RustでTestcontainers入門: テストコードから依存サービスを起動してテスト環境を作成する](https://blog.kymmt.com/entry/testcontainers-rs) B! 3
+- [スレッドは join しなくてもよい](https://kenoss.github.io/blog/2023-12-22-join-handle-can-be-dropped/) B! 3
 - [ScalaMatsuri 2024開催決定！CFPも募集開始！](https://blog.scalamatsuri.org/entry/2023/12/25/122512) B! 3
 - [【POSIX準拠】標準化された readlink･realpath コマンドの使い分けと歴史](https://qiita.com/ko1nksm/items/fc35fe47706ce371bd6d) B! 3
-- [Bourneシェルの終焉まで残り1年 ～ 新しいシェルへの移行は完了していますか？](https://qiita.com/ko1nksm/items/82f1b64fc656a512aca4) B! 3
+- [シェルスクリプトが速くなる！ forkしない新しいコマンド置換がやってくる！（次期bash/zshの新機能）](https://qiita.com/ko1nksm/items/a22629e888a4f2bc4dc0) B! 3
 - [CollectionsというOSSのヘッドレスCMSが良さそうだったのでAstro 4.0からの接続を試す](https://qiita.com/goosys/items/3a09c1b3859870f2a992) B! 3
 - [ヘッドレスCMSのビジネスメリット](https://www.mythinkings.net/business-benefits-of-headless-cms) B! 3
 - [前のフレームのカメラ行列を使用した残像効果](https://qiita.com/yuji_yasuhara/items/e38e0da8514b615654ce) B! 3
@@ -700,20 +759,18 @@
 - [OpenCV 5クラウドファンディング](https://qiita.com/dandelion1124/items/5a93a3deecefc0e17c45) B! 3
 - [ExpoのCustom Dev menuの紹介します](https://techblog.jmdc.co.jp/entry/20231222) B! 3
 - [地理情報システムの作り方（位置情報ゲームも作れる！）](https://qiita.com/gis/items/2d80371e6c0bcad99ef9) B! 3
-- [機運到来！Photon Quantum](https://zenn.dev/photon_japan/articles/17de1584a6b8be) B! 3
+- [最近気に入っているVueコンポーネントの分類方法](https://qiita.com/kira_puka/items/3c4384dd0864f1858be4) B! 3
+- [Vue Fes 2023 ティザーの裏側 完全版](https://blog.nekohack.me/posts/deep-dive-vuefes-2023-final/) B! 3
 - [dataformのSCDパッケージとdbtのsnapshot機能を比較してみた](https://techblog.kazaneya.com/20231215-dataform-dbt-snapshot/) B! 3
 - [大学のデータ分析の授業で Google Cloud を活用した話（登壇文字起こし） - 風音屋TechBlog](https://techblog.kazaneya.com/20231225-googlecloudnext-tokyo23/) B! 3
+- [dbtのテンプレートSQLをJinja2テンプレートで大量生成する話 ](https://techblog.kayac.com/dbt-sql-gen-jinja2) B! 3
 - [PostgreSQLでトランザクションIDをできるだけ早く消費する方法](https://masahikosawada.github.io/2023/12/21/Burning-XIDs/) B! 3
-- [Snowflakeパフォーマンスのカギはやっぱりデータモデリング](https://zenn.dev/ryotas_data/articles/34624130412e14) B! 3
 - [2日目: "区別" と "識別"](https://blog.jxck.io/entries/2023-12-02/3pca-cookie.html) B! 3
 - [5日目: 認証の連携](https://blog.jxck.io/entries/2023-12-05/3pca-authentication.html) B! 3
-- [9日目: DNT](https://blog.jxck.io/entries/2023-12-09/3pca-dnt.html) B! 3
 - [12日目: 終わりの始まり](https://blog.jxck.io/entries/2023-12-12/deprecation.html) B! 3
 - [13日目: ITP](https://blog.jxck.io/entries/2023-12-13/itp.html) B! 3
 - [15日目: Work Around](https://blog.jxck.io/entries/2023-12-15/work-around.html) B! 3
 - [17日目: Fingerprinting](https://blog.jxck.io/entries/2023-12-17/fingerprinting.html) B! 3
-- [20 日目: 3rd Party Cookie Deprecation](https://blog.jxck.io/entries/2023-12-20/deprecation.html) B! 3
-- [23日目: Interest Based Advertising](https://blog.jxck.io/entries/2023-12-25/interest-based-advertising.html) B! 3
 - [Amazon DynamoDBのキャパシティユニット消費パターンを整理してみた](https://qiita.com/minorun365/items/bb0cc79fe89e99ec2553) B! 3
 - [CDN Edge Server の役割をまとめてみた](https://dev.classmethod.jp/articles/cdn-edge-server-2023/) B! 3
 - [GKEクラスタ内部であってもイベントを直接転送できるEventarcの意外な落とし穴](https://tech.assured.jp/entry/2023/12/15/1200) B! 3
@@ -725,14 +782,18 @@
 - [MDN は Wiki から GitHub 管理に変わって編集の敷居は高くなったのか？](https://qiita.com/debiru/items/4c339032bf0f6eb2644b) B! 3
 - [WIT IDLプラグイン](https://zenn.dev/chikoski/articles/vscode_wit_plugin) B! 3
 - [WasmGCで導入される型や命令のお勉強](https://zenn.dev/tanishiking/articles/learn-wasm-gc) B! 3
+- [GoとWebAssembly](https://zenn.dev/askua/articles/9b614c377cc1e0) B! 3
 - [WASM書いてみた（Go vs Rust）](https://qiita.com/exit8goodgame/items/4cec94c451f11bb31a5f) B! 3
 - [Wasm + LLM の仕組み解説](https://zenn.dev/skanehira/articles/2023-12-16-wasm-llm-how-to-work) B! 3
+- [Kotlin/Wasmが生成するWasmGCコードを眺める](https://zenn.dev/tanishiking/articles/2023-12-kotlin-wasm-mapping) B! 3
 - [SNSアプリを作る時に必要なものを用意しました！](https://zenn.dev/noppe/articles/8248ec0d0bc609) B! 3
+- [re:Inventで聞いたCDK Cross Functional Teamの話を書きます](https://dev.classmethod.jp/articles/bwp302-construct-your-constructs-use-aws-cdk-to-create-architecture-at-scale/) B! 3
 - [AWS CDK内部実装で使われているGoFデザインパターン](https://go-to-k.hatenablog.com/entry/aws-cdk-internal-gof-paterns) B! 3
 - [SnykでSBOM生成してみた](https://dev.classmethod.jp/articles/snyk-sbom-202312-kdpn/) B! 3
 - [SBOM生成してみた#2](https://dev.classmethod.jp/articles/snyk-sbom2-bomber-202312-kdpn/) B! 3
 - [MackerelのCLIツール「mkr」を見ていく](https://dev.classmethod.jp/articles/mackerel-cli-mkr-202312-kdpn/) B! 3
 - [CloudFormationの新機能「Git Sync」をGitLabで試してみた](https://dev.classmethod.jp/articles/202312-cfn-git-sync-gitlab/) B! 3
+- [GitLabよ、この得体のしれないソースコードから、仕様書をつくりたまえ](https://qiita.com/GL_Tsukasa/items/09de2de4c35e8ba5dcc6) B! 3
 - [Mackerel で開発中のマイクロサービスを OpenTelemetry のトレースを活用してパフォーマンス改善した](https://rmatsuoka.hatenablog.com/entry/2023/12/02/000000) B! 3
 - [Unknownの色を紫にした背景について](https://mackerel.io/ja/blog/entry/2023/12/04/105406) B! 3
 - [SREは意思決定を助けてくれる](https://wtatsuru.hatenadiary.com/entry/2023/12/10/235900) B! 3
@@ -740,43 +801,49 @@
 - [MackerelのCLIツール「mkr」を見ていく](https://dev.classmethod.jp/articles/mackerel-cli-mkr-202312-kdpn/) B! 3
 - [OpenTelemetry Meetupを開催しました](https://zenn.dev/katzchang/articles/e5192f2fddda0a) B! 3
 - [OpenTelemetry と OpenObserve を使って Kubernetes 監視をかじる](https://zenn.dev/k6s4i53rx/articles/opentelemetry-and-openobserve-on-k8s) B! 3
+- [eBPFを使ったOpenTelemetryのGo自動計装ライブラリを調べる](https://www.onoe.dev/blog/otel-go-inst/) B! 3
 - [OpenTelemetry+JestでAPIテストを捗らせるパッケージを作りました](https://zenn.dev/mrasu/articles/814da652ebfc4f) B! 3
 - [PagerDutyを活用したオンコール運用の軌跡](https://zenn.dev/coconala/articles/56796b24415ec8) B! 3
 - [PagerDutyのオンコールシフトをSlackでリマインドする〜TypeScriptとAWS CDKで実装〜](https://qiita.com/yuki549/items/3a2a6beeb78a43401b97) B! 3
-- [ナレッジワークの Platform Engineering](https://zenn.dev/knowledgework/articles/knowledgework-platform-engineering-prologue) B! 3
 - [え！！ProxmoxのWebUIだけでEVPN-VXLAN構築を？出来らあっ！(実践編)](https://qiita.com/negineri/items/4a49f8ae0c5ddcb5ed01) B! 3
-- [テスターちゃんクリスマススペシャル「バグバッシュ大会」](https://testerchan.hatenadiary.com/entry/2023/12/25/000025) B! 3
 - [GitHubのorganization移行をやったお話](https://syossan.hateblo.jp/entry/2023/12/01/000000) B! 3
 - [インシデント発生時における初動対応の自動化](https://tech.gunosy.io/entry/automated_initial_incident_response) B! 3
+- [SRE成功の鍵は「定点観測会」だと思っている](https://x-tech5.co.jp/2023/12/08/1331/) B! 3
+- [（SRE的）作ってよかったドキュメント・表・運用](https://zenn.dev/yktakaha4/articles/useful_documents_tables_and_operations_for_sre) B! 3
 - [terraformでの構築って、面倒じゃないですか？](https://qiita.com/hiramax/items/266399eff9dfadf35bd6) B! 3
 - [開発遅延を防ぐ！事前検証によるプロジェクト管理術](https://akerun.hateblo.jp/entry/2023/12/14/pre-verification_project_management_techniques) B! 3
 - [「ちょっと待てぃ!!」で動画を止める #相席食堂](https://qiita.com/n0bisuke/items/eb5d842ef8ac298cffbd) B! 3
 - [cgroup の CPU コントローラーから設定する帯域幅制限のコードをちょっとだけ追ってみた](https://tenforward.hatenablog.com/entry/2023/12/05/000000) B! 3
 - [Vimのデフォルトキーマップをどのように上書きするか(ノーマルモード)](https://zenn.dev/nil2/articles/802f115673b9ba) B! 3
+- [Vimで始める正規表現](https://satorunooshie.medium.com/vim-with-regexp-7baa93d1205c) B! 3
 - [モンハンの装備の選び方を数理最適化で考える](https://zenn.dev/yumcyawiz/articles/044a56a3c4e604) B! 3
-- [基盤モデルとロボットの融合：家庭で楽しむAI技術](https://karaage.hatenadiary.jp/entry/2023_robotics_ac) B! 3
 - [Anthropic Claude - Prompt Design大全 ](https://qiita.com/kiiwami/items/4a62a3dcbedeb141e605) B! 3
-- [Agents for Amazon BedrockでWeb上のブログやニュースを要約する](https://qiita.com/nasuvitz/items/c34419150eaee78544cc) B! 3
-- [AWSの生成AI最新機能ハンズオン！BedrockのKnowledge BaseとAgentsに入門しよう](https://qiita.com/minorun365/items/86a3667290a8e5657f65) B! 3
 - [AWS Amplify Hosting に Next.js 14 をデプロイする](https://qiita.com/makies/items/ddf6c2f1dd61c9a2a274) B! 3
+- [AWS AppSync がアツい！ RDS Data API を使って GraphQL API を爆速で作ってみた](https://qiita.com/inada_riku/items/5f058e34bf8c0737f588) B! 3
 - [Anthropic Claude で文字起こしを要約する際のプロンプトエンジニアリング](https://qiita.com/maekawataiki/items/1ada8ba6f11072aaa68d) B! 3
+- [QuickSight向けデータマート構築術 ~ 1:Nカーディナリィ対策編 ~](https://techblog.kayac.com/build-quick-sight-cardinality) B! 3
+- [botter のためのデプロイ入門](https://zenn.dev/mtkn1/books/deployment-for-botter) B! 3
+- [Cloudflare Zero Trustを利用したセキュアなリモートワーク環境の構築](https://zenn.dev/delta/articles/bda17a982990b3) B! 3
 - [分散処理OSSへのコントリビューション in 2023](https://blog.okumin.com/entry/2023/12/25/011606) B! 3
 - [GoogleスプレッドシートとGASで作る請求書作成・提出システム](https://techblog.kazaneya.com/20231220-partner-invoice/) B! 3
 - [Kaggle Tokyo Meetup 2023 参加記](https://tawara.hatenablog.com/entry/2023/12/02/091243) B! 3
 - [最近のMetric Learningの始め方（コンペを見据えて）](https://qiita.com/fam_taro/items/7351282c15c168c7b93d) B! 3
 - [ベクトル検索のみで、AI王クイズ第一回コンペに臨む - Q&Aタスクでの複数の日本語embeddingsの評価](https://secon.dev/entry/2023/12/21/080000-vector-search-ai-ou-comp/) B! 3
 - [キャッシュレス時代のおこづかい帳システムをもっと便利にしてみた](https://qiita.com/cog1t0/items/23e0950da0fa52419bdf) B! 3
+- [AWS Lambdaの9年間を振り返る](https://zenn.dev/keni_w/articles/2b815f7918211e) B! 3
 - [日本語LLMでLLaVAの学習を行ってみた](https://qiita.com/toshi_456/items/248005a842725f9406e3) B! 3
 - [Simulink と Arduino Mega で『制御工学』を学ぶ、はじめの一歩](https://qiita.com/Carter/items/5526a72d05f90d073377) B! 3
 - [#01：ETL Tools(ETLツール)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-01-etl-tools/) B! 3
+- [#04：Data Warehouses(データウェアハウス)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-04-data-warehouses/) B! 3
 - [#14：Data Privacy and Governance(データプライバシーとガバナンス)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-14-data-privacy-and-governance/) B! 3
 - [#21：Data Quality Monitoring(データ品質監視)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-21-data-quality-monitoring/) B! 3
-- [Power Automate の数式って難しい？だったら生成 AI に聞いちゃえ！](https://qiita.com/Takashi_Masumori/items/c462f1570a2eca5254af) B! 3
+- [2023 年 マイクロソフト製品・サービスの脆弱性を振り返る](https://qiita.com/Eurekaberry/items/ef6ba812bfcb17866b4a) B! 3
 - [Power BI初心者の勉強記録](https://qiita.com/inaho3517/items/2d8a0dd287432618308a) B! 3
 - [イオンスマートテクノロジーSREチームの今年の発信まとめ](https://zenn.dev/aeonpeople/articles/26d71c2a4f20e6) B! 3
 - [頭脳はスプレッドシート! 店舗用お問合せAI LINE Botを作ろう](https://qiita.com/okinakamasayoshi/items/d51ce5b6f795680113d4) B! 3
 - [AEONグループの中で非エンジニアもいろいろやっているっていう話](https://qiita.com/sawayamakouji/items/2c1bc28d106d02f41845) B! 3
-- [開発が少しやり易くなるiTerm2の設定と使い方](https://zenn.dev/aldagram_tech/articles/0fc671a41021f3) B! 3
+- [デカすぎるレンダリング負荷を持つ管理画面をノーコードでメチャクチャ軽い動作にしたい！！](https://qiita.com/watanabe-tsubasa/items/2ad05ba50cd5dfa6273b) B! 3
+- [TypeScript で Minecraft のサバイバルを楽にするアドオンを作ってみた](https://zenn.dev/aidemy/articles/minecraft-addon-typescript) B! 3
 - [CRaCを用いたJavaアプリケーションの起動高速化](https://todokr.hatenablog.com/entry/2023/12/09/171746) B! 3
 - [Next.js で react-dropzone を使ってファイルアップローダーを作ってみよう](https://tech.andpad.co.jp/entry/2023/12/10/100000) B! 3
 - [改行コードから学んだ意図しないデータが生成されないようにする工夫](https://tech.andpad.co.jp/entry/2023/12/23/100000) B! 3
@@ -788,41 +855,40 @@
 - [サービス開始から12年、100名規模組織のCTOってなにやってるの？ in 2023](https://tech.asoview.co.jp/entry/2023/12/25/110743) B! 3
 - [弁護士ドットコムサマーインターンシップ2023の狙いと技術要素](https://creators.bengo4.com/entry/2023/12/05/090000) B! 3
 - [イマジナリーキャットと暮らしたい](https://creators.bengo4.com/entry/2023/12/13/000000) B! 3
-- [情勢の変化とリモート勤務、福岡を選んだ私の働き方](https://creators.bengo4.com/entry/2023/12/15/000000) B! 3
 - [プロジェクトマネージャーになって半年、やったこと、そして意識したこと](https://creators.bengo4.com/entry/2023/12/17/000000) B! 3
 - [FireHOLで公開されているブラックリストからの接続を Akamai でブロックする](https://creators.bengo4.com/entry/2023/12/21/000000) B! 3
 - [Netskopeからのアウトバウンド通信における送信元グローバルIPアドレスを固定化したい](https://qiita.com/gzock/items/67eca6e53a531695e809) B! 3
 - [システム障害対応に指揮官(インシデントコマンダー)として関わる際にやっている事 11 個](https://tech.bm-sms.co.jp/entry/2023/12/11/100000) B! 3
 - [手軽にElasticsearchとRDBの型不整合を防ごう ~ dynamic templateの実用例 ~](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-04) B! 3
-- [何かかきます！](https://zenn.dev/castingone_dev/articles/b15a0f31ac8660) B! 3
+- [TypeScriptにおいて型ガードとis演算子を利用して失った型を復活させるぞ！](https://zenn.dev/castingone_dev/articles/b15a0f31ac8660) B! 3
 - [ChompyとPOS開発](https://note.com/zaq1tomo/n/n45a4020d72a3) B! 3
+- [チームで学ぶTDD輪読会](https://tech.codmon.com/entry/2023/12/11/123302) B! 3
 - [crowdworks.jp のフロントエンド活動を振り返る 2023](https://engineer.crowdworks.jp/entry/crowdworksjp_frontend_2023) B! 3
 - [LLM（大規模自然言語処理）のタスクとデータセット](https://qiita.com/DeepTama/items/fca52f2289a1c8fa5405) B! 3
 - [クリーンアーキテクチャをベースとしたデザインドキュメント駆動開発の実践](https://qiita.com/waka_is_me/items/39aa3ff88ebaf59a59f7) B! 3
 - [バックエンドエンジニアから社内初の「デザインエンジニア」になった話](https://inside.dmm.com/articles/design-engineer/) B! 3
-- [BigQuery Remote Functionsによる形態素解析](https://inside.dmm.com/articles/bq-remote-functions/) B! 3
+- [Dagger Go SDK vs Shell in GitHub Actions ~ モノレポのCIの実装をGoで実装するまでの道のり ~](https://inside.dmm.com/articles/monorepo-ci-shell-vs-go/) B! 3
 - [N予備校とスマホゲームでの品質保証の違いについて](https://blog.nnn.dev/entry/2023/12/06/110000) B! 3
 - [「心理的安全性」とソフトウエア開発](https://tech.enigmo.co.jp/entry/2023/12/15/070000) B! 3
-- [Flutterにおけるデザインの作り方（個人開発向け）⭐️](https://zenn.dev/minn/articles/21ec85eba28284) B! 3
+- [“Immersed VR” でディスプレイごと作業環境を持ち運ぶ](https://medium.com/eureka-engineering/immersed-vr-portable-monitors-96c774340fd8) B! 3
 - [Optimal Transport Conditional Flow Matching - 拡散モデルに取って代わる次世代の生成技術？](https://zenn.dev/fusic/articles/ml-flow-matching) B! 3
-- [Terraformを使ってGCPサービスからのslack通知環境を整える](https://techblog.gmo-ap.jp/2023/12/07/slack_notifications_from_gcp_with_terraform/) B! 3
 - [【セキュリティ】脆弱性診断ツール「Nessus」を使ってみた](https://techblog.gmo-ap.jp/2023/12/09/nessus/) B! 3
 - [Four Keysの仕組みを深掘りする](https://techblog.gmo-ap.jp/2023/12/11/four-keys/) B! 3
 - [input, textarea中のキャレット座標 (カーソルの位置) を取得する](https://techblog.gmo-ap.jp/2023/12/22/input-textarea-caret-coordinate/) B! 3
 - [デザインシステム構築におけるデザイナーとエンジニアのコラボレーションの価値](https://goodpatch.com/blog/2023-12-design-system-collaboration) B! 3
 - [システム管理者のためのFigma解説 Enterprise Plan編](https://zenn.dev/enpipi/articles/figma-enterprise-for-system-admin) B! 3
-- [MySQL5.7とMySQL8のcollation周りについて](https://techblog.hacomono.jp/entry/2023/12/20/070000) B! 3
 - [スクラムチームのプロジェクト管理にはJiraが便利](https://maku693.hatenablog.jp/entry/2023/12/05/090000) B! 3
 - [SwiftにおけるTyped throwsの現在](https://cockscomb.hatenablog.com/entry/se-0413-typed-throws) B! 3
 - [知見がどんどん集まってくるところが見た〜い](https://blog.utgw.net/entry/2023/12/21/142111) B! 3
 - [技術負債解消プロジェクト・ツールやリソースの全社的な統廃合・イシューに向き合う部門再編などの話](https://blog.howtelevision.co.jp/entry/2023/12/01/000000) B! 3
 - [技術負債プロジェクトのプロジェクトマネジメント](https://blog.howtelevision.co.jp/entry/2023/12/06/000000) B! 3
 - [ReactにおけるProps Drilling問題を意識したコンポーネント設計](https://qiita.com/okr_/items/13750eb6eabfd7c4ae51) B! 3
+- [Pinecone を使って、Amazon Bedrock Knowledge base と Agent で番組情報を扱えるようにしてみた](https://qiita.com/miu_crescent/items/b913683ff202ca34b019) B! 3
 - [reduce関数について](https://tech.iimon.co.jp/entry/2023/12/06/150000) B! 3
 - [Django Ninjaを使ったDjangoのディレクトリ構成を考えたい](https://tech.iimon.co.jp/entry/2023/12/17/170506) B! 3
 - [Django Adminでフィルター機能(SimpleListFilter)をAND検索にカスタマイズする方法について](https://tech.iimon.co.jp/entry/2023/12/18/092240) B! 3
+- [VSCode おすすめ拡張機能と設定](https://tech.iimon.co.jp/entry/2023/12/23/163000) B! 3
 - [re:Invent 2023 で発表されたAmazon S3 Express One Zoneを使ってみる](https://qiita.com/shimizukaz/items/c3ed5961e46459f64e2c) B! 3
-- [請求書発行のためにEmbulkを使って爆速でデータを集約した話](https://user-first.ikyu.co.jp/entry/2023/12/12/111154) B! 3
 - [初めてのNext.js×Railsハンズオン](https://qiita.com/y_mizuta/items/c5f5348281a307969725) B! 3
 - [Mutation Error Handling in GraphQL with Rails](https://techblog.jmdc.co.jp/entry/20231203) B! 3
 - [モバイルアプリをリリースするときの互換性対応で困った話](https://techblog.jmdc.co.jp/entry/20231210) B! 3
@@ -830,30 +896,29 @@
 - [Rust初心者がノリでTauri製デスクトップアプリを作ってみた](https://qiita.com/tarball/items/61e9ec97aac488f2e63b) B! 3
 - [人生初のOSSコントリビュートでポケモン界隈にちょっと貢献してきた](https://qiita.com/jinto/items/e1fdfd005129f4438b0b) B! 3
 - [不要なコードを見極めて削除するポイント](https://zenn.dev/naopusyu/articles/03faf2fd7a59d8) B! 3
-- [ログベースのアラートポリシーとSlackを連携して、開発サーバーの問題を迅速に発見しよう](https://techblog.kayac.com/2023-log-alert) B! 3
+- [どうしても取締役にうんこポーズさせたい話](https://techblog.kayac.com/executive-unko) B! 3
 - [Unityでのモバイル3Dアクションゲームのカメラワーク](https://qiita.com/tsune2ne/items/85f2e17954ce9413ab09) B! 3
 - [【Rust製構成管理ツール】JetPorch とは【次世代Ansible？】](https://qiita.com/pollenjp/items/aa54c7b236e40faae776) B! 3
 - [一年目の新人こそ、チーム１厳しいレビュワーになろう!](https://qiita.com/k_orita/items/290e048fe09e30e102df) B! 3
-- [品質志向の高いエンジニアリング組織でQAエンジニアは必要ですか？](https://note.com/lg_tester_ohira/n/ncc3f4bce0779) B! 3
-- [動作例からKubernetes PDBの挙動を理解する](https://engineering.mercari.com/blog/entry/20231204-k8s-understanding-pdb/) B! 3
+- [あらためて、じっくり動かすFargate](https://zenn.dev/cumet04/articles/fargate-jikkuri) B! 3
 - [C#のプロパティの使いどころ](https://qiita.com/MK_963/items/11446cd2208be7fd25a8) B! 3
 - [OpenAPIの活用によるSDK開発の進化：LINE APIの進化の軌跡](https://techblog.lycorp.co.jp/ja/20231203a) B! 3
-- [ヤフー検索におけるビジュアルリグレッションテストの取り組みと、TypeScript Compiler APIの活用事例](https://techblog.lycorp.co.jp/ja/20231214b) B! 3
+- [コード品質向上のテクニック: 第 5 回](https://techblog.lycorp.co.jp/ja/20231207b) B! 3
 - [情報検索にも使える？テキスト解析 Web API ルビ振り・かな漢字変換 の活用](https://techblog.lycorp.co.jp/ja/20231217a) B! 3
+- [SSL証明書の購買を自動化した話](https://techblog.lycorp.co.jp/ja/20231219a) B! 3
 - [合併後初めてのイベント「LINEヤフー BIZ Conference」デザインの裏側をご紹介](https://lydesign.jp/n/n7ad3b2b47ea5) B! 3
 - [無駄な仕事を増やしてませんか？ ~ MLの実行パイプラインで重複作業をなくす ~](https://www.m3tech.blog/entry/2023/12/21/110000) B! 3
 - [つよつよじゃない新米テックリードが責務を全うするためのマインドセット](https://zenn.dev/magicmoment/articles/tech-lead-202312) B! 3
 - [睡眠負債、貯めてないですか？](https://zenn.dev/magicmoment/articles/sleep-debt-202312) B! 3
 - [地図のレンダリングを実現するまでの流れはどうなっているのか？](https://qiita.com/moritoru/items/d1b3c3efcd0474cd98ce) B! 3
+- [個人開発サービスにおいて開発以外に本気で取り組んだことがあるエンジニアは有利だよね](https://note.com/0ba/n/n28364f6ec10f) B! 3
 - [プルリクレビューとリリースをさぼらない](https://tech.uzabase.com/entry/2023/12/06/141554) B! 3
-- [Webアーキテクチャで迷わないためのイリティ（-ility）のすゝめ](https://qiita.com/becyn/items/b7dfe8765b0acf735134) B! 3
 - [ADRを導入してみた話](https://engineering.nifty.co.jp/blog/23151) B! 3
 - [Figma でオブジェクトをまとめて扱うときは Group ではなく Frame を使おう！](https://qiita.com/skinnybrian/items/dd30f3636a40b2407e1d) B! 3
 - [RailsエンジンとPackwerkによるコード分割を進行中](https://engineerteam.note.jp/n/ne963418be034) B! 3
-- [需要予測 と ゼロ過剰](https://qiita.com/shnchr/items/a8900aaa9429c3c78ee5) B! 3
 - [データで(主成分分析等で)振り返るM-1グランプリ2023](https://qiita.com/gg_hatano/items/afbfdaec8a87d397e828) B! 3
 - [OPENLOGI を支える技術（2023年版）](https://qiita.com/migrs/items/1b15bf2530be02374c53) B! 3
-- [社内のインシデント体制を改善した話](https://qiita.com/kashee337/items/5791a5dfab7a1019a2cb) B! 3
+- [VSCode の左側のアレを出したり消したり出来るようにする方法](https://qiita.com/tomoasleep/items/fcab2110b6fe03c809e4) B! 3
 - [Rust vs. Go: Effective Unit Testing](https://qiita.com/daisuke-yamamoto/items/c6e04c320623ff6c4f67) B! 3
 - [１行のコードから社会課題の解決へ、思いを馳せる。READYFORのエンジニアリングの軌跡と展望](https://note.com/9ma3r/n/nfeebefe15807) B! 3
 - [リクルートが実践するMicrosoft Graph APIを安心して使うためのポイント５選](https://blog.recruit.co.jp/rtc/2023/12/22/microsoftgraphapi/) B! 3
@@ -862,20 +927,22 @@
 - [外部インターフェイスとしてのデータベースの拡張性と後方互換性](https://zenn.dev/meganemura/articles/f9f81aa33267d9) B! 3
 - [EM就任後にチームを俯瞰するためのプラクティス](https://zenn.dev/ytymmt/articles/2cb4c6216520d0) B! 3
 - [SmartHRのエンジニアに聞いてみた！好きなコマンド＆使用エディタアンケート結果大公開！](https://tech.smarthr.jp/entry/2023/12/20/171620) B! 3
+- [ビジネスチームにスクラムを導入しようとしたら自分の内観が深まった話](https://hase0831.hatenablog.jp/entry/Adventcalendar2023) B! 3
+- [MySQL(InnoDB)における各種ロックの挙動を調べてみた](https://zenn.dev/team_soda/articles/ca38e7f58ed8a1) B! 3
 - [どうして入社してすぐにチームに馴染めたのかを振り返ってみる](https://blog.ryskit.com/entry/2023/12/01/000000) B! 3
 - [PdM見習いを育てるために教えた、たった100つのこと](https://zenn.dev/stafes_blog/articles/9a85b26db1cb6f) B! 3
 - [可読性についてレビューするときに気をつけていること](https://y-ahiru.hatenadiary.jp/entry/2023/12/09/000000) B! 3
+- [Macユーザにこそ使って欲しいEmacs。せめてキーバインドだけでも覚えていって！生産性上がるから！ほんとですって！](https://qiita.com/kkuzu/items/62f42a5987d0770ffd63) B! 3
 - [Spek やめました](https://tech-blog.tabelog.com/entry/advent-calendar-20231202) B! 3
 - [酒飲みによる酒飲みのためのアプリ！新卒研修で作ったiOSアプリとその学び](https://tech-blog.tabelog.com/entry/advent-calendar-20231204) B! 3
 - [食べログAndroidアプリのグロースアップ事例紹介](https://tech-blog.tabelog.com/entry/advent-calendar-20231206) B! 3
 - [社会人1年目の反省、技術的な話よりも前の話](https://tech-blog.tabelog.com/entry/advent-calendar-20231210) B! 3
-- [プロダクト開発一筋だったエンジニアがリファクタリングに挑んで感じたこと](https://tech-blog.tabelog.com/entry/advent-calendar-20231212) B! 3
 - [飲食店DXプロダクト開発を支えているかもしれない1on1](https://tech-blog.tabelog.com/entry/advent-calendar-20231213) B! 3
 - [開発者体験向上のため小さな改善を回す](https://tech-blog.tabelog.com/entry/advent-calendar-20231214) B! 3
 - [スタッフエンジニアを読んだ感想](https://toranoana-lab.hatenablog.com/entry/2023/12/03/100000) B! 3
+- [Slackのinputチャンネルで組織内の知識を増やす](https://note.com/kuronekopunk/n/n83a5f736b609) B! 3
 - [New Relicをフルに活用するためにデータ量とコストに気を配る](https://techblog.tver.co.jp/entry/kaga/tver-advent-calendar-2023-newrelic-data-optimization) B! 3
 - [プロダクトマネージャーをチームの一員にする](https://enk.hatenablog.com/entry/2023/12/10/225033) B! 3
-- [機械学習領域のテックリードになって1年間取り組んできたこと](https://www.wantedly.com/companies/wantedly/post_articles/879242) B! 3
 - [個人ではなくチームでつくる、それがWHITEPLUS](https://blog.wh-plus.co.jp/entry/2023/12/05/090000) B! 3
 - [デザインスプリントを導入して主要機能のUXを改善してみた](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/21/000000) B! 3
 - [ReactNode型のpropを正しく扱う 〜もう謎の「0」や空要素を見せないために〜](https://zenn.dev/ygkn/articles/optional-react-node-prop) B! 3
@@ -886,11 +953,9 @@
 - [Looker Studio Pro で料金を抑えながらレポートを管理する方法](https://techblog.kazaneya.com/20231213-looker-studio-pro/) B! 3
 - [ITオペレーションから始めるデータマネジメント](https://techblog.kazaneya.com/20231222-dm-from-the-perspective-of-it-operation/) B! 3
 - [大学のデータ分析の授業で Google Cloud を活用した話（登壇文字起こし） - 風音屋TechBlog](https://techblog.kazaneya.com/20231225-googlecloudnext-tokyo23/) B! 3
-- [外部組織に分析目的でデータを提供するインフラ設計において考慮すること](https://techblog.kazaneya.com/20231225-data-sharing-infra/) B! 3
 - [Engineering Manager 1年目失敗談](https://www.wantedly.com/companies/wantedly/post_articles/874851) B! 3
 - [からあげ帝国建国からの軌跡：新たなコミュニティの形成](https://karaage.hatenadiary.jp/entry/2023_karaage_ac) B! 3
 - [GPTは「からあげ」と「とり天」を見分けられるのか。出たばかりのAzure Open AIのGPT-4 Turbo with Visionを試す](https://qiita.com/n0bisuke/items/1dc99747d31316df6c44) B! 3
-- [🎉🎉最高にイカしたバウンディングボックスを紹介するぜ🎉🎉](https://qiita.com/yuneco/items/4ef41286136493d76f9d) B! 3
 - [魚のためのクソ音楽プレイヤーを作った](https://zenn.dev/homing/articles/e4ea3fdbc90c1b) B! 3
 - [2023年にHRTech SaaSのエンジニアリングマネージャーが読んで良かったと思う書籍10選](https://qiita.com/yug1224/items/dc5362b8cc36d4eb5e7e) B! 3
 - [文字起こしサービスを作って１年公開した結果](https://zenn.dev/homing/articles/9ea769ab12f310) B! 3
@@ -900,88 +965,103 @@
 - [みんなで発信者になろう！継続的な技術発信を続けるために、1名体制の技術広報がやったこと](https://qiita.com/kamiko_koho/items/bfba44036f5f5b09652b) B! 3
 - [私がカンファレンスに参加するモチベーションはどこから来ているのか？](https://kotomi1338.hatenablog.com/entry/tech-conference-advent-2023-12-01) B! 3
 - [【2023年版】プログラミング系VTuberとプログラミングしよう](https://zenn.dev/etrnl_tamayura/articles/intro-virtual-programmer) B! 3
-- [DBeaverでやらかした話](https://qiita.com/tosiooooooo/items/46b2ae7c0687dc061775) B! 3
+- [ファイルサーバーのシャドウコピーを破壊した話](https://qiita.com/waitonly/items/4bdee104bb9a95e2caac) B! 3
 - [Datadogを活用したテスト自動化の取り組み](https://note.com/kenjiserizawa/n/n8cf8308d865a) B! 2
 - [2期目のスタートアップが開発生産性に向き合う理由とその取り組みについて](https://qiita.com/KosukeAizawa/items/c4d078fda6373e74d80c) B! 2
 - [「開発生産性を、もっと誇れる組織へ」という方針を掲げたCTOの半年](https://note.com/msykd/n/nb6ebc5f49670) B! 2
+- [Outcome / Day で考える開発生産性](https://note.com/niwa_takeru/n/n5fe7fa5a769b) B! 2
 - [New Relic Alert 閾値チューニング入門](https://zenn.dev/aeonpeople/articles/introduction-to-newrelic-alert-threshold-settings) B! 2
 - [DatadogからNewRelicへ移行する場合の監視項目での注意事項](https://zenn.dev/dehio3/articles/6af70f795731d0) B! 2
 - [New RelicでAmazon DynamoDBのモニタリング統合をやってみた](https://blog.serverworks.co.jp/newrelic-dynamodb) B! 2
+- [Gmail メール送信者のガイドライン変更に備える話](https://qiita.com/hmatsu47/items/04e78fcb331239690911) B! 2
+- [DevRelCon Yokohama 2023を支えるメール技術](https://qiita.com/goofmint/items/0380834e856a2dfb6d5b) B! 2
+- [Google Postmaster Toolsでは何が確認できるのか？](https://zenn.dev/kikutaro/articles/6731f838f35826) B! 2
 - [Snyk を導入してコンテナセキュリティ対策の運用を回している話](https://tech.gunosy.io/entry/snyk-container-security) B! 2
 - [Bunで生成したバイナリがdistrolessコンテナ上で動かない【解決】](https://qiita.com/matoruru/items/27b478c311370106e6e6) B! 2
 - [【Allって】LINQ、この場合どうなる？【空配列は？】](https://qiita.com/RyotaMurohoshi/items/bf45f4e7d52e6aad8ef7) B! 2
 - [[.NET 8]素のBlazorWebAppにチョイ足しでPWAを作る](https://qiita.com/nr_ck/items/f22c24c0583309577a5e) B! 2
 - [ISpanFormattableを使おう](https://qiita.com/Shaula/items/563ef337ae578ceebede) B! 2
-- [LINQ -> Python チートシート](https://zenn.dev/shimat/articles/d8812d20e803cf) B! 2
 - [C++ をclang で解析するときに情報をvcxproj から取得する方法](https://uyamae.hatenablog.com/entry/cppadventcalendar2023) B! 2
 - [constevalの紹介](https://qiita.com/tyanmahou/items/45229a33e71bd25844e6) B! 2
-- [Node互換の未実装部分を補完するワークアラウンド](https://leaves.deno.dev/posts/223) B! 2
 - [Fresh(Deno)をプラグインで拡張しよう！](https://toranoana-lab.hatenablog.com/entry/2023/12/06/100000) B! 2
 - [renovateでdenoの依存関係をアップデートするおはなし](https://zenn.dev/omochice/articles/387a44fc0f5885) B! 2
 - [Writing OS in 1000 lines をD言語でやった](https://kubo39.hatenablog.com/entry/2023/12/16/Writing_OS_in_1000_lines_%E3%82%92D%E8%A8%80%E8%AA%9E%E3%81%A7%E3%82%84%E3%81%A3%E3%81%9F) B! 2
-- [Fortran, Python, Juliaの計算速度比較: Newton方程式を例に](https://kamemori.com/research/fortran/speed_harmonic_oscillator_1d_ja.html) B! 2
-- [依存ライブラリはメンテナンスされていますか？dep-doctorによるメンテナンスチェクのススメ](https://qiita.com/kyoshidajp/items/796f308b2c934bbdc4b7) B! 2
 - [Go の HTTP サーバーにヘルスエンドポイントを追加する](https://zenn.dev/tchssk/articles/7e2f9af80af4dc) B! 2
 - [GHCへの私の貢献2023](https://blog.miz-ar.info/2023/12/my-contributions-to-ghc/) B! 2
 - [HaskellでGitHub Actionsのワークフローを書きたい](https://zenn.dev/pctg_x8/articles/ffa8acb3ed14a0) B! 2
+- [Glasgow Haskell Compiler の書換え規則における高階型のパターン照合](https://qiita.com/tnagao7/items/7534bc22ac813d6cf479) B! 2
 - [Haskell で Open Telemetry を利用してオブザーバビリティーを向上させよう](https://kakkun61.hatenablog.com/entry/2023/12/25/Haskell_%E3%81%A7_Open_Telemetry_%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%82%AA%E3%83%96%E3%82%B6%E3%83%BC%E3%83%90%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%82%92%E5%90%91%E4%B8%8A) B! 2
 - [【JavaScript】async/awaitについて理解を深めたい](https://qiita.com/nanasi-1/items/9bedc88b992ec470f808) B! 2
 - [Renderの3ヶ月無料枠終了後の対応方針を考える](https://qiita.com/ke_sukesakuma/items/7b7ea3103441bb5e73ce) B! 2
-- [Kotlin/Wasmが生成するWasmGCコードを眺める](https://zenn.dev/tanishiking/articles/2023-12-kotlin-wasm-mapping) B! 2
 - [wasm環境で動くmrubyを作りたかった... 話](https://udzura.hatenablog.jp/entry/2023/12/24/174037) B! 2
+- [Perlのレガシーシステムを少し更新した話](https://qiita.com/teckl/items/060c1ce1c3ee7c42a2f6) B! 2
 - [PHPイベントの世界](https://qiita.com/tadsan/items/b290a3e689b517206078) B! 2
 - [Macで複数バージョンのPHPを楽に使い分ける](https://zenn.dev/ttskch/articles/e6f6b2af2972ab) B! 2
-- [システム開発上中流工程でユビキタス言語化された日本語プログラミング言語と日本語識別子を使った数学的形式言語のソースコード対比](https://qiita.com/mylifewithviolin/items/e32e2b8711a1cac765e1) B! 2
-- [cargo workspace で使える tips](https://zenn.dev/eduidl/articles/rust-workspace-tips) B! 2
 - [Rustで点群データ（LAS）をglTFに変換するプログラムを自作する](https://qiita.com/nokonoko_1203/items/ddd14090d4141e0476f1) B! 2
 - [SipHashとそのRust標準ライブラリでの実装](https://zenn.dev/hatoo/articles/708687920e56f5) B! 2
+- [Scala.js + Javy で Scala を WebAssembly 上で動かす](https://zenn.dev/tanishiking/articles/scala-wasm-javy) B! 2
 - [Scala 3 で一般の再帰型を作る](https://qiita.com/Kory__3/items/278505527d530545be5e) B! 2
 - [Scala 3 boundary/break で optional chaining と error short circuit](https://zenn.dev/110416/articles/a1439c8f43aeaf) B! 2
-- [Brainf*ckを直接実行できるCPUを作った (その1)](https://primenumber.hatenadiary.jp/entry/2023/12/09/073045) B! 2
 - [Scalaライブラリのプロジェクト設定にベストプラクティスを適用してくれるsbt-typelevel](https://tarao.hatenablog.com/entry/sbt-typelevel) B! 2
 - [初心者向け: Scala CLIでScalaをはじめよう](https://blog.3qe.us/entry/2023/12/20/011354) B! 2
 - [なぜstartコマンドはブラウザ名だけでブラウザを開けるのか](https://qiita.com/www-tacos/items/09e70cecb81139afb98f) B! 2
+- [Misskeyで学ぶdependency-cruiser](https://qiita.com/hiromichinomata/items/bc1dafff8a96e85b97ef) B! 2
 - [inferが最近使えるようになってきた話](https://qiita.com/misaki_soeda/items/3433c7a3a6c7f74ab60e) B! 2
+- [Angularにおける組み込み制御フローの導入とその背景について](https://zenn.dev/carimatics/articles/angular_2023_builtin_control_flow) B! 2
 - [【Vue3】ジェネリクスコンポーネント + Panda CSS を使ってコンポーネントを作成してみる](https://zenn.dev/gangannikki/articles/2fc54416899fcb) B! 2
 - [WordPressのバックアップをAWS S3に自動保存する](https://qiita.com/fg_sudo/items/6c24480d87bbc2fe0c98) B! 2
 - [いまどきHeadless CMS 20選](https://qiita.com/moroi/items/5762b2a6886dacf44446) B! 2
 - [GIS開発で学会発表しました：歴史シミュレーションGISの開発](https://qiita.com/gis/items/deaaa9aa214071f2bae8) B! 2
 - [Godot 4.2 のコンピュートシェーダで遊ぶ](https://ueshita.hatenablog.jp/entry/2023/12/06/220451) B! 2
+- [静的型付け大好きプログラマによるGodotEngine(C#)への理解](https://qiita.com/hyahoitaro/items/2c972b2126857d0516fc) B! 2
 - [「俺のhelmet」がHonoのBuilt-in Middlewareになるということ](https://zenn.dev/watany/articles/c25bb4fef78c3d) B! 2
 - [Honoのv3.10とv3.11について](https://zenn.dev/yusukebe/articles/d1be7aa06999cb) B! 2
+- [Google Play (Androidアプリ)の新しい個人アカウントのルールについて考える](https://qiita.com/rdlabo/items/d98014fefe3f59f18009) B! 2
 - [JUCEとCHOCを組み合わせてオーディオプラグインのGUIをWeb技術で作ろう](https://qiita.com/COx2/items/430086a1a6f87fddbfb5) B! 2
+- [LangChainやるならPythonよりTypeScriptの方がいんじゃね？](https://zenn.dev/optimisuke/articles/d6dcb852e14c81) B! 2
 - [Laravelで単一テーブル継承の実装を試してみ](https://zenn.dev/naopusyu/articles/78946fd5f9ed41) B! 2
+- [NestJSでZodを使用した開発を考えてみる](https://zenn.dev/ikkyu_3/articles/017b9ef0f58879) B! 2
 - [不倫発覚Next.jsと君たちはどう生きるか？-Reactコンポーネントの中にSQL書いてるのなぁぜなぁぜ-](https://qiita.com/jacksuzuki/items/65a21c5a3eb19206bf68) B! 2
 - [OGP 動的画像生成に nuxt-og-image を使う](https://blog.nekohack.me/posts/nuxt-og-image/) B! 2
+- [Vue (Nuxt 3) で Pinceau (CSS-in-JS/TS) を使う](https://blog.nekohack.me/posts/pinceau-usage-on-nuxt-3/) B! 2
+- [Nuxt3 で Vuetify3 + SASS/SCSS を使う (vuetify-nuxt-module 使用)](https://qiita.com/mml/items/5a0f32415440a4212d88) B! 2
 - [【Windows】【Python】OpenCVでAudio読み込みお試し](https://qiita.com/Kazuhito/items/9b6bb4c8d518167579e3) B! 2
 - [Pydroid 3 で OpenCV を動かして画像処理やAIをお試し](https://qiita.com/Kazuhito/items/bcb9f52d6027cac8dffb) B! 2
 - [Custom Hooks as Presenter という考え方](https://zenn.dev/beingish/articles/03ad6ff736a8cf) B! 2
+- [ROS 2がインストールできないSBC（Single board computer）で素のFast DDSを使ってROS 2と通信を行う](https://qiita.com/tatsuyai713/items/3390a76feeeb8db54bff) B! 2
+- [本番RailsアプリケーションのYJIT有効化とその効果 - Voice Pocochaの場合](https://engineering.dena.com/blog/2023/12/voice-pococha-yjit/) B! 2
 - [SvelteKit アプリケーションの組み込みへの考察](https://blog.osstech.co.jp/posts/2023/12/sveltekit-apps-integration/) B! 2
 - [ESLint Flat Config対応に向けて、Vue3 + TypeScript用のESLintルールを整理する](https://zenn.dev/gangannikki/articles/organize-eslint-rules-for-vue3-typescript) B! 2
 - [Vue Fes 2023 アフターイベント @LY (Fukuoka)](https://blog.nekohack.me/posts/vuefes-2023-after-event/) B! 2
 - [【Vue3】ジェネリクスコンポーネント + Panda CSS を使ってコンポーネントを作成してみる](https://zenn.dev/gangannikki/articles/2fc54416899fcb) B! 2
-- [最近気に入っているVueコンポーネントの分類方法](https://qiita.com/kira_puka/items/3c4384dd0864f1858be4) B! 2
-- [Vue Fes 2023 ティザーの裏側 完全版](https://blog.nekohack.me/posts/deep-dive-vuefes-2023-final/) B! 2
 - [Function as a Service を使った Fivetran カスタムコネクタの開発](https://zenn.dev/dataheroes/articles/2023-12-03-fivetran-custom-connector-dbt-snowlfake) B! 2
 - [Data Modeling with Snowflakeを読んでみた](https://qiita.com/aki_naka/items/5d44b596a36741e167f7) B! 2
 - [Snowflakeと共に過ごした一年間。その進化過程と未来へのVision](https://techblog.cartaholdings.co.jp/entry/snowflake-data-platform-vision) B! 2
+- [TiDB の retry ポリシー](https://qiita.com/you06/items/3fb9ca62afda68aa2457) B! 2
 - [10日目: なぜ Cookie には同意が必要なのか?](https://blog.jxck.io/entries/2023-12-10/3pca-consent.html) B! 2
+- [24日目: Retargeting](https://blog.jxck.io/entries/2023-12-26/retargeting.html) B! 2
+- [25日目: Measurement](https://blog.jxck.io/entries/2023-12-27/measurement.html) B! 2
 - [「CSSの進化、知らなくて許されるのは小学生までだよねー」](https://qiita.com/mu_tomoya/items/2a47d2790cdb7cf7c64b) B! 2
+- [うちのサイトて、ウェブアクセシビリティを確保できていますか？](https://tech.excite.co.jp/entry/2023/12/22/080151) B! 2
+- [GKE Autopilotで画像生成AI Stable Diffusionの推論APIをデプロイする](https://zenn.dev/umibows/articles/a04a5a1a6572b4) B! 2
 - [GKEの開発環境クラスタはとりあえず「使用率の最適化」やっとこう](https://syossan.hateblo.jp/entry/2023/12/17/133642) B! 2
 - [Keycloak で試す WebAuthentication (WebAuthn) x OpenID Connect (OIDC)](https://zenn.dev/kg0r0/articles/972c915c55327f) B! 2
 - [ID連携のUX改善の最後のキモ？FedCMを体験しよう](https://sizu.me/ritou/posts/cm314rrfs98h) B! 2
 - [Keycloakとは（2023年12月版）](https://qiita.com/wadahiro/items/bc0d7a5ee2c3c12093d0) B! 2
 - [パスキーの概要とKeycloakでの動作確認](https://qiita.com/tksst/items/e723612fe8e99a610609) B! 2
 - [2023年12月19日からFirefoxでも:has()が使えます](https://qiita.com/debiru/items/94948ba1ee7b8b6fc241) B! 2
-- [Firefox 121 がリリースされて :has() が使えるようになりました。そして Intl.Segmenter は Firefox 123 で使えるようになる予定です。](https://qiita.com/debiru/items/934ec360cfc896dbb232) B! 2
+- [:nth-child() の "of S" 構文が最強な件について](https://qiita.com/debiru/items/c91185ddb15ce28b8cee) B! 2
+- [Firefox 121 がリリースされて :has() が使えるようになりました。そして Intl.Segmenter は Nightly で使えるようになりました。](https://qiita.com/debiru/items/934ec360cfc896dbb232) B! 2
 - [App Routerに移行したの話](https://note.com/pharmax/n/n28b0e6220823) B! 2
-- [GoとWebAssembly](https://zenn.dev/askua/articles/9b614c377cc1e0) B! 2
 - [ESP32 で WebAssembly Micro Runtime (WAMR) を動かす](https://another.maple4ever.net/archives/3866/) B! 2
-- [Kotlin/Wasmが生成するWasmGCコードを眺める](https://zenn.dev/tanishiking/articles/2023-12-kotlin-wasm-mapping) B! 2
+- [WASMのシステムインタフェースの現状と課題](https://zenn.dev/ri5255/articles/70a081726eb149) B! 2
+- [DartとWebAssembly](https://zenn.dev/askua/articles/7832fa98d93a7c) B! 2
 - [Flutter はどこまで共通ウィジェットを作るのが正解なのか 〜ButtonStyleButton〜](https://qiita.com/Zudah228/items/cdbf6192c94df81c1538) B! 2
-- [re:Inventで聞いたCDK Cross Functional Teamの話を書きます](https://dev.classmethod.jp/articles/bwp302-construct-your-constructs-use-aws-cdk-to-create-architecture-at-scale/) B! 2
+- [【Flutter】Flutteristの為のMaestro](https://zenn.dev/heyhey1028/articles/enter-maestro) B! 2
 - [いまだにマネコンからリソース作ってませんか？（AWS CDKのススメ）](https://qiita.com/tonio0720/items/b6cc6d90f0601d2f03d2) B! 2
+- [Secure Web Proxy を紹介します](https://dev.classmethod.jp/articles/secure-web-proxy/) B! 2
 - [New RelicとPager Dutyを連携してみる](https://dev.classmethod.jp/articles/new-relic-pager-duty-monitoring-kdpn-202312/) B! 2
+- [New RelicでAWS VPCフローログをモニタリングしてみる](https://dev.classmethod.jp/articles/202312-new-relic-aws-vpc-flowlog/) B! 2
 - [nektos/act を使って、ローカルからGithub Actionsを動かしてみる](https://qiita.com/eno49conan/items/f4c272c650b546bd96a6) B! 2
 - [はじめてのCustom Action作成](https://qiita.com/eno49conan/items/8916db871050073794ff) B! 2
 - [12月8日開催の みんなInstanaどう使ってる？ ~LT大会~を振り返る(動画・資料あり）](https://qiita.com/daihiraoka/items/167f18b56356c74efa58) B! 2
@@ -990,23 +1070,24 @@
 - [2023年Mackerelのリリース100連発](https://mackerel.io/ja/blog/entry/advent-calendar-2023-12-25) B! 2
 - [SageMakerにおけるカスタムコンテナと推し構成](https://zenn.dev/temple_c_tech/articles/sagemaker-custom-container-dir) B! 2
 - [AI-OCRパイプラインのレイテンシーモニタリングをDatadogで爆速構築した話](https://tech.layerx.co.jp/entry/2023/12/22/194848) B! 2
-- [eBPFを使ったOpenTelemetryのGo自動計装ライブラリを調べる](https://www.onoe.dev/blog/otel-go-inst/) B! 2
 - [Cloud FunctionsをOpenTelemetry Goでトレースする](https://paper2.hatenablog.com/entry/2023/12/13/121250) B! 2
+- [OpenTelemetry Collectorに対するモニタリングとオブザーバビリティ](https://zenn.dev/kntr_nkgm/articles/c1517333b2169e) B! 2
+- [OpenTelemetry Collector の Span Metrics Connector を使ってメトリクスを生成してみる](https://zenn.dev/k6s4i53rx/articles/2023-advent-calender-otel) B! 2
+- [OpenTelemetry Collectorのメトリクスのレシーバーを自作してみる](https://zenn.dev/ymotongpoo/articles/20231225-metrics-receiver) B! 2
 - [PagerDuty Incident Response Documentation を参考にセキュリティインシデントに備える](https://hack.nikkei.com/blog/pagerduty-advent20231216/) B! 2
 - [2023年のPlatform Engineeringを振り返る](https://jaco.udcp.info/entry/2023/12/01/142709) B! 2
 - [Embedded SRE から見た Platform Engineering](https://qiita.com/s-shirayama/items/f447fac2c1a51fef36c9) B! 2
 - [部門1人目のQAとして入社1年間でやったこと](https://kakaku-techblog.com/entry/qa-activities-2023) B! 2
-- [SRE成功の鍵は「定点観測会」だと思っている](https://x-tech5.co.jp/2023/12/08/1331/) B! 2
 - [SREチームの立ち上げから振り返ってみます](https://qiita.com/mekka/items/a1dc8ed98ad1a3bc3d72) B! 2
-- [大きなプロジェクトがコケるときには『受け身』をとりましょう](https://made.livesense.co.jp/entry/2023/12/22/120000) B! 2
-- [（SRE的）作ってよかったドキュメント・表・運用](https://zenn.dev/yktakaha4/articles/useful_documents_tables_and_operations_for_sre) B! 2
 - [SaaSのSREチームを立ち上げた話](https://caddi.tech/archives/4705) B! 2
+- [「強くて盤石」ではなく「弱くて小さな」SREチームを目指す](https://sizu.me/maruloop/posts/e4n8b3k821dk) B! 2
 - [レガシー製品のリファクタリング戦略](https://akerun.hateblo.jp/entry/2023/12/06/123456) B! 2
 - [開発組織の負債と戦い続ける](https://akerun.hateblo.jp/entry/2023/12/11/000000) B! 2
 - [15億件以上入ったテーブルのスキーマをサービス無停止で変更した](https://akerun.hateblo.jp/entry/2023/12/18) B! 2
 - [MakeLSI:のこれまで](https://qiita.com/akita11/items/8a977bba1a35278e818e) B! 2
+- [Inter × Noto Sans JP は何がすごいか](https://pc.gajeroll.com/design/basic/font/awesome-noto-inter) B! 2
 - [FreeBSDの使えるIaaS(VPS/クラウド）](https://qiita.com/asakawaya/items/95092633cf91c65bd582) B! 2
-- [Vimで始める正規表現](https://satorunooshie.medium.com/vim-with-regexp-7baa93d1205c) B! 2
+- [Eglot でのPython開発環境](https://mako-note.com/ja/python-emacs-eglot/) B! 2
 - [0の中身が点のフォント字形が好きじゃない人向けの対処法（リガチャの個別設定）](https://qiita.com/shirokuma89dev/items/d6ab3d71fbdc0a684d1d) B! 2
 - [Solidityデザインパターン[入門編]](https://zenn.dev/lilpacy/books/c627ff608e836a) B! 2
 - [GPU の機械語コードの逆アセンブリを読んでみる - RDNA2](https://qiita.com/James0124/items/12e0c4b2e9e52f0d2e7f) B! 2
@@ -1028,25 +1109,23 @@
 - [【AmazonBedrock】ビッグテックの中の人ができないことを考えたらLLMを無駄に集結させるところに行き着いた](https://qiita.com/s3kzk/items/83273244afd3bc2371c4) B! 2
 - [新機能「アプリ内通話/ウェブ通話/ビデオ通話」の料金体系を整理してみた](https://dev.classmethod.jp/articles/amazon-connect-in-app-web-video-calling-pricing/) B! 2
 - [[アップデート] AWS Service Quotas を使用してAmazon Connect リソースに適用されたクォータの可視化、引き上げリクエストがサポートされました](https://dev.classmethod.jp/articles/amazon-connect-visibility-applied-service-quotas/) B! 2
-- [AWS AppSync がアツい！ RDS Data API を使って GraphQL API を爆速で作ってみた](https://qiita.com/inada_riku/items/5f058e34bf8c0737f588) B! 2
+- [ECS Fargate + ecspresso + GitHub Actions 運用構成例](https://koudenpa.hatenablog.com/entry/2023/12/06/134257) B! 2
 - [Amazon Linux 2023でPodmanを動かす](https://rheb.hatenablog.com/entry/podman-on-al2023) B! 2
 - [ゲームサーバー共通基盤は Platform Engineering の夢を見るか？](https://qiita.com/cataiiwai/items/2ae22394bbb09c8c71f9) B! 2
+- [[新機能] S3 Access Grantsの仕組みと従来のS3アクセス管理との比較](https://qiita.com/SawaShuya/items/83db41b2674a863ee67e) B! 2
 - [Microsoft Copilot for Azureを試してみた（後編）](https://zenn.dev/tomot/articles/992d5925d17301) B! 2
 - [Botで気軽にビットコイン無限買い【サーバーレス入門】](https://blog.shidokamo.com/serverless-ape-bot/) B! 2
 - [取引大会で優勝した時のロジック解説](https://note.com/_and_go/n/na62475340756) B! 2
 - [Cloud Run と Identity-Aware Proxy で社内限定サービスを構築する](https://zenn.dev/google_cloud_jp/articles/cloudrun-iap) B! 2
-- [Cloudflare Zero Trustを利用したセキュアなリモートワーク環境の構築](https://zenn.dev/delta/articles/bda17a982990b3) B! 2
 - [Databricks on AWSを閉域網で構成する](https://qiita.com/RyoOkaya/items/f042829a019a7c35d7fc) B! 2
 - [僕の理解するデータレイクハウスとはなにか？](https://akuwano.hatenablog.jp/entry/2023/12/23/004649) B! 2
 - [Icebergテーブルの内部構造について](https://yassan.hatenablog.jp/entry/advent-calendar-2023-1201) B! 2
 - [RKE2ノードのCiliumを使ったeBPFな帯域制限をする話](https://yassan.hatenablog.jp/entry/advent-calendar-2023-1205) B! 2
 - [サーバーレスアーキテクチャのsimple is not easy](https://zenn.dev/intercept6/articles/d681bd314813cb) B! 2
-- [Lambda + Monolithはアンチパターンなのか？ マイクロサービスでなく「小さくはじめる」選択肢](https://zenn.dev/watany/articles/183d40f8e31a45) B! 2
-- [AWS Lambdaの9年間を振り返る](https://zenn.dev/keni_w/articles/2b815f7918211e) B! 2
+- [FastAPIのLambdaからAWS外のサービスでキャッシュとDB構築！ + Github Actions](https://qiita.com/eno49conan/items/6d3e98df2ac82613c3b3) B! 2
 - [「OpenCopilot」入門](https://zenn.dev/loglass/articles/1b7f898a4f651c) B! 2
 - [無料 GPT-4 アプリを活用した Instruction データセット作成の取り組み](https://qiita.com/kunishou/items/50559fb3fb3c9df3a41d) B! 2
 - [#02：Data Workspace/Collaboration(データワークスペース／コラボレーション)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-02-data-workspace-collaboration/) B! 2
-- [#04：Data Warehouses(データウェアハウス)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-04-data-warehouses/) B! 2
 - [#05：Feature Store(フィーチャーストア)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-05-feature-store/) B! 2
 - [#06：Event Tracking(イベントトラッキング)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-06-event-tracking/) B! 2
 - [#07：Metrics Store(メトリックストア)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-07-metrics-store/) B! 2
@@ -1063,11 +1142,13 @@
 - [#24：Change Data Capture(変更データキャプチャ)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-24-change-data-capture/) B! 2
 - [#25：Data Mesh(データメッシュ)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-25-data-mesh/) B! 2
 - [Azure AD B2C の行方と新たに登場した Microsoft Entra ID for customers のどっちがいいの？](https://qiita.com/daimat/items/bc58bc986e9b52c3fa79) B! 2
-- [2023 年 マイクロソフト製品・サービスの脆弱性を振り返る](https://qiita.com/Eurekaberry/items/ef6ba812bfcb17866b4a) B! 2
 - [リアル地理データを使った交通シミュレーションでできること](https://note.com/pandas819/n/nc562d5374e33) B! 2
 - [PLATEAU 2023年の見どころ＆2024年の注目ポイント！](https://qiita.com/uchiyama_MLIT/items/72c2886cf3ff988cdfe7) B! 2
+- [Power BI 社内勉強会をやってみた](https://qiita.com/AkioSaitoh/items/dedcd75835a331390a2e) B! 2
 - [Power BI作成の流れ](https://qiita.com/NoriyukiT/items/5fb5e1c259c10900736d) B! 2
+- [「Copilot、Copilot...」と連呼する前に、Power BIでは...](https://qiita.com/ishiayaya/items/15b6f28e3245137b5d6f) B! 2
 - [Power BI の今年、2024年に向けてちょっと未来のお話](https://qiita.com/yugoes1021/items/0a53809a819551932bbf) B! 2
+- [弊社チームメンバーの今年の実績をまとめました。](https://note.com/krhtj/n/n0695a31e3056) B! 2
 - [Slack スタンダードワークフロー（無料）もコードで管理する](https://qiita.com/seratch/items/27b33d82c96d715f59cd) B! 2
 - [2023年リリースtrocco注目機能：アカウント特権管理者、組織ID、タイムゾーン設定、etc](https://qiita.com/erikaikemoto/items/e1104fa8f16c7ae83121) B! 2
 - [BigQuery × PaLM2・Cloud Natural Language API × troccoでLLMバッチ予測パイプラインを構築した話](https://qiita.com/Lana2548_t/items/008dea3aef2f57eeef0b) B! 2
@@ -1076,7 +1157,6 @@
 - [2023年 俺が愛した本たち 技術書編](https://syu-m-5151.hatenablog.com/entry/2023/12/02/141455) B! 2
 - [GAS × Slack Bot で全社ウォーキング大会 750 名のチームチャンネルを自動作成して参加者・運用者体験が向上した話（実装サンプル付き）](https://qiita.com/irongineer/items/e58a54436507fcc4cf8f) B! 2
 - [New Relic Alert 閾値チューニング入門](https://zenn.dev/aeonpeople/articles/introduction-to-newrelic-alert-threshold-settings) B! 2
-- [デカすぎるレンダリング負荷を持つ管理画面をノーコードでメチャクチャ軽い動作にしたい！！](https://qiita.com/watanabe-tsubasa/items/2ad05ba50cd5dfa6273b) B! 2
 - [軽はずみな気持ちでNestJSに入門する](https://zenn.dev/aldagram_tech/articles/13372d2c06c91b) B! 2
 - [Keycloak + auth0/nextjs-auth0 でテナントごとに valid redirect URIs を追加しなくて済む方法](https://tech.uzabase.com/entry/2023/12/02/000000) B! 2
 - [microCMS + Next.js(App Router)で構築したWebメディアの技術紹介](https://tech.uzabase.com/entry/app-router-micro-cms-media) B! 2
@@ -1092,6 +1172,7 @@
 - [atama plusが2023年に取り組んだクラウドインフラコスト削減を振り返る](https://qiita.com/toshitada-ishii/items/ac3a89d4fdec974aad6a) B! 2
 - [製造業の生産技術の人がソフトウェア開発チームのQAになった話](https://qiita.com/sawa-chan/items/36eb1c48441c01de5187) B! 2
 - [今年響いた7つの言葉　〜仕事に役立つ思考法のご紹介〜](https://qiita.com/keki/items/76abdf91c8ba840fa008) B! 2
+- [Let’s apply for the AWS Community Builders！！世界規模でつながりが増えて良かった(変わった)こと！　#awscommunity](https://tech.nri-net.com/entry/aws_changed_about_increasing_connections_on_a_global_scale) B! 2
 - [ChatGPTといっしょにJavaScriptでスイカゲームっぽいものを作ってみる](https://qiita.com/koanta/items/5304b178021deb2122a3) B! 2
 - [息子とプラレールで遊んでいたら、MVP（Minimum Viable Product）の理解が深まった](https://zenn.dev/babyjob/articles/5c93bd0da37f85) B! 2
 - [育休からの復職にあたって買ってよかったもの](https://creators.bengo4.com/entry/2023/12/06/090000) B! 2
@@ -1102,7 +1183,7 @@
 - [ログや例外についてレビューや実装時に意識していること](https://creators.bengo4.com/entry/2023/12/24/000000) B! 2
 - [FigmaのMaster fileを限りなくFlutterの実装に寄せて作った話](https://qiita.com/nkzw-a/items/44b6c02d3df6050049f0) B! 2
 - [宣言的UIの副作用に対する注目すべきアイディア](https://qiita.com/utisam/items/21ab6ceac1166f18bb27) B! 2
-- [「プロダクトとしてのドキュメント」を目指してドキュメンテーションへの考え方をアンラーンする](https://tech.bm-sms.co.jp/entry/2023/12/03/093000) B! 2
+- [最新情報や独自データを使って回答するGPTsのつくりかた](https://qiita.com/demmy/items/611a41007468de85ecb0) B! 2
 - [キャリア事業のデータエンジニアが運用する、データ分析基盤における「データカタログ」について](https://tech.bm-sms.co.jp/entry/2023/12/06/110000) B! 2
 - [モノレポを導入して開発効率を上げる](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-11) B! 2
 - [開発者の脳内リソースを食い潰さないという観点のフロントエンド設計](https://tech.buysell-technologies.com/entry/adventcalendar2023-12-19) B! 2
@@ -1110,8 +1191,11 @@
 - [12/08にリリースされたFrankenPHP触ってみた](https://qiita.com/takarake/items/d7d9fa1c75b94a59624c) B! 2
 - [C#でShell芸人を目指す](https://zenn.dev/matsuataru/articles/csharp_shell_comedian_adcal_2023) B! 2
 - [チーム活動を月報で発信するモチベ](https://creators-note.chatwork.com/entry/2023/12/03/060000) B! 2
+- [筋トレは疲れたエンジニアを救うのか](https://zenn.dev/tyapam/articles/ec87aa365ba087) B! 2
 - [Snowflake：ORDER BYでマイクロパーティションを最適化する](https://zenn.dev/churadata/articles/5dec769f2dc82d) B! 2
+- [プログラム初心者が、2ヶ月でHTML→RubyonRailsまで学んだ勉強法](https://qiita.com/eightbeat-8b/items/78d7920f8f3f1f320d84) B! 2
 - [AWSで100万円溶かした話](https://qiita.com/sk_bono36/items/fbba14a161d069f54b30) B! 2
+- [M2 MacBook AirにローカルLLMを入れてみた](https://tech.codmon.com/entry/2023/12/12/092030) B! 2
 - [GaugeとPlaywrightをGitHub Actionsで実行する際に工夫していること](https://tech.codmon.com/entry/2023/12/14/000000) B! 2
 - [組織を横断した取り組みに注力するEngineering Officeとは - コドモン編](https://tech.codmon.com/entry/2023/12/25/143623) B! 2
 - [エンジニアとしての市場価値を上げるために「自分専用 秘伝の書」を作ろう](https://media.colorfulpalette.co.jp/n/n0b82591d69a3) B! 2
@@ -1121,11 +1205,11 @@
 - [PlayableAPIでLive2D 3.0をアニメーションさせる](https://note.cover-corp.com/n/ne379dbaddddd) B! 2
 - [crowdworks.jp のデザインシステム構築活動を振り返る 2023 (実装編)](https://engineer.crowdworks.jp/entry/2023/12/21/114413) B! 2
 - [GraphQLのスキーマ設計において初期段階から考えておくべきこと ~ Mutation編 ~](https://zenn.dev/joe_re/articles/2c670b5b564f86) B! 2
-- [【Petals】3人で力を合わせてLlama-2-70bを動かす【Colab】](https://qiita.com/simajiro/items/3fccc19e0dcf532732e7) B! 2
 - [LLMチューニング手法「LoRA」のポイントと活用例](https://qiita.com/DeepMata/items/cb4ff18c1e0548bdb844) B! 2
 - [✨VS Code + gitmoji でコミットメッセージにササッと絵文字をつけよう✨](https://qiita.com/ramiyon_chan/items/5b056a4ec8f47fdf41c9) B! 2
 - [新卒エンジニアがなぜスクラムの資格を取ったのか](https://qiita.com/Nagumo-7960/items/2cd77e38e0b5c5a8ae63) B! 2
 - [なぜソフトウェア開発のドキュメント管理は難しいのか](https://inside.dmm.com/articles/software-documentation-challenges/) B! 2
+- [横断的コードレビューを1年間やった個人的な振り返り](https://inside.dmm.com/articles/interdepartmental-codereview/) B! 2
 - [ゆるくやるRAMMapなどを使ってプロセスの使用量に表れないメモリ使用量を特定 (Windows、DriverLocked) (Bing Chat頼り)](https://t-hazawa.hatenablog.com/entry/2023/12/01/%E3%82%86%E3%82%8B%E3%81%8F%E3%82%84%E3%82%8BRAMMap%E3%81%AA%E3%81%A9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AE%E4%BD%BF%E7%94%A8%E9%87%8F%E3%81%AB%E8%A1%A8) B! 2
 - [社内勉強会を消滅させてしまったので反省してリニューアル！](https://tech.emotion-tech.co.jp/entry/study_session) B! 2
 - [ChatGPT✖︎GASを駆使した効率的データ収集方法](https://tech.enigmo.co.jp/entry/2023/12/06/070000) B! 2
@@ -1140,12 +1224,14 @@
 - [GitHubだけでVRTする仕組みを作ってみた](https://qiita.com/tacrew/items/f816c3690c0b5bc7bcb5) B! 2
 - [クラウドロックインされないアーキテクチャ「Cloud Agnostic Architecture」のすすめ](https://qiita.com/rhumie/items/9f9216ac48afeeec45f2) B! 2
 - [攻略ライターから未経験でエンジニアにジョブチェンジした1年目の備忘録](https://tech.gamewith.co.jp/entry/2023/12/01/123252) B! 2
+- [Terraformを使ってGCPサービスからのslack通知環境を整える](https://techblog.gmo-ap.jp/2023/12/07/slack_notifications_from_gcp_with_terraform/) B! 2
 - [右手親指が腱鞘炎になったエンジニアを支える技術](https://goodpatch-tech.hatenablog.com/entry/tendonitis) B! 2
 - [職種をまたいでなんでも相談！「エンジニアオフィスアワー」の紹介](https://goodpatch-tech.hatenablog.com/entry/about-engineer-office-hours) B! 2
 - [【イベントレポート】 最新デバイス「Meta Quest 3」と「HHKB Studio」を同時に体験できる社内ハンズオンを開催](https://goodpatch-tech.hatenablog.com/entry/2023/12/07/122920) B! 2
 - [採用管理システムのデータをLooker Studioで可視化するときにやってよかった5つのこと](https://goodpatch-tech.hatenablog.com/entry/2023/12/10/000000) B! 2
 - [Figmaでのフォントファイルによるアイコン管理のススメ](https://note.com/nrtknt/n/nd6e42346d125) B! 2
 - [LOVOTの描き方講座 2023](https://tech.groove-x.com/entry/231215) B! 2
+- [平方根の高速化とマジックナンバー](https://qiita.com/metaphysical_bard/items/e04378b16d6173127435) B! 2
 - [hacomono 2023年の振り返り](https://techblog.hacomono.jp/entry/2023/12/25/0700) B! 2
 - [mosya<TC> で中級までチームの皆で解いてみた](https://qiita.com/ryo0403/items/d79df2bed0dbbc0c5ec4) B! 2
 - [RDSのデータをBigQueryに転送してみた（ECS,Embulk）](https://qiita.com/keke21/items/6728646118150de9c4b5) B! 2
@@ -1153,28 +1239,28 @@
 - [組み込み用途向けのGo言語のサブセットTinyGoによるM5Stack Basicの制御を試す](https://tomato3713.hatenablog.com/entry/hatena-advent-calendar-day6) B! 2
 - [Angband（4.x系）を日本語化している話](https://motemen.hatenablog.com/entry/2023/12/25/013847) B! 2
 - [Advent Calendar 2023をやるので2023年を振り返ってみます](https://dev.henry.jp/entry/retrospective-2023) B! 2
+- [TerraformでAmazon API Gatewayを構築するサンプルコードを書いてみた](https://qiita.com/chacco38/items/de7a514b3122761d24e8) B! 2
 - [フロントエンドのlinter/formatterをxoに統一し、ルールの議論から解放される](https://blog.howtelevision.co.jp/entry/2023/12/02/153945) B! 2
 - [ChatGPTの可能性を引き出すプロンプトエンジニアリング入門](https://blog.howtelevision.co.jp/entry/2023/12/07/000000) B! 2
 - [なぜ人が増えると仕事も増えるのか。或いはコーポレート部門の業務システムの変遷について](https://blog.howtelevision.co.jp/entry/2023/12/12/000000) B! 2
 - [GraphQL、Go、React、TypeScriptを使ったTodoアプリの開発（フロントエンド編）](https://qiita.com/tomotaka_s/items/e9196ac2722d6d316cb7) B! 2
 - [活躍する新卒エンジニアの特徴](https://qiita.com/ssossan/items/961bd0d471ae33a696cf) B! 2
 - [思い込みを"疑う"デザイン](https://note.com/inomi_hrbrain/n/n0a520f2a0e79) B! 2
-- [Pinecone を使って、Amazon Bedrock Knowledge base と Agent で番組情報を扱えるようにしてみた](https://qiita.com/miu_crescent/items/b913683ff202ca34b019) B! 2
 - [セキュリティ周りでよく見かける単語についてまとめ（XSS,CSRF,CSP）](https://qiita.com/Terufuji3/items/45f56468152706e2e828) B! 2
 - [JavaScriptでの小数点の計算で誤差が出る件](https://tech.iimon.co.jp/entry/2023/12/24/0950) B! 2
 - [開発ディレクターの進化と挑戦](https://user-first.ikyu.co.jp/entry/2023/12/24/090902) B! 2
 - [git mergeとrebaseの違いについて](https://qiita.com/72_mikan/items/0171795e9f20fe95f165) B! 2
 - [【Next.js×microCMS×Vercel】初心者向け爆速ブログ作成ハンズオン](https://qiita.com/takakou/items/88dba056e6b391a28db6) B! 2
-- [GitHubのプロフィールを充実させてみよう♪](https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede) B! 2
+- [ ベクトルDBを調べてみました](https://qiita.com/miyatakem/items/b8b3c7699bb530554086) B! 2
 - [Azure OpenAI に日本語ドキュメントの内容を回答させてみた](https://www.isoroot.jp/blog/6994/) B! 2
 - [Quest3のMesh APIやDepth APIでMR開発を始めよう](https://donabenabe.hatenablog.com/entry/Quest3MeshDepthTry) B! 2
 - [デザインシステムめっちゃ見る② タイポグラフィ編](https://techblog.jmdc.co.jp/entry/20231208) B! 2
 - [Ginkgoを使ってGoをテストしてみた](https://techblog.jmdc.co.jp/entry/20231218) B! 2
+- [[Github Actions]terraform-aws-github-runnerでカスタムsgを指定しつつSSM経由でRunnerを起動する](https://qiita.com/ayumun_jp/items/6b559f407ce5161ab3be) B! 2
 - [今年1年でCTOとして取り組んできたこと](https://zenn.dev/matsukaz/articles/04c3ee46420fbc) B! 2
 - [忍者式テストをやってみた](https://qiita.com/pikazakipika/items/3ce88221d0f6ece866e4) B! 2
 - [「ストーリーポイントって時間じゃないんですか？」](https://qiita.com/nanayu/items/ece6e3dd0ab5954f312b) B! 2
 - [Node.js with TypeScript なプロジェクトに入ってやった最近の細々としたこと](https://techblog.kayac.com/ts-server-project-report-2023) B! 2
-- [どうしても取締役にうんこポーズさせたい話](https://techblog.kayac.com/executive-unko) B! 2
 - [AWS re:Invent 2023 初日のアプデ特集（Aurora、ElastiCache等）](https://qiita.com/minorun365/items/eaf706509e5bf98d9c7e) B! 2
 - [テックブログにおけるアウトプットを推進するための取り組み](https://blog.kinto-technologies.com/posts/2023-12-3-techblog-review/) B! 2
 - [フロントエンド勉強会の振り返り](https://engineer.blog.lancers.jp/%e3%83%95%e3%83%ad%e3%83%b3%e3%83%88%e3%82%a8%e3%83%b3%e3%83%89/frontend_furikaeri/) B! 2
@@ -1184,17 +1270,18 @@
 - [Git用語集](https://qiita.com/taka-fujita/items/a35a5b33ec5021aa5425) B! 2
 - [登壇を支える技術](https://zenn.dev/katzumi/articles/technology-supporting-speakers) B! 2
 - [エンジニアリングマネージャーが後任に引き継ぎをするまでの道のり](https://note.com/m_negi/n/nb95a03ed1f46) B! 2
-- [あらためて、じっくり動かすFargate](https://zenn.dev/cumet04/articles/fargate-jikkuri) B! 2
 - [テクニカルサポートチームで「お問い合わせ対応」と「開発タスク」を両立するためにやったこと](https://qiita.com/waka087/items/8b42c7539f0f8ee734b0) B! 2
 - [新人エンジニアがAPI実装をできるまでに大切だったこと](https://qiita.com/souki-kimura/items/a39713b937572b730d1a) B! 2
 - [エンジニア組織の隠れた魅力発見と組織文化の強化](https://note.com/shioyang/n/n408a79de3c3f) B! 2
 - [これからEMになろうと決意した話](https://zenn.dev/loglass/articles/c5ed199255f396) B! 2
-- [コード品質向上のテクニック: 第 5 回](https://techblog.lycorp.co.jp/ja/20231207b) B! 2
+- [ログラスのプロダクトマネージャーチームが今年取り組んだこと、いま苦労していること2023](https://note.com/asa_kossy/n/nc85eca4a8066) B! 2
 - [SWAT×Agile Coach: 異なるスキルが共創するまで](https://techblog.lycorp.co.jp/ja/20231212a) B! 2
 - [LINEドクター Scrum 開発：Waterfall開発からScrum開発へ](https://techblog.lycorp.co.jp/ja/20231223a) B! 2
 - [2023年は3段階でシフトチェンジ！2024年はさらに加速してやっていきます！](https://www.m3tech.blog/entry/cto-retrospective-2023) B! 2
 - [FireDucksを触ってみる〜Polarsとの比較を添えて〜](https://zenn.dev/magicmoment/articles/try-using-fireducks-202312) B! 2
 - [M2 MacBook Air (M2, 2022) を DisplayLink を使用して2台の外部ディスプレイに接続する](https://zenn.dev/magicmoment/articles/use-displaylink-20231218) B! 2
+- [超便利な自宅サーバーを構築した話](https://qiita.com/stLuciano/items/49652543192f2402e7c8) B! 2
+- [ChatGPT での大規模リファクタリング - 理想と現実](https://engineering.meetsmore.com/entry/2023/12/04/191034) B! 2
 - [ChromeとcanvasでTVの放送用字幕を作っているお話2023](https://qiita.com/Kaitou/items/115dbdd5c76ca7175651) B! 2
 - [税込金額から消費税額を算出してみた](https://qiita.com/aizunoinu/items/ae3fe8aeddc578379a6d) B! 2
 - [issetだらけのコードはやめてください。](https://qiita.com/Jim_Jin/items/aa1c9de50257e424bfc4) B! 2
@@ -1202,19 +1289,27 @@
 - [Icebergテーブルの内部構造について](https://yassan.hatenablog.jp/entry/advent-calendar-2023-1201) B! 2
 - [RKE2ノードのCiliumを使ったeBPFな帯域制限をする話](https://yassan.hatenablog.jp/entry/advent-calendar-2023-1205) B! 2
 - [Mergin Maps CE (Community Edition) をEC2にデプロイする](https://qiita.com/KEI_YAMA/items/96bc6f6876bbe33f7144) B! 2
+- [その Nullable で本当にいいの？](https://zenn.dev/suzuki_hoge/articles/2023-12-really-nullable-dd1edd8ecbf8b4) B! 2
 - [LLMをファインチューニングして漢文（白文）を書き下し文にする](https://miraitranslate-tech.hatenablog.jp/entry/20231201-llm-kambun) B! 2
+- [｢家族アルバム みてね｣にSwiftUIを導入しました](https://team-blog.mitene.us/introduce-swiftui-7bcc5cd50b7a) B! 2
+- [ChatGPT Slackボットのベストユースケース](https://qiita.com/sifue/items/275cf6aaee29e16aa2eb) B! 2
+- [Python の Code Golf テクニック紹介 〜 Python のコードをできるだけ短く書いてみよう！ 〜](https://qiita.com/Totosuki/items/4f032585e4a51ad7f289) B! 2
+- [hotwireをキャッチアップした](https://zenn.dev/neinc_tech/articles/rails-hotwire-lazy) B! 2
 - [デザインコンポーネントの命名規則にBEMを取り入れる](https://note.com/akanyoshi/n/n05e608c93334) B! 2
 - [Brazeでメール配信が改善できた話](https://tech.uzabase.com/entry/2023/12/18/165306) B! 2
 - [あるエンジニアの、ささやかな成長](https://sizu.me/monzou/posts/iwh93zidm26z) B! 2
 - [会社でもガチャを回したい！（SlackワークフローからGoogle Apps Scriptを実行する方法）](https://engineering.nifty.co.jp/blog/24182) B! 2
 - [Honoで作るスキーマファーストなAPI](https://zenn.dev/noplan_inc/articles/fd917e638e38e6) B! 2
 - [最近（2023末ごろまで）のCSS世界で気になるまとめ](https://note.uto-usui.com/n/n66ee801f7a42) B! 2
+- [「noteのEKS移設、ゼンブ見せます」CNDT2023に登壇しました](https://zenn.dev/varu3/articles/8e502fc41240b7) B! 2
+- [LLMがE2Eテストの問題を鮮やかに解決するかもしれない](https://note.com/konpyu/n/n23a4c189ae57) B! 2
 - [Java21の新機能とJDK開発者の開発思想に触れてみる](https://qiita.com/kanta-k/items/8fcf96e6c5dbc21b5e31) B! 2
 - [SI開発の標準化で大事なこと](https://qiita.com/beefcake/items/bbcb356608e04a4378ee) B! 2
 - [[AWS]猫でもわかるDirect Connect(Cloud Wan対応版)](https://qiita.com/kamogashira/items/501543b04c1d9a2d9970) B! 2
 - [複合現実を使って部屋をコムウェアカラーで一杯にする！](https://qiita.com/comware_kakeuchi/items/83abbb09ed44231ac4c2) B! 2
 - [勇気を授けるエンジニア質問テンプレート集](https://qiita.com/nemo_Nuco/items/7c0f9e228ff2c5ddd23e) B! 2
 - [プログラミング学習サイトまとめ](https://qiita.com/tajiri_manato/items/86cd2594c6cdab0b4693) B! 2
+- [Quine を書いてみた](https://qiita.com/dorimiamn/items/e94559e5040663095e64) B! 2
 - [制約と誓約: ラストワンマイルにおける制約（誓約）とその代償 時間枠指定編](https://qiita.com/jackielee/items/e1922ec644d4abc13c3f) B! 2
 - [【超基本】API設計で気をつけたい事10選](https://qiita.com/nissy_gp/items/115a81cf830c91a7cd82) B! 2
 - [【CSS】Web Platform Baselineってなにもの？](https://qiita.com/degudegu2510/items/bed2bdc8973752b1ad7a) B! 2
@@ -1223,37 +1318,48 @@
 - [Slack ワークフローを使って問い合わせを管理する](https://zenn.dev/readyfor_blog/articles/f90b8e32920937) B! 2
 - [ユーザーの感情を動かすためのUXライティング手法](https://zenn.dev/readyfor_blog/articles/1fde03dd5795c2) B! 2
 - [非エンジニアプロダクトマネージャー（PM）の処世術6つ](https://zenn.dev/readyfor_blog/articles/85061fb146dbe0) B! 2
+- [生成AIに会議議事録を作成させてみた](https://qiita.com/iwabuchih/items/cebb019bf6c1065ddee6) B! 2
 - [変化に対応し進化を止めない”ICT利用ガイドライン”の取り組み](https://blog.recruit.co.jp/rtc/2023/12/08/ict-guidelines/) B! 2
 - [SharePoint 共有リンクの謎を解明するため、調査隊はアマゾンの奥地へと向かった…](https://blog.recruit.co.jp/rtc/2023/12/13/mystery-of-shared-link/) B! 2
 - [端末管理をIntuneに集約してアクセス制御を導入してみた](https://blog.recruit.co.jp/rtc/2023/12/21/intune/) B! 2
-- [Figma から Next.js を生成する方法について調べてみた](https://blog.recruit.co.jp/rtc/2023/12/22/figma-next-js/) B! 2
+- [Playwrightを活用した本番稼働を支えるE2Eテスト実践のコツ](https://tech.revcomm.co.jp/e2e-test-practice-with-playwright) B! 2
 - [コンテナを使う前にコンテナがなぜ利用されるかを知ってみる](https://blog.serverworks.co.jp/2023/12/17/131603) B! 2
 - [ChatGPTで雑にスクレイピングスクリプトを作る](https://qiita.com/toniokatanuki/items/1165bb14602ceec0831c) B! 2
+- [非定型 AI-OCR 作ってみた 〜 AI 時代の開発戦略を添えて](https://zenn.dev/simpleform/articles/20231202-02-empowering-ocr-with-llm) B! 2
 - [【ネットワーク】初心者のためのOSI参照モデル説明](https://qiita.com/nakamura_slj/items/0c827de1dab6ebc722d2) B! 2
 - [UXライターがいる会社に入ったと思ったら、なぜかエンジニアの自分がUXライティングやることになった件](https://tech.smarthr.jp/entry/2023/12/07/113000) B! 2
 - [EMのキャリアチェンジを支える技術](https://tech.smarthr.jp/entry/2023/12/15/145310) B! 2
 - [SmartHR UIの現在地 ~2023年12月編~](https://tech.smarthr.jp/entry/2023/12/22/080000) B! 2
-- [ビジネスチームにスクラムを導入しようとしたら自分の内観が深まった話](https://hase0831.hatenablog.jp/entry/Adventcalendar2023) B! 2
 - [SmartHR開発組織の2023年振り返りと2024年の話](https://tech.smarthr.jp/entry/2023/12/25/154935) B! 2
 - [プレイングEMと一緒に作る自律的な開発組織](https://note.com/sotarok/n/na431bbd53899) B! 2
 - [文系大卒が情報系大学院へ行き、もっと準備しておくべきだったと感じた数学のお話](https://zenn.dev/stafes_blog/articles/037b5ba65dc6f3) B! 2
+- [🍱スターフェスティバルCTO・4年目](https://note.com/sotarok/n/n48f7330df704) B! 2
+- [検索エンジンをVespaへ移行しています](https://techblog.stanby.co.jp/entry/vespa_migration) B! 2
 - [0→1でスピード重視で作られたアプリのTypeScriptコードを改善するために気にしていること](https://qiita.com/kyoyababa/items/b8e1afb2bd3ce08abd6e) B! 2
 - [ハイパフォーマンスにGIFを再生する技術](https://zenn.dev/noppe/articles/a598a761bd069c) B! 2
 - [何処かに置き忘れたバッグを見つけ出したい女](https://qiita.com/tsu_na/items/0d506b08a947fcb6f139) B! 2
+- [FP法を用いた見積り手法について](https://qiita.com/systemi-nakahara/items/285345f44453227f535c) B! 2
 - [DjangoでToDoリストを作ってみる](https://qiita.com/erika_h/items/a7b1aef7c809cc41ee51) B! 2
+- [【2023環境デッキ？】Bun + Hono + SvelteKit + Cloudflare D1 + Drizzle ORM](https://qiita.com/r-terao/items/7cc079f92b7a47eac996) B! 2
 - [Astroで高速Webサイトを簡単に！遅いサイト作成はもう過去の話](https://qiita.com/Orihara-Don/items/9e84cb239dd316bf68ea) B! 2
 - [食べログについて友達11人にインタビューしてみた話](https://tech-blog.tabelog.com/entry/advent-calendar-20231203) B! 2
 - [前代未聞！新卒で食べログ企画に配属された話](https://tech-blog.tabelog.com/entry/advent-calendar-20231205) B! 2
 - [スマートコントラクトのデザインパターンについて整理してみた](https://tec.tecotec.co.jp/entry/2023/12/22/000000) B! 2
 - [Fresh(Deno)をプラグインで拡張しよう！](https://toranoana-lab.hatenablog.com/entry/2023/12/06/100000) B! 2
-- [Slackのinputチャンネルで組織内の知識を増やす](https://note.com/kuronekopunk/n/n83a5f736b609) B! 2
+- [トレタAdventCalendar2023：エンジニアkentaroが語るインフラ移行の舞台裏](https://tech.toreta.in/entry/2023/12/25/010629) B! 2
+- [BigQueryのNULLの扱いまとめ](https://techblog.tver.co.jp/entry/takahashi/2023-advent-calendar-bq-null) B! 2
+- [2記事目はポエム！なにか1つをやり遂げるということは、残り全部を捨てるということ](https://nikkie-ftnext.hatenablog.com/entry/complete-one-discard-rest-gene-and-midosuji) B! 2
 - [セッションリプレイツールのススメと選定](https://qiita.com/NaotoFushimi/items/5e1207ab9216a388c0a8) B! 2
 - [SwiftUI でリスト要素のインプレッションを計測する](https://zenn.dev/swiftty/articles/20231202-swiftui-impression) B! 2
-- [学園祭において混雑可視化マップを作成および提供した話](https://qiita.com/TAKAYAMAN2180/items/e853436fdec0f7cf0083) B! 2
+- [「データの負債は高利子である」バグの修正別リードタイム分析](https://www.wantedly.com/companies/wantedly/post_articles/875378) B! 2
+- [情報を整理し、構造化していくこと](https://www.wantedly.com/companies/wantedly/post_articles/878750) B! 2
+- [高頻度で安全なリリースを支える「クラスタ」という抽象](https://www.wantedly.com/companies/wantedly/post_articles/879228) B! 2
 - [LaravelのSQLインジェクション対策の実装方法を調べてみた](https://blog.wh-plus.co.jp/entry/2023/12/20/090000) B! 2
 - [インボイス制度、自分には関係ないと思っていた](https://blog.wh-plus.co.jp/entry/2023/12/21/000000) B! 2
 - [スクリプトを超えた組織の1年](https://blog.wh-plus.co.jp/entry/2023/12/25/000000) B! 2
 - [Goで作るパスキー](https://blog.cateiru.com/entry/2023/12/09/211516) B! 2
+- [CloudFrontの多段構成](https://qiita.com/shinon_uk/items/2909e0eeab70a9aa4c73) B! 2
+- [とりあえずTypeScriptの例外処理にはResult型を使っておけ](https://qiita.com/totto2727/items/14dc358b71b791a44dbd) B! 2
 - [Grafana Agent を用いた Continuous Profiling (golang pull編)](https://qiita.com/yosshi_/items/5d2b917027787b9a9f1e) B! 2
 - [アクセシビリティ違反を自動検知する方法](https://b.0218.jp/202312010000.html) B! 2
 - [Gentoo Install Battle for WSL2](https://qiita.com/99no_exit/items/fc363b3cd22e0d3ca95d) B! 2
@@ -1266,22 +1372,29 @@
 - [自社でプロダクトを作っている企業からスカウトされるプロフィールの書き方教えます！（駆け出し、未経験向け情報もアリ〼）](https://qiita.com/Kaitou/items/3b5389b69b56458c4bbb) B! 2
 - [Dagster University で Dagster に入門してみた](https://blog.foresta.me/posts/dagster-university/) B! 2
 - [データエンジニアリング組織の生存戦略](https://note.com/datamanagement/n/n6fd2972717e4) B! 2
+- [GPTs を使ってBigQueryデータモデリング支援アプリを作ってみる](https://zenn.dev/joyyan/articles/9506ba0ca8d5b1) B! 2
+- [データ品質: 完全性の実装](https://qiita.com/ttccddtoki/items/b4ef5f31fada1feaa326) B! 2
 - [crowdworks.jp のデザインシステム構築活動を振り返る 2023 (実装編)](https://engineer.crowdworks.jp/entry/2023/12/21/114413) B! 2
 - [2023年版。で、結局DevRelって何？](https://devrel.jp/%E3%83%96%E3%83%AD%E3%82%B0/2023/12/01/what-is-devrel.html) B! 2
 - [DevRel活動について調べ始めた2023年の振り返り―２５年前にはなかった仕事ー](https://mikihoshi.hatenablog.com/entry/devrel2023) B! 2
 - [技書博のXでのRelationShipを振り返る2023](https://blog.gishohaku.dev/entry/2023/12/20/221358) B! 2
 - [1人目EMとして入社前にしてもらったこと、入社後にしたこと](https://naopr.hatenablog.com/entry/2023/12/05/235013) B! 2
+- [チームメンバーの有給消化率100％を目指す事とその重要性](https://zenn.dev/halt/articles/20231207_paid_vacation) B! 2
 - [EMになる前となった後の話](https://blog.daisukekonishi.com/post/em-before-after) B! 2
 - [JavaScript・TypeScriptにおけるfor (const key in x)に気をつけて！](https://qiita.com/KokiSakano/items/aa90417220b9af54f97a) B! 2
 - [からあげ帝国バンザイ！書ける変態について書きました](https://nikkie-ftnext.hatenablog.com/entry/writing-ability-3-books-202312) B! 2
 - [【ROS2/CNN】からあげ先生が作ったAIルンバをROS2で動かしてみた](https://qiita.com/koichi_baseball/items/861b04c868e53a2c1008) B! 2
 - [祝・からあげ帝国！『からあげ・ザ・ワールド』を作りました](https://blog.memetan.dev/entry/2023/12/11/001831) B! 2
+- [AIでどんなネタも寿司にする🍣 寿司画像生成iOSアプリをつくった](https://zenn.dev/mesummery/articles/8c54128f0dfbe2) B! 2
 - [エンジニアコミュニティの立ち上げから1年、定期開催までの軌跡](https://techblog.raksul.com/entry/23adcale_1215) B! 2
 - [何を思って地域テックコミュニティを立ち上げたのか振り返る](https://techblog.raksul.com/entry/2023/12/25/144222) B! 2
+- [8歳娘「パパ、なんでそんなにいいねを欲しがるの？」](https://qiita.com/Yametaro/items/742dd0e5aab6b04450d1) B! 2
 - [技術記事はタイトルが9割](https://zenn.dev/streamwest1629/articles/title_is_all_you_need) B! 2
 - [クリスマスなのでかわいいAIと音声通話できるWebアプリを作ったけど最高過ぎるかもしれない](https://blog.potproject.net/2023/12/24/ai-web-uchinoko-studio/) B! 2
+- [効果的なテクニカルサポートへの問い合わせ方法とは](https://rheb.hatenablog.com/entry/2023/12/23/095428) B! 2
 - [Dependabotで依存関係の更新を検出後，自動テストに成功したらPRを自動マージする方法](https://qiita.com/zacky1972/items/d1d159f8bcf24d012fbc) B! 2
 - [ソフトウェアレビューに対する考え方「ソフトウェアレビューマニフェスト」を考案しました](https://nihonbuson.hatenadiary.jp/entry/SoftwareReviewManifesto) B! 2
+- [組み合わせテストの組み合わせを減らすアプローチ](https://goyoki.hatenablog.com/entry/2023/12/10/150136) B! 2
 - [Jenkins で Airetest を Device Farm でE2Eテスト実行するCIを作った](https://qiita.com/gremito/items/9baba2cb0e17af8775db) B! 2
 - [Amazon Bedrockで文書検索をやってみた（FAISS、LangChain）](https://qiita.com/tatsuki-tsuchiyama/items/1161ee15efb011b1294f) B! 2
 - [技術広報が社内勉強会の火をつける](https://www.estie.jp/blog/entry/2023/12/03/000000) B! 2
@@ -1291,24 +1404,24 @@
 - [SWEST，JaSST，ElixirConfに関わっての所感](https://qiita.com/zacky1972/items/48c8b99919b70a5eeaca) B! 2
 - [地方で技術イベントを開催したい想いの話](https://blog.sora-riku.com/6adbb867dc84b62ebedf44611c927b07/) B! 2
 - [WCAN 2023 Winter 登壇資料 UIデザインは何であり何でないか](https://qiita.com/xrxoxcxox/items/e6ec9c0715fc2adb40c7) B! 2
-- [ファイルサーバーのシャドウコピーを破壊した話](https://qiita.com/waitonly/items/4bdee104bb9a95e2caac) B! 2
+- [コンテンツ全消ししちゃった話](https://qiita.com/tosiooooooo/items/8805b9a0f9846efec334) B! 2
 - [老ハムスターに遠隔で餌をあげる by Alibaba Cloud Serverless App Engine](https://qiita.com/komasayuki/items/592141602d78920b2d8f) B! 1
 - [Container Service ACK とIntelligent Speech Interaction でRaspberry Pi を使ってQwen-Chat と会話をしよう！](https://qiita.com/jkudo/items/3caab21ca54655d88175) B! 1
 - [Serverless RDB対決：AWS Aurora Serverless v2 vs Alibaba Cloud PolarDB Serverless、予想外の結果に驚愕！](https://qiita.com/komasayuki/items/3b2f739a4a9e2373f6af) B! 1
 - [CloudWatch Syntheticsを使ってE2Eテストの導入をガチに検討してみる](https://qiita.com/inoue2355/items/0b8d2f39a778ae22a909) B! 1
+- [Udemy講座だけでAWS SAA・SAPに一発合格した勉強方法](https://musclecoding.com/chatgpt-programming/) B! 1
+- [Udemy講座で目指すAWS全冠への道](https://qiita.com/akirarara16/items/f8d9489ec97ea41e2251) B! 1
 - [Unreal認定インストラクターおススメ！UdemyでUnrealEngineの海外チュートリアルを学習する方法](https://qiita.com/posita33/items/511b764ef472e482775d) B! 1
 - [垣根を越えればチームが強くなる](https://qiita.com/luton-mr/items/03936a08982f3e22ff28) B! 1
 - [技術的負債の解消の合理性を数式から考えてみた](https://qiita.com/nipe0324/items/0a177ad13c789421cdac) B! 1
 - [「開発生産性カンファレンス ~After Findy Team+ Award 2023~」でパネルディスカッションをした話](https://zenn.dev/morisawa/articles/findy-development-conference-speaker-report) B! 1
 - [開発生産性Conferenceでの学び](https://note.com/dai___you/n/n82db68a6a349) B! 1
-- [開発生産性と開発者体験の向上　成功への鍵](https://qiita.com/NTR893/items/ab56da569cec5c476c7a) B! 1
 - [開発生産性と開発者体験の向上に取り組んできたことの振り返りとこれから](https://note.com/deliku0306/n/n569819080710) B! 1
 - [ボトムアップによる開発生産性の向上](https://qiita.com/DaikiSuyama/items/a008db73bde2d52ab1dd) B! 1
 - [ゼロから始めるDocs as Code](https://qiita.com/tikamoto/items/c05a5c117c78fb7a4e47) B! 1
 - [Four Keys 変更リードタイム向上のための Tips](https://qiita.com/k-nhr/items/302aa4cabef76943480c) B! 1
 - [Pull RequestをAIにレビューさせるのはまだ早かった](https://zenn.dev/kanasugi/articles/a3c0b4b2857302) B! 1
 - [開発生産性の維持のためのルールを考えてみた](https://qiita.com/newta/items/bd17fc35f9a1722cb8b7) B! 1
-- [Outcome / Day で考える開発生産性](https://note.com/niwa_takeru/n/n5fe7fa5a769b) B! 1
 - [FinOpsをがんばっていくためにAWSコスト削減イベントを開催した話](https://qiita.com/hayao_k/items/be60650b544fbab6144b) B! 1
 - [GitHub ProjectsのデータをGitHub APIを使って取得し、Redashに入れて分析した](https://qiita.com/newta/items/08f3ab10e8faf7127953) B! 1
 - [CCoE + 1.0　変化への適応と成長](https://qiita.com/Brutus/items/7a24f3013077248099d7) B! 1
@@ -1319,9 +1432,7 @@
 - [Distributed Load Testing on AWSを用いた負荷テストをWEBアプリケーションに実行し、その裏をNewRelicで見てみる](https://qiita.com/yes_dog/items/32a24e43484711861115) B! 1
 - [New Relic Alertのニッチ？な機能 Enrichmentでアラート対応を自動化する件](https://qiita.com/t-nkjm/items/4ea7d7148540bbf9054f) B! 1
 - [New RelicでElastiCache for Redisが帯域上限まで使用されていることに気づいた話](https://qiita.com/okatatuki/items/8262ae0cc27d949b2c45) B! 1
-- [Gmail メール送信者のガイドライン変更に備える話](https://qiita.com/hmatsu47/items/04e78fcb331239690911) B! 1
-- [DevRelCon Yokohama 2023を支えるメール技術](https://qiita.com/goofmint/items/0380834e856a2dfb6d5b) B! 1
-- [DMARCのレポートを可視化するdmarc-report-converterの紹介](https://zenn.dev/kikutaro/articles/12e07255519212) B! 1
+- [PostmanでGPT-V(Vision) APIを呼び出して、伝票の読み取りをしてもらった](https://qiita.com/yo-nagase/items/6d77fafc3c65c4b3be82) B! 1
 - [WEBフォームなどからのメールのヘッダFromはユーザのメールアドレスで大丈夫か？](https://qiita.com/umeyon/items/ad10041c715fb69a9074) B! 1
 - [aws APIGateway, lambda, sesでメール送信機能実装](https://qiita.com/kaito_111/items/fa6b0a05348c60fe87a5) B! 1
 - [Snykを使用したIaC脆弱性診断をやってみた](https://qiita.com/duelist2020jp/items/11afd310460e3a0a0889) B! 1
@@ -1359,6 +1470,8 @@
 - [Crystalをインストールしたかった (Guix)](https://qiita.com/gemmaro/items/8a9b9ae35a3fabc459de) B! 1
 - [【Crystal】webviewでウェブサイトをアプリにする](https://qiita.com/kojix2/items/6fd4490ad9c1cc25c3a9) B! 1
 - [プログラミングのお題としてCrystalで簡単なコマンドラインRSSリーダーを作る](https://qiita.com/sonota88/items/013bcbd3f8a12e2687db) B! 1
+- [Crystalの並列実行のやり方を調べた](https://qiita.com/kojix2/items/85ed72e34b7c07e86ab0) B! 1
+- [プログラミングのお題としてCrystalで簡単なbeepコマンドを作る](https://qiita.com/sonota88/items/fffe2588f8da15ac264d) B! 1
 - [VSCode で {} 前後の改行位置の設定を変える 2023](https://aquasoftware.net/blog/?p=1975) B! 1
 - [C#12.0 .NET8.0における、Utf8文字列の作り方とパフォーマンス](https://gitan.dev/?p=320) B! 1
 - [自作キーボードをちょっとだけ便利にするツールをC#で書いた話](https://blog.alglab.net/archives/csharp-prkkeymap/) B! 1
@@ -1366,7 +1479,10 @@
 - [【C#】unsafeコードを書いてみよう](https://annulusgames.com/blog/unsafe/) B! 1
 - [【C#】抽象クラスとインターフェースを併用する理由を考えた](https://qiita.com/seiya2130/items/6c639efadbfcb279e4ed) B! 1
 - [DefaultInterpolatedStringHandler を StringBuilder 的に使う](https://aneuf.hatenablog.com/entry/2023/12/12/000000) B! 1
+- [USBカメラを使ってみよう](https://qiita.com/secile/items/21b7da5d32bc44dbb947) B! 1
 - [機械学習の専門知識がなくてもC#＋ML.NETで高性能なAIが作成できるAutoMLを試してみた](https://qiita.com/TechNinja/items/ac7faf3363e263b8c619) B! 1
+- [C#で作る。組み込み用GUIアプリ通信方法について](https://qiita.com/qa65000/items/64be8bcf45dc2c39b48f) B! 1
+- [C# で Deque を自作する](https://qiita.com/YuHima03/items/e52fdebdf626192c4b1e) B! 1
 - [レガシーAPIとstd::unique_ptr](https://qiita.com/yohhoy/items/c186bbf8fdf36ba9e984) B! 1
 - [浮動小数点数と整数の変換](https://qiita.com/eli_/items/7f305eb022eead1329f8) B! 1
 - [出来たら何かやります……。](https://zenn.dev/outlandkarasu/articles/7fa1a373536d69) B! 1
@@ -1376,6 +1492,7 @@
 - [deno.land/x/dax で pipe処理を楽に書くためのdax_extarsを作成した](https://zenn.dev/impactaky/articles/d1d9876f6e1128) B! 1
 - [deno.land/x/vscode を使って VSCode 拡張機能を作成する](https://zenn.dev/narumincho/articles/deno-vscode-extension) B! 1
 - [DenoでグローバルIPを確認できるサイトを作った](https://zenn.dev/ryuapp/articles/deno-checkip) B! 1
+- [Fresh(Deno) の Plugin のテストを自動化する(in github actions)](https://www.ccbaxy.xyz/blog/2024/01/03/js83/) B! 1
 - [`deno compile --no-terminal`を使いたいときはmacOSを使おう](https://zenn.dev/windchime_yk/articles/deno-compile-no-terminal-bug) B! 1
 - [Deno KVは分散型SNS Nostrの夢を見るか?](https://zenn.dev/jiftechnify/articles/denokv-based-nostr-relay) B! 1
 - [Deno KVでOTPもどき生成ツールを作った話](https://zenn.dev/windchime_yk/articles/deno-kv-otp-api-and-app) B! 1
@@ -1386,14 +1503,17 @@
 - [Go における汎用型から独自定義型への移行](https://note.com/bloomo/n/n23d847711a5e) B! 1
 - [context.Contextを自動挿入する静的解析ツール ctxfmt を書いた](https://zenn.dev/castingone_dev/articles/20231215-ctxfmt) B! 1
 - [Goで作るAPIサーバーと大規模言語モデル](https://qiita.com/Junya_Okabe/items/08893ad3ddbef839840d) B! 1
+- [http ServerでのbaseContextを調査](https://zenn.dev/hiroyukim/articles/f9ab45f01b2d77) B! 1
 - [happyとalexでパーサつくる](https://zenn.dev/arark/articles/f761491473b971) B! 1
+- [Monomer という Haskell のハイレベル GUI ライブラリ](https://qiita.com/satosystems/items/854d509d37bcd488fa7b) B! 1
 - [Haskell開発のお作法2023](https://zenn.dev/arark/articles/079f839d084cd9) B! 1
 - [foldr の融合則が一般の融合則から導ける件](https://zenn.dev/mitsuchi/articles/180912400fbcaa) B! 1
 - [inline CUDA](https://qiita.com/junjihashimoto@github/items/c391845ea8e01f2124da) B! 1
-- [Glasgow Haskell Compiler の書換え規則における高階型のパターン照合](https://qiita.com/tnagao7/items/7534bc22ac813d6cf479) B! 1
+- [Haskell初級者がAtCoderの問題でプロパティベーステストを試す](https://zenn.dev/hanao/articles/a6ad672163a3a2) B! 1
 - [モナディック関数型リアクティブプログラミング(mFRP)の実装のひとつであるmoffyの紹介](https://zenn.dev/yoshikuni_jujo/articles/introduction-to-moffy) B! 1
 - [パソコン甲子園の基礎問題をJasmine Teaで解いてみた](https://qiita.com/takoratta/items/c77916f7f56f7502483b) B! 1
 - [Compiler API](https://www.javainthebox.com/2023/12/compiler-api_0344683136.html) B! 1
+- [JavaでCRTP的な話](https://note.com/clas/n/ncfabfdbf0b93) B! 1
 - [Webページ上に貼り付けられたクリップボードの内容を読み取る2つの方法](https://qiita.com/denkiuo604/items/7f3d5d8d696604b734f3) B! 1
 - [【JavaScript】ドット記法ではプロパティ名に変数を使えない](https://qiita.com/wsigma21/items/480a8f8e21f0ff84d86a) B! 1
 - [JavaScriptでネストが深いオブジェクトのconsole出力方法3選](https://qiita.com/tsukasaI/items/dacc930125d7bd19845a) B! 1
@@ -1411,6 +1531,7 @@
 - [Firefox に乗り換えよう！ 〜拡張機能を移行する〜](https://qiita.com/Chippppp/items/098c39479a98f1caa6da) B! 1
 - [Makieを使ったグラフ作図例](https://qiita.com/cometscome_phys/items/40f2c5d067ea44d6a8b1) B! 1
 - [Juliaを学んで驚いたこと ~Pythonとの比較を添えて~](https://qiita.com/kitta65/items/df9dee75f09a5f6938d2) B! 1
+- [細かすぎてたぶん伝わらないJuliaのTips2023](https://zenn.dev/kurusugawa/articles/julia_tips_too_detailed_to_convey_2023) B! 1
 - [フォームに郵便番号検索機能を実装する方法](https://qiita.com/kakisaba/items/446d36e92f33953f6217) B! 1
 - [TIL: ピックの定理とShoelace formulaすごいぞ！](https://tmokmss.hatenablog.com/entry/pick_theorem_and_shoelace_formula) B! 1
 - [mrubyファミリーの歩き方](https://shimane.monstar-lab.com/hasumin/how-to-walk-through-mruby-family) B! 1
@@ -1424,12 +1545,14 @@
 - [浦島太郎と辿るここ数年のmruby](https://silentworlds.info/2023/12/23/post-1066/) B! 1
 - [なでしこ3で作るブラウザ楽器はじめの一歩](https://qiita.com/kujirahand/items/c0b3aa96fd3403396cea) B! 1
 - [MySQLのDATETIMEをとにかく素早くPerlのDateTimeオブジェクトにしたい](https://papix.hatenablog.com/entry/2023/12/07/010810) B! 1
-- [Perlのレガシーシステムを少し更新した話](https://qiita.com/teckl/items/060c1ce1c3ee7c42a2f6) B! 1
 - [Perlで超簡易アセンブラーを書いた話](https://shogo82148.github.io/blog/2023/12/21/2023-12-21-perl-asm/) B! 1
+- [PerlのHTTP::Tinyがv0.083からデフォルトでTLSの証明書を検証するようになった件](https://shogo82148.github.io/blog/2023/12/27/2023-12-27-perl-http-tiny-now-verify-tls/) B! 1
+- [【PHP8.3】PHP8.3がリリースされたので新機能全部やる](https://qiita.com/rana_kualu/items/f03efb9810c3ac5b2ab6) B! 1
 - [mockery/mockery の仕組み](https://tech.yappli.io/entry/php_mockery_codereading) B! 1
 - [PHP/Laravel コードの自動生成による開発効率化](https://blog.colopl.dev/entry/php-laravel-code-generate) B! 1
 - [君たちはどう再帰するか](https://qiita.com/wakabadou/items/1e40e62a3cd97b0855c4) B! 1
 - [FrankenPHPでスタンドアロンなコマンドを作ってみた](https://zenn.dev/77web/articles/002f55e65e2541) B! 1
+- [PHPの例外入門!](https://qiita.com/lyricrime/items/63dd3a1c6053b45d96d7) B! 1
 - [初心者向け記事 #1](https://tradingview.blog.fc2.com/blog-entry-98.html) B! 1
 - [確率的ボラティリティモデルをstanで実装してみる](https://www.pagumi-bayesian.com/2023/12/21/svmodel-stan/) B! 1
 - [ベイズ推論をJulia(&Turing.jl)でやってみた](https://qiita.com/ismkt/items/85baa20792f896e30f79) B! 1
@@ -1451,12 +1574,10 @@
 - [現在開発中の「SpeedLimiter」Gemの紹介](https://zenn.dev/seibii/articles/20231219_speed_limiter) B! 1
 - [rescue節以外で$!を使ってはいけない](https://blog.netlab.jp/2023/12/24/errinfo-outside-rescue.html) B! 1
 - [OpenAPIからRustのクライアントコードを自動生成したい！](https://zenn.dev/noplan_inc/articles/c79db5f5f626bb) B! 1
-- [RustでTestcontainers入門: テストコードから依存サービスを起動してテスト環境を作成する](https://blog.kymmt.com/entry/testcontainers-rs) B! 1
 - [futures-rsのjoin_allのパフォーマンス変遷](https://zenn.dev/mox692/articles/7f314574c1d85b) B! 1
 - [mediasoup で録画する方法](https://zenn.dev/labbase/articles/843dc4d0ea1dad) B! 1
 - [Rust | `.env` を扱うライブラリ dotenvx を開発していきたい](https://zenn.dev/codemountains/articles/ddb7e5cb01ae82) B! 1
 - [MoonZoon フロントエンドの状態管理入門](https://zenn.dev/etoal83/articles/2de0fcde17cc01) B! 1
-- [Scala.js + Javy で Scala を WebAssembly 上で動かす](https://zenn.dev/tanishiking/articles/scala-wasm-javy) B! 1
 - [Google CloudのCloud FunctionsでScalaを実行する](https://blog.3qe.us/entry/2023/11/28/183550) B! 1
 - [Testcontainers + ZIO Test によるテスタブルな開発で生産性を爆上げする](https://qiita.com/aoyagi9936/items/ad9ef11a08730ff73e03) B! 1
 - [Scala 3.4から新たに警告やエラーになる予定の記法を雑にまとめ](https://xuwei-k.hatenablog.com/entry/2023/12/23/131638) B! 1
@@ -1469,23 +1590,35 @@
 - [macOSでGNUコマンドを使うシェルスクリプトを書く ～ 移植性を高める正しいシェルプログラミング](https://qiita.com/ko1nksm/items/287370ec8a2802882e34) B! 1
 - [lessプリプロセッサ解説](https://qiita.com/jmatsuzawa/items/0cb53a5e555652ae78d3) B! 1
 - [宇宙船「spaceship」の仮実装と複数インスタンスの動作確認](https://sumim.hatenablog.com/entry/2023/12/21/182033) B! 1
+- [「ask」「start」の実装](https://sumim.hatenablog.com/entry/2023/12/29/003946) B! 1
 - [[Swift] isolatedなasync functionからnon-isolatedなasync functionを呼び出した時は必ずActorから出る](https://qiita.com/kntkymt/items/a588bf316e7478134e75) B! 1
 - [[Swift] Objective-Cのcompletionをasyncで呼ぶ機能はexecutorを引き継ぐ](https://qiita.com/kntkymt/items/60602d6326ed92c2f8a0) B! 1
 - [プロパティラッパーによる actor isolation inference が削除される](https://maiyama4.hatenablog.com/entry/2023/12/16/110453) B! 1
+- [【SwiftUI×SPM】SPMマルチモジュールでの画面遷移について](https://qiita.com/Soccerboy_Hamada/items/686e994c53736593659e) B! 1
 - [[TypeScript] 非同期処理（Promiseを返すやつ）をリトライするよくあるコード（テストあり〼）](https://qiita.com/sengoku/items/c5500b86b8ad22c33f58) B! 1
+- [[TypeScript] Branded Types と Companion Object の組み合わせが便利](https://qiita.com/akid3020/items/9a32ebe4ce94c5ad2298) B! 1
 - [[TypeScript] TypeScriptの型](https://qiita.com/ksh-fthr/items/f8ba194977b6eb5b6305) B! 1
-- [Misskeyで学ぶdependency-cruiser](https://qiita.com/hiromichinomata/items/bc1dafff8a96e85b97ef) B! 1
 - [新人の自分がFull Typescriptで出来たSaaSの開発にJoinする時にありがたかった関数](https://zenn.dev/ascend/articles/5f508129786867) B! 1
+- [TypeScript Compiler APIに入門する](https://qiita.com/suke083/items/878e9d275305ae18c30b) B! 1
 - [UWSCRとは](https://qiita.com/stuncloud/items/287d4f90874292f3e8a7) B! 1
 - [OpenSilver 2.0がVB対応したのでHello World!を表示してみた](https://qiita.com/yaju/items/8f210bcc90222fe8826f) B! 1
 - [2023 年に入った Angular のさまざまなアップデート](https://kasaharu.hatenablog.com/entry/20231201/1701381600) B! 1
 - [IonicとAngularの最新スタイルへの移行とPageSpeed Insightsによる測定](https://qiita.com/scrpgil/items/8e39804c4256e7fb85a0) B! 1
 - [Prettier の Angular サポートの仕組みと built-in control flow 対応](https://zenn.dev/sosukesuzuki/articles/1553af074e5884) B! 1
+- [2年前の自分に送る！べからず集　を書きます](https://zenn.dev/tkawa01/articles/1939b9376f3daa) B! 1
 - [Angular のテスト環境事情を調べてみた。](https://qiita.com/ic_lifewood/items/817f7ed51440e8d4a368) B! 1
 - [サブサイト機能を独自ドメイン、サブドメインで使う場合の注意点](https://blog.kaburk.com/blog/archives/175) B! 1
+- ["ゲームなどでよく見る「長押しのボタン」のUIをWEBで表現してみた" を Blazor で実装してみた](https://qiita.com/jsakamoto/items/3965b7a3c895fe122dc8) B! 1
+- [Blazor WebAssembly で作った Web アプリ "snow catch" ゲームを、🎙️ボイスコマンド (音声認識) で操作できるようにする](https://qiita.com/jsakamoto/items/9378a345a96113319102) B! 1
+- [Blazor Server で Scoped なサービスに状態保存してたら、.NET 8 の新しい Render Mode では危ないかもね、という話](https://qiita.com/jsakamoto/items/b2a7a4aed0f4d6868340) B! 1
+- [Blazor - サーバーで実行されているのかブラウザで実行されているのかを判別する方法](https://qiita.com/jsakamoto/items/8999d0322c64f265369b) B! 1
+- [[改訂版] Blazor でラジオボタン input 要素に双方向データバインドする方法](https://qiita.com/jsakamoto/items/a326ddb14b0a7b6c4a74) B! 1
 - [【Panda CSS】Atomic Recipe記法を使ってVueコンポーネントを実装する](https://zenn.dev/gangannikki/articles/pandacss-using-cva) B! 1
 - [環境構築のときやること](https://m-lab-tech.com/posts/2023125-django-quick-start/) B! 1
+- [2024年のDrupalについて](https://qiita.com/bassline121/items/5914b8172975e94cc636) B! 1
 - [DxLibでリソース管理システムを作ってみた](https://qiita.com/tsuchinokoman/items/a01fdce36592bfc8149f) B! 1
+- [DXLibのMV1でなんちゃって金属表現](https://qiita.com/tsuchinokoman/items/8d5db0192360db6980f7) B! 1
+- [FastAPI 0.100 (Pydantic v2)にアップグレードしました](https://labs.snaq.me/entry/2023/12/07/070000) B! 1
 - [FOSS4G ASIA 2023に来ています！](https://qiita.com/wata909/items/f2e9fe741c839cdead16) B! 1
 - [FOSS4G Asia 2023でオンライン発表したGEOS-WASMの話題など](https://qiita.com/sanak/items/7afc7decbb9d2099eea2) B! 1
 - [昨今の Google Colab 事情](https://qiita.com/tohka383/items/937a1d3460e55287d4a9) B! 1
@@ -1495,11 +1628,11 @@
 - [基盤地図情報の DEM1A を Windows の 3D ビューアーで覗いてみた](https://qiita.com/frogcat/items/722a0639e517fcd9c744) B! 1
 - [地図からこだわりの道を抽出する方法](https://zenn.dev/homing/articles/f9a314841c737d) B! 1
 - [４頂点楕円体描画](https://qiita.com/yuji_yasuhara/items/8bfb63440d16fe9e9a24) B! 1
-- [静的型付け大好きプログラマによるGodotEngine(C#)への理解](https://qiita.com/hyahoitaro/items/2c972b2126857d0516fc) B! 1
 - [【Godot4.2.x】はじめてのGodotフラグメントシェーダー](https://am1tanaka.hatenablog.com/entry/godot-fragshader) B! 1
 - [Godot で Unity の ScriptableObject のようなことをする方法](https://zenn.dev/su_do/articles/ff57202ae15ca1) B! 1
 - [グーグルマップの競合店を目立たせたくない！ Webデザイナーの為のHERE Mapガイド](https://qiita.com/Hossy03/items/d2271e2b7eb5aee39b4c) B! 1
 - [HEREが提供する様々な地図スタイルの紹介](https://qiita.com/moritoru/items/45c4b51fc5ea0db9ba94) B! 1
+- [都内の不動産のデータをhereRを使って可視化・分析する](https://moo-tech.hatenablog.com/entry/2023/12/18/004446) B! 1
 - [開発中のライブラリHono Storageについて](https://zenn.dev/monica/articles/8c2c0af1e685a5) B! 1
 - [HonoをAzure Functionsで動かす](https://ytnobody.github.io/wyton/2023/12/10/2023-12-10-001/) B! 1
 - [Hono + Cloudflare Workersでいい感じにpost cacheする](https://zenn.dev/monica/articles/a9fdc5eea7f59c) B! 1
@@ -1509,7 +1642,6 @@
 - [Stimulus controllerの登録方法の違い](https://qiita.com/yasu-sg/items/78043d8b28d720f28336) B! 1
 - [Import mapsでJavaScriptを管理しているときのstimulus controller登録の仕組み](https://qiita.com/yasu-sg/items/88e5896afc4a09310a76) B! 1
 - [最近の Hotwire 情報 〜2023 autumn〜](https://note.com/everyleaf/n/nd7c77758c610) B! 1
-- [Google Play (Androidアプリ)の新しい個人アカウントのルールについて考える](https://qiita.com/rdlabo/items/d98014fefe3f59f18009) B! 1
 - [SVGの図を描けるライブラリ「JointJS」をざっくり紹介する](https://qiita.com/acnaman/items/0f486ea69690186ca548) B! 1
 - [【JointJS】JointJSのイベント処理](https://qiita.com/acnaman/items/ba8a1dcb0a3cf812b7d9) B! 1
 - [【JointJS】セルが多いときのパフォーマンスに影響がありそうな設定を検証してみた](https://qiita.com/acnaman/items/c14f82db160a14e24c71) B! 1
@@ -1520,13 +1652,15 @@
 - [【JointJS】ドラッグ中のCellのイメージを表示する](https://qiita.com/acnaman/items/2cc9c32eba948d6f9abd) B! 1
 - [JointJSでAdventCalendarを作成する](https://qiita.com/acnaman/items/42d7f67cff0aa4c630fc) B! 1
 - [JUCEとCHOCを組み合わせてオーディオプラグインのGUIをWeb技術で作ろう -補足情報-](https://qiita.com/COx2/items/02980966130306293c24) B! 1
-- [LangChainやるならPythonよりTypeScriptの方がいんじゃね？](https://zenn.dev/optimisuke/articles/d6dcb852e14c81) B! 1
 - [LangChainから見る、OSS成長の力学](https://qiita.com/kzk-maeda/items/32088f27c4d78080881f) B! 1
 - [LangChainで業務アプリの機能を作ろうとして学んだこと(失敗談)](https://qiita.com/kota33/items/487890ee3fc6a52f02d8) B! 1
+- [Serverless Laravel - Laravel Queue Workerの構築から学ぶBrefとAWS Lambda](https://no-hack-no.life/post/2023-12-04-serverless-laravel-and-queue-worker/) B! 1
+- [Eloquent In Memory Testing - Eloquentモデルを速く小さく手軽にテストする](https://no-hack-no.life/post/2023-12-15-eloquent-in-memory-testing/) B! 1
 - [GPT-4VとDALL-E 3で絵しりとりLINE Botを作っちゃおう](https://qiita.com/uezo/items/437e438db33aa9784fb5) B! 1
 - [SigfoxとLIFF(LINE)を利用した車両トラッキングデバイス構想](https://qiita.com/taiyyytai/items/c006b35cd2e23973c76c) B! 1
 - [LINE Botのアイコンや表示名をNode.jsから変える](https://qiita.com/n0bisuke/items/102b36bae4627f396b41) B! 1
 - [海馬社長にカードだけじゃなくてビジネスも教わりたい](https://qiita.com/yutowac/items/102d119ab583a8ab930c) B! 1
+- [MapLibre GL JSをLeafletとの違いに注目して紹介する](https://qiita.com/Kanahiro/items/452cc021de0e11287cc0) B! 1
 - [MartinでPostGISからベクトルタイルを配信しよう](https://qiita.com/Kanahiro/items/919e20329ecc9d1f1513) B! 1
 - [MapLibre User Group Japanの2023年の活動をまとめてみた](https://qiita.com/dayjournal/items/8c1feae0330adf70c71f) B! 1
 - [JICAの講義でベクトルタイルを紹介してきた件について](https://smellman.hatenablog.com/entry/2023/12/07/180817) B! 1
@@ -1535,9 +1669,9 @@
 - [MapLibre GL JS+標高タイルで3D地形を表示する方法](https://qiita.com/shi-works/items/2d712456ccc91320cd1d) B! 1
 - [MapLibre GL JSにdeck.glレイヤーを組み込む方法](https://qiita.com/shi-works/items/cd99cabae941facab6e4) B! 1
 - [FOSS4G 2023 Japan@FUKUIハンズオン資料](https://qiita.com/K-Sakanoshita/items/0345c6e90032499e7a9a) B! 1
-- [NestJSでZodを使用した開発を考えてみる](https://zenn.dev/ikkyu_3/articles/017b9ef0f58879) B! 1
 - [【React, Next.js】Recoilで複数のStateを管理する](https://qiita.com/Senritsu420/items/e38f37383155663284de) B! 1
 - [Next.js App Router の Static Exports の可能性を探るためにブログでやってみた話](https://blog.stin.ink/articles/static-exports-with-nextjs-app-router) B! 1
+- [RSC内のCC同士を連携させるためにJotaiを使った話](https://zenn.dev/tell_y/articles/21d273df3186cf) B! 1
 - [Next.js(App router)でContentfulのMarkdownをHTMLで出力する(Remark/Rehype)](https://qiita.com/moroi/items/9d0aad1872de9c1843a6) B! 1
 - [NextJS App Routerに無事完全移行できたので要所をみんなにも共有するよ](https://qiita.com/JNJDUNK/items/84b146d41b940bea18c2) B! 1
 - [T3 Stackのメリットを考えて初心者向けにわかりやすく伝える話](https://musclecoding.com/t3-stack/) B! 1
@@ -1546,8 +1680,6 @@
 - [Nuxt3のAuto-imports機能 (components/composables) を拡張する](https://zenn.dev/gangannikki/articles/nuxt3-extend-auto-imports) B! 1
 - [NuxtjsをCloudrun+Firebase Hostingで動かす上での小ネタ集](https://qiita.com/ddg171/items/7c9e8311b7692db0d9a3) B! 1
 - [Nuxt3.8のType import changesは@typescript-eslintで解決すればよさそう](https://zenn.dev/gangannikki/articles/nuxt3-settings-for-type-import-changes) B! 1
-- [Vue (Nuxt 3) で Pinceau (CSS-in-JS/TS) を使う](https://blog.nekohack.me/posts/pinceau-usage-on-nuxt-3/) B! 1
-- [Nuxt3 で Vuetify3 + SASS/SCSS を使う (vuetify-nuxt-module 使用)](https://qiita.com/mml/items/5a0f32415440a4212d88) B! 1
 - [||演算子の短絡評価の罠：甘く見ると痛い目見るぞ！！](https://qiita.com/odendayoko/items/cf160e28f8ed7f67ddfc) B! 1
 - [AstroでハンバーガーボタンをJavaScript/Reactで実装してみた](https://qiita.com/odendayoko/items/3a9abfc64eeacca4094d) B! 1
 - [苦手克服したい「JSXの{}にはJavaScriptの式書く！！」](https://qiita.com/odendayoko/items/17b3d0d28b7ec4f90d34) B! 1
@@ -1559,6 +1691,8 @@
 - [#p5js を使って 2023年の後半半年で作った作品に関し利用した技術を振り返る【p5.js】](https://qiita.com/youtoy/items/8687437887f7cd23c970) B! 1
 - [Tween24.js のイージングと p5.js との組み合わせが楽しくてさらに試す： 振幅や周期などのカスタマイズ【p5.js-2】](https://qiita.com/youtoy/items/ef3707e7f1fd2c6c8918) B! 1
 - [パラメータのConditional Types](https://qiita.com/tadsan/items/0611874518f723c0ffa7) B! 1
+- [bleedingEdgeとは何か、いますぐ有効にすべき設定10選](https://qiita.com/tadsan/items/75df674c17636f096ea2) B! 1
+- [Ondřejはどうやって発音するのか](https://qiita.com/tadsan/items/3cb6134ab9fd0db271c0) B! 1
 - [divタグにonClickが設定されるのをESLintでチェックする](https://qiita.com/ykokw/items/530cc0f0195f56fe46d2) B! 1
 - [我が家のReact - React開発始めるときにとりあえず用意するもの7つ -](https://qiita.com/ko-he-8/items/a280d9a665016a1e4650) B! 1
 - [「文字の類似度」からポケモン名をサジェストするコンポーネントを実装【React】](https://qiita.com/ishi720/items/a026b8b29b31e0ef6ee0) B! 1
@@ -1567,6 +1701,7 @@
 - [Reactアプリ100本ノックを実践する 〜07 Weather〜](https://qiita.com/jinto/items/9f32136b9ede3943bea8) B! 1
 - [【React】Input属性でタブを押したときの初期フォーカス位置を調整する](https://qiita.com/ykhirao/items/d0d5883dce92307703c8) B! 1
 - [jotai-molecules 利用のすゞめ](https://blog.nekohack.me/posts/possible-for-jotai-molecules/) B! 1
+- [Reactを勉強するのにタイピングゲームがお題としてちょうど良かった件](https://qiita.com/Terao-Takumi/items/bc4f543b51b8b31e0522) B! 1
 - [React + vite によるPWAアプリ](https://qiita.com/kento_gm/items/3c492ba08f0943c1189c) B! 1
 - [Revenue Catを利用してサブスク課金を実装する](https://zenn.dev/takahi5/articles/8e3cac715ff668) B! 1
 - [WebエンジニアがReactNative触ってみたのでつまづきポイント書いていく](https://qiita.com/ykhirao/items/ce69d09cf56cc4301a45) B! 1
@@ -1575,9 +1710,8 @@
 - [Ruby on Rails 7.1の主要な新機能・機能追加・変更点](https://qiita.com/ryohashimoto/items/ed669f2e529d489e9fe4) B! 1
 - [ShopifyのRubyスタイルガイド 日本語訳](https://qiita.com/kaorumori/items/f722b82ea0e2761c7d95) B! 1
 - [純粋なHTMLからRailsのビューを生成しよう](https://zenn.dev/tohosaku/articles/lets_generate_rails_views_from_pure_html) B! 1
-- [本番RailsアプリケーションのYJIT有効化とその効果 - Voice Pocochaの場合](https://engineering.dena.com/blog/2023/12/voice-pococha-yjit/) B! 1
 - [Pulumi を試す](https://qiita.com/atm-snag/items/0cd43d023f92ec6416f4) B! 1
-- [SvelteKit はどのようにコンパイルしているのか？](https://blog.osstech.co.jp/posts/2023/11/how-sveltekit-compiles/) B! 1
+- [UIレイアウトエンジンYogaをOpenSiv3Dへ導入してみた](https://zenn.dev/sthairno/articles/3b8a5d9e89aa0f) B! 1
 - [Svelte DevToolsが公式からリリースされたので使ってみる！](https://qiita.com/oekazuma/items/a8b82d324a7295e48ed5) B! 1
 - [Svelteの画像最適化ライブラリが公式からリリースされたので使ってみる！](https://qiita.com/oekazuma/items/ff907b952e2451b6516d) B! 1
 - [Melt UIの設計をみてみる](https://qiita.com/shamokit/items/72c5cb7c62085f120673) B! 1
@@ -1593,6 +1727,7 @@
 - [UniTaskの cancelImmediately フラグについて](https://qiita.com/Euglenach/items/6623d96d5b93ff52e816) B! 1
 - [Unityを使った開発にC#以外のスクリプト言語を組み込んでみた。](https://qiita.com/MachiaWorx/items/8449f4ccc11b3cfe5467) B! 1
 - [【Unity】モバイルアプリ上で GPU 負荷を計測する](https://qiita.com/mao_/items/3b531d17cacb86036b7f) B! 1
+- [【Unity】サーバーレスで定数管理！サンプルで学ぶRemote Config【Unity Gaming Service】](https://myudon.hatenablog.com/entry/2023/12/20/070624) B! 1
 - [【Unity】UI ToolkitにてC#スクリプトからStylesを適応する](https://www.hanachiru-blog.com/entry/2023/12/01/120000) B! 1
 - [【Unity】gree/unity-webviewを用いてUnityでWebViewを実装する](https://www.hanachiru-blog.com/entry/2023/12/15/120000) B! 1
 - [【Unity】Code Coverage Package を Github Actions で動かしてみた](https://qiita.com/rabbitbooster/items/9131081d8ff8f6d0191e) B! 1
@@ -1604,20 +1739,23 @@
 - [データ連携課題解決に最適なCData製品を提案してくれるAI を作ってみた](https://www.cdata.com/jp/blog/cdata-finder-gpts) B! 1
 - [Postmanとの相性抜群。超絶簡単 CData API ServerでデータベースをREST API化する手順](https://qiita.com/yokawasa/items/e08aa1733dfafd1fda18) B! 1
 - [Qiitaアドベントカレンダーを完走した感想](https://qiita.com/n_yamadamadamada/items/642228bf120474144183) B! 1
+- [【PostgreSQL】pg_stat_activityを理解する](https://qiita.com/dai_chi/items/da0dd5d83a64698c1b98) B! 1
+- [【PostgreSQL】実行計画について](https://qiita.com/dai_chi/items/85ae29f1f4d1d7b72ce3) B! 1
 - [dbt Cloudにおける新機能「エクスポート」の紹介と可能性](https://takimo.tokyo/02c41ed194634f6ca4639d19fdde10db) B! 1
 - [dbtとBigQueryで東京犯罪ダッシュボードを作った](https://www.medi-08-data-06.work/entry/dbt-tokyo-crimes) B! 1
-- [dbtのテンプレートSQLをJinja2テンプレートで大量生成する話 ](https://techblog.kayac.com/dbt-sql-gen-jinja2) B! 1
 - [今年は良いお金の使い方が出来たか振り返る by dbt](https://ysdyt.hatenablog.jp/entry/kakeibo_dbt) B! 1
-- [データモデリングによって何を解決したいのか](https://zenn.dev/tenajima/articles/vorwm4h1h3fkrg58) B! 1
 - [dbtで「Incremental」を使わずに冪等性を担保する方法について](https://qiita.com/takagia/items/ac4a3a3c570fd18f2b30) B! 1
+- [Elastic CloudとLangChainでQiitaの記事をベクトル/セマンティック検索する方法の紹介](https://qiita.com/nobuhikosekiya/items/10cc5df4ccb72c43b44c) B! 1
 - [明日使えない地味なシェルスクリプト用ワンライナー集](https://yoku0825.blogspot.com/2023/12/blog-post.html) B! 1
 - [MySQL HeatWave on AWS でインバウンドレプリケーションを試し…てなんとか成功した話](https://qiita.com/hmatsu47/items/fc7b033f701ae8d5fb4d) B! 1
 - [【MySQL】InnoDBはどのようにデータの破損を検出しているのか](https://ryuichi1208.hateblo.jp/entry/2023/12/14/000000) B! 1
 - [今日は、MySQLでパフォーマンス分析ができるパフォーマンススキーマについての日。](https://updraft.hatenadiary.com/entry/2023/12/18/000000) B! 1
+- [アップグレードしたいとき見るドキュメントについて](https://next4us-ti.hatenablog.com/entry/2023/12/25/091907) B! 1
 - [0()から始まるPostgreSQL](https://qiita.com/noborus/items/5e39d144b1510f6865bd) B! 1
 - [象使いのための pgvector 入門 (1)](https://qiita.com/hmatsu47/items/b393cecef8ed9df57c35) B! 1
 - [Amazon Aurora Optimized Reads for Aurora PostgreSQLを試してみた](https://qiita.com/asahide/items/2ad8c17a3b320280de42) B! 1
 - [pg_statsinfoの内容をZabbixから見たい！](https://qiita.com/tameguro/items/fdc5092e0029bfc2af2a) B! 1
+- [sqldefとpgrollを利用したPostgreSQLでのスキーマブルーグリーンデプロイメント](https://zenn.dev/nnaka2992/articles/blue_grean_on_postgres_with_sqldeff_and_pgroll) B! 1
 - [PostgreSQLによるデータクリーンルームの可能性について](https://ex-ture.com/blog/2023/12/13/postgresql-dcr-challenge/) B! 1
 - [MySQL X Dev API から位置情報を検索してみた（リレーショナル編）](https://qiita.com/kochizufan/items/5bb1846a658585a6ec22) B! 1
 - [Snowflake×Streamlit×PyGWalkerの始め方](https://qiita.com/ak-sakatoku/items/a8ea199515ab0ece0bf2) B! 1
@@ -1625,26 +1763,25 @@
 - [Snowflakeのセキュリティダッシュボードを作ろうとしたけどやめた](https://qiita.com/ugmuka/items/4248d1f53d2c590fc32f) B! 1
 - [Snowflakeデータシェアリングのハンズオンイベントの環境構築](https://zenn.dev/holywater044/articles/6d9da04693cfec) B! 1
 - [開発中のプロジェクトでTiDB Serverlessを少し使ってみたので所感を書きだしてみる](https://qiita.com/simonritchie/items/bc2035c525a5913bdd55) B! 1
-- [TiDB の retry ポリシー](https://qiita.com/you06/items/3fb9ca62afda68aa2457) B! 1
 - [TiDBとMySQLの違い：外部キー制約（とTiDBでのロック確認の仕方を少々）](https://zenn.dev/tk0403/articles/34ae226f21e250) B! 1
-- [24日目: Retargeting](https://blog.jxck.io/entries/2023-12-26/retargeting.html) B! 1
-- [25日目: Measurement](https://blog.jxck.io/entries/2023-12-27/measurement.html) B! 1
 - [入社直後の非エンジニアがAWS Certified Cloud Practitionerを受けてみた](https://qiita.com/diever4/items/5bf9f1a9fce9878f3662) B! 1
 - [AWS ログイン中のアカウントがrootアカウントかどうかを確認する](https://qiita.com/miriwo/items/d01557650130c2e5e2b6) B! 1
 - [AWS タグの値が取りうる情報を限定する](https://qiita.com/miriwo/items/bbe99a670b9aaf52d2f4) B! 1
 - [AWS RUMをNext.jsに入れようとして詰まった話](https://qiita.com/tokkun5552/items/d51469c4817ce57bba0d) B! 1
 - [AWS タグエディタを使って使用中のすべてのリソースを発掘してみる](https://qiita.com/miriwo/items/f3889232425173fb4838) B! 1
 - [Amazon S3 Express One ZoneのデータをAmazon Athenaで空間検索してQGISで可視化してみた](https://qiita.com/dayjournal/items/5b00ecd34e908487f436) B! 1
+- [Aurora MySQLのBGデプロイで簡単・爆速・安全なversion upを行う](https://zenn.dev/shogo_b/articles/2ad95b69caad74) B! 1
 - [はじめてのre:Inventを振り返る](https://qiita.com/Regryp/items/970a92e1ca0a6d07aba4) B! 1
 - [Amazon OpenSearch Service と S3 の zero-ETL 統合の違和感の正体を探る](https://qiita.com/hayao_k/items/04b6688afc694a0155e7) B! 1
 - [AWS Skill Builderを使う](https://qiita.com/rotekxyz/items/b50979ec8aeb972e29a8) B! 1
 - [AWS資格（SAA-C03）合格までのステップ](https://qiita.com/maplejava/items/517e174d11481a0462e7) B! 1
+- [CDKのNodejsFunctionでHTMLをimportできるようにしたい](https://zenn.dev/team_delta/articles/8072decbe5fff3) B! 1
 - [BabylonJS attachCamera(canvas,true)のcanvas引数は無視される](https://qiita.com/hta393939/items/5758e9cc0ffb94a1eb1c) B! 1
 - [BabylonJS Playground上の物理演算で樋に球を転がす](https://qiita.com/hta393939/items/fcacc911a7ba7eecf67d) B! 1
 - [BabylonJS 押し出しメッシュカスタム](https://qiita.com/hta393939/items/22aa0307f74449e63780) B! 1
 - [技術雑誌で Babylon.js 6.0 に関する記事を書くために行ったこと ＋α【Babylon.js】](https://qiita.com/youtoy/items/7fe5234e8dc44d2356dd) B! 1
 - [BabylonJS デカールメッシュによるデカールの実現](https://qiita.com/hta393939/items/5df9ef9c5fdc275fd3c9) B! 1
-- [「Frame Library」に掲載されているパーティクル「Simple Fire」を題材に Babylon.js Playground の Particle Editor を少し学ぶ【Babylon.js】](https://qiita.com/youtoy/items/6474e6b0ef4929a3efec) B! 1
+- [「Frame Library」に掲載されているパーティクル「Simple Fire」を題材に Babylon.js Playground の Particle Editor を少し学ぶ【Babylon.js-2】](https://qiita.com/youtoy/items/6474e6b0ef4929a3efec) B! 1
 - [ブラウザのウィンドウをスクリーン上で動かした時の位置の変化が Babylon.js で描画したパーティクルの数・背景の色などに影響する処理【Babylon.js-3】](https://qiita.com/youtoy/items/1a4bf2fd0eef426dd4a0) B! 1
 - [【CSS Tips】gridを使ってwidth: 100%だけど中のコンテンツ幅を制限するUIを作る](https://qiita.com/kabechiyo13/items/c22ef339c3652a9a41c5) B! 1
 - [ふんわりCSS設計でダークモード対応に備える](https://qiita.com/moroi/items/739c73787b0dcb61b787) B! 1
@@ -1660,12 +1797,11 @@
 - [Spring Bootで、独自アノテーションを目印にAOPを行う方法](https://tech.excite.co.jp/entry/2023/12/06/100456) B! 1
 - [ iOS / Android ネイティブアプリから Flutter に移行するときに Pigeon を使ってデータマイグレーションする](https://tech.excite.co.jp/entry/2023/12/08/070000) B! 1
 - [SpringBootでの複数キャッシュサーバがある場合の切り替えを行う](https://tech.excite.co.jp/entry/2023/12/26/091246) B! 1
+- [ボタンにまつわるエトセトラ（HTMLとアクセシビリティ）](https://tech.excite.co.jp/entry/2023/12/13/100000) B! 1
 - [エンジニア母の復職前の不安と実際の経験](https://tech.excite.co.jp/entry/2023/12/14/120248) B! 1
 - [AWSと外部システムを「良い感じ」に連携する](https://tech.excite.co.jp/entry/2023/12/18/200000) B! 1
-- [うちのサイトて、ウェブアクセシビリティを確保できていますか？](https://tech.excite.co.jp/entry/2023/12/22/080151) B! 1
 - [Node.jsでYouTubeのプレイリストから動画を削除する](https://qiita.com/n0bisuke/items/edce78c7eca9ecedea2b) B! 1
 - [Node.jsでYouTube再生リストに含まれる動画リストを取得](https://qiita.com/n0bisuke/items/75062256622d83f49df4) B! 1
-- [GKE Autopilotで画像生成AI Stable Diffusionの推論APIをデプロイする](https://zenn.dev/umibows/articles/a04a5a1a6572b4) B! 1
 - [YouTubeのプレイリストから動画を付け替える](https://qiita.com/n0bisuke/items/34ee4f0e66ea615f0df6) B! 1
 - [MIGによるサーバー費用削減：エンジニアによる実践記](https://blog.colopl.dev/entry/google-cloud-mig) B! 1
 - [gemini-pro に GiHhub Discussions の本文を要約してもらうGitHubで開く](https://zenn.dev/nkmrkz/articles/girhubactions-vertexai) B! 1
@@ -1700,6 +1836,7 @@
 - [Firefox だけ未実装シリーズ：Intl.Segmenter の状況](https://qiita.com/debiru/items/a5813c8efbae6f2cba72) B! 1
 - [git 管理下にある指定したディレクトリ内に存在する全てのファイルの最終更新日を取得する](https://qiita.com/debiru/items/cb170e1643c113ba6b77) B! 1
 - [<br> と <br /> はどう違う？ - ポリグロット・マークアップの幻想、他 HTMLのお話 5 選](https://qiita.com/debiru/items/b5814e4ad6a5e6aee5e7) B! 1
+- [Tailwind CSSのhasクラスについて解説](https://qiita.com/MURAMASA2470/items/e907ac6b6d95fd4457e2) B! 1
 - [AWS Lambda関数作成の流れ](https://qiita.com/nyanyacyan/items/4ec76f6bca169a6b8e27) B! 1
 - [AWSのアカウント作成](https://qiita.com/nyanyacyan/items/f533938e4f5d7960a32e) B! 1
 - [【AWS Lambda関数作成】selenium + AWS lambda開発環境の構築](https://qiita.com/nyanyacyan/items/d1dd2fb874725226f9da) B! 1
@@ -1733,21 +1870,21 @@
 - [emscripten + VSCode でデバッグしてみる](https://zenn.dev/kamenoko_dev/articles/de74c8c32136eb) B! 1
 - [wasm-bindgen + VSCode でデバッグする](https://zenn.dev/kamenoko_dev/articles/e17e79f94603ae) B! 1
 - [異種Wasmランタイム間でのライブマイグレーション機能を実装した話](https://zenn.dev/funera1/articles/d067377ca9142f) B! 1
-- [WASMのシステムインタフェースの現状と課題](https://zenn.dev/ri5255/articles/70a081726eb149) B! 1
-- [DartとWebAssembly](https://zenn.dev/askua/articles/7832fa98d93a7c) B! 1
 - [ブラウザ上で`go run ./main.go`するために(経過報告)](https://zenn.dev/askua/articles/d954cb770061de) B! 1
 - [アップデートしたらWSLが起動しなくなった（2023/11）](https://qiita.com/laineus/items/c91afe2fd44ba497bccc) B! 1
+- [wsl(ubuntu)にasdfを導入](https://qiita.com/youfuku/items/9e228f7259900c7cd380) B! 1
 - [Android Studioの外にでよう](https://tomorrowkey.hatenablog.jp/entry/2023/12/19/Android_Studio%E3%81%AE%E5%A4%96%E3%81%AB%E3%81%A7%E3%82%88%E3%81%86) B! 1
+- [N予備校 Android アプリで Android 14 の「写真と動画への部分的なアクセス権を付与する」に対応した話](https://qiita.com/hiesiea/items/4f563ff16bd85445de83) B! 1
 - [Flutterの静的解析の結果をPRにコメントするGitHub Actionsのカスタムアクションを公開した](https://zenn.dev/yorifuji/articles/feec2c0294c7f9) B! 1
 - [very_good_inifinite_list試してみた](https://qiita.com/K9i-0/items/ea2d62689cbbab4f11b9) B! 1
 - [【Flutter】Container transformな画面遷移（animations,motion）](https://zenn.dev/hott3/articles/flutter-animations-of-container-transform) B! 1
 - [Flutterアプリに機械学習を組み込む！](https://qiita.com/yukisakai1225/items/b7c84803f2fb4243464f) B! 1
-- [【Flutter】Flutteristの為のMaestro](https://zenn.dev/heyhey1028/articles/enter-maestro) B! 1
 - [Flutterにおけるチャートパッケージ総まとめ](https://zenn.dev/tsuruo/articles/a8fc96ff5aa43a) B! 1
 - [FVM 3.0.0-beta を使ってみた（Flutter Version Management）](https://zenn.dev/altiveinc/articles/flutter-version-management-3) B! 1
 - [VisionKitで自動画像切り抜き（Subject Lifting）](https://zenn.dev/shu223/articles/subject-lifting) B! 1
 - [SwiftUIでカスタムダイアログを実装したが閉じる時にアニメーションしない](https://dev.classmethod.jp/articles/animation-when-closing-custom-dialog-in-swiftui/) B! 1
 - [Ansible で Python スクリプトを実行する](https://qiita.com/mamono210/items/577df147297d907c13e1) B! 1
+- [AWS Application Composer と cdk-from-cfn で CDK はノーコード開発できるのか](https://zenn.dev/winteryukky/articles/cb4eebdf3028ae) B! 1
 - [CFn git syncを使ったGitOpsパイプラインを構築する](https://mazyu36.hatenablog.com/entry/2023/12/05/000000) B! 1
 - [AWS CDK v2.115.0 で Step Functions の Bedrock InvokeModel API 最適化統合がサポートされました](https://dev.classmethod.jp/articles/aws-cdk-v2-115-0-supports-step-functions-bedrock-invokemodel-api-optimization/) B! 1
 - [Lambdaの管理をCDKに移行している話](https://qiita.com/yoyoyo_pg/items/aa7cdaa678d74c6842f9) B! 1
@@ -1771,7 +1908,6 @@
 - [Salesforce CLI で CircleCIの自動テストを実行する](https://qiita.com/sho7650/items/6a0697ca9ee58cd2e5bb) B! 1
 - [CircleCI の費用が突如 1.5 倍になった話](https://www.wantedly.com/companies/wantedly/post_articles/879561) B! 1
 - [データベースの正常性やパフォーマンスを可視化するDatadog Database Monitoring](https://qiita.com/itito/items/b2723e1d7aa3bc834060) B! 1
-- [Secure Web Proxy を紹介します](https://dev.classmethod.jp/articles/secure-web-proxy/) B! 1
 - [PCI DSS 4.0 対応 - セキュリティ情報イベント管理ツール（SIEM）Sumo Logic のご紹介-](https://dev.classmethod.jp/articles/sumologic-sakumashogo-20231207/) B! 1
 - [Sumo Logic 検索術 〜 こんな時どうやってクエリを書けばいいの？](https://dev.classmethod.jp/articles/sumologic-how-to-create-searchquery/) B! 1
 - [SIEM Unveiled: A Simplified Guide to Security Information and Event Management – Advent Calendar 2023 Day9 #SIEM](https://dev.classmethod.jp/articles/siem-unveiled-a-simplified-guide-to-security-information-and-event-management-advent-calendar-2023-day9-siem/) B! 1
@@ -1780,14 +1916,14 @@
 - [Security Command Center 検出結果のメール通知を Application Integration で構成する](https://dev.classmethod.jp/articles/scc-mail-alert/) B! 1
 - [How bard powered by gemini can transform your gmail experience](https://dev.classmethod.jp/articles/chaos-to-calm-how-bard-powered-by-gemini-can-transform-your-gmail-experience-advent-calendar-2023-day19-zendesk/) B! 1
 - [Cloudflare Zero TrustのGateway proxyを使ってWARPなしの状態でサイトのブロックをしてみた。](https://dev.classmethod.jp/articles/saitchan-zerotrust-proxyendpoint_20231031/) B! 1
-- [New RelicでAWS VPCフローログをモニタリングしてみる](https://dev.classmethod.jp/articles/202312-new-relic-aws-vpc-flowlog/) B! 1
 - [自動的にnpm updateを実行してPullRequestを作成する](https://b.0218.jp/202312050000.html) B! 1
 - [GitHubでIssueが作成されたらGitHub ActionsでSlackへ通知する](https://qiita.com/NagaokaKenichi/items/89305da92e79d45a84e5) B! 1
 - [GitHub Actions、キャッシュで時間短縮(とLambda更新で少し苦労)した話](https://qiita.com/eno49conan/items/508bae516fa2ed089db9) B! 1
 - [Amazon S3のストレージクラスまとめ](https://qiita.com/MH35JP/items/2913809266fbf7dc3425) B! 1
 - [第0回 退職者出たのでchat-gptに訊いてみた](https://note.com/manpookoo/n/n2ab92bd1247e) B! 1
 - [Instanaのユーザー会 " Instanauts_jp " の2023年を振り返る](https://qiita.com/daihiraoka/items/86c612cf6655a72300aa) B! 1
-- [InstanaでサーバーレスのWebアプリケーション（AWS Lambda, API Gateway, DynamoDB, S3）を監視する#1_エージェント導入編](https://qiita.com/komuroki/items/abecbf2f15f97fecce74) B! 1
+- [InstanaでサーバーレスのWebアプリケーション（AWS Lambda, API Gateway, DynamoDB）を監視する#1_エージェント導入と設定編](https://qiita.com/komuroki/items/abecbf2f15f97fecce74) B! 1
+- [Mackerel SRE が実践する監視の育て方](https://helen.hatenablog.com/entry/2023/12/03/233322) B! 1
 - [ノンエンジニアですがMackerelつかってます](https://www.minemura-coffee.com/entry/2023/12/06/194050) B! 1
 - [監視ルールを作成する前に知っておきたいUSE Method / RED Method](https://taxintt.hatenablog.com/entry/2023/12/09/093741) B! 1
 - [Mackerelのグラフをカスタマイズする](https://qiita.com/masarashi/items/8bb5420df4716f9d21d8) B! 1
@@ -1799,13 +1935,13 @@
 - [ROSAにIngress Controllerを追加してアレコレ](https://qiita.com/rjegg/items/3455bb9e4f2f88780df6) B! 1
 - [OpenTelemetry Collectorのconfmap providerを実装してみる](https://this.aereal.org/entry/the-art-of-otel-col-confmap-provider) B! 1
 - [OpenTelemetry CollectorをGateway（多段構成）にする](https://zenn.dev/symmr/articles/2af379e80ba148) B! 1
-- [OpenTelemetry Collectorに対するモニタリングとオブザーバビリティ](https://zenn.dev/kntr_nkgm/articles/c1517333b2169e) B! 1
 - [ObservabilityとOpenTelemetry](https://qiita.com/mekka/items/28969bb5cbb76e970532) B! 1
-- [OpenTelemetry Collector の Span Metrics Connector を使ってメトリクスを生成してみる](https://zenn.dev/k6s4i53rx/articles/2023-advent-calender-otel) B! 1
 - [OpenTelemetry と Prometheus](https://qiita.com/AoTo0330/items/ae23848595c137896994) B! 1
-- [OpenTelemetry Collectorのメトリクスのレシーバーを自作してみる](https://zenn.dev/ymotongpoo/articles/20231225-metrics-receiver) B! 1
+- [DBインスタンスを作るときの Platform Engineering 的な失敗例と学び](https://qiita.com/irotoris/items/6b159bd72d70b7775804) B! 1
 - [シャドーオペレーションは何故行われるのかを考えてみる](https://ryuichi1208.hateblo.jp/entry/2023/12/19/001945) B! 1
+- [スタートアップでもPlatform Engineeringがしたい！Part 2 ー CloudbaseにおけるPlatform Engineeringの実践事例](https://qiita.com/ryukez/items/cacdac37638dce2d5ed1) B! 1
 - [Platform.shとは](https://qiita.com/77web@github/items/b2360d3188dce516b2fb) B! 1
+- [イベントレポート用の文字起こしにWhisperを使ってみたら最高だった](https://www.softbank.jp/biz/blog/cloud-technology/articles/202312/whisper/) B! 1
 - [気になったことを丁寧に扱おう](https://yoshitake-1201.hatenablog.com/entry/2023/12/01/200000) B! 1
 - [自動テストにおける「目視確認」をポジティブにこなす魔法](https://www.nowsprinting.com/entry/2023/12/02/000000) B! 1
 - [DRYなソフトウェアテストで保守性を向上 | Reactテストで学ぶ効率的なテスト戦略](https://musclecoding.com/react-test-dry/) B! 1
@@ -1817,11 +1953,9 @@
 - [SeleniumとPlaywrightとCypressとWebdriver.ioのアーキテクチャーについて](https://zenn.dev/taku_nakagawa/articles/665048ada0ec58) B! 1
 - [Chrome for Testing で自動テストを手元で簡単に動かせるようにした](https://qiita.com/yurizono/items/94e5b6ce61ff8ddcd9ee) B! 1
 - [SETが足りないって言われてるはずなのに、SETになるのに苦労した話](https://qiita.com/yassai/items/718426af7846155df05c) B! 1
-- [「品質は誰かにとっての価値」における「誰か」とは？](https://note.com/chopiner/n/n45c01b10039e) B! 1
 - [ブロックチェーンノード運用の苦労話](https://shu-kob.hateblo.jp/entry/2023/12/02/001347) B! 1
 - [SREを立ち上げて2年経過して今](https://blog.zoe.tools/entry/2023/12/12/000000) B! 1
 - [ゆるSRE勉強会 #2 で LT 登壇させていただきました](https://sizu.me/k6s4i53rx/posts/crr2h2n4co57) B! 1
-- [「強くて盤石」ではなく「弱くて小さな」SREチームを目指す](https://sizu.me/maruloop/posts/e4n8b3k821dk) B! 1
 - [【AWS】CI/CDの権限不足を防いで開発体験を向上する](https://qiita.com/skokado/items/65a52659299380e5af98) B! 1
 - [理想の Terraform ディレクトリ (tfstate) 分割設計を語りたい](https://fohte.net/blog/posts/2023-12-18-terraform-dir-structure) B! 1
 - [詳解 Terraformを読みました](https://qiita.com/nakamori_yuito/items/9950867cedf97eda5272) B! 1
@@ -1836,9 +1970,12 @@
 - [設計ドキュメントとソースコードについて思うこと](https://akerun.hateblo.jp/entry/2023/12/21/designDocAndSrc) B! 1
 - [Akerunバックエンドシステムの技術的負債に対する取り組み[後編]](https://akerun.hateblo.jp/entry/2023/12/24/000000) B! 1
 - [Analogue Pocket で openFPGA ことはじめ](https://pgate1.at-ninja.jp/memo/Pocket/) B! 1
+- [Tang Nano シリーズにNES移植してみた](https://pgate1.at-ninja.jp/NES_on_FPGA/featTangNano/) B! 1
 - [自作デジタルフィルタIP「FIR_x2」について](https://audio-diy.hatenablog.com/entry/FIR_x2_summary) B! 1
 - [M5StickC Plusで６つのストーンが光るガントレットを製作する](https://qiita.com/ufoo68/items/f680d3b3cce4575fec9d) B! 1
 - [設定ファイルから見るLiDARシミュレータの世界](https://hans-robo.hatenablog.com/entry/2023/12/08/003533) B! 1
+- [CES2024で発表されたLiDARのまとめ](https://aru47.hatenablog.com/entry/2024/01/25/130155) B! 1
+- [M5Stack CoreS3 にボタン入力をつけよう](https://qiita.com/GOB/items/ccf0aec590d0fdd059ba) B! 1
 - [M5StackでLoRaのデータを覗いてみる](https://qiita.com/fukuebiz/items/ab5739110e088b0a5ab2) B! 1
 - [M5StackをLoRaのルーターにしてみる](https://qiita.com/fukuebiz/items/0e2adbe3b18cdbdae9cf) B! 1
 - [Node-REDしくじり先生 - 自作ライブラリ更新ミスでLINEノードが一瞬消えてしまった](https://qiita.com/n0bisuke/items/d40c67f7422e729ad7e0) B! 1
@@ -1856,9 +1993,9 @@
 - [Arch Linux に Docker をインストールする](https://qiita.com/mnishiguchi/items/e5b61ec702d21165b079) B! 1
 - [Linux ACPI overlayであそぼう](https://qiita.com/tmsn/items/8ad35271b04289b2648e) B! 1
 - [第13回TOPPERS活用アイデア・アプリケーション開発コンテスト 活用アイデア部門 への「RISC-Vプロファイルに沿ったRISC-V64ビットプロセッサ向けTOPPERSカーネル標準化」の提案](https://qiita.com/zacky1972/items/f36851185f9af4331aa8) B! 1
+- [Arduino UNO R4で始めるTOPPERS RTOS開発](https://qiita.com/h7ga40/items/5653d0c6ac01c4af76b8) B! 1
 - [C言語で作ったドローン物理モデルをUnityでビジュアライズ＆制御する！TOPPERS/箱庭のドローン・シミュレーション構想と現在の開発状況](https://qiita.com/kanetugu2018/items/c3e34b35fc7afb17e196) B! 1
 - [Markdownへのexport時にtimestampがHTMLになるのを避けたい](https://blog.yhiraki.com/nodes/emacs-orgmode-fix-export-markdown-timestamp) B! 1
-- [Eglot でのPython開発環境](https://mako-note.com/ja/python-emacs-eglot/) B! 1
 - [leafのつくりかた](https://a.conao3.com/blog/2023/b275-bb4c/) B! 1
 - [夏コミでVim Girlのコスプレをしたら雑誌に載った話](https://gist.github.com/yukih123/4373829c67991c68957a487f3a851e7d) B! 1
 - [シェルのコマンドラインから Vim のプラグインを更新する with minpac](https://zenn.dev/vim_jp/articles/minpac-update-plugin-on-shell) B! 1
@@ -1895,6 +2032,7 @@
 - [ペアトレード、私の過去の事例](https://www.stockinvestment.blog/?p=2074) B! 1
 - [J-Quants API を GAS で使う (3) 銘柄毎に RSI を書き込む](https://zenn.dev/seratch/articles/244db0270510c6) B! 1
 - [トレードの評価指標のKPI設定（平均利益と平均損失の大きさが同じ場合）](https://qiita.com/Sunset_Yuhi/items/25b7d0580c73d5e5a73a) B! 1
+- [【J-Quants】売買内訳データの紹介及びその利用例について](https://qiita.com/j_quants/items/ae423b14dcdcf819eb27) B! 1
 - [広告会社の仕事に登場する数学](https://qiita.com/SAKAIYoshiki/items/a1cb1016492c4ea0d88b) B! 1
 - [階層ベイズについて書きたい！](https://note.com/hanaori/n/n5e64896c0a30) B! 1
 - [半正定値計画問題と計量学習の話。（その1）](https://yamaimo.hatenablog.jp/entry/2023/12/03/220000) B! 1
@@ -1902,6 +2040,7 @@
 - [巡回セールスマン問題を深層学習と強化学習で解く](https://zenn.dev/shu421/articles/e50a1508c1182c) B! 1
 - [Frank-Wolfe法でポートフォリオ最適化](https://qiita.com/ktrmnm/items/046cd4d5d7e0443c929b) B! 1
 - [分散深層学習に現れる最適化について](https://inarizuuuushi.hatenablog.com/entry/2023/12/18/215618) B! 1
+- [RustでFEMを実装してみた](https://qiita.com/tm0377/items/a84171908b1cb018f638) B! 1
 - [今年の量子コンピュータ活動を振り返る](https://qiita.com/notori48/items/e16275bb9e2e92fb18ad) B! 1
 - [量子ソフトウェアについて](https://neutron63zf.hatenablog.com/entry/2023/10/08/174441) B! 1
 - [誤差逆伝播法と量子Fisher行列とデータセットについて](https://qiita.com/forest1040/items/03094c356ca868fa4be3) B! 1
@@ -1919,11 +2058,14 @@
 - [[上級編]LLMへ至る道~GPT-3の話~[22日目]](https://dev.classmethod.jp/articles/road-to-llm-advent-calendar-2023-22/) B! 1
 - [[まとめ]LLMへ至る道~24本分のブログをまとめるとこうなります~[25日目]](https://dev.classmethod.jp/articles/road-to-llm-advent-calendar-2023-25/) B! 1
 - [基盤モデル × Robotics Advent Calendar 12/14 「どうやら家庭用ロボットが気を利かせて動くようになるらしい」](https://qiita.com/dieu_detruit/items/2db72c0e9204325d7220) B! 1
+- [Lee et al 2020 "Learning Quadrupedal Locomotion over Challenging Terrain"から紐解く四足ロボット強化学習の「秘伝のタレ」](https://qiita.com/yunifuchioka/items/0724d7560715968c033c) B! 1
 - [AWS re:Invent 2023 2日目のアプデ特集（Bedrock、Amazon Q等）](https://qiita.com/minorun365/items/8d05dbdad9540cb80a2d) B! 1
 - [Amazon Titan Text さんの日本語能力を垣間見る](https://qiita.com/hayao_k/items/657cc8dd976fed5fe3fb) B! 1
 - [Amazon TitanのAmazon Titan Image Generatorを試してみた](https://qiita.com/mickeyk/items/370258c99339fc881668) B! 1
 - [【re:Invent 2023 新機能】Amazon Qの全体像を把握しよう！](https://qiita.com/MckeeChamp/items/9ac965bdcd7f5ee4700d) B! 1
 - [Claude vs Llamaで英会話の精度比較したかった話](https://qiita.com/piro877/items/c2b004e1ec8deb44ea41) B! 1
+- [Amazon Bedrockでモデルをカスタムして偉大なミュージシャンを降臨させた(?)話](https://qiita.com/triwave33/items/b36f85f95db44d252e32) B! 1
+- [Where Are You Christmas? At Agents for Amazon Bedrock! 世界最速(?) Agent for Amazon Bedrock デモ](https://qiita.com/kazuneet/items/36f6d42fecbad0469d35) B! 1
 - [【オペレーターのAIアシスタント】Amazon Q in Connectの設定と「コンテンツの検索」をやってみた](https://dev.classmethod.jp/articles/amazon-q-in-connect-setting-search-content/) B! 1
 - [[アップデート]Amazon Connect Chatでクイックレスポンス機能が利用できるようになりました](https://dev.classmethod.jp/articles/amazon-connect-chat-quick-responses/) B! 1
 - [2023年をAmazon Connectのアップデートで振り返る](https://dev.classmethod.jp/articles/amazon-connect-2023-allupdate/) B! 1
@@ -1934,7 +2076,6 @@
 - [Amazon Bedrockを使ってClaudeを業務利用したい！](https://qiita.com/wadabee/items/f834880eeca206304242) B! 1
 - [LlamaIndexを使ってBedrockのAnthropic Claudeによる回答をカスタマイズする](https://dev.classmethod.jp/articles/customize-generated-text-llamaindex-amazon-bedrock-anthropic-claude/) B! 1
 - [プロンプトエンジニアリングに最適なツールはこれだ！！？（結局方眼紙最強説）](https://qiita.com/moritalous/items/e8dfb25a319e5c4e3eb9) B! 1
-- [QuickSight向けデータマート構築術 ~ 1:Nカーディナリィ対策編 ~](https://techblog.kayac.com/build-quick-sight-cardinality) B! 1
 - [毎年恒例？2023年 Amazon Redshift アップデートまとめ](https://qiita.com/steel_mikan/items/5d91134064150f1d3f9d) B! 1
 - [AWS Clean Roomsの集約分析ルールのクエリ結果コントロールの設定値と集計結果の対応を確認する](https://dev.classmethod.jp/articles/try-aws-clean-rooms-analysis-rules-aggregation-agg-query-results-controls/) B! 1
 - [QuickSightで動的に変更可能な2重軸グラフを作りたい](https://qiita.com/steel_mikan/items/72c31eeea8bb0173d3e3) B! 1
@@ -1945,7 +2086,6 @@
 - [Glue コンソールから Spark UI で処理が分散できているか見てみる](https://qiita.com/yust0724/items/66342a6e29eb0a3c9be7) B! 1
 - [負債化してしまったAWSのあれこれをコンテナ基盤に乗せて資産化する](https://qiita.com/saramune/items/9a32c392d23b24674840) B! 1
 - [Seekable OCI (SOCI) のご紹介](https://qiita.com/otty246/items/2cfe31b839b47dbe5195) B! 1
-- [ECS Fargate + ecspresso + GitHub Actions 運用構成例](https://koudenpa.hatenablog.com/entry/2023/12/06/134257) B! 1
 - [個人的に見落としていたWindows コンテナの変更点](https://qiita.com/isleys/items/1949bca5dcbc1a8d6e91) B! 1
 - [AWS App2Container で .NET ウェブアプリケーションをコンテナ化しよう](https://qiita.com/Anorlondo448/items/66597ae6e8d3e79d63ba) B! 1
 - [ECS タスク IAM ロールを利用する際は認証情報の取得タイミングに気を付ける (前編)](https://qiita.com/otty246/items/e389d074a23ab5f6b137) B! 1
@@ -1963,9 +2103,9 @@
 - [ゲーム開発者が視聴すべきre:Invent 2023の動画紹介](https://dev.classmethod.jp/articles/aws_for_games_2023_reinvent2023_sessions/) B! 1
 - [QuickSight Q で試す自然言語でのゲームデータ分析](https://qiita.com/hisum/items/1e6401a458fecc58ec8c) B! 1
 - [AWS for Games 2023年の活動を振り返って](https://qiita.com/hisum/items/dd547c339133d387217a) B! 1
-- [[新機能] S3 Access Grantsの仕組みと従来のS3アクセス管理との比較](https://qiita.com/SawaShuya/items/83db41b2674a863ee67e) B! 1
 - [プライベートな環境でTransfer Familyを利用したFTPサーバの構成を考えてみた](https://qiita.com/shigekicks/items/ff76479f6815b61399c9) B! 1
 - [[新機能] S3 Express One Zoneのパフォーマンスをテストしてみた](https://qiita.com/SawaShuya/items/929b97311edd907fef99) B! 1
+- [[機能拡張]IaC対応されたAmazon CodeWhispererの稼働検証をしてみた](https://qiita.com/duelist2020jp/items/090a98e5fa17fa96e319) B! 1
 - [プライベートな環境でROSA with HCPを触ってみた](https://qiita.com/shigekicks/items/1546400c0fdb5d5cd611) B! 1
 - [Lambdaプロキシ統合を設定してみた](https://qiita.com/mshr9/items/30b56021985055d45c09) B! 1
 - [VM-Importのやり方まとめ【For Cloud Beginner】](https://qiita.com/nichidonoba/items/4f4909b1f8587f4fa2ee) B! 1
@@ -1975,11 +2115,12 @@
 - [LookerStudioの始め方。](https://qiita.com/mountaincat/items/4991e35eddd4cbe52be4) B! 1
 - [SFDというゲームの解説](https://note.com/hht/n/ne27d41e3e5a2) B! 1
 - [bot を書くためにつくって公開したもの](https://mirumi.me/bot-releases) B! 1
-- [botter のためのデプロイ入門](https://zenn.dev/mtkn1/books/deployment-for-botter) B! 1
+- [Neural SDEを用いた金融時系列データ生成](https://zenn.dev/ymd/articles/ff718d217c6037) B! 1
 - [BOT開発のライフサイクルについて語る](https://note.com/ros_1224/n/n05bef00a5cbe) B! 1
 - [RustyBotご紹介(バックテストからDryRun、本番まで同じコードで動かす!!）](https://tech.takibi.net/2023/12/19/botframework-rustybotrbot%e3%81%94%e7%b4%b9%e4%bb%8b/) B! 1
 - [ジャンプがあるときの指値最適化問題](https://zenn.dev/richwomanbtc/articles/0f7ab0e44957ce) B! 1
 - [EntraIDのゲストユーザーを自動プロビジョニングした話](https://qiita.com/bonyari_yuki/items/160c6ccba0b35adfe1cc) B! 1
+- [ChatGPTをプログラミングに活用しよう！おすすめの質問の仕方も解説](https://musclecoding.com/chatgpt-programming/) B! 1
 - [AWSのEC2のUbuntuでLet's Encrypt入れてSSL化しようとしたら数時間嵌った話とChatGPTが教えてくれた解決策](https://qiita.com/nakamoto/items/1274674d27c6fb58de49) B! 1
 - [ChatGPT×CodePenでアイデア発想法支援ツールを作ってみた！](https://qiita.com/tomohiro361352/items/ea2b5ae7f5aec77f0b07) B! 1
 - [Node.jsでYouTubeにアップロード済みの動画のタイトルや概要を更新する - GPTに最初嘘つかれた](https://qiita.com/n0bisuke/items/a4cb902c2c8ffa4831b7) B! 1
@@ -1998,8 +2139,10 @@
 - [Implementing Service Level Agreements (SLAs) in Zendesk: A Step-by-Step Guide!](https://dev.classmethod.jp/articles/a-beginners-guide-to-zendesk-guide-a-step-by-step-guide/) B! 1
 - [A Beginner's Guide to Zendesk Guide: A Step-by-Step Guide!](https://dev.classmethod.jp/articles/a-beginners-guide-to-zendesk-guide-a-step-by-step-guide/) B! 1
 - [Zendeskをクリスマスっぽくカスタマイズしてみた](https://dev.classmethod.jp/articles/zendesk-advent-calendar-2023-25/) B! 1
+- [Cloud Run のサービス アカウントの基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-serviceaccount) B! 1
 - [Cloud Run Integrations で Memorystore for Redis にかんたんに接続する + α](https://zenn.dev/google_cloud_jp/articles/cloudrun-itg-redis) B! 1
 - [Cloud Run で Identity Platform のログインページをホスティングする](https://zenn.dev/google_cloud_jp/articles/cloudrun-iap-idp) B! 1
+- [Cloud Run と Cloud Storage FUSE (GCS FUSE) の基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-gcs-fuse) B! 1
 - [Cloud Run のモニタリングとロギングの基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-monitoring) B! 1
 - [Cloudflare Pages + Next.js + Hono + D1 + Drizzleで始めるフルスタック構成](https://zenn.dev/da1/articles/cloudflare-nextjs-hono-drizzle) B! 1
 - [Cloudflare Workers+Hono を使って76行で短縮URLサービスを作る](https://zenn.dev/egstock_inc/articles/1c0521ed8b57e2) B! 1
@@ -2012,10 +2155,13 @@
 - [Apache Iceberg Catalogの選択肢](https://bering.hatenadiary.com/entry/2023/12/02/232909) B! 1
 - [CDC + Apache Iceberg で Amazon Athena にデータを取り込む](https://soonraah.github.io/posts/ingest-data-into-athena-by-cdc-and-iceberg/) B! 1
 - [誕生日なので EC-CUBE を Cloudflare で護る話書きます](https://zenn.dev/nanasess/articles/cloudflare-eccube) B! 1
+- [次世代 Web カンファレンス で Edge Computing の話をしてきた](https://rimuru.lunanet.gr.jp/notes/post/attended-next-web-conf-2023/) B! 1
 - [実装時に役立つFigmaのデータ作りのポイント](https://qiita.com/kabechiyo13/items/370d810ac4a4179ff85e) B! 1
 - [【2023年】私的ベストFigma Plugins](https://note.com/tribako/n/nb5abb09f1ea5) B! 1
 - [B/43のデザイントークンをTokens Studio for FigmaからVariablesに移行しました](https://blog.smartbank.co.jp/entry/2023/12/20/195623) B! 1
+- [STUDIOで働くデザイナーの "Figma to STUDIO" 活用方法](https://note.com/sakinotomiura/n/n08da6d32ebf7) B! 1
 - [Gemini と ChatGPT4 のスクレイピングのテキスト抽出タスクにおける精度比較 ](https://qiita.com/ogatango/items/78fde1c22c382c002376) B! 1
+- [HoudiniでSeifert Surfaces（ザイフェルト曲面）の可視化](https://qiita.com/jhorikawa_err/items/03191c4e2cb022bf2f69) B! 1
 - [CLIだけでCode EngineWebアプリの作成をしてみるメモ](https://qiita.com/n0bisuke/items/fb79c2029d0c6f05d6a9) B! 1
 - [『極意本』サンプルコードをクラウド上で動かそう](https://upura.hatenablog.com/entry/kaggle-advent-20231201) B! 1
 - [Kaggle Grandmasterになったので参加したコンペを振り返る](https://blog.knshnb.com/posts/journey-to-grandmaster/) B! 1
@@ -2037,22 +2183,25 @@
 - [娘のために「２歳 ！」の指練習ができるアプリを作ってみた #機械学習 #Webアプリ](https://qiita.com/sotan115/items/5fd5c2a06a91a0f89c6c) B! 1
 - [さんぽビンゴのためのwebアプリを作ろう！](https://qiita.com/mmmrym/items/393709f68b4f8a1be1b8) B! 1
 - [Gateway API の現在地 〜これまでとこれから〜](https://amsy810.hateblo.jp/entry/2023/12/01/090000) B! 1
+- [runc の不具合で Kubelet が暴れた話](https://zenn.dev/kkk777/articles/53031503389bf2) B! 1
 - [[Kubernetes 1.27] Pod 停止時のフェーズ遷移の変更](https://zenn.dev/toversus/articles/88ce2ea66b532d) B! 1
 - [etcd から始める分散合意システム入門](https://zenn.dev/honahuku/articles/introduction_to_consensus_algorithm) B! 1
 - [Pod内に複数のコンテナがある場合の起動シーケンス](https://zenn.dev/hhiroshell/articles/kubernetes-startup-sequence-of-pods) B! 1
+- [AWS CDKでLambda Function URLsを試したい](https://qiita.com/prinprinprrr/items/00117962d7471d4f9998) B! 1
 - [CodeBuildの失敗ビルドを自動的にLambdaで再試行する](https://qiita.com/iwamot/items/c1b5d94155d45603e6a8) B! 1
 - [AWS Integrated Application Test Kit (IATK) を使ってみよう](https://qiita.com/bin_zsh/items/1b86547752d5a7d05286) B! 1
 - [Infrastructure from Codeに入門してみた](https://qiita.com/stand_arrow/items/75bed5c762b518fda71a) B! 1
-- [FastAPIのLambdaからAWS外のサービスでキャッシュとDB構築！ + Github Actions](https://qiita.com/eno49conan/items/6d3e98df2ac82613c3b3) B! 1
 - [API GatewayからLambda非同期呼び出しをSAMで書く](https://qiita.com/kenryo/items/37eccba3b5f84871183f) B! 1
+- [AWS Step Functions を使って NAT Gateway 無しの VPC から外部へ HTTPS 通信](https://zenn.dev/sugikeitter/articles/external-https-from-vpc-using-step-functions) B! 1
 - [M5StickのボタンでLINE WORKSにスタンプする](https://qiita.com/bugtrap/items/e24ad9391b277d913be5) B! 1
-- [Closed NWでのRAG-Arch構築とAOAI比較検証](https://qiita.com/nqdior/items/bff3712e48aee8c5428c) B! 1
+- [4年ぶりにアドベント出ます](https://qiita.com/nqdior/items/bff3712e48aee8c5428c) B! 1
+- [ローカル LLM を用いた Instruction データセット の Data Augmentation と  Evol-Instruct](https://qiita.com/kunishou/items/1c78f4d55f8df90137eb) B! 1
 - [Swallowは『雪国』の冒頭をどうトークナイズするのか](https://qiita.com/KoichiYasuoka/items/60c44df1740efb38e04e) B! 1
 - [RAG 周りの工夫の仕方について考える](https://note.com/yamada_tech/n/nb20c670050bb) B! 1
 - [LLMアプリケーションの評価メトリクス策定のために考えたこと・やったこと](https://scrapbox.io/seya-note/LLM%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%A9%95%E4%BE%A1%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9%E7%AD%96%E5%AE%9A%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E8%80%83%E3%81%88%E3%81%9F%E3%81%93%E3%81%A8%E3%83%BB%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8) B! 1
 - [あとから参画したメンバーが助かったmablの運用ガイドライン](https://techblog.hacomono.jp/entry/2023/12/20/0700) B! 1
 - [Mapbox GL JS v3と国土地理院 標高タイルで海面上昇シミュレータを作成してみました](https://qiita.com/shi-works/items/54f8d113f0d54279f9db) B! 1
-- [【L1、L2】ブラウザでWorkerを動かしてみる（基本編）](https://qiita.com/k-kawashima/items/0bc4b862c0a91c2fdf99) B! 1
+- [【L1、L2】ブラウザでWeb Workerを動かしてみる（基本編）](https://qiita.com/k-kawashima/items/0bc4b862c0a91c2fdf99) B! 1
 - [日本の標高データをMATLABで活用 - モザイク結合 -](https://qiita.com/Hernia_Baby/items/9ff238717a4e0e570648) B! 1
 - [#11：Operational Analytics(運用分析)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-11-operational-analytics/) B! 1
 - [#18：Workflow Orchestration(ワークフローオーケストレーション)](https://dev.classmethod.jp/articles/modern-data-stack-categories-overview-advent-calendar-18-workflow-orchestration/) B! 1
@@ -2062,6 +2211,8 @@
 - [オンプレミス Active Directory を保護する Microsoft Defender for Identity (MDI) とは！](https://qiita.com/himatsumoto/items/41b24dee61f83171cbed) B! 1
 - [生成AIを活用した勉強方法を体系的にまとめてみました](https://qiita.com/Isaka-code/items/6c81f89b48e9e74cb1c9) B! 1
 - [DALL·E APIで実在しないポケモンを創る](https://qiita.com/Isaka-code/items/7eba1881931dd646baed) B! 1
+- [【2023年12月最新】LangChainを使用した質問応答エージェントの作成【LCEL・FAISS】](https://qiita.com/Isaka-code/items/fcc3400adcb51d131fe8) B! 1
+- [生成AIについての記事を書こうとしたら、既に神記事があった（80選）](https://qiita.com/Isaka-code/items/0d35e7f69020088c249f) B! 1
 - [4年半かけてAWS認定12冠を達成した話](https://qiita.com/t_akutaku/items/d9b4cf68cfebe00314db) B! 1
 - [SYMBOL の「 Peer Node List 」を作って aLice と連携してみた](https://qiita.com/mikun/items/e1915b27fb94cbd02efa) B! 1
 - [仮想通貨で決済したらデジタルアートがもらえるシステム作ってみた](https://qiita.com/ry0-cha-ng/items/5c2d134c5a305c40e0de) B! 1
@@ -2069,6 +2220,7 @@
 - [Open AIのAPIで音声合成・TTS (text-to-speech) してみる](https://qiita.com/n0bisuke/items/10c9a9aa02bfb62fd158) B! 1
 - [OpenAIのWhisperをNode.jsで触って会議音声の文字起こしを試してみる](https://qiita.com/n0bisuke/items/2e69cbf64fc890900bd0) B! 1
 - [【v4対応】シンプルにNode.jsからOpen AIのGPT APIを使うメモ](https://qiita.com/n0bisuke/items/6759ff0b0e481892f810) B! 1
+- [OpenAI APIで検証したいこと(備忘録)](https://qiita.com/y-vectorfield/items/02734f8f6860d976ba10) B! 1
 - [コミュニティマップメーカーの活用事例](https://qiita.com/K-Sakanoshita/items/11e1c8b98b3e4ed75f4f) B! 1
 - [「StreetComplete」と「Every Door」でお散歩中にお手軽マッピング](https://eno.hatenablog.com/entry/2023/12/04/233000) B! 1
 - [OpenStreetMapを使って地域探索、大学生とやってみた](https://note.com/pandas819/n/n08c57f7740fe) B! 1
@@ -2082,8 +2234,6 @@
 - [Power Appsでコネクタのアクションのパラメータの入力方式がわからない時の解決方法](https://powerplatformnikki.com/powerappsconnectorparam/) B! 1
 - [ウェブ検索と季節商品の関連性を可視化し分析してみた。](https://qiita.com/tsukapon/items/a290a7ea353a2d8bd2a7) B! 1
 - [Power Apps モデル駆動型アプリに、Power BIコンポーネントを使って、Power BIレポートを埋めこんでみる（コンテキストフィルタあり編）](https://qiita.com/susumutanaka/items/3cb65b8e4f77f8c6c3b6) B! 1
-- [Power BI 社内勉強会をやってみた](https://qiita.com/AkioSaitoh/items/dedcd75835a331390a2e) B! 1
-- [「Copilot、Copilot...」と連呼する前に、Power BIでは...](https://qiita.com/ishiayaya/items/15b6f28e3245137b5d6f) B! 1
 - [ProtoPediaの作品データを簡易的に取得して指標分析など](https://qiita.com/n0bisuke/items/c7ff29ad7df21cec3a8b) B! 1
 - [runnをインストールしてみよう](https://zenn.dev/katzumi/articles/runn-tutorial-day01) B! 1
 - [Hello world!](https://zenn.dev/katzumi/articles/runn-tutorial-day02) B! 1
@@ -2111,7 +2261,6 @@
 - [runnを利用したちょっとしたツール作成してみる](https://zenn.dev/katzumi/articles/runn-tutorial-day24) B! 1
 - [runnのもっと便利な使い方を紹介](https://zenn.dev/katzumi/articles/runn-tutorial-day25) B! 1
 - [IAM アーキテクトの学習について - Salesforce認定 Identity and Access Management アーキテクト -](https://note.com/murphyfox/n/n04d4d499effb?sub_rt=share_pb) B! 1
-- [弊社チームメンバーの今年の実績をまとめました。](https://note.com/krhtj/n/n0695a31e3056) B! 1
 - [台風接近時、電車が止まるレベルの時に出社しなくて良いように警報や注意報を自動でSlack通知したい](https://qiita.com/bluelemmon/items/465efc3c43cc8a084f9f) B! 1
 - [Slackの会話履歴の取得をTypeScriptで実装する ~conversations.replies~](https://qiita.com/ishikawa-atsuki-valuesccg/items/f0b4b5c0f73ed3f2aeb5) B! 1
 - [Google Calendar の予定をつくるSlack ワークフロー（無料）をコードで表現する](https://qiita.com/seratch/items/28e2503a4ec72c60710b) B! 1
@@ -2122,10 +2271,13 @@
 - [Excelを排除してBigQuery&Streamlitでのデータ操作を検討する](https://rounda.co.jp/blog/de-excel-hello-dwh-part3/) B! 1
 - [trocco を使った Box から BigQuery への冪等データ投入への道](https://note.com/setomits/n/n9faae0b77683) B! 1
 - [何番煎じかわからないけどRailsのトランザクション処理について](https://qiita.com/u110/items/e087f34878ca9aabee5b) B! 1
+- [LangChain RetrievalQAのカスタマイズ](https://qiita.com/_YFTS/items/124d44b5ca5a791309ea) B! 1
 - [データベースエンジニアのためのDB on Kubernetes入門ガイド](https://zenn.dev/nnaka2992/articles/db_on_k8s_guide_for_db_engineers) B! 1
 - [AWS Fault Injection Service で EKS の障害テストを行う](https://zenn.dev/kyohei_saito/articles/6d1bcc1fe8610e) B! 1
 - [生成AIについて学んだのでざっとアウトプット](https://shu-kob.hateblo.jp/entry/2023/12/17/005138) B! 1
+- [KubeCon NA 2023 Recap: Attacking Kubernetes 編](https://kyohmizu.hatenablog.com/entry/2023/12/31/040720) B! 1
 - [Vim でよく使う Vim じゃない機能](https://zenn.dev/now4est/articles/01hh5z6k3p3vssgyga91bbzfcz) B! 1
+- [Slack UI を 2023年夏以前に戻してメンション一覧へ一発で移動する](https://qiita.com/naohikowatanabe/items/21ea23917e12bf5d923f) B! 1
 - [pgauditを設定して特定カラムアクセス時にemail通知を投げるシステムの構築](https://qiita.com/kilin/items/3f91548b6bfb8a458c0a) B! 1
 - [デフォルト動作を理解して使ってますか？](https://qiita.com/komitake/items/4873437ba6d9d7064b34) B! 1
 - [CircleCIでリポジトリ内でのフロントエンドとバックエンドを分けたCI/CD環境構築](https://qiita.com/Momijinn/items/e3775a21b8d1ced8ecb7) B! 1
@@ -2141,10 +2293,12 @@
 - [Sigv4とは何か、そしてその動作方法は何でしょうか。](https://qiita.com/baochanh18/items/48180b7e6f93987f33ac) B! 1
 - [Terraformでマイクローサービスのインフラ (AWS)をゼロから構築する](https://qiita.com/tuananhhedspibk/items/cbfa44dc30c3faa045c2) B! 1
 - [エンジニアへの転身：30歳、二児の母が外国で歩む新たなキャリアの道](https://qiita.com/CamillieFu/items/0e558999393a4d99da2a) B! 1
+- [AWS CDK + LocalStackでAWSサーバレスのローカル開発環境構築した話](https://note.com/nghia_nt/n/nb97c37c3600f) B! 1
 - [AWS ECS Run Taskで各マイクロサービス連携する](https://qiita.com/tuananhhedspibk/items/5875e846c1401646f3ef) B! 1
 - [N+1 問題を解決する GraphQL::Batch の使い方とその仕組み](https://zenn.dev/aldagram_tech/articles/how-to-use-graphql-batch) B! 1
 - [Apollo Client (React) で GraphQL Query の実行タイミングを複数のコンポーネント間で制御する](https://zenn.dev/aldagram_tech/articles/a9f5a927c0fe25) B! 1
 - [スクラム採用を実現できた話〜採用業務の負担が大きく困っていたら、みんなが手伝ってくれた話〜](https://zenn.dev/aldagram_tech/articles/ac044243103b85) B! 1
+- [Testcontainers と sqldef を用いて Spring Boot のテストでリアルDBを使えるようにする](https://zenn.dev/aldagram_tech/articles/5ff03e5cb40114?redirected=1) B! 1
 - [BigQuery におけるクエリパラメータを利用した SQL インジェクションの改善](https://zenn.dev/aldagram_tech/articles/sql-injection-with-big-query) B! 1
 - [開発エンジニアも参加するスモークテスト導入してみた](https://zenn.dev/aldagram_tech/articles/3bcff5cf23e3b9) B! 1
 - [アルダグラムのSREになってから1年が経ったのでやってきたことを振り返ってみる](https://zenn.dev/aldagram_tech/articles/acc99d361d1006) B! 1
@@ -2182,6 +2336,7 @@
 - [【Unity】SystemSampleRateとDSPBufferSizeの調整](https://qiita.com/tanipika/items/dbf00b7b5cf2c4ef78d6) B! 1
 - [ざっくりコンポジション【Unity/C#】](https://qiita.com/gen09/items/d4d8ae37b971dd4e3bc4) B! 1
 - [GodotでMagicOnionやってみる](https://qiita.com/16cho/items/b2442cf1a05cbc9cf562) B! 1
+- [IUnityLinkerProcessorでCodeStrippingからコードを守る](https://zenn.dev/hatopopo_0113/articles/279d3b89c791d1) B! 1
 - [Rust/eguiで作るデスクトップ業務アプリ](https://tech.aptpod.co.jp/entry/2023/12/19/100000) B! 1
 - [MenderとDockerでアプリケーションのOTAを実現した、新しい組込Linuxシステムのご紹介](https://tech.aptpod.co.jp/entry/2023/12/20/100000) B! 1
 - [S3 Glacierの状態を確認してみた。](https://qiita.com/ys_kmr/items/a4717292767c9b164eb2) B! 1
@@ -2194,6 +2349,7 @@
 - [Snowflake x Terraformに自動テストを導入した話](https://qiita.com/motoki0208/items/7242f67d204523df6ea0) B! 1
 - [エンジニア、ChatGPTと遊ぶ。楽しい1ヶ月の冒険](https://zenn.dev/arsaga/articles/4ae30d6608910a) B! 1
 - [PHP/LaravelでFCMpush通知を実装した件](https://qiita.com/takapon21/items/47a72472541650fe3b1a) B! 1
+- [「なんとなく」でやらないための私的Web API設計ノウハウ](https://zenn.dev/arsaga/articles/4a72774b1c93d2) B! 1
 - [UnityとJetpackComposeでウルトラARシューティングゲームを作ろう！（Kotlin、JetpackCompose連携まとめ）](https://zenn.dev/arsaga/articles/ede728a794a553) B! 1
 - [Flutter go_router_builderふんわり解説](https://zenn.dev/arsaga/articles/1da78e77df6ddd) B! 1
 - [Figmaでデザインを確認したりちょっとだけ編集する人向けのTIPS](https://zenn.dev/arsaga/articles/bb9cce2d793561) B! 1
@@ -2203,6 +2359,7 @@
 - [お父さん、バービーを買ってよ！: 本当に欲しいクリスマスプレゼントのために提案書をつくろう](https://zenn.dev/arsaga/articles/d4d55fc811eab8) B! 1
 - [一度自然消滅したテックブログを復活させてみて](https://zenn.dev/arsaga/articles/d1fe7fd9cdabed) B! 1
 - [【エンジニアは読書すべきか？】新卒エンジニアが１年半で本を３７冊読んで学んだこと](https://note.com/asahi_ictrad/n/n32addbd161a3) B! 1
+- [街にもクマは現れる！宮城県「アーバン・ベア」の出没地点を可視化しました](https://note.com/asahi_ictrad/n/n6d1741c2ec08) B! 1
 - [YjsとWebSocketで共同編集テキストエディタを作る【オフライン編集と永続化に対応 / Lexical】](https://qiita.com/kanta_matsu/items/958f0c69c858f504188a) B! 1
 - [Reactのメモ化は最終手段にしたほうが良いという話](https://qiita.com/interharuki/items/6278c5df17089e0aade6) B! 1
 - [大規模スクラム開発のコミュニケーション設計](https://qiita.com/hnz/items/5f3b4a7460b39396a235) B! 1
@@ -2235,6 +2392,7 @@
 - [で、AWS Community Builderになると何が変わるの？ #jawsug #awscommunity](https://note.com/tkaga/n/n2aab58fa7665) B! 1
 - [Community Builders 1年目振り返り](https://qiita.com/saramune/items/8b415481225dd5d364d8) B! 1
 - [AWS re:Invent 2023 4日目のアプデ特集（myApplications、Inspector CI/CD等）](https://qiita.com/minorun365/items/bb4683ea5096dd43ede4) B! 1
+- [Amazon Bedrockに新登場した「Knowledge base」を試してみた（Pinecone利用編）](https://wp-kyoto.net/get-started-with-bedrock-knowledge-base-with-pinecone/) B! 1
 - [Amazon S3 Access Grants とは何か。何が嬉しいのか。](https://qiita.com/hayao_k/items/e96471bd1874585985b1) B! 1
 - [5xx台のStatusCodeを返すApplication Load BalancerのバックエンドをLambdaで作る](https://qiita.com/watany/items/6100a209eae5af8f0348) B! 1
 - [Community BuldersでもらったAWSクレジットの有効的な使い方](https://qiita.com/yukkie1114/items/2efa5d0bb21ee50c6f40) B! 1
@@ -2271,7 +2429,8 @@
 - [Reactの要素作成処理を壊しながら内部的に見よう](https://qiita.com/undesicimo/items/94544b80bc0db1eccf21) B! 1
 - [ 「SaaS管理SaaS」でAWS IAMを棚卸しするために数十個のAWSアカウントに一撃でIAM Roleを作ってみた](https://qiita.com/h_r_w_t_r/items/24cee1ce31e7c4c7a164) B! 1
 - [JamfからiPadを再起動させてみる。誰がそんなこと必要とすんねん！ え？うちだけど？](https://qiita.com/gzock/items/916ada0a1dbaeb64542a) B! 1
-- [最新情報や独自データを使って回答するGPTsのつくりかた](https://qiita.com/demmy/items/611a41007468de85ecb0) B! 1
+- [ChatGPTを使って自動FAQ回答Chatbotを作ってみた](https://qiita.com/y2y/items/9368109206319d2da154) B! 1
+- [ChatGPTに対する賢い質問方法 n選(チートシート)](https://qiita.com/zizynonno/items/29de3beb0ff867357ab3) B! 1
 - [Node.jsでLINE Bot開発してみた（備忘録）](https://qiita.com/tak_11/items/c5df393109f4beb89834) B! 1
 - [1,800億フォロワーを分析するBitStarのインフラ構成](https://qiita.com/y2y/items/09d50e2c8199060e9dcc) B! 1
 - [EMとして両利きの経営を考える](https://tech.bm-sms.co.jp/entry/2023/12/09/093000) B! 1
@@ -2313,7 +2472,8 @@
 - [真面目な人がわからないことにぶちあたったら](https://qiita.com/casareal_user/items/db4c604cb2c3e33a3ceb) B! 1
 - [EKS 環境に Chaos Mesh を構築し動作検証する](https://csblog.casareal.co.jp/archives/1070) B! 1
 - [Reactドラッグ&ドロップライブラリ、dnd kitのプリセット、sortableの使い方をユースケースから理解する](https://zenn.dev/castingone_dev/articles/dndkit_sortalbe) B! 1
-- [go関連で何か書きます](https://zenn.dev/castingone_dev/articles/ac2e5d06b4a2a5) B! 1
+- [Cloud Runでログとトレースを紐づけてObservabilityを高める](https://zenn.dev/castingone_dev/articles/20231222-gcp_o11y) B! 1
+- [Goのバージョン1.21以降はライブラリとのバージョン差によるバグが減るらしい](https://zenn.dev/castingone_dev/articles/ac2e5d06b4a2a5) B! 1
 - [【Vue3】自作ライブラリをその場で実行できる多言語対応チュートリアルサイトを作った](https://qiita.com/konbraphat51/items/3919a4ff97e0a045545a) B! 1
 - [【ゲーム物理】離散要素法DFMで簡単物理エンジン！①　基礎編](https://qiita.com/konbraphat51/items/157e5803c514c60264d2) B! 1
 - [AWS SysOps Administrator 受験記](https://qiita.com/ohway_death/items/3f10c82b54c62ca41446) B! 1
@@ -2329,7 +2489,6 @@
 - [2023年の個人的なふりかえり](https://creators-note.chatwork.com/entry/2023/12/25/100000) B! 1
 - [Chompy フードデリバリーアプリのサービス終了して、その後デザイナーはどう変化したか](https://note.com/puzzeljp/n/nae7c411caa96) B! 1
 - [プログラミング言語Go 1Dayブートキャンプ に参加して](https://qiita.com/marie729/items/3b88dcfe8db3daaee017) B! 1
-- [筋トレは疲れたエンジニアを救うのか](https://zenn.dev/tyapam/articles/ec87aa365ba087) B! 1
 - [イベント用の名札を作る技術](https://qiita.com/hoto17296/items/52ba1ea45dc01d1b4c56) B! 1
 - [streamlit data editorのデモをした話](https://zenn.dev/yskin/articles/47128fb5fcdd5a) B! 1
 - [AlmaLinux Day: Tokyo 2023 に参加してきた ](https://gist.github.com/blank71/388f5a7cafa00b288e3e4450a97a2539) B! 1
@@ -2342,6 +2501,7 @@
 - [オフィスアワーをやってみて良かった話](https://note.kyokomi.dev/post/2023122001_office_hour/) B! 1
 - [挑戦と創造：ワールド制作で見つけた新たな可能性](https://note.com/compile3/n/na419db360bb3) B! 1
 - [2023年後半 ココネ開発組織の取り組み](https://qiita.com/kura_shuichi/items/89999d0041fc8aaebf06) B! 1
+- [GitHub Copilot Chat を使ったワンフレーズコードレビュー](https://qiita.com/c_hammerhead/items/1d67b523d2ee93aa4f45) B! 1
 - [GitHub Actions入門～Cloud9でGitHub ActionsのHello Worldを実行してみよう](https://qiita.com/mikako0115/items/672e02683a2bdae6c262) B! 1
 - [まさか、行動指針が形骸化していない、だと？](https://tech.codmon.com/entry/2023/12/01/000000) B! 1
 - [console.logをかわいくしてデバッグタイムを楽しもう🎄](https://tech.codmon.com/entry/2023/12/03/000000) B! 1
@@ -2349,8 +2509,6 @@
 - [輪読会でチームの共通言語を作ったら開発しやすくなりました](https://tech.codmon.com/entry/2023/12/05/141608) B! 1
 - [負荷試験がわからない問題をちょっとだけ明るくしてみた件について](https://tech.codmon.com/entry/2023/12/08/000000) B! 1
 - [対話型CLIライブラリのInquirer.jsを試してみた](https://tech.codmon.com/entry/2023/12/08/234628) B! 1
-- [チームで学ぶTDD輪読会](https://tech.codmon.com/entry/2023/12/11/123302) B! 1
-- [M2 MacBook AirにローカルLLMを入れてみた](https://tech.codmon.com/entry/2023/12/12/092030) B! 1
 - [React における Global state の管理法を比較してみた](https://tech.codmon.com/entry/2023/12/18/100000) B! 1
 - [XPを主体的に学ぶためのチーム内LTを実施しました](https://tech.codmon.com/entry/2023/12/19/000000) B! 1
 - [フロントエンドのポーリング処理を単体テストした話](https://tech.codmon.com/entry/2023/12/24/000000) B! 1
@@ -2361,20 +2519,25 @@
 - [UIブラー対応事例紹介](https://media.colorfulpalette.co.jp/n/nffc0ece136be) B! 1
 - [blenderを使って背景イラストを書いている話](https://media.colorfulpalette.co.jp/n/nc33175f91100) B! 1
 - ["スクリプター"って……何？](https://media.colorfulpalette.co.jp/n/n94d6dbdecb1f) B! 1
+- [NOVAShaderで作るエフェクト制作Tips](https://media.colorfulpalette.co.jp/n/n6ac955632f7f) B! 1
 - [ステージング環境では気づけなかった！　負荷対策が招いたTcpFallbackの落とし穴](https://media.colorfulpalette.co.jp/n/n269cc8f422b7) B! 1
 - [Open Source Summit Japan 2023: ボランティアリーダーの体験記](https://www.opensourcetech.tokyo/entry/20231224/1703429785) B! 1
+- [vercel/satoriでfavicon時計を作る](https://qiita.com/anoChick/items/14ffc8f66c70d6b3aa2f) B! 1
+- [アウトプット重視輪読会を実施したら業務へのアウトプットが活発になった](https://qiita.com/YoheiKanamaru1/items/54d00c0db247a9367472) B! 1
 - [ホロライブアプリのアーキテクチャ その2 ～新プロジェクト立ち上げ編～](https://qiita.com/kura_cvr/items/ee4d140f719570a9c4fa) B! 1
 - [AWS Control Towerにおける非準拠リソースの通知](https://qiita.com/ys-cover/items/2121f4db469a7e7047b8) B! 1
 - [カバー株式会社におけるAWS Control Towerの導入](https://qiita.com/ys-cover/items/1822ba6d505795f74e22) B! 1
 - [Unityではしごの昇り降りを実装する](https://qiita.com/mo-cover/items/17dbd5f301d145fc6614) B! 1
 - [◯ツコの知らないテストツールの世界](https://qiita.com/hakumai_/items/aaf64b0f8d05578027d0) B! 1
+- [【CI/CD】複数リポジトリでCircleCIのコードを共有する](https://qiita.com/kosuke_0430/items/643b6ad55a8de68481e5) B! 1
+- [本業、副業、趣味でソフトウェア開発している話](https://engineer.crowdworks.jp/entry/2023/12/02/084602) B! 1
 - [9年開発を牽引して見えてきた、共通化すべきものと個別でつくるもの](https://qiita.com/shinout/items/16060d9add05135f6008) B! 1
 - [一人目デザイナーのタスクの洗い出し方とまとめ](https://note.com/hikarutayama/n/n278441741750) B! 1
 - [API Gateway(HTTP API) で IP アドレス制限する](https://qiita.com/kazfuku/items/163d1b137ce36333e423) B! 1
+- [VPC Service Controlsを用いてデータ制限を行う](https://zenn.dev/d2c_mtech_blog/articles/45f6138235b904) B! 1
 - [生成AIによって変わるデータサイエンティストの力点](https://qiita.com/hasegawa16777216/items/2f0957b81703d503105d) B! 1
 - [【Japanese Stable VLM】画像入力対応の日本語特化ローカルLLMで何ができるのか？【実験】](https://qiita.com/keisuke-okb/items/ae1dbb4f3e3034713245) B! 1
 - [一年間の生成AIのニュースを振り返ろう](https://qiita.com/RisaM/items/ba4df5bd8ee3233baf13) B! 1
-- [LLMの実行方法と周辺ツールまとめ](https://qiita.com/simajiro/items/7467b849212fb3863e3b) B! 1
 - [5分でわかるLLM ](https://qiita.com/RisaM/items/8158e31572e09f1d637f) B! 1
 - [最新のRAG検索？「RegaVAE: A Retrieval-Augmented Gaussian Mixture Variational Auto-Encoder for Language Modeling」](https://qiita.com/DeepMata/items/d54bfdcb732663dfd01b) B! 1
 - [Flutter x go_router_builder で type-safe に NavigationBar を実装する](https://qiita.com/wattah/items/9882ebbc58571bfbc1f2) B! 1
@@ -2383,6 +2546,7 @@
 - [全力でマラカスを作ってみた -聖なる夜にWebマラカスを- ](https://qiita.com/jmsrsyunrinsyunki/items/7e30e43dd3606e47c095) B! 1
 - [dojo で開発したプロダクトを育て続ける](https://qiita.com/sakuya0116/items/4ca67fa68862cb3541c1) B! 1
 - [JavaScriptで数字に単位(桁)を付ける[WIP]](https://qiita.com/rmiya_11/items/bf8f59c39daeb3c8dc96) B! 1
+- [AWS の Cost Optimization Hub（コスト最適化ハブ）を試してみよう](https://qiita.com/shimazushi/items/48a847cd99c6d69e365d) B! 1
 - [時の流れに身を任せてPMOへ....〜元、開発エンジニアが読み解くPMOとは、、、？〜](https://qiita.com/itoa-df/items/3ab1444811fcdaa6c3ed) B! 1
 - [AWS Lambdaレイヤーをローカル環境で構築する方法（Python）](https://qiita.com/masahiro_yoshiichi/items/d50483f31d81b286b9b9) B! 1
 - [[JavaScript]スコープについて](https://qiita.com/mortyie/items/c866035041f2fe06098d) B! 1
@@ -2401,15 +2565,19 @@
 - [GoogleCloudでVPCを構築したらCloudNATのサイジングでハマった件](https://qiita.com/takaf04/items/d55460d16ed93f2fb1c9) B! 1
 - [【Go】DBのnullをJSONのundefinedで返す](https://qiita.com/Taro000/items/e8073d196b8150d92960) B! 1
 - [apt と apt-get のどちらを使えばいいのか？](https://qiita.com/aratasss/items/1f5b588c1f37efaf75ec) B! 1
+- [SLIの見直し 開発者目線からユーザー目線へ](https://inside.dmm.com/articles/slo-no-minaoshi/) B! 1
 - [2023年のゼロランタイムCSS in JSを考える](https://inside.dmm.com/articles/2023-zeroruntime-css-in-js/) B! 1
 - [ITコミュニティやハッカソン・アイデアソンになぜ参加するのか？](https://inside.dmm.com/articles/ozawa20231206/) B! 1
 - [Pull Request のレビュー効率をあげるためにやっておきたいこと](https://inside.dmm.com/articles/tips-for-efficient-review-of-pull-request/) B! 1
 - [購買済み商品の並び替えによる検索結果のパーソナライズ](https://inside.dmm.com/articles/search_purchased_item_handling/) B! 1
+- [Diátaxisによる知見の体系化を図ろうとしている話](https://inside.dmm.com/articles/systematicness-documentation-diataxis/) B! 1
+- [サービスの稼働状況をStatus Pageを使って可視化した話](https://inside.dmm.com/articles/implement-internal-status-page/) B! 1
 - [【ニコニコ】心理的安全性＆開発生産性の改善！所属による重力を乗り越える取り組み](https://qiita.com/chiyoppy/items/0fb37b2bcd1946a7354d) B! 1
 - [Datadog Istio インテグレーションのメトリクスを使ってサービス間通信の平均レスポンスタイムを可視化する方法](https://zenn.dev/ymiz/articles/7b08586a835fac) B! 1
 - [ニコニコ生放送のBCD Design導入事例](https://qiita.com/misuken/items/09498a496511034627af) B! 1
 - [ChatGPT の Code Interpreter でアニメ原画の領域(特徴点)認識プログラムを書かせたよ](https://qiita.com/ystmg/items/48e5a86fd3a44bfd35c6) B! 1
 - [EC2とDiscordコマンドを活用したマイクラ鯖構築](https://qiita.com/RyumaRyama/items/e40eeb21b15b1c7d95ad) B! 1
+- [ニコ生の開発環境が不足しがちなのでKubernetes/IstioとChrome機能拡張を使ってスケールするようにしてみた話](https://zenn.dev/cornet_higashi/articles/scale-development-environment) B! 1
 - [コミットメッセージの書き方の一例](https://qiita.com/MultiplicationSign/items/0563e4d87841ff19733c) B! 1
 - [AWS Clean Rooms ML のPreviewバージョンを早速レビュー](https://qiita.com/kenmaro/items/2cebf6da9d860e300d1b) B! 1
 - [電子工作とオートバイのはなし](https://note.com/br2c74/n/n34e586e6a9a0) B! 1
@@ -2431,14 +2599,17 @@
 - [Pairs のAPI 開発における OpenAPI 運用の改善と振り返り](https://medium.com/eureka-engineering/pairs-openapi-ops-68adb877b6c6) B! 1
 - [Fractional indexingによる並び替えAPIとデータ構造](https://medium.com/eureka-engineering/introducing-fractional-indexing-49d3dec5b489) B! 1
 - [新卒1年目data engineerがdbt×Dagsterでオーケストレーションしてみた](https://medium.com/eureka-engineering/%E6%96%B0%E5%8D%921%E5%B9%B4%E7%9B%AEdata-engineer%E3%81%8Cdbt-dagster%E3%81%A7%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F-0a13ae5a7224) B! 1
+- [Pairsの成長を推進させるデータ分析](https://medium.com/eureka-engineering/pairs%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E6%8E%A8%E9%80%B2%E3%81%95%E3%81%9B%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90-d24c0b2bea9d) B! 1
 - [Software EngineerがSports Businessに行ってみた話](https://masartz.hatenablog.jp/entry/2023/12/01/090009) B! 1
 - [MIXIからグローバルへの挑戦で起こった3つの変化](https://alpacat.com/blog/advent-calendar-2023-ex-mixi/) B! 1
 - [ソフトウェアエンジニアから経営者になって9年経った](https://qiita.com/tnj/items/7917cecc82b96ccc1be4) B! 1
+- [絶えず灯り続けるアジャイルのこころ](https://kakkablog.hatenadiary.jp/entry/2023/12/25/114954) B! 1
 - [【Flutter】 新規登録における入力フォームの実装で考慮すべき点とその対応](https://zenn.dev/ryota_iwamoto/articles/flutter_general_authenticated_form_checker) B! 1
 - [自作CLIツールでテンプレート作成をしてみる](https://zenn.dev/masa_tokyo/articles/cli-app-for-package-template) B! 1
 - [(続) go_router, go_router_builderで実現するBottomNavigationBarの永続化](https://zenn.dev/flutteruniv_dev/articles/stateful_shell_route) B! 1
 - [PMOの全体像](https://qiita.com/tomomi-kawashita/items/c0bb60779b6be7f5dad6) B! 1
 - [【AWS】ALB利用時のアクセス元IPの偽装対策 (X-Forwarded-For)](https://qiita.com/maru3ka9/items/151fe47a6391ab16ef7f) B! 1
+- [マグロ超音波AI](https://note.com/fujitsu_pr/n/n371db816cbac) B! 1
 - [AWS社主催　大阪リージョンセミナーに行ってきた！](https://qiita.com/yucham25/items/e1e0096c5315c71f23b8) B! 1
 - [p5.jsとShaderの画像エフェクト](https://chooblarin.com/post/p5js-webcam-and-shader) B! 1
 - [マネージャーはなぜ忙しいのか。3年間やって少し分かってきたこと。](https://namaninotiteti1026.hatenadiary.jp/entry/2023/12/02/232218) B! 1
@@ -2459,17 +2630,20 @@
 - [Framer Motion 3Dで簡単な3Dアニメーションを使ったReactアプリを作る](https://zenn.dev/9rotama/articles/framer-motion-3d-20231223) B! 1
 - [急に PC が壊れることに備えよう](https://zenn.dev/yoryuuuuu/articles/b1eacb82ad7934) B! 1
 - [きちんとCSSの重ね合わせを勉強した話](https://qiita.com/masaya82/items/e8bdcbbdea97abf35cd6) B! 1
+- [UX戦略をなぜクライアントワークに持ち込むか](https://funteractive.co.jp/views/ux-strategy-for-client-work/) B! 1
 - [メンタルモデルをアップデートしてJavaへの理解を深める話](https://tech.furyu.jp/entry/java_mentalmodel) B! 1
 - [Lambda環境のTypeScriptでミドルウェアパターンを適用した](https://qiita.com/shiba8/items/94078718e219abef63c7) B! 1
 - [Spring Bootでエクセルファイルをアップロードして読み込む](https://qiita.com/t_A_M_u/items/1c4a5ce6661f335480a6) B! 1
 - [AWS Lambdaで手軽にNode.jsコンテナ稼働](https://qiita.com/f-koda/items/5de849e03a8a47d841e8) B! 1
 - [エンジニアの技術発信について振り返り](https://tech.furyu.jp/entry/2023/12/25/162747) B! 1
+- [【音声合成】Matcha-TTS🍵で日本語音声を生成してみる](https://zenn.dev/fusic/articles/bd7da12adf5901) B! 1
 - [re:Invent 2023 で、外国の人といっぱい話した](https://qiita.com/gorogoroyasu/items/4bc86f2e4aab65e42a57) B! 1
 - [SQLサーバーに接続してSQLを実行するlambdaをTerraformで作成してみる](https://qiita.com/pensuke628/items/1671115dd93ab051e138) B! 1
 - [SQS+DynamoDBでスケーラブルでフルサーバーレスなポイント管理システムを作る](https://qiita.com/ayasamind/items/18e8e45fdefb124a30a4) B! 1
 - [プライベートリポジトリでもBudgeを貼りたい](https://qiita.com/ma91n/items/6c572c5887a50223c2b1) B! 1
 - [HTTPでも双方向ソケット通信にチャレンジしてみた(けどやめた)](https://qiita.com/shibukawa/items/1d098e3ba9e065215b40) B! 1
 - [CodeBuildでDinDを使ってハマったこと](https://qiita.com/tng527/items/3586a9cc652ffb575dbf) B! 1
+- [Golangの新しいORM「Bun」を触ってみた](https://qiita.com/fujito_shion/items/a523c97c10b71eebe34a) B! 1
 - [振り返りを盛り上げる AI を作ってみた](https://tech.gamewith.co.jp/entry/2023/12/04/180845) B! 1
 - [チームがフルリモートに最適化していく話](https://tech.gamewith.co.jp/entry/2023/12/25/182116) B! 1
 - [GameWithが10G回線を始めたので導入してみた](https://tech.gamewith.co.jp/entry/2023/12/04/165637) B! 1
@@ -2481,6 +2655,7 @@
 - [【四元数】フルスクラッチで実装して分かったクォータニオンのお気持ち](https://qiita.com/konbraphat51/items/3d0f8ce74b5fd72406e6) B! 1
 - [【デプロイ/Streamlit】EC2から抜けてもstreamlit runが走り続けるように実装する。](https://qiita.com/Ayumu-y/items/bf80c8c483b009f2b818) B! 1
 - [GoogleスライドでもSpeaker Deckで日本語フォントを崩さないアップロード手順](https://zenn.dev/ikenyal/articles/b71be6730a0965) B! 1
+- [プロダクトマネージャーとして一番大切にしていること](https://note.com/geshi1/n/neb397ef5a452) B! 1
 - [API Gateway+LambdaからECS Fargateへの移行](https://qiita.com/pkshimizu_/items/385790b332254b55ccb6) B! 1
 - [WhisperXを用いた映画字幕へのタイムスタンプ付与](https://qiita.com/yskazuma/items/4cea16510d95d473c216) B! 1
 - [2023年最も使ったFigmaプラグイン](https://qiita.com/tnishida/items/20ccc3dd2c26489dbf0a) B! 1
@@ -2495,15 +2670,20 @@
 - [マーケットインの難しさと、私がGoodpatchで働く理由](https://note.com/itkr/n/nbc43edf9a42d) B! 1
 - [React v18 Automatic batching でハマったこと、リファクタのTips](https://goodpatch-tech.hatenablog.com/entry/2023/12/18/104617) B! 1
 - [RPGダンジョンライクに要件定義を例えながらWhy-What-Howをつなげる方法を説明してみた](https://goodpatch-tech.hatenablog.com/entry/rpg-dungeon-requirement-definition) B! 1
+- [Golangのフレームワーク](https://qiita.com/GpAraki/items/7bf6c1794d50f0fc27aa) B! 1
 - [Xcode CloudによるアプリバイナリのCloud Build検証](https://qiita.com/konnyaku256/items/c1b1bce4dc9a859f95e1) B! 1
 - [Riderでスマートにコード整理！File Layoutでクラスメンバーを順序正しく](https://qiita.com/ducchy/items/d73f05b2ef5a2150298e) B! 1
+- [GPT4VとDALL•E３ APIでimg2img実装 Flask使用](https://qiita.com/katsuki1128/items/a84e948b64071f9ad44a) B! 1
 - [Laravelをさくらインターネットのレンタルサーバにデプロイ・アップロードする方法をまとめてみた(2023年12月大幅改訂版）](https://arrown-blog.com/laravel-sakura-deploy/) B! 1
 - [【下り最速は】Astro使って阿部寛のホームページよりも早いホームページを作りたい【この俺だ】](https://qiita.com/terisuke/items/b0256f40dc80ea771cb2) B! 1
+- [Laravel10 x Livewire3 環境構築ことはじめ➕α 【2024年度もたぶんOK】](https://qiita.com/tatun55/items/b196696298f64c7d1567) B! 1
 - [【Kotlin】lambda関数の書き方](https://qiita.com/zhangxi0927/items/30b6fbd77b15d98dc938) B! 1
 - [とにかくシンプルなマイクロサービスをECS Service Connectで作る](https://qiita.com/Xmagnum2/items/ea0ae48d3ce634192309) B! 1
 - [一覧画面とかで見るPaginationをあれしてA.R.E.する](https://qiita.com/smukoyama-gxp/items/f7073da867a360d67281) B! 1
 - [DXの現状分析はコミュニケーションを目的にしよう](https://arclamp.hatenablog.com/entry/2023/12/11/234324) B! 1
+- [C# + xUnitのプロジェクトでユニットテストの結果とテストカバレッジ率をレポートに出力させる。](https://qiita.com/h-uminoue-gxp/items/9218fd32a33e3b71edae) B! 1
 - [2023年版キャンドルナイトプロダクト開発のあゆみ(Candle Night @ Shinjuku)](https://qiita.com/guest-gxp/items/6f980e5f7aa471e36bb1) B! 1
+- [TeX文字列を画像ファイルにするdiscord botを作る](https://qiita.com/metaphysical_bard/items/bf547dbab04c8b92e884) B! 1
 - [hacomonoのプラットフォームチーム 入社３ヶ月の振り返り](https://techblog.hacomono.jp/entry/2023/12/04/110000) B! 1
 - [Starlight さわってみた](https://techblog.hacomono.jp/entry/2023/12/06/070000) B! 1
 - [少しずつ進めるドキュメント改善](https://techblog.hacomono.jp/entry/2023/12/10/0700) B! 1
@@ -2520,13 +2700,14 @@
 - [カジュアルな社内勉強会 : ギベンの紹介](https://dev.henry.jp/entry/2023-12-introducing-giben) B! 1
 - [今年も組織が1.5倍に！リモートワーク中心で拡大し続けているスタートアップのコミュニケーション設計](https://note.com/henry_app/n/n3af9f311fd95) B! 1
 - [MonoBehaviourアンチが採用する技術](https://qiita.com/naninunenoy/items/d41bda893e848271d04d) B! 1
+- [Nuxt3のメタバースサービスにPWAを導入した話](https://qiita.com/iori_yuki/items/a8dc416d9868ee25802b) B! 1
+- [[C#]asyncを利用してCPUバウンドな処理を呼び出すと、スレッドは分散しない](https://zenn.dev/meglia/articles/0f7262c09d87dc) B! 1
 - [Meta Questでシステムのバーチャルキーボードを呼び出す方法](https://qiita.com/OKsaiyowa/items/f5c18327ebbe96b259f8) B! 1
 - [Goプロジェクトにおけるクリーンアーキテクチャの導入](https://qiita.com/yikegaya/items/1646410b77485c43589f) B! 1
 - [VR/MRの歴史を振り返りつつ、Meta Quest 3を使ってお絵描きMRアプリを作った](https://qiita.com/rakai/items/a5a1e04eac4575f68d99) B! 1
 - [TerraformでAWS Cloud9を構築するサンプルコードを書いてみた](https://qiita.com/chacco38/items/890f726030e6fd2b85da) B! 1
 - [TerraformでAmazon ECSを構築するサンプルコードを書いてみた](https://qiita.com/chacco38/items/ca9a4362097457373324) B! 1
 - [re:Inventを最小限の荷物で攻略するための基本戦略](https://qiita.com/pap3rback-writ3r/items/888ee5243fb845028de9) B! 1
-- [TerraformでAmazon API Gatewayを構築するサンプルコードを書いてみた](https://qiita.com/chacco38/items/de7a514b3122761d24e8) B! 1
 - [Amazon BedrockをCloud9のJavaから呼び出してみた](https://qiita.com/la-terre/items/aed89c7b4dff98275c8f) B! 1
 - [KICSを使ってIaCコードの静的解析をしてみよう](https://qiita.com/chacco38/items/275d178ab43382cf483b) B! 1
 - [ハウテレビジョンの事業を支えるデータ基盤](https://blog.howtelevision.co.jp/entry/2023/12/14/000000) B! 1
@@ -2574,12 +2755,14 @@
 - [GitHub Issues と GitHub Actions でいい感じにタスク管理できるツールを作った](https://hxrxchang.dev/blog/getting-things-done-in-github) B! 1
 - [Fractional Indexingによるデータ並び順の実装](https://qiita.com/hamabek/items/281c2d79d3264d1d265b) B! 1
 - [フロントエンドエンジニアが紹介するOTA系サービスの推しポイント](https://qiita.com/i-udas/items/2421a25d6f96512889a4) B! 1
+- [アルテローマ字配列が神すぎた](https://note.com/kkkkrasx/n/ne631c6c942cf) B! 1
 - [Re:Earthをハックしてみた](https://qiita.com/yuuya08110/items/b818814deed4a784d055) B! 1
 - [古めのAWS CDKv2で作ったAuroraServerlessV2を新しいCDKに対応させたときに悩んだ話](https://qiita.com/ytkhs/items/b1ef1c325b455badcd78) B! 1
 - [Amazon Linux 2023でCloudWatch Agentを設定する](https://qiita.com/ytkhs/items/5aeb6fc7e0a65b499855) B! 1
+- [初心者向けgitのあれこれ](https://qiita.com/Fkinds/items/6ac5603fda195dd77c5c) B! 1
 - [【Rails】ビット列を活用した、Todoアプリを作ってみませんか？](https://qiita.com/takakou/items/24e31e9c3f43d676c280) B! 1
+- [【脱 初心者】Railsで学ぶN+1問題](https://qiita.com/yagi_green/items/bcc71b49822978868f08) B! 1
 - [AWS Certified Cloud Practitioner(CLF-C02)試験 合格体験記](https://qiita.com/Keichan_15/items/b10b35626af0dbe2f4fa) B! 1
-- [ ベクトルDBを調べてみました](https://qiita.com/miyatakem/items/b8b3c7699bb530554086) B! 1
 - [Kustomize(v5.2)からpatchesにマルチリソースファイルを指定できる](https://qiita.com/im-dev/items/54abc4ae277121aab3c6) B! 1
 - [Rechartsの軸ラベルを見切れないようにする方法](https://qiita.com/april418/items/5ee5bbfb2904bc38cc04) B! 1
 - [Googleのページのコードを解析してみた](https://qiita.com/0510makoto/items/e8710cc21df6487f27a2) B! 1
@@ -2617,10 +2800,10 @@
 - [自宅に10Gbpsのネットワークを引いたが環境構築に意外と苦労した件](https://qiita.com/77a5b7/items/15cb50a07d9905b322c6) B! 1
 - [仕事でValueを発揮するために意識的にやっている事を振り返ってみた](https://qiita.com/donutsnemoto2311/items/7599335741d04d1dc347) B! 1
 - [1Password CLIで認証情報をセキュア&便利に使おう！](https://qiita.com/tonnsama/items/46e560415a55a0b7a842) B! 1
+- [ビジュアルデータを含む資料を使ったマルチモーダルRAGをさくっと試す](https://qiita.com/s3kzk/items/8d28b7acac6954d20f47) B! 1
 - [【React + CloudFront +WAF +S3】モノレポ構成でメンテナンス画面を作成する](https://qiita.com/MiyuWaka725/items/06327ad5077c5f21a92a) B! 1
 - [【現役スクラムマスターが語る】スクラムしくじりあるある3選](https://qiita.com/TakahashiTo4/items/b0b134dd5ae604931b92) B! 1
 - [Agents for Amazon Bedrock でポケモン図鑑LINE Botを作ってみた！](https://qiita.com/yu-Matsu/items/5f26eb630620ec42342e) B! 1
-- [[Github Actions]terraform-aws-github-runnerでカスタムsgを指定しつつSSM経由でRunnerを起動する](https://qiita.com/ayumun_jp/items/6b559f407ce5161ab3be) B! 1
 - [フロントエンドエンジニアにおすすめVSCode拡張機能](https://qiita.com/YSasago/items/ef9b64793fd4b2595c16) B! 1
 - [Transformerをほんの少し雰囲気だけ理解しようとする](https://qiita.com/yamayoshii/items/e08f9c38da4393f09c9b) B! 1
 - [チームでLeSSを導入してみた](https://qiita.com/sanogemaru/items/527a20d6189e423a8ada) B! 1
@@ -2646,6 +2829,7 @@
 - [DynamoDBのテーブル・インデックス設計について考えてみた](https://qiita.com/m-iwasaki/items/820bc249cffb002bb245) B! 1
 - [ （小ネタ）Tone.jsでタイトなリズムを刻む](https://qiita.com/tadfmac/items/669e2fffad661aec3ec1) B! 1
 - [ステルス迷彩をURP&ShaderGraphで](https://zenn.dev/kd_gamegikenblg/articles/6227f6ad7ece9a) B! 1
+- [学生ならとりあえずGitHubCopilot使え！！！](https://zenn.dev/kd_gamegikenblg/articles/cea1618ff8a209) B! 1
 - [C#のMono.Cecil(自分が)入門](https://zenn.dev/kd_gamegikenblg/articles/e4cefb3b49f0e3) B! 1
 - [UnityのNetcode for GameObjectsでマルチプレイヤーゲームを開発したときの話](https://zenn.dev/kd_gamegikenblg/articles/eeb76c3996fef3) B! 1
 - [C++でゲーム用の入力検知クラスを作る](https://zenn.dev/kd_gamegikenblg/articles/736fd9b9b1cf8c) B! 1
@@ -2657,6 +2841,7 @@
 - [【Unity C#】お手軽メモリ改ざんチート対策 任意のstructをXORするジェネリック](https://qiita.com/rittora/items/2d21d67443ca2311d574) B! 1
 - [React イベントハンドラの落とし穴とその克服方法](https://qiita.com/bearone236/items/909324589b9336f2db66) B! 1
 - [DeepL APIを利用して英語を日本語に翻訳](https://qiita.com/meri123/items/97a84f28747b3b61749c) B! 1
+- [Learn Next.jsをやってみた](https://zenn.dev/lancers/articles/8ae806211adde1) B! 1
 - [ISUCON13に参加しました](https://zenn.dev/yktakaha4/articles/postmortem_isucon13) B! 1
 - [Webの最新データで更新可能な技術用語のデータベースを構築する実験](https://zenn.dev/takeaship/articles/create_composable_tech_term_database) B! 1
 - [カスタマーサクセスマネージャーからプロダクトマネージャーに転身した私がもっと早く知っておきたかった開発思想](https://note.com/ayukichi3/n/nb13900b2e939) B! 1
@@ -2706,11 +2891,11 @@
 - [小さく取り組んでいくライブラリアップグレード。その重要性と向き合い方](https://zenn.dev/loglass/articles/97d147663b5c77) B! 1
 - [【新卒採用】ログラス社に“初代”新卒ソフトウェアエンジニアとして入社する魅力をCTOが全力で伝えます！](https://note.com/loglass_sakamoto/n/n54f83bfd55d0) B! 1
 - [自分が知らないことを知るために、展示会に出てみた話](https://note.com/shin1988306/n/n3540839ca51e) B! 1
-- [ログラスのプロダクトマネージャーチームが今年取り組んだこと、いま苦労していること2023](https://note.com/asa_kossy/n/nc85eca4a8066) B! 1
 - [CodiumAIと共に行うテスト・リファクタリング](https://zenn.dev/loglass/articles/ecff6b935bf7be) B! 1
 - [スクラムマスター参画後のチーム変化についてまとめてみた](https://zenn.dev/loglass/articles/1bdafe1d470efe) B! 1
 - [デザイナーにとっての最良のスクラム](https://note.com/99997373/n/nbb68205d124b) B! 1
 - [次世代言語Flixにみる設計原則とデータ指向アプリケーションの可能性](https://zenn.dev/loglass/articles/293976460d5d9b) B! 1
+- [【コーディング不要】Microsoft Formsの複数回答をExcel Power Queryを使ってクロス集計する](https://qiita.com/sonesonee/items/59a276fc8fc4e6849c73) B! 1
 - [駆け出しエンジニアが社内勉強会をやったよ！🎄](https://qiita.com/hato_code/items/ca24ba7046178dfc3314) B! 1
 - [KintoneとAWSのS3の連携](https://qiita.com/Eda_1121/items/170a8535fd74a1e06424) B! 1
 - [CloudWatch RUMでWebアプリをモニタリングする](https://qiita.com/ysk_ymdy/items/d6db7f031498fb530a08) B! 1
@@ -2719,14 +2904,16 @@
 - [メルペイでのインターンを2ヶ月経験してみて](https://engineering.mercari.com/blog/entry/20231208-internship-shion/) B! 1
 - [Vue3でスクロール状況を再現する](https://qiita.com/Gityosan/items/94a3154c57dfabf3296f) B! 1
 - [Roslyn API を使ってみよう！概要編](https://qiita.com/lx-sasabo/items/d3791b305d85bb686ae4) B! 1
+- [Roslyn API でサマリータグのコメントの一行目だけを取得する](https://qiita.com/lx-sasabo/items/793a0b5b8b7d56579acb) B! 1
 - [WSL2上にRuby開発環境を構築してテトリスを作ってみた](https://qiita.com/flee_rife/items/c4bc3ff007a9af4f2625) B! 1
+- [C#でメソッドチェーンをうまく作る方法　前編](https://qiita.com/dhq_boiler/items/61752b74db5f1fa6dfd5) B! 1
 - [ビジネス要件と開発のバランスをうまく取るTips（Yahoo!ショッピングのポイント付与の場合）](https://techblog.lycorp.co.jp/ja/20231205a) B! 1
 - [２つのサービスを繋げるリブランディング 〜Yahoo!フリマ・オークション 新VI決定までの道のり](https://lydesign.jp/n/n5fd83cc7802a) B! 1
 - [出前館クーポンサービスでのサーバーアプリケーションのSpring Boot 3系対応](https://techblog.lycorp.co.jp/ja/20231208a) B! 1
-- [SSL証明書の購買を自動化した話](https://techblog.lycorp.co.jp/ja/20231219a) B! 1
 - [エンジニアとともに成長し続けるために。DevRelとして実施していること、大切にしてるマインド](https://techblog.lycorp.co.jp/ja/20231220a) B! 1
 - [コード品質向上のテクニック: 第 7 回](https://techblog.lycorp.co.jp/ja/20231221a) B! 1
 - [LINEドクター Scrum 開発：開発体制の改善事例](https://techblog.lycorp.co.jp/ja/20231224a) B! 1
+- [ゴリゴリのクラシックエディタをブロックエディタにした【移行編】](https://qiita.com/yadon_yadon_yadon_don_don/items/d55bf88b61e338738ad8) B! 1
 - [LINE友だちとのコミュニケーションツールを！非エンジニアが編集可能なアンケートアプリをNuxtとmicroCMSで開発した話](https://qiita.com/morooka_cube/items/74ff3bf32ceb231ddf2c) B! 1
 - [オンプレのDWHからBigQueryへの移行について](https://qiita.com/homma_koki/items/a93ec064d96ebcaf3eba) B! 1
 - [データ活用のための履歴データの残し方を考える(アプリケーションDBモデリング編)](https://qiita.com/yterui/items/2fc2dd707704edfd93d6) B! 1
@@ -2737,9 +2924,10 @@
 - [初心者がnode.js expressでwebAPIを実装してみた。(簡易版)](https://qiita.com/westt/items/bc4b561a396ae7e0aa1f) B! 1
 - [PartyRockでれっつぱーりー！](https://qiita.com/funada-akihiro/items/847186053c078298fa55) B! 1
 - [GitHub Actions+Cfnでスイッチロール用ポリシーをサクッと作れるようにした話](https://qiita.com/mabby/items/d1a807873503d3b0442a) B! 1
-- [ChatGPT での大規模リファクタリング - 理想と現実](https://engineering.meetsmore.com/entry/2023/12/04/191034) B! 1
 - [How do We Optimize MongoDB Latency and Reduce Cost](https://engineering.meetsmore.com/entry/2023/12/08/192812) B! 1
 - [Playwrightで秒数指定wait処理を避けてスマートにする](https://engineering.meetsmore.com/entry/2023/12/15/210122) B! 1
+- [PythonからRedashを実行する話](https://engineering.meetsmore.com/entry/2023/12/20/104047) B! 1
+- [ミツモアのインシデントフローを整備した話](https://engineering.meetsmore.com/entry/2023/12/22/135506) B! 1
 - [ミツモアの数十万ランディングページを支える技術](https://engineering.meetsmore.com/entry/2023/12/25/203505) B! 1
 - [Lambdaでko!](https://qiita.com/habuka036/items/6b4dd1a9fbd1011526f2) B! 1
 - [あの日見たストレージの性能を僕達はまだ知らない。](https://qiita.com/ryokawana/items/e856bbd957466491503c) B! 1
@@ -2764,6 +2952,7 @@
 - [TiTilerでCloud Optimized GeoTIFF(COG)を利用した動的タイルサーバーを構築してみた](https://qiita.com/dayjournal/items/201cba368fd8d5b71c94) B! 1
 - [日本の地域メッシュを作るQGISプラグインを作りました（おまけで国勢調査のデータも読めます）](https://qiita.com/ciscorn/items/dd610f673853f5c0f6dc) B! 1
 - [NetworkXで地理院ベクトルタイルの道路データを使ってネットワーク解析](https://qiita.com/kntoshiya/items/77a8964fd36ef57e4425) B! 1
+- [アナログカードゲーム aws BuilderCards の遊び方](https://qiita.com/yuskesuzki/items/97316cd3d0fb5f75fbc0) B! 1
 - [The HERE Maps Technical Book](https://zenn.dev/mierune_inc/books/here-writings) B! 1
 - [[ TypeScript / JavaScript ]複数のプロセスを非同期で同時に走らせたい](https://qiita.com/yuya_kanda/items/4b2f3b089e6cc939f049) B! 1
 - [Lambdaを使わずにDDBからS3へエクスポートするCDKカスタムコンストラクトを作成する](https://qiita.com/taskforce_Hisui/items/56af55641befd6928119) B! 1
@@ -2771,8 +2960,6 @@
 - [[ TypeScript/JavaScript ] LambdaからSlackへカスタム通知を送る方法](https://qiita.com/yuya_kanda/items/95322e974a0d2b2b9628) B! 1
 - [リポジトリ毎の Git ユーザー情報を自動で切り替える](https://www.yukimasa.net/posts/auto-switch-git-user-per-repo) B! 1
 - [IntelliJ で AWS CodeWhisperer を触ってみた](https://qiita.com/tkek321/items/b67dfaf8b53dd94d8a4d) B! 1
-- [その Nullable で本当にいいの？](https://zenn.dev/suzuki_hoge/articles/2023-12-really-nullable-dd1edd8ecbf8b4) B! 1
-- [AWS SESでのドメイン認証（SPF・DKIM・DMARC）設定のポイント](https://miraitranslate-tech.hatenablog.jp/entry/aws-ses-sender-domain-authentication) B! 1
 - [みんな何使ってる？手元の愛用キーボードを見せてもらいました](https://miraitranslate-tech.hatenablog.jp/entry/boast-about-your-favorite-keyboard) B! 1
 - [QAエンジニアから見たTechnology Radar Vol.29](https://miraitranslate-tech.hatenablog.jp/entry/qa-technology-radar-29) B! 1
 - [テスト管理ツール「Qase」を導入してできたこと、まだできていないこと](https://miraitranslate-tech.hatenablog.jp/entry/qase-review) B! 1
@@ -2789,14 +2976,11 @@
 - [QAエンジニアの技術面接課題を公開します](https://tech.monoxer.com/entry/2023/12/03/120408) B! 1
 - [Tech Lead Manager 1年目を振り返ります](https://tech.monoxer.com/entry/2023/12/11/121026) B! 1
 - [初心者がAWSにLAMP構築のための環境を構築する](https://qiita.com/mahosuke/items/f96eec54b907e586b26a) B! 1
-- [ChatGPT Slackボットのベストユースケース](https://qiita.com/sifue/items/275cf6aaee29e16aa2eb) B! 1
-- [Python の Code Golf テクニック紹介 〜 Python のコードをできるだけ短く書いてみよう！ 〜](https://qiita.com/Totosuki/items/4f032585e4a51ad7f289) B! 1
 - [【blender】blenderをやっていたらとんでもない趣味を見つけた話](https://qiita.com/musi2/items/bbd9fc6a45d76a41201e) B! 1
 - [What does "window" have? - windowの中身を覗いてみる -](https://qiita.com/AXT_AyaKoto/items/6da3346e14c96374b962) B! 1
 - [スクロール要素の端を徐々に透過させて続きがある感を演出する](https://qiita.com/itanium-R/items/3a8fb4cb0e1a59e56787) B! 1
 - [PHP でも AWS Lambda って実行できるんやで　〜 lambroll を添えて 〜](https://qiita.com/ss_koishi/items/df25e3c75335c8083336) B! 1
 - [価値のある単体テストを書こう](https://zenn.dev/neinc_tech/articles/8bbc2b0265bf22) B! 1
-- [hotwireをキャッチアップした](https://zenn.dev/neinc_tech/articles/rails-hotwire-lazy) B! 1
 - [「パスワードを表示する」ボタンを実装する](https://qiita.com/tu0607/items/aa7324188be568727b95) B! 1
 - [その機能ちゃんと使ってもらえてますか？](https://zenn.dev/neinc_tech/articles/418d9af9b881b7) B! 1
 - [一人での学習も継続できる！"私たちの"最高な勉強会](https://zenn.dev/neinc_tech/articles/59701b26cb2535) B! 1
@@ -2825,7 +3009,7 @@
 - [Rust100%のWebサイトを作っている話](https://zenn.dev/nxvzbgbfben/articles/59b1893b414e5c) B! 1
 - [技術スペックを大公開〜no plan株式会社〜2024年からの取り組み](https://qiita.com/okamu_/items/681aeb4e95096e35b2e0) B! 1
 - [Apple Silicon用に最適化されたML用のライブラリMLXで最速Whisperを試す](https://zenn.dev/noplan_inc/articles/f68a885497922f) B! 1
-- [「noteのEKS移設、ゼンブ見せます」CNDT2023に登壇しました](https://zenn.dev/varu3/articles/8e502fc41240b7) B! 1
+- [Macでもゲームがしたい2023冬](https://note.com/kihaya/n/n34d168b3ee04) B! 1
 - [Starshipでシェルプロンプトをイケてる感じにする](https://note.com/naokini/n/ndbd26b49af73) B! 1
 - [石ころぼうしを作りました](https://note.com/kiyoshidainagon/n/n93a23a749026) B! 1
 - [noteのA/Bテスト](https://note.com/keinuma/n/nfd561c11d8e5) B! 1
@@ -2833,7 +3017,6 @@
 - [開発生産性と品質の横断的な課題を解決する！エンジニアリング支援室の挑戦](https://note.com/fukuiretu/n/nd6b01071d958) B! 1
 - [スキルマップから見るEMの多様性](https://note.com/boscoworks/n/n3f06dac62fa6) B! 1
 - [AIレビューツールのPR-Agentを導入して1次レビューまで自分でできるようにしてみた](https://note.aiken-to-osanpo.dev/n/n473b6dd7c4c1) B! 1
-- [LLMがE2Eテストの問題を鮮やかに解決するかもしれない](https://note.com/konpyu/n/n23a4c189ae57) B! 1
 - [全網羅！Spring for GraphQLのエラーハンドリングを徹底攻略！！](https://qiita.com/m4-nakata/items/7a57b3b95fc48fd7d050) B! 1
 - [社内プロキシ配下でryeを使う（Pythonパッケージ管理ツール）](https://qiita.com/nukipei/items/6ac9be93f2858e338312) B! 1
 - [【初心者向け】Goのテストにおけるベストプラクティス](https://qiita.com/r-shinhama/items/36c899284b87d03e1f63) B! 1
@@ -2858,6 +3041,7 @@
 - [【2023年版】Jupyter拡張機能・ショートカット完全まとめ](https://qiita.com/sashi_34/items/039b08c62caab9544f42) B! 1
 - [【Chrome拡張機能】N予備校の回答チェッカーを作った話](https://qiita.com/nanasi-1/items/bb9c14be56e8d01c26f0) B! 1
 - [N予備校動くWebアプリコンテスト2023 冬のページを作成しました](https://qiita.com/labeneko/items/c8941cef78475ecf1a26) B! 1
+- [Playwrightのコード生成機能がすごい](https://qiita.com/labeneko/items/ebf1106b90b344a49489) B! 1
 - [高校情報科について](https://qiita.com/moesuke/items/4d868b8539dab86a6c5c) B! 1
 - [スキルを数値化・視覚化してモチベーションを上げるサービス](https://qiita.com/RyoWakabayashi/items/dd101665606be0c552ce) B! 1
 - [Webフレームワークまとめ](https://qiita.com/RyoWakabayashi/items/13762f1e29672dbc4342) B! 1
@@ -2872,7 +3056,6 @@
 - [失敗談と改善策として取り組んだこと](https://qiita.com/oec-shimokawa/items/a5f456b58c36ff2afd12) B! 1
 - [SBOM - リスクマネジメントからその先へ- (OWS2023から)](https://qiita.com/TakashiNinjouji/items/4e6db373f4988e495c02) B! 1
 - [OpenSSF Day Japan / Open Source Summit Japan 2023 が開催されました！](https://www.cybertrust.co.jp/blog/oss-security/ossj2023.html) B! 1
-- [AWS ECS Cluster Auto Scaling について](https://qiita.com/moaikids/items/efbc4ece42bbcf9b5cbd) B! 1
 - [Platform Engineering Meetup #6 参加レポ](https://zenn.dev/mykstmhr/articles/890251f2b3ef55) B! 1
 - [体育館の空き状況を監視した話](https://qiita.com/yukitaka13-1110/items/223ed10ddcf1e6ba80af) B! 1
 - [VPCネットワーク内での350秒のタイムアウトを確認してみた](https://qiita.com/dsy/items/7f0410402c4c97176313) B! 1
@@ -2890,6 +3073,7 @@
 - [初心者TerraFormer](https://qiita.com/harukiyade0403/items/1668dbe414b26da73562) B! 1
 - [AWS Card Clashを遊んでみる](https://qiita.com/jminaga/items/bc7bb4436f60e3a55d4a) B! 1
 - [フロントエンド学習記No.1 JavaScriptの基礎に触れる](https://qiita.com/rikuya98/items/2387352f8d4daeee5c62) B! 1
+- [モジュール結合度をrubyで理解する](https://qiita.com/dekamintv/items/ebe9c0f33a2851e6aa9f) B! 1
 - [フロントエンド学習記No.2 TypeScriptで静的型付けの安全性を知る](https://qiita.com/rikuya98/items/2fcc7095040733c797de) B! 1
 - [ProgateでPythonを学んで超・簡単なTodoアプリを作ってみた。](https://qiita.com/naka520/items/a1dca5db4d31243a25fd) B! 1
 - [WebStorm はもっと流行っていいと思う](https://qiita.com/teto-soft/items/e7e3cf3c1e6220ac9f6f) B! 1
@@ -2909,7 +3093,10 @@
 - [UnityからiOS/Android端末の音量設定を操作する方法](https://qiita.com/satanabe1@github/items/ba24f2a23c297272c7c8) B! 1
 - [RiderでSource Generatorを使用したツールを作成するフローを紹介](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad) B! 1
 - [【Unity】MagicTweenとPrimeTweenを触ってみた](https://qiita.com/albatrus/items/549b57822f0e22f6ad4b) B! 1
+- [UnityにおけるSDFを使った円の描画とアンチエイリアス](https://qiita.com/sune2/items/834b17f68f495c570c9f) B! 1
+- [Unityでシグナルハンドリングする](https://qiita.com/housei/items/0a6adfa744de700de1ba) B! 1
 - [Memorystore for Redis Clusterを導入してみる](https://qiita.com/ygjken/items/34e8a68d2116ccf4386e) B! 1
+- [QualiArtsのGitHub Actionsへの取り組みやアプリビルドについて](https://qiita.com/Yui_Yamamoto/items/c9dab445edc7a1b60d02) B! 1
 - [画像生成 AI で生成した画像は CNN で判別できる？](https://qiita.com/atsukish/items/e152b6ebbe6b2c58ce0a) B! 1
 - [Apache Pinotで始めるリアルタイム分析](https://qiita.com/syuri_n/items/1f0b3441cadac1def231) B! 1
 - [Quarkus+CloudRunで作る爆速アプリケーション](https://qiita.com/satoshihiraishi/items/3cbc0c0323066029c5a5) B! 1
@@ -2922,7 +3109,6 @@
 - [【2023年版】AWS未経験者がSAAに合格できた道のり](https://qiita.com/hi-chan/items/730c12a10c687c5dd21e) B! 1
 - [ランサムウェアについて諸々](https://qiita.com/aizko/items/20b21f97ef13fafe6bcd) B! 1
 - [Playwright Component Testに思いを馳せる](https://qiita.com/hairihou/items/61f82636eef855af953e) B! 1
-- [Python 3.8以降の型ヒント革命：DataclassとPydanticの徹底比較](https://zenn.dev/nyanchu/articles/python_typing) B! 1
 - [Next.js App RouterとMDXでリッチなスキルシートをサクッと書く](https://qiita.com/yassii_dev/items/77803c693fc5329a4d10) B! 1
 - [長いエンジニア人生、アレを知らずに過ごせると思うなよ（自分に自信が持てない方にもぜひ）](https://note.com/and_eiris/n/n316c22f55c63) B! 1
 - [ソフトウェアテストの７原則〜品質向上委員会の体験談〜 １レース目](https://qiita.com/kinoshitanagisa/items/47be389520e4e037ce11) B! 1
@@ -2930,12 +3116,12 @@
 - [Github Actionsでリリース作業を自動化してみた](https://qiita.com/ayukichi0219/items/be5ae9c49010df72a688) B! 1
 - [フロントエンドエンジニアのセキュリティ対策について考える](https://qiita.com/takayuka16/items/7fb9739f1885aa1c97b8) B! 1
 - [Nuxt3移行のついでにVuexからPiniaに切り替えた話](https://zenn.dev/aoken/articles/43358392ffcc77) B! 1
+- [OpenCVでミャクミャク作ってみた](https://qiita.com/keiudesu/items/7c14f07982bf0d8ece83) B! 1
 - [人と専門領域とプログラムとの間に生まれる「解釈の不一致」の話と、良いコードの話](https://zenn.dev/pxfnc/articles/f00e7a0470aded) B! 1
 - [読んで良かったデザイン書籍 個人的ベスト5選](https://zenn.dev/readyfor_blog/articles/77b578ef294169) B! 1
 - [PdM反復横跳び問題とマインドフルネス](https://zenn.dev/readyfor_blog/articles/85e2edacda049b) B! 1
 - [ 2023年にREADYFORのインフラ周りでやったこと](https://zenn.dev/readyfor_blog/articles/2357db6c9b27a5) B! 1
 - [設計書をマークダウンに変更したら生成AIと連携できるようになった件](https://note.com/kazami_21/n/n79280c75591b) B! 1
-- [生成AIに会議議事録を作成させてみた](https://qiita.com/iwabuchih/items/cebb019bf6c1065ddee6) B! 1
 - [リクルートの社内ICT領域におけるデータ利活用の取り組み](https://blog.recruit.co.jp/rtc/2023/12/25/data-utilization/) B! 1
 - [社内会議室予約システムのパフォーマンス改善してみた](https://qiita.com/s__tai/items/cd25ef9f1eac2f7e6a43) B! 1
 - [オンプレ ファイルサーバからのクラウドストレージ移行プロジェクトをやってみた件](https://note.com/sgto188/n/n57588e4d52b8) B! 1
@@ -2950,7 +3136,6 @@
 - [React-Virtualを活用したフロントエンドパフォーマンスチューニングの話](https://tech.revcomm.co.jp/react-virtual-optimization) B! 1
 - [Vue3へのアップデートにvue-facing-decoratorを利用した話](https://tech.revcomm.co.jp/upgrade-to-vue3-with-vue-facing-decorator) B! 1
 - [本番リリースを週一から随時に変えるためにやったこと](https://tech.revcomm.co.jp/release-on-demand) B! 1
-- [Playwrightを活用した本番稼働を支えるE2Eテスト実践のコツ](https://tech.revcomm.co.jp/e2e-test-practice-with-playwright) B! 1
 - [🎄gitmojiでコミットメッセージを彩ろう⛄️](https://qiita.com/SabaCrevette/items/5a51e86c55c459c77d8e) B! 1
 - [【React】初学者がuseStateとuseEffectをまとめてみました。](https://qiita.com/Gaku_RUNTEQ/items/f651628a481ce82bc874) B! 1
 - [Windows 11にDocker Desktopを入れる手順（令和5年最新版）](https://qiita.com/zembutsu/items/a98f6f25ef47c04893b3) B! 1
@@ -2964,10 +3149,10 @@
 - [[DigitalOcean][Kubernetes]WordPressをPHP7.4から8.3にバージョンアップしてみた](https://blog.adachin.me/archives/52694) B! 1
 - [センシンロボティクスに転職してやってきたことを振り返る](https://qiita.com/adachin0817/items/c960cf9dbb3a04b551b1) B! 1
 - [AWS パートナー企業でテクニカルサポートに従事して2年経ったので思うところをまとめてみた](https://qiita.com/kazzpapa3/items/0796d55dddf12e70f558) B! 1
+- [Amazon OpenSearch Serviceのindex運用の基礎を学ぶ（２）](https://blog.serverworks.co.jp/aos-maintenance-basic02) B! 1
 - [Amazon S3 Express One Zone って本当に速いのか？計測してみた](https://blog.serverworks.co.jp/S3ExpressOneZone-measurement) B! 1
 - [Daniel Velasquezさんのシェーダー入門を紹介してみる](https://qiita.com/harumakiyukko/items/22518ce71c3e5bfec31d) B! 1
 - [frontendな会のレポート](https://qiita.com/harumakiyukko/items/3766f72e40f8f71e878c) B! 1
-- [非定型 AI-OCR 作ってみた 〜 AI 時代の開発戦略を添えて](https://zenn.dev/simpleform/articles/20231202-02-empowering-ocr-with-llm) B! 1
 - [ただいま日本！行ってきたよre:Invent2023！](https://qiita.com/Himeka_Kawaguchi/items/3a4c3d9f67d3ca748111) B! 1
 - [KMSキーのエイリアス名をAWS CloudFormationパラメータの値として使用する際の注意点](https://qiita.com/jonhyoku_imu/items/771c4b5015ade9af921b) B! 1
 - [AWS Glue の新データプレビュー機能でデータの整合性を検証してみた](https://qiita.com/Sota_Yamaguchi_/items/7f0b09e3e780cba00fdf) B! 1
@@ -2992,7 +3177,6 @@
 - [Goで不正なreturn errを検知する静的解析ツールを作りました！](https://zenn.dev/team_soda/articles/c01f0878dbbcf8) B! 1
 - [datadogブラウザテストを触ってみた](https://zenn.dev/team_soda/articles/97558118137677) B! 1
 - [Go静的解析のSuggestedFixを完全に理解して静的解析ツールを書きたくなる](https://zenn.dev/team_soda/articles/20231224160304) B! 1
-- [MySQL(InnoDB)における各種ロックの挙動を調べてみた](https://zenn.dev/team_soda/articles/ca38e7f58ed8a1) B! 1
 - [コード生成AI簡易比較表](https://qiita.com/AkiraHirayama/items/1a304f1cae0635f8ba89) B! 1
 - [Jira - BitBucket Cloud - Terraform Cloud - AWS パイプライン](https://qiita.com/sgmt/items/fa5c7f524b2054fa0f14) B! 1
 - [OpenTelemetry + New Relicを使ってGoで作る分散システムのメトリクスを収集しよう](https://blog.ytake.jp.net/entry/2023/12/03/090000) B! 1
@@ -3007,13 +3191,12 @@
 - [Redis を理解する](https://zumikiti-note.netlify.app/posts/20231222-use-redis/) B! 1
 - [北海道でワーケーションするのは最高っていう記事](https://zenn.dev/stafes_blog/articles/hokkaido-workation) B! 1
 - [KPIマネジメントとプロダクト開発](https://zenn.dev/stafes_blog/articles/dc81398e2ffc63) B! 1
-- [🍱スターフェスティバルCTO・4年目](https://note.com/sotarok/n/n48f7330df704) B! 1
-- [検索エンジンをVespaへ移行しています](https://techblog.stanby.co.jp/entry/vespa_migration) B! 1
 - [AWS認定 SAA-C03の再認定を受験してきた](https://qiita.com/S_Katz/items/0c238d8c7fe03601453b) B! 1
 - [MetaQuest3でトンカツを眺めながら飯を食ったらバズった件](https://qiita.com/hacha_/items/c07b41da68276ccbb061) B! 1
 - [AWS ConfigルールとSCPを組み合わせてメンバーアカウントに展開する時のTips](https://qiita.com/ksaga9/items/da675ab8ee68bcdfef2b) B! 1
 - [AWSで月額ほぼ０円のWebアプリ構築を考える](https://qiita.com/masahito-suzuki/items/8e37278174df47e777de) B! 1
 - [CookieLess時代の代替手段](https://qiita.com/miyay/items/dc4f042f18a2e226ca01) B! 1
+- [ここがポイント！RAGを活用した生成AIボットの検索精度向上について](https://qiita.com/ps010/items/cdb75f3cad5c97f85de8) B! 1
 - [Mock Service Workerを使ってみた](https://qiita.com/f96q/items/2743fef116286ed7c86e) B! 1
 - [地域Rubyコミュニティを立ち上げた話](https://kentarotawara.hatenablog.com/entry/2023/12/05/082300) B! 1
 - [サイトのFAQを自然言語検索できるRAGチャットをAWSで動かしてみた](https://qiita.com/tana_p/items/430528e626fd08a3cc4f) B! 1
@@ -3022,14 +3205,12 @@
 - [【初心者向け】iPad だけで Google の AI モデル「Gemini」を使ったアプリを作ってみよう！](https://qiita.com/treastrain/items/6ed2802836969d308481) B! 1
 - [LaravelでのMVCを理解する](https://qiita.com/si_hlaingzar/items/05c066fbc3ed689c3a50) B! 1
 - [今更Webスクレイピングしてみる(Node.js + Puppeteer)](https://qiita.com/si_udy/items/cb1812d69e204dd19e3a) B! 1
-- [FP法を用いた見積り手法について](https://qiita.com/systemi-nakahara/items/285345f44453227f535c) B! 1
 - [docker composeとVSCodeでJava開発環境のコンテナ化](https://qiita.com/si-ma-koi/items/dad608a76ebb5d86d286) B! 1
 - [Next.jsについて調べてみた](https://qiita.com/notommy/items/354cc203a0242fec75f9) B! 1
 - [JavaエンジニアがASP.NET Coreを触ってみた](https://qiita.com/angel_high_low/items/b04e6fcac302cd9f52d1) B! 1
-- [【2023環境デッキ？】Bun + Hono + SvelteKit + Cloudflare D1 + Drizzle ORM](https://qiita.com/r-terao/items/7cc079f92b7a47eac996) B! 1
-- [Macユーザにこそ使って欲しいEmacs。せめてキーバインドだけでも覚えていって！生産性上がるから！ほんとですって！](https://qiita.com/kkuzu/items/62f42a5987d0770ffd63) B! 1
 - [GradioをAWS EC2 Instanceで動かす方法](https://qiita.com/ilovebooks0618/items/8dbbeeb64b0c96fb685f) B! 1
 - [AWS Security Token Service(STS)を使ってIAM認証のLambda関数を突破する](https://qiita.com/y_inoue15/items/297f1c10769fc79716a7) B! 1
+- [レトロスペクティブにPOが出なくていいっていつ誰が言ったんだ？(怒)](https://note.com/msts_on/n/n97d1b3f98b69) B! 1
 - [ECSライフサイクル設定メモ(terraform)](https://qiita.com/yuta1979/items/0c12817411c9eb740551) B! 1
 - [Azure OpenAI Service をノーコード開発してみる(4) ~ ServiceNow でクライアントサイド開発 ~](https://qiita.com/koutaro_harada/items/c9ce99047dc1b80cceb3) B! 1
 - [AWS re:Invent 2023 Opening keynote の感想(1)](https://qiita.com/koutaro_harada/items/77fbf39db9b5886eb1af) B! 1
@@ -3050,7 +3231,6 @@
 - [「非エンジニア人事のためのエンジニア採用の教科書」を読んで実践したいこと3選](https://toranoana-lab.hatenablog.com/entry/2023/12/25/120000) B! 1
 - [仕様書を書くしごと](https://tech.toreta.in/entry/2023/12/18/142509) B! 1
 - [GPTsでGoのテストアドバイザーを作ってみた](https://tech.toreta.in/entry/2023/12/22/090000) B! 1
-- [トレタAdventCalendar2023：エンジニアkentaroが語るインフラ移行の舞台裏](https://tech.toreta.in/entry/2023/12/25/010629) B! 1
 - [EC2でApache周りを触って勉強になった話](https://qiita.com/hndfavodaismi/items/6ea42c076dbc326b8001) B! 1
 - [控除額シミュレーションのnpmライブラリを公開しました](https://tech.trustbank.co.jp/entry/2023/12/03/000000) B! 1
 - [New Relicを用いたキャッシュ効果の推定](https://tech.trustbank.co.jp/entry/2023/12/04/000000) B! 1
@@ -3060,10 +3240,10 @@
 - [CSS 黒魔術！CSS だけでモンテカルロ法](https://qiita.com/Ryoga-exe/items/67408b57dd7d4a18aa9d) B! 1
 - [ChatGPT Plusでプログラミングをしよう](https://qiita.com/imamuuu/items/3aeb9e33c981d53b2deb) B! 1
 - [TVerアドベントカレンダー2023開始のお知らせ](https://techblog.tver.co.jp/entry/kaga/tver-advent-calendar-2023) B! 1
-- [BigQueryのNULLの扱いまとめ](https://techblog.tver.co.jp/entry/takahashi/2023-advent-calendar-bq-null) B! 1
 - [Xcode Cloud 触ってみた](https://techblog.tver.co.jp/entry/komori/tver-advent-calendar-2023-xcode-cloud) B! 1
 - [New Relic Change Trackingを使ってアプリケーションのパフォーマンスが変化した要因を特定しやすくする](https://techblog.tver.co.jp/entry/takashina/tver-advent-calendar-2023-newrelic-change-tracking) B! 1
 - [テレビとTVerと私](https://techblog.tver.co.jp/entry/ide/ctv) B! 1
+- [GCP版Dataformで冪等性を担保する設計ポイント3つ](https://techblog.tver.co.jp/entry/endo/dataform_idempotence) B! 1
 - [インフラエンジニアでなくても頭の片隅に置いておきたい、AWS CloudFrontの設定で要注意なこと](https://qiita.com/suco_de_okaji/items/754875f220aca9729f27) B! 1
 - [ゲームジャム作品のランキング機能をニフクラ mobile backendからAWSに移行しました](https://qiita.com/k-mitani/items/5216a7806c2ccbd28791) B! 1
 - [Next.jsでEvernoteの代替アプリを自作してみた](https://qiita.com/k-mitani/items/3b0c9f3663d088789038) B! 1
@@ -3088,7 +3268,6 @@
 - [IstioのVirtualServiceの設定内容でハマりがちな罠](https://zenn.dev/yashirow/articles/dbb8d9aeda4531) B! 1
 - [CI/CDの改善の道のり](https://tech.uzabase.com/entry/2023/12/16/023501) B! 1
 - [自動テストを書きながら気にしていること](https://zenn.dev/culvert/articles/e1ddb457fcec48) B! 1
-- [2記事目はポエム！なにか1つをやり遂げるということは、残り全部を捨てるということ](https://nikkie-ftnext.hatenablog.com/entry/complete-one-discard-rest-gene-and-midosuji) B! 1
 - [ふりかえり手法「焼き肉レトロスペクティブ」が面白すぎた](https://qiita.com/Sicut_study/items/597a061401600bb07468) B! 1
 - [【SES】エンジニアの希望が実現できる制度とそれを叶える営業スタイル](https://qiita.com/y_onishi/items/2d68f3b87d4ed062e620) B! 1
 - [RIP](https://qiita.com/tmatsumor/items/52d6d272365260f598a8) B! 1
@@ -3114,11 +3293,9 @@
 - [会社のデータ分析環境をAWSで整えた話](https://qiita.com/nijigen_plot/items/10f002a603aec559c9bd) B! 1
 - [S3互換ストレージWasabiの内容をSendGridでメール配信してみる](https://qiita.com/kotobuki5991/items/310756d1aa63ab6ad779) B! 1
 - [Lambda コンテナイメージを使ってSlackのグラフ貼り付けBOTを作る](https://qiita.com/nijigen_plot/items/34bc274ed8396bcdd8af) B! 1
-- [「データの負債は高利子である」バグの修正別リードタイム分析](https://www.wantedly.com/companies/wantedly/post_articles/875378) B! 1
 - [Wantedly執筆部が技術書典に参加・頒布するためにやっていること](https://www.wantedly.com/companies/wantedly/post_articles/874685) B! 1
 - [失敗から学んで成長する](https://www.wantedly.com/companies/wantedly/post_articles/876799) B! 1
 - [PRD のススメ ~ メンバーや関係者とのスレ違いを減らそう](https://note.com/telq/n/n8a37d345590a) B! 1
-- [高頻度で安全なリリースを支える「クラスタ」という抽象](https://www.wantedly.com/companies/wantedly/post_articles/879228) B! 1
 - [ウォンテッドリーの組織構成について再整理する](https://www.wantedly.com/companies/wantedly/post_articles/879255) B! 1
 - [Astro.jsのチュートリアルとテーマ触った所感](https://qiita.com/poe_hoshi/items/23530d977a1984f2c1c8) B! 1
 - [1万ダウンロードのバスアプリを運営している話](https://qiita.com/mercy34mercy/items/a3b650e413ea3ce04a68) B! 1
@@ -3145,18 +3322,22 @@
 - [出社したくなる環境を整えよう！（浪漫）](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/13/110000) B! 1
 - [社内のマスコットキャラクターが人生の思わぬ扉を開く](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/15/170000) B! 1
 - [WebディレクターがUXデザイナーにキャリアチェンジした話](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/11/110000) B! 1
+- [AWS認定合格に役立つ公式神リソースがこんなにあるって知ってました？](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/13/000000) B! 1
 - [エンジニアがお客さまの声を聴いてみた](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/15/000000) B! 1
 - [採用担当者に「インプットが面白い」と評された新卒の脳内](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/20/000000) B! 1
+- [本当に英語（英会話）ができないエンジニアがre:inventに参加しても楽しめるのか？](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/22/000000) B! 1
+- [Amazon Qでトラブルシューティングしてみた【和訳付き】](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/24/000000) B! 1
 - [入門：denops.vimでNeovimプラグインを作ろう](https://qiita.com/eve_yoriso/items/20897c7d08a53984cd6c) B! 1
 - [2023年 YUMEMI さんの技術発信の実態](https://note.com/clown0082/n/nd1910a0ee15a) B! 1
 - [いいから黙ってpropsのコールバックは`on`から始めておけ](https://qiita.com/282Haniwa/items/46c01c9a8e2acc130d89) B! 1
+- [SwiftUI でデジタル時計のUIを実装してみる](https://qiita.com/a_jike/items/c4c35d4c846b56cddaf0) B! 1
 - [エンジニアなら雪も降らせれるでしょ？と言われたら](https://qiita.com/mitsuharu_e/items/625ca52ae5e87b683d51) B! 1
 - [今年の振り返りと来年の抱負](https://note.com/uutan1108/n/nf2717846cfa3) B! 1
-- [とりあえずTypeScriptの例外処理にはResult型を使っておけ](https://qiita.com/totto2727/items/14dc358b71b791a44dbd) B! 1
 - [実務で Mantine UI を使用した所感](https://zenn.dev/yumemi_inc/articles/fef6c1cc3eb78e) B! 1
 - [GitHub 上で LGTM 画像をペーストできたら嬉しくない？](https://zenn.dev/yumemi_inc/articles/extension-copy-lgtm) B! 1
 - [BunでESM、CJS両対応のTypeScriptプロジェクトを公開する！](https://qiita.com/totto2727/items/bf6fa2787a8ede5f56c1) B! 1
 - [Result型のライブラリを作りました](https://qiita.com/totto2727/items/be7e9368b78a84a6064d) B! 1
+- [学生団体(非IT)で資金管理アプリのPMをやった時の苦労話](https://qiita.com/imaimai17468/items/518d8ab5d76f70f750ce) B! 1
 - [FlutterのRobotパターンUIテストライブラリーの解説](https://zenn.dev/caphtech/articles/flutter-robot-test-library) B! 1
 - [プラグイン実行エンジンとしてのWasm](https://qiita.com/inajob/items/2390a57ac83de8a342b4) B! 1
 - [ZOZOのバックエンドエンジニアがSREにジョブチェンするまでの話](https://qiita.com/gold-kou/items/56cbba84be0c9d2f83ed) B! 1
@@ -3170,6 +3351,8 @@
 - [タスクシステムで始めるカジュアルゲーム開発](https://qiita.com/y-sakai/items/3bbd7aa13f8f959f5bb1) B! 1
 - [RDS認証局証明書更新作業](https://qiita.com/kosuge/items/46b9a13c0647a7d854fd) B! 1
 - [今どきのBasic認証＠CloudFront](https://qiita.com/kosuge/items/a8594774c0fc98f2c140) B! 1
+- [Twitter APIが使えないので、RSS経由でDiscordにニュースを送る](https://qiita.com/99no_exit/items/6cd2d0a4440c535d5388) B! 1
+- [ESLint + Prettierの代わりにBiomeを試す](https://qiita.com/99no_exit/items/4b880735621d7f7416f3) B! 1
 - [HTML・CSSで要素を見えなくする方法とアクセシビリティ](https://qiita.com/kabechiyo13/items/29fb9083cdec3f8d24d2) B! 1
 - [Macをトラックパッドやマウスを使わずに操作してみた](https://qiita.com/kabechiyo13/items/27d72adafa1ddfdaa2bd) B! 1
 - [【アクセシビリティ】アクセシビリティを意識したグリットの作り方](https://qiita.com/degudegu2510/items/7a7289a322b2728beb59) B! 1
@@ -3203,8 +3386,10 @@
 - [【AWS】Amazon Redshift](https://qiita.com/pandausa/items/373406843eb70bef50b8) B! 1
 - [Amazon ElasticCache](https://qiita.com/pandausa/items/ecf0674f5062d1d9f5dd) B! 1
 - [【javascript】debuggerについて](https://qiita.com/Takaharu_01/items/0172fe08c2ae168bee55) B! 1
+- [Apache APISIX を触ってみる](https://qiita.com/caunu-s/items/6a54f7b0adab44fa6775) B! 1
 - [未経験からエンジニア転職した話](https://qiita.com/Eclair807/items/0a471ca41f1c95deb593) B! 1
 - [40歳の転職で得たもの失ったもの](https://note.com/dora_e_m/n/n8def5935a43a) B! 1
+- [六回の転職二回の転勤　成功と失敗](https://qiita.com/kaizen_nagoya/items/60fd6dc1712d007050b4) B! 1
 - [人生初の転職活動を支えてくれた言葉たち](https://zenn.dev/papipupepujii/articles/f3d13af0df53c2) B! 1
 - [短期間で転職活動した時のTipsをまとめてみる](https://note.com/guevara01/n/n3452d9ba6e8b?sub_rt=share_pb) B! 1
 - [趣味的チーム開発ノウハウ　〜都知事杯や東京公共交通オープンデータチャレンジなどを踏まえて〜](https://qiita.com/takoyaki3/items/b2a9fbcc8bced7da0999) B! 1
@@ -3215,13 +3400,12 @@
 - [始めようかデータカタログ。カタログ利用者目線でどんなことが出来るのかをハンズオンで体験。](https://qiita.com/Shumpei_Kubo/items/a833ade9a0b8fd91f4b2) B! 1
 - [Cloud Composerローカル開発ツールで運用業務を圧倒的に楽にする](https://tech.classi.jp/entry/cloud-composer-local-dev-tool) B! 1
 - [大量のBigQueryの日付別テーブルから特定の条件でレコードを削除する](https://www.yasuhisay.info/entry/2023/12/18/120324) B! 1
-- [GPTs を使ってBigQueryデータモデリング支援アプリを作ってみる](https://zenn.dev/joyyan/articles/9506ba0ca8d5b1) B! 1
 - [dlt 入門 - ELT の Extract と Load を担う data load tool](https://soonraah.github.io/posts/what-is-dlt/) B! 1
 - [Eventbridge ConnectionでCloud Pub/SubのAPIをCallする設定](https://sizu.me/civitaspo/posts/iani3v4d1chu) B! 1
-- [データ品質: 完全性の実装](https://qiita.com/ttccddtoki/items/b4ef5f31fada1feaa326) B! 1
 - [Elementaryで実現するデータオブザーバビリティの第一歩](https://qiita.com/marufeuille/items/10a0350e529426e6bb26) B! 1
 - [色を決めよう -デザインシステム構築奮闘記⑤-](https://note.com/n_m_ta/n/nf172a7b6f0fa) B! 1
 - [牛歩ですすめるデザインシステム](https://zenn.dev/tsugu_maru_san/articles/183ba61dc1dc7f) B! 1
+- [翻訳記事：デザインシステムチームなしでデザインシステムを構築する](https://note.com/nobsato/n/ne15bd21b7fbc) B! 1
 - [DevRelにおける人間的な要素の重要性： 共感、思いやり、リスペクト、熱意](https://note.com/ayatokura/n/n5436e3cf2d0d) B! 1
 - [軽率に技術同人誌の執筆デビューしてみた話：『LT秘伝の書』編](https://note.com/jun_vr/n/n681bb94984b3) B! 1
 - [X(Twitter)でイベント実況中継を成功させるためのテクニック](https://note.com/ayatokura/n/n3abf3ba111de) B! 1
@@ -3235,7 +3419,6 @@
 - [新卒でDevRelになる選択肢ってあり？](https://note.com/012xx_/n/n4909da394921) B! 1
 - [マネージャーへの向き不向きは何で決まるのか](https://qiita.com/umerin/items/3bdfcb03c5d1f05204b4) B! 1
 - [女性EMとしてチームで推進してきた働きやすさのためのワーク](https://sizu.me/smith703/posts/d13ivvnukd2f) B! 1
-- [チームメンバーの有給消化率100％を目指す事とその重要性](https://zenn.dev/halt/articles/20231207_paid_vacation) B! 1
 - [EMはいかに自分の仕事をマネジメントするか](https://qiita.com/expajp/items/8936a64a93b670a05a8a) B! 1
 - [Engineering Manager になってから身に沁みた12のアイデアと言葉 part4](https://kths.hatenablog.com/entry/engineering-manager-ideas-4) B! 1
 - [エンジニアリングマネージャーに求めるスキルの可視化手法の提案](https://www.wantedly.com/companies/wantedly/post_articles/876566) B! 1
@@ -3253,6 +3436,8 @@
 - [GBFSのデータを使って、新しくできたシェアモビリティのステーション情報をXに自動ポストするよ。](https://qiita.com/keijipoon/items/96b26d1ae743d328914e) B! 1
 - [GBFSデータ+MapLibre GL JSで世界のシェアモビリティステーションマップを作成する](https://qiita.com/shi-works/items/65fd90b61f53ef631151) B! 1
 - [Unityを使ったVJでよく使うイメージエフェクト集2023](https://qiita.com/kaiware007/items/c6a3e13365020b426692) B! 1
+- [オンラインB2BジェネVJツールを作った話](https://note.com/sainakey5/n/n2e7a402ca535) B! 1
+- [HTMLだけで簡単に作れるアコーディオンが進化していた](https://qiita.com/gilly/items/56bd57ff4026379cdf62) B! 1
 - [ローカルのブランチを掃除するためのコマンド](https://b.0218.jp/202312121511.html) B! 1
 - [「git rebase in depth」の和訳について](https://qiita.com/gemmaro/items/7e062538ba5c9fa33c99) B! 1
 - [Job Interview Questions JavaScript 1](https://qiita.com/KitaDaro/items/c3e0d2b4e6eaa6b2a7fa) B! 1
@@ -3292,6 +3477,7 @@
 - [【AWS】IPv6 を使うと ECR のための VPC エンドポイントは 3 つ必要](https://qiita.com/lowking/items/c6f3ed747792c964f09f) B! 1
 - [【AWS】Bedrock で Titan から文書埋め込みを取得する](https://qiita.com/lowking/items/6ce7aae3827646fca3be) B! 1
 - [はじめてのRubyバージョンアップ対応とCould not find net-pop-0.1.2, net-smtp-0.3.3, rake-13.0.6 in locally installed gems](https://qiita.com/does_not_exist/items/1a2fef44bfc265115580) B! 1
+- [統計検定2級：合格体験記とオススメのコンテンツ](https://qiita.com/yossha-yuki/items/a513ed46fd09f9d6a162) B! 1
 - [[AWS]GenerativeBI概略](https://qiita.com/Maruhoppe8/items/1b0f87530c7d562e456e) B! 1
 - [[AWS]Sagemakerノートブックインスタンスを使うときの初期設定(無駄課金防止)](https://qiita.com/Maruhoppe8/items/0087ac4105b27d651f88) B! 1
 - [[AWS]Sagemaker ノートブックインスタンスで毎回pythonモジュールのインストールを不要にするやり方](https://qiita.com/Maruhoppe8/items/19dca8ffa69e1bacda28) B! 1
@@ -3307,6 +3493,7 @@
 - [めぐろLT発祥の地でJapan.Rを開催した話](https://techblog.raksul.com/entry/2023/12/20/123535) B! 1
 - [Laravelを振り返る](https://zenn.dev/nikawa2161/articles/cbf248b6b79bec) B! 1
 - [初のプロダクトをApp Routerを使用してリリースした話](https://zenn.dev/eishin_blog/articles/app-router-product) B! 1
+- [PHPでGoogleログインの実装をする方法(2023年11月時点動作)](https://qiita.com/mendoitarou_/items/9d6838a0db468c4f5dee) B! 1
 - [AWS CodePipline 指定リポジトリのmasterブランチにpushされたら動くように設定する](https://qiita.com/miriwo/items/ea5b16655612002b8af0) B! 1
 - [AWS タグで請求金額を絞る](https://qiita.com/miriwo/items/a8b4e2f65851cfc970b6) B! 1
 - [インタラクティブなドット絵をぜひお試しください【p5.js】](https://qiita.com/Lyn131/items/3132a94d6da34064f19d) B! 1
@@ -3318,7 +3505,6 @@
 - [Amazon S3 Express One Zoneを批判的に見る](https://qiita.com/3dy3day/items/be9ecea4c2d51062bc4f) B! 1
 - [Quarkus(Java)のテストで@Injectが上手く行かなかった時は@QuarkusTestで大体どうにかなる](https://qiita.com/3dy3day/items/0b4e1f75737269c0a0a0) B! 1
 - [EC2に建てたマイクラのサーバーをDiscordから起動する](https://qiita.com/renon0827/items/aa501a8edc9d1d9675d7) B! 1
-- [8歳娘「パパ、なんでそんなにいいねを欲しがるの？」](https://qiita.com/Yametaro/items/742dd0e5aab6b04450d1) B! 1
 - [アウトプットの基本の礎の縁が支える「読みやすさを突き詰める」　フォント編](https://qiita.com/mountaincat/items/4eb842e6e4cba22cf46b) B! 1
 - [アウトプットはスピードが命です！](https://qiita.com/aoinakanishi/items/9d9c5bef34afef78a5bb) B! 1
 - [Qiita を編集していてよくあること ~読みやすくするちょっとした工夫~](https://qiita.com/KaitoMuraoka/items/ce8449086d67ea5859b3) B! 1
@@ -3335,6 +3521,7 @@
 - [YouTubeとローカルPCの混合メディアを同時に再生できるハイブリッドメディアプレイヤーを作ってみた](https://qiita.com/ka215/items/1661aae191c58a0ba20d) B! 1
 - [初めて作ったカラオケ情報サイトのその後のその後](https://qiita.com/saoyagi2/items/f1f8946ac9c4a03f5053) B! 1
 - [モチベはあきらめた](https://qiita.com/kira_puka/items/aa7c0749bbe2fb523f29) B! 1
+- [うわっ…私のカバレッジ、低すぎ…？ - GitHub ActionsでRSpecのカバレッジレポートを出力する](https://zenn.dev/shu_illy/articles/b4e635730c5ec0) B! 1
 - [Notionの利用情報をSlackに定期送信したいんだ！ - AWS CDK, Amazon EventBridge, AWS Lambdaでつくるバッチ処理アプリケーション - ](https://qiita.com/ko-uema2/items/79de6452dc764da04078) B! 1
 - [Rambulanceで手軽かつ柔軟にエラーページを作る](https://zenn.dev/shu_illy/articles/21707061741a0e) B! 1
 - [S3 に新規バケットが作成されたら教えてほしい！ - AWS CloudTrail, Amazon CloudWatch による S3 バケットの構成管理 -](https://qiita.com/ko-uema2/items/f5745d2d3239b53146d9) B! 1
@@ -3344,9 +3531,9 @@
 - [The Creative Programmer](https://qiita.com/kawasima/items/bda15a8179dd20e6b269) B! 1
 - [Communication Patterns](https://qiita.com/kawasima/items/e3047e61e41204f4a186) B! 1
 - [Hyper-VでPodman machineを実行する](https://rheb.hatenablog.com/entry/podman-machine-on-hyperv) B! 1
+- [libkrunで遊ぶ](https://rheb.hatenablog.com/entry/libkrun-intro) B! 1
 - [OpenShift Logging の Loki にコマンドでアクセスしてみる](https://rheb.hatenablog.com/entry/2023/12/14/083111) B! 1
 - [win_shellモジュールで実行したコマンドの文字化けを修正する](https://rheb.hatenablog.com/entry/2023/12/20/070000) B! 1
-- [効果的なテクニカルサポートへの問い合わせ方法とは](https://rheb.hatenablog.com/entry/2023/12/23/095428) B! 1
 - [現代の OpenSSL 環境で古来の暗号アルゴリズムをサッと使う](https://fumiyas.github.io/2023/12/07/openssl-legacy.html) B! 1
 - [シェルで行番号を付けるなら nl ではなく cat -n を使おう！](https://qiita.com/ko1nksm/items/60d13b05bcb0169466c0) B! 1
 - [trコマンドを使うものに物申す、カッコつけんな！](https://qiita.com/ko1nksm/items/bd799448a3f12e970a05) B! 1
@@ -3359,7 +3546,6 @@
 - [他業種で鍛えたテスト筋肉の話](https://tonono.hatenablog.com/entry/20231207_konetaAC) B! 1
 - [要注意サロゲートペア！](https://note.com/mark_hillfield/n/na22b9226e4b4) B! 1
 - [ISO 25030 品質要求の枠組みの紹介](https://qiita.com/mmake/items/57900605a6d9f2cec3bc) B! 1
-- [組み合わせテストの組み合わせを減らすアプローチ](https://goyoki.hatenablog.com/entry/2023/12/10/150136) B! 1
 - [k6でvusごとの識別子を作る方法について](https://qiita.com/sh-ogawa/items/344bdabe080e38e19165) B! 1
 - [タイパでレビュー](https://pineapplecandy.hatenadiary.jp/entry/quick-review) B! 1
 - [テスト条件, カバレッジアイテムってなんなの？](https://qiita.com/tyngw/items/be6092e65046ef915784) B! 1
@@ -3367,12 +3553,12 @@
 - [Wモデルとテストアスペクトとテストピラミッドの話](https://yawarakatester.blogspot.com/2023/12/w.html) B! 1
 - [GIHOZ開発部門のマネージャーのくせにExcelでデシジョンテーブルを書いていたらGIHOZ開発メンバーに詰めれらた件](https://qiita.com/kjstylepp/items/f3a0c23d32f4ea454a26) B! 1
 - [QA名人伝](https://medium.com/@bosatsuKing/qa%e5%90%8d%e4%ba%ba%e4%bc%9d-970e921ef933) B! 1
-- [マインドマップによるテスト設計と実施](https://note.com/chopiner/n/nc9f7a628c158) B! 1
 - [ テストツールとエンジニアと私](https://zenn.dev/honamin/articles/0472a1ef0422d0) B! 1
 - [手動テストにもっと左手を使おう！ 〜テスト実行も改善していこう〜](https://qiita.com/kojimula/items/5f2d655a38255934fdfe) B! 1
 - [Software Design 12月号感想・トピック(輪読会向け)](https://blog.rotek.xyz/entry/2023/12/04/151242) B! 1
 - [2023年12月号の輪読会の感想](https://ken1flan.hatenablog.com/entry/softwaredesign202312) B! 1
 - [Software Design輪読会に参加した号の気になった記事など](https://blog.rotek.xyz/entry/2023/12/19/144951) B! 1
+- [ｽﾀｯｸﾁｬﾝ沼１年目を振り返ります](https://mzmlab.hatenablog.com/entry/stackchan23) B! 1
 - [LangChainでPDFをベクトル化してローカルに保存してみた](https://qiita.com/tatsuki-tsuchiyama/items/a48d1cc4afce588e1797) B! 1
 - [社内外のエンジニアニュースのキャッチアップを頑張っている話](https://achamixx.com/2023/12/05/advent_calendar2023/) B! 1
 - [OpenAIを利用してAIに校正提案させた話](https://qiita.com/gutio/items/0029c95d671f71d33bac) B! 1
@@ -3387,8 +3573,10 @@
 - [イベント週1開催をとにかくみんなで頑張った話](https://buildersbox.corp-sansan.com/entry/2023/12/22/150000) B! 1
 - [SIerから事業会社に転職して超速で技術広報になった感想](https://made.livesense.co.jp/entry/2023/12/23/090000) B! 1
 - [SRE NEXT 2023 会場装飾で制作したものをご紹介](https://note.com/saku_238/n/nde9db0936eb8) B! 1
+- [PHPカンファレンス福岡を主催したら何が起きたのか](https://zenn.dev/akase244/articles/2a63f3b4f49b6a) B! 1
 - [初開催のカンファレンスの裏側の話を書きます](https://note.com/a9a/n/ne816c247f02a) B! 1
 - [登壇するためのTips](https://shundeveloper.hatenablog.com/entry/2023_advent) B! 1
+- [2023年に参加した技術カンファレンスの話](https://memo.yammer.jp/posts/tech-conference-2023) B! 1
 - [採用マーケティングチームとして初めてオフラインイベントにスポンサード参加したときの話](https://qiita.com/newta/items/29142de56d6c4cc3de2c) B! 1
 - [大切なことは全部、技術カンファレンスが教えてくれた](https://note.com/posi0202/n/naa83e1fe6977) B! 1
 - [技術カンファレンスに参加してブース出展側として思うこと](https://note.com/tkkz1009_note/n/n2bf289639542) B! 1
@@ -3410,7 +3598,9 @@
 - [【UIデザイン】デザインシステムの原則からUIデザインを考える（Material Design 3）](https://zenn.dev/hott3/articles/ui-study-from-design-system) B! 1
 - [【UiPath】バージョン「23.12」Community版まとめ](https://qiita.com/miya_gis/items/927a260d64560569e1e7) B! 1
 - [プロダクトマネジメントにも通ずる経営学の名著「ストーリーとしての競争戦略」を読んだ](https://blog.zuckey17.org/entry/competitive-strategy-as-a-narative-story) B! 1
+- [積読解消に読んだ『プロジェクトマネジメントの基本が全部わかる本』が最高だった件](https://qiita.com/NAVYSHUNTA/items/902aacc579887aaa8aea) B! 1
 - [Winnyの技術](https://note.com/fukuy/n/n0c2b637f5f7a) B! 1
+- [次世代 Web カンファレンス 2023 でのセッションを経て](https://qiita.com/xrxoxcxox/items/ef3c7dac33f5d4601431) B! 1
 - [CSS 変数のフォールバックトリックを使った CSS Hooks というスタイリング用ライブラリの仕組み](https://qiita.com/xrxoxcxox/items/73e147bdcace072d7bf7) B! 1
 - [javascriptにもgroupbyが出たらしい](https://qiita.com/yaikawa227/items/818d714dcae2b006e0f4) B! 1
 - [現代の OpenSSL 環境で古来の暗号アルゴリズムをサッと使う](https://fumiyas.github.io/2023/12/07/openssl-legacy.html) B! 1
@@ -3439,7 +3629,7 @@
 - [p5.js で弾む系のイージングを試したり複数のイージングを変な混ぜ方で使ったりなど【完走賞ゲット-20】](https://qiita.com/youtoy/items/0c75bc3e4d9186f41ea0) B! 1
 - [Babylon.js Playground上のサンプルで自分が欲しい部分を ChatGPT に取り出してもらう【完走賞ゲット-22】](https://qiita.com/youtoy/items/051e8e723dbd2bd72dff) B! 1
 - [p5.js の公式サンプルの p5.Vector を使ったモーフィングにイージングを適用するための検討【完走賞ゲット-24】](https://qiita.com/youtoy/items/0f01f2c2e781a519ce93) B! 1
-- [Alibaba Cloudを使用したKubernetesとServerlessでのテスト環境の立ち上げ](https://qiita.com/NTR893/items/1e88a044bd96ea6fc77e) B! 0
+- [Alibaba Cloudを使用したKubernetesとServerlessでのテスト環境の立ち上げ](https://qiita.com/OT5425/items/1e88a044bd96ea6fc77e) B! 0
 - [ Serverless App Engine (SAE)にデモ アプリケーションをデプロイする + α](https://qiita.com/jkudo/items/3253b76531eed9cf8767) B! 0
 - [Alibaba CloudでServerlessなサービスだけでWordPressを構築する](https://qiita.com/jkudo/items/7a3a102e960d1327278f) B! 0
 - [Alibaba Cloud Container Service for Kubernetes (ACK) にMagentoをデプロイしてみる](https://qiita.com/ohiro18/items/178ecbac3b7cdaaf160d) B! 0
@@ -3448,10 +3638,9 @@
 - [Function compute 最新ver3.0でデプロイする！](https://qiita.com/Chika-S/items/e14bba208347b365bb8e) B! 0
 - [Alibaba Cloud SAEを使ってVOICEVOXのAPIサーバーを作ってみたかった](https://qiita.com/narikakun/items/344200586e44b2fae01c) B! 0
 - [Alibaba Cloud Container Service for Kubernetes (ACK) のよかったポイントを紹介する](https://qiita.com/ussvgr/items/57e99a0fd9db4451c84b) B! 0
-- [データベース運用の成功を支えるPolarDBのTips](https://qiita.com/NTR893/items/21ec45cd6b4085cb2748) B! 0
+- [データベース運用の成功を支えるPolarDBのTips](https://qiita.com/OT5425/items/21ec45cd6b4085cb2748) B! 0
 - [PolarDB インスタンス仕様の 汎用(Genaral)と 専用(Dedicated)における、パフォーマンスと価格の差について考察してみた](https://qiita.com/Max-Masato/items/a3c4888876473e6d46fb) B! 0
 - [スケールアウトするのか、しないのか、PolarDB for MySQL パフォーマンス ホワイトペーパーを読み解いて、グラフを作って考察してみた](https://qiita.com/Max-Masato/items/34229c872f9ff516d7c0) B! 0
-- [【2023年冬/Docker環境構築】php5.6+MySQL+MailHogで開発環境作ってみた](https://qiita.com/ShoWaka/items/8f05a66aad63b1aa0ce7) B! 0
 - [【Ubuntu】初期セットアップでエラーになったお話し](https://qiita.com/daichi1008/items/f1b5df35729f93cae107) B! 0
 - [AnalyticDBとLLMで簡単に企業専用AIGCチャットボットを作ってみよう](https://qiita.com/sa_sa/items/3c7b674b873b72e25142) B! 0
 - [10分で、PolarDB for MySQL のセットアップをしてみる](https://qiita.com/Max-Masato/items/e124d94219c460a0c41c) B! 0
@@ -3463,7 +3652,7 @@
 - [高校生がAlibaba CloudのPolarDBを触ろうとしてGASに帰った話](https://qiita.com/kazu_iroiro/items/d5777231e5608c47a475) B! 0
 - [PolarDBを使ったベストプラクティスの紹介](https://qiita.com/yutaroud/items/f8b0d34d8c94ec8f394f) B! 0
 - [AlibabaCloud の PolarDB には無料トライアルがあるけれど支払方法を登録しなくてはならない](https://qiita.com/Hi_Noguchi/items/d21df2024f48bb1f1a0f) B! 0
-- [バルテスの「T-DASH」テスト自動化ツールを評価してみた！](https://qiita.com/NTR893/items/4e4802d5c2b085f292ce) B! 0
+- [バルテスの「T-DASH」テスト自動化ツールを評価してみた！](https://qiita.com/OT5425/items/4e4802d5c2b085f292ce) B! 0
 - [T-DASHをREST APIのテストで使ってみた](https://qiita.com/troilus1112/items/60bf74a6096f530b742d) B! 0
 - [T-DASHをREST APIのテストで使ってみた（パート２）](https://qiita.com/troilus1112/items/a273eb31abd8f4246882) B! 0
 - [T-DASHをREST APIのテストで使ってみた（カスタム動作の可能性）](https://qiita.com/troilus1112/items/2d5664c49c2c40ba85f9) B! 0
@@ -3480,7 +3669,7 @@
 - [テスト自動化ツールT-DASHを使ってみた](https://qiita.com/youxiankemengwei/items/f075191abfd0a62ef228) B! 0
 - [テスト自動化ツールT-DASHを使ってみて、良かった点](https://qiita.com/b532/items/da75a28d1c1f14cbab82) B! 0
 - [テスト自動化ツールの選定とT-DASH導入の躓きポイント](https://qiita.com/c615jpn/items/fb80d84e5a649d48b650) B! 0
-- ["テスト自動化：私の不思議な成功物語"](https://qiita.com/NTR893/items/2c4a373915f3c4e4d2e4) B! 0
+- ["テスト自動化：私の不思議な成功物語"](https://qiita.com/OT5425/items/2c4a373915f3c4e4d2e4) B! 0
 - [C++で動くロボットのテスト環境をC++で作った話](https://www.slideshare.net/minorunatsutani/robotics42pptx) B! 0
 - [XR 作品が並ぶ STYLY Gallery にフロントエンドの自動テストを導入した](https://t.co/cishpr81xc) B! 0
 - [Unity製モバイルアプリのGUIを自動テストする仕組みを作ってみた](https://speakerdeck.com/uechan16/unityzhi-mobairuapuriwozi-dong-tesutosurushi-zu-miwozuo-tutemita) B! 0
@@ -3495,7 +3684,7 @@
 - [テスト自動化ジャーニー：成功への5つのステップ](https://qiita.com/bon10/items/9eab78e7a0c150dd4efe) B! 0
 - [Vitest 1系がリリースされたので0系からマイグレーションしてみた](https://qiita.com/Yasushi-Mo/items/3bea875bf542085ca551) B! 0
 - [OSS "Pelemay Backend" で行っているGitHub Actionsによる自動化事例2023年12月版](https://qiita.com/zacky1972/items/c56da534e391de50f597) B! 0
-- [未来への自動化への想い 夢、挑戦、連携](https://qiita.com/NTR893/items/63b92c8373a56d0ddc11) B! 0
+- [未来への自動化への想い 夢、挑戦、連携](https://qiita.com/OT5425/items/63b92c8373a56d0ddc11) B! 0
 - [AIを用いたユーザーテストの自動化](https://qiita.com/techadlab/items/de14d24a3822ab45c73d) B! 0
 - [Salesforceで 画面のテスト自動化ができるのなら、試してみたい *](https://qiita.com/Keiji_otsubo/items/5ba37884ba5ed832e0ee) B! 0
 - [そろそろマルチデバイス・サーバ構成・プラットフォームのテストを自動化させてくれ](https://qiita.com/akid3020/items/d4e77dfc7555566daa73) B! 0
@@ -3513,7 +3702,6 @@
 - [デザインからUIテストの自動化をやりたい](https://qiita.com/yamahiro2022/items/3c8de5fb9f6db317c4f9) B! 0
 - [自動化できたらうれしいテスト: バージョン管理の自動化](https://qiita.com/youxiankemengwei/items/7ecc20d70b99ef80e7a1) B! 0
 - [ChatGPTを使って名古屋駅付近にサウナ施設を建てることを相談してみた](https://qiita.com/yukihiro-toda/items/a4788ec75fe86fb5c846) B! 0
-- [Udemy講座だけでAWS SAA・SAPに一発合格した勉強方法](https://musclecoding.com/chatgpt-programming/) B! 0
 - [初めてハッカソン出た後に受けたUdemy講座](https://qiita.com/tyuma/items/6c79320330e57d45ace5) B! 0
 - [CAN：Controller Area Network by Sunny技研：Udemyおすすめ講座](https://qiita.com/kaizen_nagoya/items/91c3b9918ecb2fd851f0) B! 0
 - [Udemy講座で学習した内容をもとに、データベースの正規化をChatGPT(3.5)で試してみた](https://qiita.com/hara2dev/items/e2dc7242facaca744bbc) B! 0
@@ -3522,18 +3710,18 @@
 - [Azure初心者がAZ-900に合格した勉強方法](https://qiita.com/nemu3/items/3c7267ae9079b2b81847) B! 0
 - [docker初心者でも超分かりやすかったUdemy講座](https://qiita.com/itohdaigo/items/0783ceb240a35faa1575) B! 0
 - [【Udemy】基本情報技術者試験対策おすすめ講座](https://qiita.com/NaN-jp/items/6ddff1ac96298bb5103f) B! 0
-- [Udemy講座で目指すAWS全冠への道](https://qiita.com/akirarara16/items/f8d9489ec97ea41e2251) B! 0
 - [Udemyで学ぶセキュリティのおすすめ講座](https://qiita.com/Brutus/items/a0e7f2f43e26600bdd92) B! 0
 - [「創造」ベースで学ぶUdemy講座　３選](https://qiita.com/CornerBook/items/198659535fc13930d4dd) B! 0
 - [【Udemyお勧め講座】エンジニアのためのプレゼンテーション講座](https://qiita.com/tomomi-kawashita/items/d507773202a178675993) B! 0
 - [初見 Databricks on GCPを使ってわかったこと](https://qiita.com/magisystem0408/items/83e0842ed1d9275316c7) B! 0
 - [[Flutter] Flutterエンジニアが勉強になったUdemy教材を紹介します](https://qiita.com/isekiryu/items/e14face1432dc45621c7) B! 0
+- [開発生産性と開発者体験の向上　成功への鍵](https://qiita.com/OT5425/items/ab56da569cec5c476c7a) B! 0
 - [JupyterLab で pandas.DataFrame を画像にする](https://qiita.com/tetutaro/items/cc7ca407491f77a1453f) B! 0
 - [Vim と JupyterLab で Ruff を使う](https://qiita.com/tetutaro/items/0d88cea09e1caf424cb9) B! 0
 - [ゆめみの研修課題を通して、開発効率が上がった話](https://qiita.com/isekiryu/items/5289fca0c80b41967df8) B! 0
 - [Macのストレージは512GB以上を買おうと言う話](https://qiita.com/o-ga/items/605ea421275c3bd5c37f) B! 0
 - [クラウドに降りかかる厄災を統制で無効無効無効無効化ァーーーッ！](https://qiita.com/dip-kato/items/5e91b3107e75071315c6) B! 0
-- [「EcoTech Inc.」の改善事例](https://qiita.com/NTR893/items/d74b9b8b9c0852ae404d) B! 0
+- [「EcoTech Inc.」の改善事例](https://qiita.com/OT5425/items/d74b9b8b9c0852ae404d) B! 0
 - [ここがすごいぞ CCoE 研究分科会](https://zenn.dev/awache/articles/b17784d7b32825) B! 0
 - [0→1 よりも難しい 1→10 の世界、CCoE 設立後の落とし穴](https://zenn.dev/awache/articles/b38189dca616d6) B! 0
 - [CCoEと書籍「成功するコミュニティの作り方」から考えたあれこれ](https://qiita.com/dip-kato/items/5e8b63258f0f64986749) B! 0
@@ -3545,7 +3733,7 @@
 - [CCoE、事業部門に作るか？情シスに作るか？](https://qiita.com/jkobax/items/837dcf8dbcfc82f143f7) B! 0
 - [CCoEとFinOps：CCoEが知っていた損のないFinOpsの考え方について](https://qiita.com/YoF1023/items/97dca26ca28c4ccbb3ac) B! 0
 - [CCoE、ウエから見るか？ヨコから見るか？](https://zenn.dev/crossy/articles/b7747622549c9d?fbclid=IwAR3QbiYrQNKPGOf2zkqhhFnROQOJLHaExY-WmNHYOHE_XBUAFd9YvXA24Hs) B! 0
-- [「New Relic」を試してみての感想](https://qiita.com/NTR893/items/e93255088e5d4cafed37) B! 0
+- [「New Relic」を試してみての感想](https://qiita.com/OT5425/items/e93255088e5d4cafed37) B! 0
 - [New Relicなどの監視ツールでTerraformを使う](https://qiita.com/shioccii/items/b321ca967b01aad3063b) B! 0
 - [New Relic Full-Stack Observability認定試験対策講座を受けて試験合格した話](https://zenn.dev/aeonpeople/articles/4c42f68d649316) B! 0
 - [webhookを含むリクエスト間のdistributed tracingの設定](https://zenn.dev/youchan_mico/articles/4eb893f7bbdf67) B! 0
@@ -3564,7 +3752,6 @@
 - [Postmanで API と通信してデータを操作してみよう](https://musclecoding.com/postman-api-basic/) B! 0
 - [Postmanを使ってSwitchBotデバイスを制御してみた](https://qiita.com/yankee/items/c31b09811c1e27956a62) B! 0
 - [Postman を日本語化する](https://qiita.com/umorih-hm/items/ad742fe62c9acfc99bd0) B! 0
-- [PostmanでGPT-V(Vision) APIを呼び出して、伝票の読み取りをしてもらった](https://qiita.com/yo-nagase/items/6d77fafc3c65c4b3be82) B! 0
 - [Postmanでやった・やりたい5つのこと](https://qiita.com/dest12217/items/687ce86d2e0ad9bafc42) B! 0
 - [PostmanからSalesforceのReports and Dashboards REST API を使ってみる *](https://qiita.com/Keiji_otsubo/items/8d061a4c3753a390dab1) B! 0
 - [Postman で便利だと思った機能をご紹介](https://qiita.com/t-kurasawa/items/cfdf82a757e4aac0604a) B! 0
@@ -3599,7 +3786,7 @@
 - [Snykマスコット犬”Patch”への愛を語ろう（その１）](https://qiita.com/nikosun/items/7855d5af8a5e79d8b189) B! 0
 - [生成AIのセキュリティ脅威をSnykで防ぐ！](https://qiita.com/tajima_taso/items/541d8c65d9f23b594e97) B! 0
 - [個人開発に関することを書きます。](https://portfolio.fairy-select.com/posts/articles/security-checks-for-personal-development/) B! 0
-- [脆弱性だらけのアプリケーションに脆弱性診断をしてみる](https://qiita.com/Doarakko/items/3d0c8067cc917cf50349) B! 0
+- [Snyk と脆弱性だらけのアプリケーションを使ってセキュリティの勉強を始める](https://qiita.com/Doarakko/items/3d0c8067cc917cf50349) B! 0
 - [Snykの導入に際して検討しておくといいこと~見取り図~](https://qiita.com/marontechlife/items/057af1b2be5f88ff1831) B! 0
 - [Snykではじめる脆弱性評価](https://qiita.com/Brutus/items/46f3d5caaeb10f4989b0) B! 0
 - [Snykマスコット犬”Patch”への愛を語ろう（その２）](https://qiita.com/nikosun/items/42bcec9d1b61364da9b6) B! 0
@@ -3614,7 +3801,7 @@
 - [GPT-4とWhisperを使って、AIの面接サービスを作ってみた](https://qiita.com/miya-start/items/a495887abaa6bead2b82) B! 0
 - [Tencent Cloudで実現するIP AnyCastアーキテクチャ（をしたかった）](https://qiita.com/mosamosa/items/bb036bc8b49f4f2a0b16) B! 0
 - [TencentCloudではじめるAI Live配信](https://qiita.com/TKTK360/items/26ac5a8b900f5ec94c15) B! 0
-- [Vonageを使うべき５つの理由](https://qiita.com/NTR893/items/bca1333acd3066c4a626) B! 0
+- [Vonageを使うべき５つの理由](https://qiita.com/OT5425/items/bca1333acd3066c4a626) B! 0
 - [闘魂Elixir ── Vonage APIのSMS送信をElixirで使ってみることを楽しむ](https://qiita.com/torifukukaiou/items/3acf47962820d840aedc) B! 0
 - [VonageコミュニケーションAPIを使ってみる](https://qiita.com/syantien/items/02fe4e1b7fc6db2404ef) B! 0
 - [【茶番あり】Vonageを使って秘密のアプリを見れないようにしよう](https://qiita.com/nattyan_tv/items/aaacde7175bad7eccff1) B! 0
@@ -3630,6 +3817,7 @@
 - [Vonage×Pythonで2要素認証アプリを爆速で作る](https://qiita.com/sergicalsix/items/d74dd55b89dfa9dd907e) B! 0
 - [【Vonage】FlutterアプリにSMS認証をさくっと実装](https://qiita.com/yuppejp/items/6fe9615e633d642fb1e7) B! 0
 - [VonageのAPI料金から見る使用コスト感](https://qiita.com/Yog-Sothoth/items/8bb7df96c62e43c4d887) B! 0
+- [Vonage Meetings APIを利用してSalesoforce内でWeb会議してみる](https://qiita.com/kumakura/items/530e530c362da306df4b) B! 0
 - [【 Vonage 】Video API と ARKit でバーチャル配信アプリっぽいの作ろうとしてみる話](https://qiita.com/tabu_ch/items/807b10a0f723918bc428) B! 0
 - [GASで天気予報がGoogleドキュメントに表示されるようにした話](https://qiita.com/mountaincat/items/742d610fe861e25ca309) B! 0
 - [他部署の困りごとを鮮やかに解決して、担当者の工数を約10時間/月も削減した話](https://qiita.com/sarah_y1201/items/ee49e35c8115c9ec8223) B! 0
@@ -3686,6 +3874,7 @@
 - [【Rails】rails newで--skip -testし忘れて、すでにtestフォルダにファイルたくさんができていた時の対処法](https://qiita.com/super-appy/items/6900f1aee12ae117b281) B! 0
 - [MySQL Connectorを使いDBに接続するのに苦戦した話.](https://qiita.com/Nissy924/items/d68300167ef0325ed098) B! 0
 - [私はMVCが分からない](https://qiita.com/lily-bud/items/5788e0087377b02cf149) B! 0
+- [カレンダーいいね賞に物申したい](https://qiita.com/tosiooooooo/items/059bd4bfa91e89219e0d) B! 0
 - [FlutterのNavigatorの仕組み](https://qiita.com/output_tarou/items/ff493fb8c5b1168e0ba7) B! 0
 - [FlutterのDemoアプリのソースを説明してみる](https://qiita.com/output_tarou/items/a0257ba0699a05f0425a) B! 0
 - [Flutter初期アプリをproviderの状態管理に変えてみる](https://qiita.com/output_tarou/items/8ba18ba26ca95a05828b) B! 0
@@ -3758,6 +3947,8 @@
 - [【Django】コマンドライン引数sys.argvとは？テスト実行時にテスト用Database設定にする方法](https://qiita.com/Ryo-0131/items/88885dbae7ab04c33ee8) B! 0
 - [Clojure Language Update 2023](https://qiita.com/athos/items/fcc35ea863e7f51657d5) B! 0
 - [海外Clojureエンジニアポジションの持ち帰り課題を晒してみる](https://scrapbox.io/iku000888-notes/%E6%B5%B7%E5%A4%96Clojure%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%9D%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%8C%81%E3%81%A1%E5%B8%B0%E3%82%8A%E8%AA%B2%E9%A1%8C%E3%82%92%E6%99%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B) B! 0
+- [babashkaとadbでスマホの音楽ファイルを手軽に管理する仕組みを作った](https://qiita.com/miyabisun/items/996ace8a94333576f0c2) B! 0
+- [Clojure初心者向け: プロジェクト管理ツールLeiningenのざっくり説明](https://qiita.com/Saibaba81/items/8fab760f0fed10c9c6f2) B! 0
 - [Squintで(主にVimと)遊ぼう](https://zenn.dev/uochan/articles/2023-12-09-play-with-squint) B! 0
 - [【初学者向け】Clojure を始めよう](https://qiita.com/akinos/items/dcd23ede8c9e4549b25e) B! 0
 - [Clojure/BabashkaでREPL芸を夢見る](https://logseq.fujidanawt.net/#/page/clojure%2Fbabashka%E3%81%A7repl%E8%8A%B8%E3%82%92%E5%A4%A2%E8%A6%8B%E3%82%8B) B! 0
@@ -3804,15 +3995,14 @@
 - [Django REST FrameworkからCrystal言語のLuckyフレームワークに移行してみる](https://qiita.com/fujikawahiroaki/items/de1e05bb982f05838fdc) B! 0
 - [Crsytalで実行が終了したらnotifyするコマンドラインツールを作る](https://qiita.com/kojix2/items/5972178c46057fde0103) B! 0
 - [挨拶を表示するツールを作りながら Crystalにおけるコマンドラインツールの作成 を考える](https://qiita.com/kojix2/items/71dfeaffa9b7004d75d6) B! 0
+- [静的ライブラリをCrystalからリンクする](https://qiita.com/kojix2/items/d44debf17c317b320d2a) B! 0
 - [最新のC#をチーム全員で書くための取り組み](https://qiita.com/wipiano/items/7fbf5d61d68f29fdbd36) B! 0
 - [Microsoft.Extensions.Configuration.Jsonで読み込んだ設定値にPrefixを付与する](https://zenn.dev/guil/articles/dfdcba6a7f4636) B! 0
+- [【OpenCvSharp】距離変換を用いて内側の図形を取得する](https://qiita.com/tkhshiq/items/c65a4d5203c03dffe5df) B! 0
 - [IEnumeratorについての簡単な言及](https://kakovail.info/entry/advent_2023_cs) B! 0
-- [USBカメラを使ってみよう](https://qiita.com/secile/items/21b7da5d32bc44dbb947) B! 0
 - [Mono.Cecilでは ".s" 命令にご用心](https://zenn.dev/ruccho/articles/a8bbb8f0a58225) B! 0
-- [C#で作る。組み込み用GUIアプリ通信方法について](https://qiita.com/qa65000/items/64be8bcf45dc2c39b48f) B! 0
 - [EF Coreのクエリ式](https://qiita.com/nekohei/items/abee7fe81ca9d04221aa) B! 0
 - [【C#】競プロ等で簡単・高速に入力を受け取れるライブラリを作成した話](https://qiita.com/Kujiro/private/facad439eb0873748f87) B! 0
-- [C# で Deque を自作する](https://qiita.com/YuHima03/items/e52fdebdf626192c4b1e) B! 0
 - [Thrustの非同期実行](https://qiita.com/sukeya/items/1b5998764b9326973644) B! 0
 - [VSCode + MinGW-w64 via MSYS2 で WIN32API の Unicode ビルド](https://aquasoftware.net/blog/?p=1982) B! 0
 - [Deducing thisで子クラスにも繋がるメソッドチェーン](https://qiita.com/tyanmahou/items/2e9a7350f52e2da18043) B! 0
@@ -3851,7 +4041,10 @@
 - [NODE-RedのRESTAPIをバックエンドに、Delphi + TMS WEB Coreで、CURDを、ローカル環境で実行する](https://qiita.com/a23/items/6bb5f0429a22ea9743f3) B! 0
 - [子プログラム停止](https://qiita.com/ADACHI_naohito/items/d9df119b0e265c421aa7) B! 0
 - [文字列を書記素クラスタで分割する](https://owlsperspective.blogspot.com/2023/12/split-string-into-grapheme-clusters.html) B! 0
+- [Node互換の未実装部分を補完するワークアラウンド](https://leaves.chiba.dev/posts/223) B! 0
 - [Fresh(Deno) で Bootstrap 5 をプラグインで使う](https://www.ccbaxy.xyz/blog/2023/12/12/js82/) B! 0
+- [Deno Deployで静的解析できないダイナミックインポートは、できない(が、条件付きで回避できることがある)](https://www.ccbaxy.xyz/blog/2024/01/08/js84/) B! 0
+- [`deno compile`に設定した引数は生成されたバイナリに引数として埋め込まれる](https://qiita.com/jlandowner/items/b9f6d09c267802aaef9f) B! 0
 - [DenoとNode.jsのモノレポでいい感じの開発環境を作りたかった](https://zenn.dev/koukibuu3/articles/446812c03aec29) B! 0
 - [DenoでSSM Parameter StoreのFuzzy Finderを作った](https://zenn.dev/ispec_inc/articles/denosm-ssm-parameterstore) B! 0
 - [2023年 D言語まとめ](https://qiita.com/lempiji/items/938ce6a89754a290a0a1) B! 0
@@ -3865,6 +4058,7 @@
 - [D言語で素数を求めるプログラムを書いた　その２（アトキンの篩編）](https://qiita.com/dragoon2014/items/674376bce5eac5f17a01) B! 0
 - [やさしいD言語クイズ（その４）](https://qiita.com/devmynote/items/30f0bfcb5d598738b0a3) B! 0
 - [IoTに最も適したプログラミング言語](https://qiita.com/mono_shoo/items/f14ad088f950ece1608d) B! 0
+- [JetsonでD言語をやる](https://qiita.com/nonanonno/items/6421e39183728980e8f2) B! 0
 - [2023年末のElixirが出来ること①今年出たライブラリ／FW編（最新Elixirのキャッチアップと、アドカレのネタ探しに読んでください）](https://qiita.com/piacerex/items/774dd91c67184bec6df1) B! 0
 - [2023年末のElixirが出来ること②今年、更新されたライブラリ／FW編（最新Elixirのキャッチアップと、アドカレのネタ探しに読んでください）](https://qiita.com/piacerex/items/0c6ffb235e1146c38302) B! 0
 - [闘魂Elixir とにかくリアクションするボットの鮮やかな復活劇](https://qiita.com/torifukukaiou/items/9f06d046442cbcfce293) B! 0
@@ -3880,11 +4074,14 @@
 - [Elixir Erlang match_spec の文法](https://qiita.com/mnishiguchi/items/b597f70a186220bf6ec7) B! 0
 - [RailsエンジニアはPhoenixでもStimulusを使いたい](https://qiita.com/tomoaki-kimura/items/72d2af1a4ee5b4f31530) B! 0
 - [3年ぶりにElixirのAtCoder用Mixタスクライブラリを更新しました](https://qiita.com/g_kenkun/items/e71f6f71e817a1c3d01b) B! 0
+- [はじめてな Elixir(34) FLAME で関数をまるっと外に飛ばす](https://qiita.com/kikuyuta/items/0f1aefc9fc39dfc94fa1) B! 0
 - [Elixir Enum.at()がどれだけ遅いか。そしてMap](https://qiita.com/gx3n-inue/items/6f04bbc260c70c5730a2) B! 0
 - [技術同人誌「ElixirへのいざないLivebook超入門」の執筆よもやま話](https://qiita.com/MzRyuKa/items/33766f8c290b40dba46d) B! 0
 - [闘魂Elixir ── イミュータブルの恩恵 〜ある記事を読んで改めて感じたすばらしさ可読性を上げ保守性を上げめぐりめぐって世界文化の進展に大きく寄与する〜](https://qiita.com/torifukukaiou/items/19b6b5ba44f2b0e18b41) B! 0
 - [Elixir入門者向けコミュニティ「piyopiyo.ex」2周年の振り返り](https://qiita.com/nako_sleep_9h/items/783973c2daebdf8d9ca3) B! 0
+- [Erlangのリポジトリとブランチ運用](https://qiita.com/ohr486/items/abdca28aa3623e663978) B! 0
 - [【人柱】Elixir PhoenixでSAML認証がでる事を確認したよ](https://qiita.com/GeekMasahiro/items/587d4358a50395856acf) B! 0
+- [Elixirのエントリーポイント](https://qiita.com/ohr486/items/834a2084236344009f98) B! 0
 - [闘魂Elixir ── たくさんのファイルに同じコマンドを実行したい（たとえば画像ファイルの変換を楽しむ）](https://qiita.com/torifukukaiou/items/bc1f642805e83f1c6dac) B! 0
 - [Malbolgeで何か1文字出力する](https://zenn.dev/angel_p_57/articles/2fc83fae92adbb) B! 0
 - [いくつかのFortranコンパイラのオプションの整理](https://qiita.com/implicit_none/items/0ec0bb5ba0180831f6ba) B! 0
@@ -3897,6 +4094,7 @@
 - [CUDA FortranでcuRANDを使う](https://qiita.com/osada-yum/items/fa3e5a9a7562529de8f3) B! 0
 - [AtCoderのFortranでfortran-stdlibが使えるようになったので何が楽になるかを考える](https://qiita.com/osada-yum/items/3674eb515fc25c891ecf) B! 0
 - [CUDA FortranでIsingスピンのシミュレーションを書いた](https://qiita.com/osada-yum/items/8d2b6906678f985b56cb) B! 0
+- [fortranリンクリスト（挿入する型が一種類のみの場合）](https://qiita.com/sakamoti/items/760c4c38bfc58680b5cc) B! 0
 - [Fortranのビット演算・ビット操作](https://qiita.com/implicit_none/items/3bd58c7f7676edf6c912) B! 0
 - [Fortranで正規表現](https://qiita.com/amasaki203/items/9382f05f7c3efafea7a9) B! 0
 - [サイトをリデザインする！対応するブラウザバージョンを決める時に考えたいこと](https://qiita.com/tanimoto-hikari/items/e8b428e08f5a56b44f6d) B! 0
@@ -3937,11 +4135,9 @@
 - [GoでVOICEVOX_COREを利用するサンプル](https://zenn.dev/nobonobo/articles/881cc6591ab478) B! 0
 - [Ruby と Go どっちを先に学ぶべき？ Rails エンジニア視点で考えてみた](https://musclecoding.com/ruby-go-which) B! 0
 - [アプリケーションロジックでtime型を扱う際のTips](https://qiita.com/jaksho500/items/d8e246d5cfbb67b2e63d) B! 0
-- [http ServerでのbaseContextを調査](https://zenn.dev/hiroyukim/articles/f9ab45f01b2d77) B! 0
 - [Go でアラビア語、ヒンディー語、タイ語を描画する](https://zenn.dev/hajimehoshi/articles/205c04b5fad03d) B! 0
 - [以前の記事で書いたHaskellの再帰関数をStateモナドを使ってちゃんと書き直してみる](https://qiita.com/At-sushi/items/4e9d02b98d02d732ebba) B! 0
 - [Haskellを書くときに気をつけていること](https://qiita.com/wvogel00/items/dfb37f20f990a56bede2) B! 0
-- [Haskell初級者がAtCoderの問題でプロパティベーステストを試す](https://zenn.dev/hanao/articles/a6ad672163a3a2) B! 0
 - [Threepenny-guiを動かす](https://qiita.com/wvogel00/items/94ae04820dbd3cc5dbc3) B! 0
 - [Rails7.0.5.1で変更された[CVE-2023-28362] Possible XSS via User Supplied Values to redirect_toについての解説](https://www.masyumaroking.com/article71.html) B! 0
 - [サイトマップを超簡単に自動生成する方法(Ruby)](https://www.masyumaroking.com/article72.html) B! 0
@@ -3995,7 +4191,6 @@
 - [AWS SDK for Java で Amazon Bedrock を呼び出す](https://blog.tacck.net/archives/1505) B! 0
 - [ネイティブ呼び出しが気になった件](https://s-edword.hatenablog.com/entry/2023/12/20/013125) B! 0
 - [NullPointerExceptionを防ぐためInferをM1 Macで試してみた](https://qiita.com/ryan5500/items/4f44503394eca18391ae) B! 0
-- [JavaでCRTP的な話](https://note.com/clas/n/ncfabfdbf0b93) B! 0
 - [Spring boot 2.7 から 3.1 にアップグレードしたときのまとめ](https://qiita.com/n_slender/items/a09f9d7529b4e7d68b33) B! 0
 - [最初のレンダリング直前に起動するpagerevealイベント](https://qiita.com/feo52/items/6324d1df885d59a2b32c) B! 0
 - [ブラウザ操作中の通信の内容をローカルファイルに自動で保存する](https://aquasoftware.net/blog/?p=1989) B! 0
@@ -4024,7 +4219,6 @@
 - [同じスペクトルを持つのにクレストファクタが違う波形](https://marui.hatenablog.com/entry/2023/12/22/074200) B! 0
 - [Gridap.jlを触る](https://zenn.dev/marie_4nonome/articles/ab90bff92e70f0) B! 0
 - [Juliaで始める強化学習](https://github.com/YoshihiroMichishita/julia/blob/master/tutorial_RL.ipynb) B! 0
-- [細かすぎてたぶん伝わらないJuliaのTips2023](https://zenn.dev/kurusugawa/articles/julia_tips_too_detailed_to_convey_2023) B! 0
 - [新規リポジトリ作成とUbuntuファイル連携](https://qiita.com/kakisaba/items/7014e1ec8d8a67b3d50b) B! 0
 - [UbuntuからのGitHub操作でよく使うコマンド](https://qiita.com/kakisaba/items/94d5e5647ff98af080dd) B! 0
 - [WindowsでUbuntuのインストールする方法](https://qiita.com/kakisaba/items/4dea45b4a33c5f18d1c9) B! 0
@@ -4062,6 +4256,7 @@
 - [Stern-Brocot Treeで高速にN以下で表現される既約分数の近似値を求めたい](https://qiita.com/okaponta_/items/36d485004d04b37519a3) B! 0
 - [【AtCoder】AB2完だけで入茶する、ABC3完だけで入緑する](https://qiita.com/hcl/items/21c242096bebce6c4ffb) B! 0
 - [mex のライブラリ化](https://qiita.com/saka_pon/items/ea260f454d8b1c47b377) B! 0
+- [削除可能な優先度付きキュー](https://qiita.com/saka_pon/items/7d42012e44978580a0c0) B! 0
 - [Go言語とは](https://qiita.com/rapirapi/items/baa4094e72b88b692720) B! 0
 - [Go言語の環境構築～HelloWorld出力（Windows）](https://qiita.com/rapirapi/items/a1a770c044d72328a34e) B! 0
 - [【Go言語】リテラル・変数宣言](https://qiita.com/rapirapi/items/43a47f98aa12d9bb28f0) B! 0
@@ -4112,7 +4307,7 @@
 - [Minecraftでリアルタイムを取得した話](https://qiita.com/Lit_to/items/b3d3225a5830e6abfa8b) B! 0
 - [コマンドでSACLOS方式のミサイルを作る](https://qiita.com/uran2471/items/d44e2cad9e8b1961774d) B! 0
 - [placeコマンドを使ってみよう](https://qiita.com/noir_kokumin/items/93e33a3a5fbba9ccaf60) B! 0
-- [Minecraftとかいうゲーム制作ソフト](https://qiita.com/PonzuLab/items/2c0c1768d5b1f74b70de) B! 0
+- [お風呂に入ろう(データパック小技)](https://qiita.com/PonzuLab/items/9f882904416f93d110f7) B! 0
 - ["左"クリック検知の現状](https://qiita.com/Hama_SH/items/301be8f0df58f2706cfe) B! 0
 - [競プロerによるコマンド軽量化テクニック](https://qiita.com/Serena-Healer/items/9749a4ade4a697d9dce9) B! 0
 - [まるで詩のような日本語で書いたプログラム（愛ではなくお酒に酔う版） - 実際に動きます](https://qiita.com/mylifewithviolin/items/064109f9e81c7d048f86) B! 0
@@ -4230,12 +4425,10 @@
 - [Hack For Perlのサブタイトルのふりかえり](https://kfly8.hatenablog.com/entry/2023/12/23/170731) B! 0
 - [低レベルperlスクリプトのススメ（その２）](https://qiita.com/doikoji/items/c80a18dfefb96abc864b) B! 0
 - [5.36以降でのサブルーチンプロトタイプを復習する](https://shogo82148.github.io/blog/2023/12/24/2023-12-24-perl-prototype/) B! 0
-- [PerlのHTTP::Tinyがv0.083からデフォルトでTLSの証明書を検証するようになった件](https://shogo82148.github.io/blog/2023/12/27/2023-12-27-perl-http-tiny-now-verify-tls/) B! 0
 - [【さらばpptxよ】perlとJavaScriptとHTMLで超手軽にスライドを作る](https://qiita.com/doikoji/items/b0d850349a6640d0c396) B! 0
 - [PerlにClass構文がやってきた](https://shogo82148.github.io/blog/2023/12/29/2023-12-29-perl-class/) B! 0
 - [AWS::LambdaがCanada West (Calgary) Regionで利用可能になりました ](https://shogo82148.github.io/blog/2023/12/29/2023-12-29-p5-aws-lambda-is-available-on-ca-east-1/) B! 0
 - [Allowed memory size of *** exhausted が何のせいなのかわからない悩みを根絶やしにするため実行中の PHP プロセスのメモリ内容をぶっこぬくツールを作った](https://qiita.com/sj-i/items/2865f212d1ab760a47fc) B! 0
-- [【PHP8.3】PHP8.3がリリースされたので新機能全部やる](https://qiita.com/rana_kualu/items/f03efb9810c3ac5b2ab6) B! 0
 - [PHPコードを「テストしない」方法](https://tech-blog.rakus.co.jp/entry/20231206/php) B! 0
 - [【PHP】文字列連結 「結合演算子 vs 変数展開」](https://qiita.com/umekikazuya/items/bb3a2d758c5c6bbf4357) B! 0
 - [CodeIgniter のバリデーションを使いやすくする](https://portfolio.fairy-select.com/posts/articles/codeigniter-validation-extended/) B! 0
@@ -4248,7 +4441,7 @@
 - [PsySHをカスタマイズしよう](https://qiita.com/take_3/items/8dd91524d5e8f6dd493d) B! 0
 - [捕まえたWebシェルを調べてみる](https://qiita.com/papillon/items/0ce9e940b4942e9f9747) B! 0
 - [Scaffoldがキモ可愛い「Livewire」をPHP 8.1.26＋Laravel 10.38.2で試してみた（ややモッサリ）](https://qiita.com/piacerex/items/52a610957a143e4687dd) B! 0
-- [PHPの例外入門!](https://qiita.com/lyricrime/items/63dd3a1c6053b45d96d7) B! 0
+- [PHPUnitを遅くする技術](https://zenn.dev/isana/articles/how-to-slow-phpunit) B! 0
 - [iPhone/iPad アプリの iSH Shell に PHP をインストールして外でいつでも PHP を触れるようにする](https://zenn.dev/memory/articles/16e58c6a3e218c) B! 0
 - [PineScriptのデバッグ方法](https://tradingview.blog.fc2.com/blog-entry-106.html) B! 0
 - [PineScriptの実行時間を計測する](https://tradingview.blog.fc2.com/blog-entry-107.html) B! 0
@@ -4265,7 +4458,7 @@
 - [階層ベイズで東京23区のお部屋の家賃相場を推定する](https://suzuna.me/posts/rent-modeling/) B! 0
 - [「Deep Learning is Singular, and That's Good」(論文)とそのpyro実装を読む](https://zenn.dev/xiangze/articles/2249f2221b0a5d) B! 0
 - [確率的プログラミング言語とAlgebraic Effects](https://zenn.dev/catminusminus/articles/5e3f266c9e4ae4) B! 0
-- [CausalImpact で使われる spike-and-slab 事前分布について（メモ公開、後日完全版公開予定）](https://zenn.dev/tatamiya/scraps/9d14f3d1ee5a37) B! 0
+- [CausalImpact で使われている spike-and-slab 事前分布について](https://zenn.dev/tatamiya/articles/c8d22acad5294a) B! 0
 - [プロデルでデータベースSQLServer2022（ステップ１）クエリーしてみる](https://qiita.com/mylifewithviolin/items/68f32d9f201b48c3776c) B! 0
 - [日本語プログラミング言語 プロデル Java C# でHello World実行時間を仲良く競う](https://qiita.com/mylifewithviolin/items/fdc00911a1600a4786c4) B! 0
 - [日本語プログラミング言語 プロデル Java C# で整数カウントアップ実行時間を仲良く競う](https://qiita.com/mylifewithviolin/items/b78c6809dcfbdebcbb70) B! 0
@@ -4386,7 +4579,6 @@
 - [Rust on Lambda でＷebSocket とストリームレスポンスを試す](https://zenn.dev/labbase/articles/711acbcc5990e4) B! 0
 - [privateなcrateの扱いについて](https://qiita.com/aobat/items/4d383177990765776a16) B! 0
 - [Tauri + windows-rsでスリープ防止アプリを作った話またはその制作手順を公開しTauri DIYを布教する的な何か](https://qiita.com/namn1125/items/880b67467213fc706fee) B! 0
-- [スレッドは join しなくてもよい](https://kenoss.github.io/blog/2023-12-22-join-handle-can-be-dropped/) B! 0
 - [2023年12月版 Scalaの導入方法](https://qiita.com/rkyymmt@github/items/2cb39e996b1139669c9c) B! 0
 - [Akka で Raft を実装してみた話](https://zenn.dev/hayasshi/articles/implementing-raft-with-akka) B! 0
 - [sbt-github-acitons を使った CI の構築とプロジェクトの publish について](https://zenn.dev/nomadblacky/articles/4c6a03aa5289c4) B! 0
@@ -4420,8 +4612,7 @@
 - [「find all」の実装](https://sumim.hatenablog.com/entry/2023/12/28/014554) B! 0
 - [衝突時（爆撃時）処理の実装](https://sumim.hatenablog.com/entry/2023/12/28/121848) B! 0
 - [魚雷を実装する](https://sumim.hatenablog.com/entry/2023/12/28/160450) B! 0
-- [「ask」「start」の実装](https://sumim.hatenablog.com/entry/2023/12/29/003946) B! 0
-- [[Swift] PlaygroundやCLIアプリでのasync functionのデバッグにはtop-level-awaitが使える](https://qiita.com/kntkymt/items/99a68884b2dbca596c95) B! 0
+- [[Swift] CLIアプリでのasync functionのデバッグにはtop-level-awaitが使える](https://qiita.com/kntkymt/items/99a68884b2dbca596c95) B! 0
 - [[Swift] withUnsafeContinuationとexecutorに関するバグ](https://qiita.com/kntkymt/items/f6f83279c5caba188afb) B! 0
 - [ドキュメンテーションコメントに画像を入れたら便利だった話](https://qiita.com/KaitoMuraoka/items/ee8929b062ff962874c7) B! 0
 - [[Swift] このコードは書かないでください！(代わりに幽霊型を使いましょう)](https://qiita.com/hayatehhh0704/items/c113774d2d3c549bb5bd) B! 0
@@ -4433,14 +4624,12 @@
 - [[Swift Regex] 正規表現 Regex の生成方法３選](https://qiita.com/Se1getsu/items/838350b82d62b6613639) B! 0
 - [[Swift] 文字列補完 使ってますか？](https://qiita.com/nak435/items/0b21513569e22f9ca339) B! 0
 - [カウンターの実装例で見るオーバーフローの回避方法](https://qiita.com/hituziando/items/bc50bbaaf6756a48d1f2) B! 0
-- [【SwiftUI×SPM】SPMマルチモジュールでの画面遷移について](https://qiita.com/Soccerboy_Hamada/items/686e994c53736593659e) B! 0
 - [「競プロでのSwift Algorithms系、正直どうなん？」](https://zenn.dev/log5/articles/swift-algorithms-lib-on-atcoder) B! 0
 - [Swift 5.9からの `swift package init` の変更点](https://tockrock.hashnode.dev/swift-package-init-5-9) B! 0
 - [Swiftの将来を期待させるプレゼン](https://tockrock.hashnode.dev/swift-future-talk-2023) B! 0
 - [SpriteKitで雪を降らせてみよう！](https://qiita.com/hinakko/items/22836a1fed2da932996c) B! 0
 - [Swift Decimal はどこまで表せるか](https://zenn.dev/samekard_dev/articles/d65aa73b213c0f) B! 0
 - [[Swift] 整数型のfloor演算子](https://qiita.com/nak435/items/fdfbab4cd7b75b5f260a) B! 0
-- [[TypeScript] Branded Types と Companion Object の組み合わせが便利](https://qiita.com/akid3020/items/9a32ebe4ce94c5ad2298) B! 0
 - [RestAPI使ったアプリ作るサーバーサイドフレームワーク調べ](https://qiita.com/nakamoto/items/d230254ac06204942ccd) B! 0
 - [ts-morphを使ってtailwindのレスポンシブ対応](https://kdotdev.com/kdotdev/ts-morph-tailwind) B! 0
 - [[TypeScript] ジェネリック](https://qiita.com/ksh-fthr/items/e0227f92900f62ffaa15) B! 0
@@ -4449,7 +4638,6 @@
 - [TypeScript4.5以降で追加されたTSConfigのオプションを調べてみた](https://t-yng.jp/post/typescript-tsconfig-options-over-4.5) B! 0
 - [AWS CDK(TypeScript)でFargate + CloudFront構成を立ち上げて悩んだところ](https://zenn.dev/meijin/articles/aws-cdk-typescript-fargate-cloudfront-thoughts) B! 0
 - [ 例でわかるTypeScript Utility Types](http://d.sunnyone.org/2023/12/typescript-utility-types.html) B! 0
-- [TypeScript Compiler APIに入門する](https://qiita.com/suke083/items/878e9d275305ae18c30b) B! 0
 - [OpenAPIからフォームのバリデーションまでの型とコードを生成する](https://kdotdev.com/kdotdev/between-api-and-form) B! 0
 - [【OpenAPI Generator】TypeScript+ReactとASP.NET Web API間でデータをやり取りする](https://t-pot.me/posts/tech/openapi-ts-react-dotnet/) B! 0
 - [UWSCRのインストールおよび実行方法](https://qiita.com/stuncloud/items/f2ae81024cb024982e8a) B! 0
@@ -4507,7 +4695,6 @@
 - [【気象データで時系列解析⑦】SARIMAモデル](https://qiita.com/matsuda_tkm/items/6a373bf1dcc312519479) B! 0
 - [気象予報AI「GraphCast」の予報が見れるサイトを紹介する](https://qiita.com/matsuda_tkm/items/b25d98ab0ee5cf28f6ad) B! 0
 - [【論文解説】GraphCast：GNNで気象予報（モデル編）](https://qiita.com/matsuda_tkm/items/b98341e661f4c3df4896) B! 0
-- [Angularにおける組み込み制御フローの導入とその背景について](https://zenn.dev/carimatics/articles/angular_2023_builtin_control_flow) B! 0
 - [クリーンな美少女エンジニアはComponentも注入💉したい！！](https://qiita.com/nontangent/items/f68470af883e352a2a27) B! 0
 - [[Feature Flag]同じパスを持つ複数のルートを、環境に基づいて変更する](https://zenn.dev/rysiva/articles/feature-flag-with-canmatch) B! 0
 - [Angular 17 の View Transitions API 対応で遊んでみた](https://zenn.dev/rch850/articles/3c214564567e5b) B! 0
@@ -4523,7 +4710,6 @@
 - [Angular ESLintの導入と推しルール6選(2023)](https://zenn.dev/komura_c/articles/9ac623f9519bf9) B! 0
 - [Angular Material の css バンドルサイズを削減しよう！](https://zenn.dev/fusho_takahashi/articles/01ec296a1e726fbacdc0) B! 0
 - [自社アプリのAngularのFolder Structureの変遷と反省](https://qiita.com/KShamoji/items/b236df445cdea49b1eac) B! 0
-- [2年前の自分に送る！べからず集　を書きます](https://zenn.dev/tkawa01/articles/1939b9376f3daa) B! 0
 - [Angular 版 Intro to Storybook の日本語訳を更新して思ったこと](https://zenn.dev/nagashima/articles/156f7ea2caf6f2) B! 0
 - [2024年から始めるAngular Universal (SSR) の本番運用](https://zenn.dev/seapolis/articles/6669b3c1cda5b0) B! 0
 - [𝓗𝓪𝓹𝓹𝔂 𝓜𝓮𝓻𝓻𝔂 𝓒𝓱𝓻𝓲𝓼𝓽𝓶𝓪𝓼...](https://qiita.com/ver1000000/items/36154cb31a3bdba1a51d) B! 0
@@ -4554,17 +4740,12 @@
 - [Blazor WebAssemblyのアプリをGitHub ActionsでビルドしてGitHub Pagesにデプロイ（2023年12月版）](https://qiita.com/kaorumori/items/88452056305b90727e98) B! 0
 - [Blazor - 親コンポーネントのフィールド変数を、子コンポーネントの文字列型パラメーターに渡すときに、@ を付け忘れて起きたこと](https://qiita.com/jsakamoto/items/a06bb215f15f98c31953) B! 0
 - [Blazor WebAssembly プログラムを IsTrimmable=true にして発行したら JavaScript 呼び出しの挙動が変わってしまった](https://qiita.com/jsakamoto/items/755ff19392b0270c3767) B! 0
-- ["ゲームなどでよく見る「長押しのボタン」のUIをWEBで表現してみた" を Blazor で実装してみた](https://qiita.com/jsakamoto/items/3965b7a3c895fe122dc8) B! 0
 - [プラモの写真を光らせたい x Blazor WebAssembly x OpenCV](https://koudenpa.hatenablog.com/entry/2023/12/14/000000) B! 0
-- [Blazor WebAssembly で作った Web アプリ "snow catch" ゲームを、🎙️ボイスコマンド (音声認識) で操作できるようにする](https://qiita.com/jsakamoto/items/9378a345a96113319102) B! 0
 - [Blazor WebAssembly アプリを .NET 8 の Auto レンダーモードに移行したら InvalidOperationException で動作しない](https://qiita.com/jsakamoto/items/15f330fdfcf4ddf9e2c5) B! 0
 - [Blazor でも View Transition したい](https://qiita.com/jsakamoto/items/7409fb67c9a8a80880de) B! 0
-- [Blazor Server で Scoped なサービスに状態保存してたら、.NET 8 の新しい Render Mode では危ないかもね、という話](https://qiita.com/jsakamoto/items/b2a7a4aed0f4d6868340) B! 0
 - [Blazorアプリで2年間放置していたコードの警告と向き合います](https://qiita.com/kaorumori/items/a8d03f451a9087573cda) B! 0
-- [Blazor - サーバーで実行されているのかブラウザで実行されているのかを判別する方法](https://qiita.com/jsakamoto/items/8999d0322c64f265369b) B! 0
 - [Blazor in .NET 8 の Auto レンダーモードは、.wasm ダウンロード済みでも、WebAssembly モードで動作しない場合がある](https://qiita.com/jsakamoto/items/8bb81d11c151cec5920a) B! 0
 - [軽量かつ高機能なHAVIT Blazorを使ったBlazor開発](https://qiita.com/KennethEHD/items/0aa02369ec5914e76430) B! 0
-- [[改訂版] Blazor でラジオボタン input 要素に双方向データバインドする方法](https://qiita.com/jsakamoto/items/a326ddb14b0a7b6c4a74) B! 0
 - [.NET 8 の Blazor WebAssembly は高速化されたというのでベンチマークで比較してみる](https://qiita.com/jsakamoto/items/2bcd82bdc65b107cc106) B! 0
 - [約6年前の記事「C# で SPA が書ける Blazor が凄かった件」を最新状況にあわせて点検](https://qiita.com/jsakamoto/items/21f823e949a08431ef86) B! 0
 - [[Capacitor] JavaScript で iOS、Android アプリを開発できる、Capacitor についてご紹介](https://zenn.dev/taretmch/articles/capacitor-introduction) B! 0
@@ -4628,6 +4809,7 @@
 - [Drupal 10.1 で追加された Single Directory Components について](https://qiita.com/dokumori/items/128b77a2287b5bed5d79) B! 0
 - [[macOS]DDEVとColimaでDrupalの開発環境を作成する](https://scrapbox.io/kazunoko/macOS_DDEV%E3%81%A8Colima%E3%81%A7Drupal%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B) B! 0
 - [Drupal 7 サポート終了 (EOL) と Drupal 10 へのアップグレード](https://qiita.com/dokumori/items/b22c4494893c730c3a53) B! 0
+- [Modernizing Drupal 10 Theme Developmentを読んで](https://qiita.com/bassline121/items/093fd0eb130f29245be6) B! 0
 - [Translating configurationとConfiguration schema/metadataを読む](https://takayuki.hagihara.tokyo/blog/2023-12-19) B! 0
 - [Drupalなエンジニア組織をどのように作っていくか](https://blauerberg.github.io/posts/drupal-engineering-organization) B! 0
 - [初めてのDrupal おすすめ情報 2023年度版](https://scrapbox.io/kazunoko/%E5%88%9D%E3%82%81%E3%81%A6%E3%81%AEDrupal_%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%83%85%E5%A0%B1_2023%E5%B9%B4%E5%BA%A6%E7%89%88) B! 0
@@ -4636,7 +4818,6 @@
 - [行列を用いて、砲台を回してみた。](https://qiita.com/SHIBRBK/items/97203f400222db0972cc) B! 0
 - [DXライブラリでScreen Space Reflection](https://qiita.com/emiya_ubw/items/54e70e71d30be842e6a8) B! 0
 - [DXライブラリで、トランジション(画面切替時演出)を作ってみる](https://qiita.com/tsuchinokoman/items/b6d7f500ab0d05478a2c) B! 0
-- [DXLibのMV1でなんちゃって金属表現](https://qiita.com/tsuchinokoman/items/8d5db0192360db6980f7) B! 0
 - [DxLibで昼夜サイクルを実装する](https://qiita.com/owapote/items/a9c2c38b6dd2dcb2065d) B! 0
 - [APIを利用してeBayに動画をアップロードしてみる](https://qiita.com/kazuhiro0418/items/66acb70cd8fea6907a56) B! 0
 - [ebay出品時のコンディション設定について](https://qiita.com/kazuhiro0418/items/38206208d0574dd6d410) B! 0
@@ -4644,19 +4825,20 @@
 - [FastAPIのシンプルなサンプルコードの紹介](https://qiita.com/SaitoTsutomu/items/6fd5cd835a4b904a5a3e) B! 0
 - [Rails 経験者が FastAPI 本を読んで感じたこと](https://labs.snaq.me/entry/2023/12/02/090233) B! 0
 - [Dev Container で環境構築して FastAPI を完全理解するための準備をする](https://giraph.me/articles/hello-fastapi-1/) B! 0
-- [FastAPI 0.100 (Pydantic v2)にアップグレードしました](https://labs.snaq.me/entry/2023/12/07/070000) B! 0
 - [FastAPIでオニオンアーキテクチャ（簡易版）](https://zenn.dev/keitakn/articles/python-fastapi-onion-architecture-simplified) B! 0
 - [FastAPIで、Trailing Slashリクエストの自動リダイレクトを無効にする](https://kei-kmj.hatenablog.com/entry/2023/12/12/220910?_gl=1*1bsjrlp*_gcl_au*MTc3NjAxNDAxMy4xNzAwNzMxMjU0) B! 0
 - [FastAPIの拡張ライブラリの紹介](https://qiita.com/y-ogawa/items/c1471fba61ffb9e5266d) B! 0
 - [FastAPIで、DELETEのときのステータスコードを204No Contentに変更する](https://kei-kmj.hatenablog.com/entry/2023/12/18/221824?_gl=1*dy2vpp*_gcl_au*MTc3NjAxNDAxMy4xNzAwNzMxMjU0) B! 0
 - [FastapiのテストでAsyncClientを使った際にlifespan eventsが走らない問題を解決する](https://kdotdev.com/kdotdev/fastapi-asyncclient-lifespan-events) B! 0
 - [FastAPIでOAuth2を体験する](https://qiita.com/xx__xx__xx_x_/items/0604bc7ca85028d98ada) B! 0
+- [FastAPIとsqlite3による簡単なウェブサイトを実装する](https://qiita.com/phyblas/items/c3ff92b6dd353f887f1d) B! 0
 - [ Svelte+FastAPIでSign in with Googleを試してみた](https://ktaka.blog.ccmp.jp/2023/12/sveltefastapisign-in-with-google.html) B! 0
 - [QGISでDBSCANによるクラスタリングを実施してデータ可視化](https://qiita.com/sanskruthiya/items/7935197a9ef22a59d5b9) B! 0
 - [点群データからCloud Optimized Point Cloud（COPC）を生成する方法](https://qiita.com/shi-works/items/c81df65fcf59bc3047d6) B! 0
 - [QGIS,GRASSGIS v.sampleで作る断面図その２](https://qiita.com/mooya/items/a4c84d4c9f9a0b8d8579) B! 0
 - [PostgreSQL Conference Japan 2023の小反省会とZennにbookを追加した話](https://qiita.com/boiledorange73/items/93b5ece0843126114995) B! 0
 - [GDALで「全国5kmメッシュアンサンブル気候予測データ」の投影パラメータを同定する](https://qiita.com/c-c-i_labo/items/7ac8822362e58eba6c97) B! 0
+- [Code for Historyの2023年の活動](https://qiita.com/kochizufan/items/91050cd8dfe0499b5e5f) B! 0
 - [ベクターデータからPMTilesを生成する方法](https://qiita.com/shi-works/items/a692b6fa12a8e834131a) B! 0
 - [GeoParquetをlonboardで綺麗にサクサク可視化する](https://qiita.com/ChihiroHAGA/items/bbb91ee2cf1f30ced4c9) B! 0
 - [FOSS4G ASIA 2023 参加レポート](https://qiita.com/asahina820/items/99d6450b6e616c688489) B! 0
@@ -4679,6 +4861,7 @@
 - [Godot(C#)でTrail Rendererを作る](https://qiita.com/cabbagestole/items/97133ab55e9751f75bc0) B! 0
 - [Godot(C#)実行時にCollisionShapeの形状を変更する(小ネタ)](https://qiita.com/cabbagestole/items/74e4a6eabbcb71ac0c61) B! 0
 - [async/await な流れで落ち物ゲームをつくる](https://aneuf.hatenablog.com/entry/2023/12/25/210000) B! 0
+- [今年一年Godotでやったこと](https://korinvr.com/blog/2023/12/30/) B! 0
 - [HERE API を Postman で試してみる　](https://qiita.com/kekomat/items/cb835d52792b4f9a7c22) B! 0
 - [物流2024年問題間近、配車アプリを作ることが出来るAPIを使ってみよう（前編）](https://qiita.com/kekishida/items/c5f70ade5de232a0c901) B! 0
 - [HERE Maps APIを使って避難所・避難場所を表示してみる](https://qiita.com/michieru/items/658c8f813439cfcf06a3) B! 0
@@ -4686,7 +4869,6 @@
 - [HERE Location ServiceとWhat3Wordsを組み合わせてみた](https://qiita.com/chocomon/items/2fde3cd8b760e9b5b3ec) B! 0
 - [HERE Geocoding & Search v7の/geocodeで日本の住所を指定する際の注意点](https://qiita.com/chocomon/items/7d867ca32e1ba7940be1) B! 0
 - [XREAL Air で xR + 音声認識 + enebular + ChatGPT + HERE Discover API で現在地の周辺情報探索アプリを作ったメモ](https://www.1ft-seabass.jp/memo/2023/12/13/xr-voice-chatgpt-discover-app/) B! 0
-- [都内の不動産のデータをhereRを使って可視化・分析する](https://moo-tech.hatenablog.com/entry/2023/12/18/004446) B! 0
 - [HEREの地図サービスで出来ることの紹介](https://zenn.dev/mierune_inc/books/here-writings/viewer/tutorial1) B! 0
 - [HEREの背景地図を導入してみよう](https://zenn.dev/mierune_inc/books/here-writings/viewer/tutorial2) B! 0
 - [住所検索・経路検索機能を実装してみよう](https://zenn.dev/mierune_inc/books/here-writings/viewer/tutorial3) B! 0
@@ -4720,7 +4902,10 @@
 - [Ionic AngularのStandalone構成を深掘りして理解する](https://zenn.dev/rdlabo/articles/8beb8c91e7d337) B! 0
 - [codemodsを使って、Ionic Angularを自動的にStandalone構成に移行する](https://zenn.dev/rdlabo/articles/d6c6c428da299d) B! 0
 - [Ionic AngularのStandalone構成でのベストプラクティスを考える](https://zenn.dev/rdlabo/articles/d6b6c32a1f9d84) B! 0
+- [@rdlabo/ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons?tab=readme-ov-file#optional) B! 0
 - [IonicModuleから誤ってインポートしないためのESLint Ruleを作りました](https://zenn.dev/rdlabo/articles/606fd444a76f8f) B! 0
+- [[Ionic Angular] ion-iconのaddIconsを簡単にする「ionic-angular-collect-icons」](https://zenn.dev/rdlabo/articles/6109f1f7998920) B! 0
+- [2024年1月最新のIonic Angular構成をチェックする](https://zenn.dev/rdlabo/articles/9f5f04734dc684) B! 0
 - [JointJSでHello World](https://qiita.com/acnaman/items/8e872ad8a5fa2730a5ff) B! 0
 - [JointJS解説　～Graph編～](https://qiita.com/acnaman/items/304ebe08225e0d5baee7) B! 0
 - [JointJS解説　～Paper編～](https://qiita.com/acnaman/items/82207fdbed578b956d9f) B! 0
@@ -4761,7 +4946,6 @@
 - [LangChain.js + OpenAI API(GPT-4)で、ベクターストアを使わずに擬似RAGを作ってみた](https://wp-kyoto.net/create-non-vector-store-rag-by-using-langchain-and-openai-with-wp-api/) B! 0
 - [Laravel アンチパターンと対策まとめ](https://qiita.com/ucan-lab/items/bdef3bc513c779116834) B! 0
 - [ Laravel から AWS CloudWatch Logs に JSON 形式でログを送る](https://www.utakata.work/entry/laravel/aws-cloudwatch-logs-json) B! 0
-- [Serverless Laravel - Laravel Queue Workerの構築から学ぶBrefとAWS Lambda](https://no-hack-no.life/post/2023-12-04-serverless-laravel-and-queue-worker/) B! 0
 - [Filamentをv2からv3にアップグレードした時の備忘録](https://zenn.dev/egstock_inc/articles/a9708a390078f0) B! 0
 - [Laravelでスティッキーセッションをやめ可用性・弾力性を高めた話](https://note.com/kurashicom_tech/n/n7f64ce704300) B! 0
 - [laravel 例外について](https://qiita.com/miriwo/items/5749edd953ffa233694c) B! 0
@@ -4770,7 +4954,6 @@
 - [Laravelで動く設計支援ライブラリを作ってみた](https://qiita.com/ikepu-tp/items/09b9d1ca046a64c9a7d6) B! 0
 - [Filament で確認モーダルを表示する](https://zenn.dev/egstock_inc/articles/bfe2c0e354229a) B! 0
 - [Laravelタグ付きキャッシュを利用したキャッシュ機能の実装](https://zenn.dev/deliku0306/articles/b3e3cbc31ea051) B! 0
-- [Eloquent In Memory Testing - Eloquentモデルを速く小さく手軽にテストする](https://no-hack-no.life/post/2023-12-15-eloquent-in-memory-testing/) B! 0
 - [Laravelから余計なもの消して最大1.8倍速くする方法](https://qiita.com/nexus4812/items/e87a6d6512da65d8efb1) B! 0
 - [LaravelのクラスをPHPStanで拡張して使いやすく安全なクラスを作る](https://zenn.dev/torasugo/articles/extend-laravel-with-phpstan) B! 0
 - [Laravel9でつぶやきサイトを作ってみる。](https://qiita.com/naritomo08/items/c0f139fa19295b9a0319) B! 0
@@ -4808,15 +4991,16 @@
 - [【初めてでも簡単】GASでもできる！LINEでデジタル会員証発行！](https://qiita.com/specialman9999/items/348fe82abc08218e9fc4) B! 0
 - [LINE API を使って開発した『地域共通ポイント「ゆりポ」』の技術スタック](https://qiita.com/sumihiro3/items/453cb9dedd5b5219b605) B! 0
 - [line-bot-sdk-gas で GAS に簡単に LINE ボットを構築できたので紹介する](https://qiita.com/umorih-hm/items/7d968f3ff2e4d14bd103) B! 0
+- [LINE CLOVAを改造した話。](https://qiita.com/TakSan/items/c74d1996b0e9cdeea32f) B! 0
 - [GitHub Codespaces ＋ LINE OpenAPI による C# での LINE Bot 開発がすぐ始められるテンプレートを作ってみた](https://himanago.hatenablog.com/entry/2023/12/19/230503) B! 0
 - [LINE Messaging API を Nest.js 上で動かす](https://blog.nekohack.me/posts/linebot-nestjs/) B! 0
 - [LINExChatGPT 渾身の一激！画像から得られる教訓を大喜利風にトークグループにPUSH！](https://qiita.com/h2m_kinoko/items/700d1494efbd57d77ffa) B! 0
 - [LINE×Gemini (Google版ChatGPT) 非エンジニアでも完全に理解できる作り方](https://qiita.com/njn0te/items/afad790f15a974c9224f) B! 0
 - [LINEで「ぽちずかん」外出先でのこどものぐずり対策に。3巻配布中！](https://qiita.com/ped-yui123/items/2f215087931ea2f66de9) B! 0
+- [supabase Edge Functions で LINE Bot tutorial](https://zenn.dev/4geru/articles/advent-calendar-supabase-x-line-bot) B! 0
 - [LINEボットを作るハンズオンを簡単に実施するためのサービス「Codelight Canvas」を開発しました](https://qiita.com/kyamamoto9120/items/569a7216036d6f51653d) B! 0
 - [MapLibreのこれまでとソフトウェア群の紹介](https://qiita.com/Kanahiro/items/e0fd28418594d6078139) B! 0
 - [GPTs で MapLibre GL JS の開発アシスタントを作成した話](https://qiita.com/naogify/items/9524c42ee0d2cc41d561) B! 0
-- [MapLibre GL JSをLeafletとの違いに注目して紹介する](https://qiita.com/Kanahiro/items/452cc021de0e11287cc0) B! 0
 - [MapLibre Nativeを使ってNode.jsで地図をレンダリングする](https://qiita.com/Kanahiro/items/9261c7fbd76ae96a83ae) B! 0
 - [MapLibre GL JS の expression 事例](https://qiita.com/humohumo/items/6460188ab7e8214a89bd) B! 0
 - [MapLibreでレイヤーの特定のところだけ色を変える方法を4つ試してみた](https://qiita.com/4gou/items/e2e0b355858602882384) B! 0
@@ -4839,9 +5023,8 @@
 - [Next.js production server in Go (no JavaScript runtime)](https://zenn.dev/qa/articles/27ed8a8f9232fa) B! 0
 - [Contentlayer で目次を生成する　ほか](https://qiita.com/kedama-t/items/091ea23b8ae7f73595da) B! 0
 - [Next.js 14 PPR](https://zenn.dev/tfutada/articles/714e557d8733b3) B! 0
-- [RSC内のCC同士を連携させるためにJotaiを使った話](https://zenn.dev/tell_y/articles/21d273df3186cf) B! 0
+- [Amplify が Next.js 14 SSR アプリのホスティングをサポートしたので情報整理](https://qiita.com/t-kurasawa/items/0d688b85ef7f9136e23b) B! 0
 - [satoriを活用してヘッドレスブラウザ不要でPDFを生成した](https://zenn.dev/delta/articles/c0a7eff307b573) B! 0
-- [Next.js14 の PPR(Partial Prerendering)は、画面表示速度を改善するか?](https://qiita.com/yaskitie/items/fdaa104e73b3c49872a7) B! 0
 - [nuxtの開発を通じてコンポーネント指向開発の重要性に気づいた話](https://qiita.com/jun2/items/14e71ae836b449654885) B! 0
 - [メタバースイベントサイト開発、Webアプリケーション開発、個人開発で得た、Nuxt3の「わがった！」と「わがんない」](https://zenn.dev/skmt3p/articles/a264bc82cbf668) B! 0
 - [jQueryをやめようとしたが断念した話](https://qiita.com/jun2/items/b21c56080dc12004d03f) B! 0
@@ -4887,8 +5070,6 @@
 - [クオータニオンからオイラー角に戻せるcv::Quatクラス](https://qiita.com/tomoaki_teshima/items/aae3336f9ebd42b26f45) B! 0
 - [OpenCV Advent Calendar 2023まとめ](https://qiita.com/hon_no_mushi/items/f6f949443fe66de23897) B! 0
 - [【p5.js】ブロック崩しゲームでプログラミングの魅力を体感しよう](https://note.com/naosim/n/nc0ca5ca39c21) B! 0
-- [bleedingEdgeとは何か、いますぐ有効にすべき設定10選](https://qiita.com/tadsan/items/75df674c17636f096ea2) B! 0
-- [Ondřejはどうやって発音するのか](https://qiita.com/tadsan/items/3cb6134ab9fd0db271c0) B! 0
 - [PlayCanvasの今年のアップデート周りについて](https://zenn.dev/playcanvas_jp/articles/playcanvas-2023) B! 0
 - [【PlayCanvas】WebXRでMeta Quest3で動作するARパススルーのモデルビューワーを作る](https://zenn.dev/playcanvas_jp/articles/playcanvas-webxr-tutorial) B! 0
 - [3D Gaussian Splatting](https://zenn.dev/yushimatenjin/books/playcanvas-examples/viewer/gaussian-splatting) B! 0
@@ -4928,7 +5109,6 @@
 - [【React】mapの戻り値は{}ではなく()で囲もう](https://qiita.com/wsigma21/items/1d0d4f37293ed0fd4ffe) B! 0
 - [【React】Create React AppへのTailwind CSS導入手順](https://qiita.com/wsigma21/items/a897fc58f13c13408048) B! 0
 - [SWRを使いたいんじゃ!!](https://qiita.com/hakshu/items/3f2810bfff751b38c612) B! 0
-- [Reactを勉強するのにタイピングゲームがお題としてちょうど良かった件](https://qiita.com/Terao-Takumi/items/bc4f543b51b8b31e0522) B! 0
 - [React Reduxの構成がモダンかどうかの簡易チェックリスト](https://zenn.dev/taketaku/articles/769d04b86d349f) B! 0
 - [自作の React 用仮想スクロール OSS を Vue に対応させました](https://zenn.dev/inokawa/articles/94a73a2f035f0b) B! 0
 - [自前のReact UI コンポーネントライブラリを Tailwind CSS で再構築した話](https://diggle.engineer/entry/rebuild_react_ui_components) B! 0
@@ -5035,7 +5215,6 @@
 - [Siv3Dでショートコーディング](https://qiita.com/chonai-flora/items/296ebedc398af2df1960) B! 0
 - [Siv3Dで4次元空間を実装したい！！](https://qiita.com/ogame0522/items/54709eed32df823ad123) B! 0
 - [音声波形の画像を表示させる](https://qiita.com/Nicious/items/5ffc9217a7a115a3518d) B! 0
-- [UIレイアウトエンジンYogaをOpenSiv3Dへ導入してみた](https://zenn.dev/sthairno/articles/3b8a5d9e89aa0f) B! 0
 - [OpenSiv3Dでフレームレートを60fps以外に固定する方法(FrameRateLimitアドオン)](https://qiita.com/m4saka/items/5da6cd4b57bc894d35dd) B! 0
 - [BudouX カスタムモデル模索の仕方 & Siv3D で使う](https://qiita.com/tomolatoon/items/e96615e52f3a69292cfe) B! 0
 - [【VSCode+SpringBoot】SpringBootでAPIを作る⑤](https://qiita.com/NaN-jp/items/59c2a1e37114b4ec44de) B! 0
@@ -5119,7 +5298,6 @@
 - [はじめての C# 大統一理論](https://zenn.dev/monry/articles/20231211-beginning-unified-csharp) B! 0
 - [Unity Searchを拡張する(QueryEngine編)](https://qiita.com/Trapezoid/items/609a86ddf8c1b50426b7) B! 0
 - [【Unity】UniTaskAsyncEnumerableとは何なのか](https://qiita.com/toRisouP/items/fbefb4cc45f8f804ce73) B! 0
-- [【Unity】サーバーレスで定数管理！サンプルで学ぶRemote Config【Unity Gaming Service】](https://myudon.hatenablog.com/entry/2023/12/20/070624) B! 0
 - [UnityとUnrealEngineのSequence機能をさわり比べ](https://qiita.com/_akoto_/items/64f0b34190983c5cf016) B! 0
 - [Photon Fusion for Unityで 障害物生成型2Dアクションオンライン対戦ゲームを作る～uGUI編](https://qiita.com/nimushiki/items/76f1a7c63a455e81cb05) B! 0
 - [UnityからAndroidのクラスや関数を呼び出す](https://zenn.dev/sunmax/articles/e079dd3ba7c487) B! 0
@@ -5234,7 +5412,6 @@
 - [MongoDBシャードキーの選び方](https://qiita.com/n_yamadamadamada/items/7e330d2a3f1383306dc0) B! 0
 - [リポジトリパターンで、データの要求変更に強い設計パターンを実装](https://qiita.com/n_yamadamadamada/items/0bb5eda105c7c307845b) B! 0
 - [習うより慣れろ！正規化実践〜障害お問い合わせシステムを例に〜](https://qiita.com/n_yamadamadamada/items/e4c517ed4e57e14db543) B! 0
-- [【PostgreSQL】pg_stat_activityを理解する](https://qiita.com/dai_chi/items/da0dd5d83a64698c1b98) B! 0
 - [【PostgreSQL】先行書き込みログ（WAL）について理解を深める](https://qiita.com/dai_chi/items/59b50492375f1bb20cc4) B! 0
 - [【PostgreSQL】プロセス構成について](https://qiita.com/dai_chi/items/2cab1b4a1243f8d89bfe) B! 0
 - [【PostgreSQL】メモリ管理について](https://qiita.com/dai_chi/items/33f6aff8279357f0a2c0) B! 0
@@ -5252,7 +5429,6 @@
 - [【PostgreSQL】pg_locksについて](https://qiita.com/dai_chi/items/ea89448bc85d69b02ea0) B! 0
 - [【PostgreSQL】pg_stat_databaseについて](https://qiita.com/dai_chi/items/c53537ba120195e3b921) B! 0
 - [【PostgreSQL】VACUUMについて](https://qiita.com/dai_chi/items/ee71c41639848bb3253c) B! 0
-- [【PostgreSQL】実行計画について](https://qiita.com/dai_chi/items/85ae29f1f4d1d7b72ce3) B! 0
 - [【PostgreSQL】postgresql.confについて](https://qiita.com/dai_chi/items/8836aee017f21678ce2b) B! 0
 - [【PostgreSQL】oid2nameツールについて](https://qiita.com/dai_chi/items/eca4eb55af40719907f1) B! 0
 - [【PostgreSQL】データベースチューニングについて](https://qiita.com/dai_chi/items/d8af93e99eaf42d38203) B! 0
@@ -5289,7 +5465,6 @@
 - [Elasticsearch/LuceneのAnalyzerにおけるトークングラフを理解して適合率と再現率をコントロール](https://qiita.com/daixque/items/64b283fdee9730d5ddb6) B! 0
 - [Elastic Cloudに対してTerraformのImportをやってみた](https://qiita.com/nobuhikosekiya/items/c474a21b7114f3371d85) B! 0
 - [Elastic Stackに対してTerraformのImportをやってみた](https://qiita.com/nobuhikosekiya/items/44027ee0cb6653d29858) B! 0
-- [Elastic CloudとLangChainでQiitaの記事をベクトル/セマンティック検索する方法の紹介](https://qiita.com/nobuhikosekiya/items/10cc5df4ccb72c43b44c) B! 0
 - [ElasticsearchでAzure OpenAIを使ったAI Assistantを設定し、生成AIのチャットを利用する](https://qiita.com/daixque/items/eb406b66b4235e367350) B! 0
 - [FileMakerで便利！私のおすすめハウスキーピングフィールド](https://note.com/comma2percent/n/n0b890f68bcde) B! 0
 - [【FileMaker】グローバル変数を見失わないために](https://qiita.com/tyuma/items/26ac9703169c416cc31b) B! 0
@@ -5298,13 +5473,11 @@
 - [その大小比較、ほんまか？回避の仕込み](https://note.com/filemaker_memo/n/n4f6ebaf0397a) B! 0
 - [【FileMaker】今年度の集計をしたいのだ](https://qiita.com/tyuma/items/861fc14dbb26893077a2) B! 0
 - [【FileMaker】【補足】今年度の集計をしたいのだ](https://qiita.com/tyuma/items/28a26c5ae4a3ba84bb9d) B! 0
-- [FileMakerに、タブ順といふものありて...](https://zenn.dev/ontherocks_plz/articles/6ad9cc6cd8dc6c) B! 0
 - [英語版の「幸せなら手を叩こう」でスクリプトを組んでみた](https://qiita.com/Hi_Noguchi/items/7a0527cec6c1b38a3f4a) B! 0
 - [Claris FileMaker スクリプトトリガでハマったお話](https://note.com/filemaker/n/n4ed0841340a8) B! 0
 - [OpenAI APIをFileMakerから叩いて遊ぶ（JSONモード／Vision API（画像認識）／DALL-Eの画像生成）](https://qiita.com/hosaka_/items/c50eb5ece324f7b8bec2) B! 0
 - [Claris FileMaker Pro で置換リスト変数を用いて複数フィールド内容のメンテナンスを「汎用的」にする](https://qiita.com/Hi_Noguchi/items/5521eb3c2007e2f349b1) B! 0
 - [ChatGPT と FM Clipboard Thing の組み合わせで FileMaker スクリプトを簡単に書こうとしてみる](https://qiita.com/Hi_Noguchi/items/d33c4559ac2fca3e6270) B! 0
-- [ぼくのかんがえた さいきょうの てきすとそおと](https://zenn.dev/ontherocks_plz/articles/23b50fa5c251cb) B! 0
 - [Firebird 2023年の振り返り](http://blog.kimuradb.com/?eid=877691) B! 0
 - [SQL:2023 Firebirdの場合: UNIQUE null treatment (F292)](http://blog.kimuradb.com/?eid=877692) B! 0
 - [SQL:2023 Firebirdの場合:ORDER BY in grouped table (F868)](http://blog.kimuradb.com/?eid=877694) B! 0
@@ -5326,6 +5499,10 @@
 - [Firebird 5.0 リリースノートを読む: SKIP LOCKED句](http://blog.kimuradb.com/?eid=877710) B! 0
 - [Firebird 5.0 リリースノートを読む: カッコで囲まれたクエリー式](http://blog.kimuradb.com/?eid=877711) B! 0
 - [Firebird 5.0 リリースノートを読む: OPTIMIZE FOR句](http://blog.kimuradb.com/?eid=877712) B! 0
+- [Firebird 5.0 リリースノートを読む:「UPDATE OR INSERT」での PLAN, ORDER BY と ROWSのサポート](http://blog.kimuradb.com/?eid=877713) B! 0
+- [Firebird 5.0 リリースノートを読む: MERGEでのPLANとORDER BYのサポート](http://blog.kimuradb.com/?eid=877714) B! 0
+- [最新版のInterBase 2020 Update 5](http://blog.kimuradb.com/?eid=877715) B! 0
+- [2024年のFirebird(展望)](http://blog.kimuradb.com/?eid=877716) B! 0
 - [-](https://qiita.com/advent-calendar/2023/ga4_bigquery) B! 0
 - [-](https://qiita.com/advent-calendar/2023/ga4_bigquery) B! 0
 - [-](https://qiita.com/advent-calendar/2023/ga4_bigquery) B! 0
@@ -5362,14 +5539,12 @@
 - [PlanetScaleでフェイルオーバー中のダウンタイムがごく稀に長いときがある](https://qiita.com/ikuosaito1989/items/23ea64591a463a225da0) B! 0
 - [MySQL Shell dumpInstance のロジック #2](https://mita2db.hateblo.jp/entry/dumpshellchunk2) B! 0
 - [MySQL 8.0.35 で MySQL InnoDB Clusterを構築してみる。](https://macchi09.hateblo.jp/entry/2023/12/24/181805) B! 0
-- [アップグレードしたいとき見るドキュメントについて](https://next4us-ti.hatenablog.com/entry/2023/12/25/091907) B! 0
 - [Nurseryの将来の方向性](https://qiita.com/lily-bud/items/77cd4cd25813e36dd4cc) B! 0
 - [OrioleDB を触ってみる](https://qiita.com/harukat1232000/items/90ed5febc48c061cd8b0) B! 0
 - [PostgreSQL パラレルクエリ 性能検証 (2023年版)](https://qiita.com/taiki-k/items/6df5dcfb254cf9f20903) B! 0
 - [ossdb-goldを取得して変わったこと](https://qiita.com/jun2/items/75bd3dc9b34cd50948c2) B! 0
 - [最新のSQL標準(SQL:2023)とFirebird/MySQL/PostgreSQL](http://blog.kimuradb.com/?eid=877700) B! 0
 - [PostgreSQLのjsonb型でJSONパス式(JSONPath)を使う](https://zenn.dev/onozaty/articles/postgresql-jsonpath) B! 0
-- [sqldefとpgrollを利用したPostgreSQLでのスキーマブルーグリーンデプロイメント](https://zenn.dev/nnaka2992/articles/blue_grean_on_postgres_with_sqldeff_and_pgroll) B! 0
 - [PostgreSQLのチェックポイント実行契機](https://zenn.dev/shinyakato/articles/cbd5295cf67eda) B! 0
 - [pg_surgeryの使い方](https://qiita.com/kasa_zip/items/3e148533ad2fb7fe93c7) B! 0
 - [postgresqlに変えてから困ったこと](https://qiita.com/jun2/items/c112b9c055920d11b096) B! 0
@@ -5385,6 +5560,7 @@
 - [「PostGIS入門の入門」に入門してきた。](http://blog.kimuradb.com/?eid=877693) B! 0
 - [QGISからMySQLに接続する時、MySQLユーザーのパスワードにはカンマを含まないパスワードを設定しよう](https://qiita.com/yyamasaki1/items/f7f1ac7f10468401f5e1) B! 0
 - [滋賀県の水はすべて淀川に流れているのか - 都道府県水系占有率調査](https://gitlab.com/_hiraoka/watershed_by_pref) B! 0
+- [各DBでの経路探索インターフェースについて調べてみる](https://qiita.com/sanak/items/e33f07097f5297c7be76) B! 0
 - [SnowflakeのNetwork Rulesを使ってNetwork Policyを整理してみた。](https://qiita.com/Itsuki_Inoue/items/87d8a9208b9ee92f9da6) B! 0
 - [CRM AnalyticsのSync Out for Snowflake機能を使ってSalesforceデータをSnowflakeに格納する](https://zenn.dev/suzupappa/articles/6cf3f7ba7cdd9e) B! 0
 - [忘年会シーズンに「DCRごっこ」のご提案](https://ex-ture.com/blog/2023/12/08/lets-pretend-to-be-dcr/) B! 0
@@ -5399,7 +5575,7 @@
 - [【データカタログ作成/Streamlit】テーブルのカラム情報を瞬時に確認できるアプリを作成した。](https://qiita.com/Ayumu-y/items/33cb9d3e9923433b734d) B! 0
 - [dbtによるタグベースのマスキングポリシーの実装](https://zenn.dev/kaz3284/articles/996125bc1737c1) B! 0
 - [Snowflake User Groups Japanのリーダー陣を完走した感想](https://zenn.dev/kommy339/articles/2363629f348013) B! 0
-- [SnowVillageの村民になってからの7ヵ月間【ショート版】](https://qiita.com/ak-sakatoku/items/ee19064b0ded58df585a) B! 0
+- [SnowVillageの村民になってからの7ヵ月間【ディレクターズカット版】](https://qiita.com/ak-sakatoku/items/ee19064b0ded58df585a) B! 0
 - [【TiDB】用語を整理しながら学ぶTiDB](https://qiita.com/ymd65536/items/4eedcea924ec329011b3) B! 0
 - [[ゆる記事] TiDBの（非公式）マスコット ピンちゃんを動かす](https://qiita.com/bohnen/items/2ce5336dadb6610cacb9) B! 0
 - [tiupを使ってTiDBで遊ぼう](https://zenn.dev/shigeyuki/articles/8663e1598ecfa5) B! 0
@@ -5422,7 +5598,6 @@
 - [cdktfでTiDB Clusterを作成してみる](https://zenn.dev/mjxo/articles/1df105caf5e4fb) B! 0
 - [Amazon AppFlowで、StripeのデータをAmazon S3に取り込んでみる](https://wp-kyoto.net/import-stripe-data-by-amazon-app-flow/) B! 0
 - [Console-to-codeで生成したコードでEC2インスタンスを作り、Amazon Qにレビューさせてみた](https://zenn.dev/yutaro1985/articles/f5cbfda1388d6d) B! 0
-- [Aurora MySQLのBGデプロイで簡単・爆速・安全なversion upを行う](https://zenn.dev/shogo_b/articles/2ad95b69caad74) B! 0
 - [S3ストレージ分析を有効化してストレージクラス移行後のコストを予測する](https://zenn.dev/team_delta/articles/c2221338e9a030) B! 0
 - [Amazon DynamoDB の Amazon OpenSearch ServiceのゼロETLを試す](https://zenn.dev/team_delta/articles/3e903ef29ec10b) B! 0
 - [Lambdaのログ設定を使いこなしてエンジニアとお財布に優しいログに](https://zenn.dev/shogo_b/articles/20c66924fca8d5) B! 0
@@ -5430,7 +5605,6 @@
 - [ゾーンシフトも出現したしクロスゾーン負荷分散を再考察する](https://www.grugrut.net/posts/202312192224/) B! 0
 - [Performance Insightsのモニタリングビューが新しくなってInnodbなどのメトリクスが扱いやすくなった](https://zenn.dev/tkg216/articles/7ee2039e8bd0ac) B! 0
 - [ユースケース別にみるEBSのパフォーマンスチューニング](https://zenn.dev/strix/articles/2581541f7cf63e) B! 0
-- [CDKのNodejsFunctionでHTMLをimportできるようにしたい](https://zenn.dev/team_delta/articles/8072decbe5fff3) B! 0
 - [クラウド環境(Azure/GCP/AWS)におけるkubernetesの永続ボリューム(ストレージ)利用](https://www.opensourcetech.tokyo/entry/20231224/1703419804) B! 0
 - [Babylon.jsで作られたかっこいい表現の紹介](https://www.crossroad-tech.com/entry/babylonjs-rendering-works) B! 0
 - [AIボット「Babylonさん（仮）」を作ってみよう](https://qiita.com/cx20/items/1a3a5734b971872d8a7a) B! 0
@@ -5491,7 +5665,6 @@
 - [Reactを用いた再帰的なコンポーネント実装例](https://qiita.com/kugue99A/items/cdf922e58c92b76d7cb8) B! 0
 - [技術書典15で「Go言語で構築するクリーンアーキテクチャ設計」を頒布した話](https://qiita.com/sugamaan/items/43882d1cbc70dd4598ca) B! 0
 - [FCMで直接トークンを指定してマルチキャストでプッシュメッセージを送信する](https://tech.excite.co.jp/entry/2023/12/12/063000) B! 0
-- [ボタンにまつわるエトセトラ（HTMLとアクセシビリティ）](https://tech.excite.co.jp/entry/2023/12/13/100000) B! 0
 - [IntelliJでThymeleafの補完が効くように設定する](https://tech.excite.co.jp/entry/2023/12/23/170801) B! 0
 - [エキサイト株式会社の採用候補者向け会社説明資料を制作した話【前編】](https://tech.excite.co.jp/entry/2023/12/19/144131) B! 0
 - [Javaで整数型やbyte配列と16進表記の文字列との間の変換を行なう](https://tech.excite.co.jp/entry/2023/12/19/063000) B! 0
@@ -5504,6 +5677,7 @@
 - [Google Cloud において認証が必要な Compute プロダクトの死活監視をする方法](https://zenn.dev/a5chin/articles/synthetic_monitoring) B! 0
 - [Githubでプルリクを作成したらGCPにレビュー環境を自動的に作成する](https://qiita.com/beltway7/items/b1a839d084be27bee320) B! 0
 - [Buildpacks が Google Cloud で使える件](https://qiita.com/AoTo0330/items/be487ae1c497651e2f8e) B! 0
+- [Avroスキーマを使ってCloud Pub/Subを使用する](https://qiita.com/MasakiKato5/items/c11719ed2945e8d1945a) B! 0
 - [AWSエンジニアから、Google Cloud エンジニアへ転身チャート紹介](https://zenn.dev/cloudeep_miki/articles/fc504ddbe82509) B! 0
 - [Professional Cloud Architect に合格するまでにやったこと](https://zenn.dev/putcho/articles/491007cef1a330) B! 0
 - [Cloud Workflows で途中実行を実現](https://zenn.dev/hiracky16/articles/3bd3544ff216c8a51241) B! 0
@@ -5571,7 +5745,6 @@
 - [社内のAWSエンジニア（資格取得者）を増やしたい](https://qiita.com/YutoTada/items/fff4b16edf6850883e1e) B! 0
 - [そのDR対策、本当に大丈夫？ - Backup & Restore戦略への提案](https://qiita.com/yuki_ink/items/60de30ad7fe3260f1976) B! 0
 - [Japan AWS Jr. Champions についてお話しします](https://qiita.com/aws-yukki/items/359f7c2af4b5487e18e4) B! 0
-- [未定非 Aurora な RDS から Aurora へ移行する時に考えること全部盛り](https://ishiiiiii.hatenablog.com/entry/2023/12/23/174739) B! 0
 - [re:Invent 2023で感じたAWSが取り組む「多様性」](https://zenn.dev/nagamina/articles/dd7f47285c67ef) B! 0
 - [CloudFront - Origin間でHTTP2通信ができなかった話](https://qiita.com/misakip/items/d0a2427b97d38653859f) B! 0
 - [Keycloak23.0.1のセットアップ](https://qiita.com/l_katayose/items/0e942a160fa65ed32b1d) B! 0
@@ -5618,7 +5791,6 @@
 - [MDN の全ページの Browser Compat Data (BCD) を一覧するツールができました](https://qiita.com/debiru/items/9623594d169edd15a0d6) B! 0
 - [MDN 翻訳コミュニティの2023 年度 OSC 活動紹介](https://qiita.com/ic_lifewood/items/dfa14ec716d79bb0df35) B! 0
 - [MDN の埋め込みデモコードが壊れているので修正するよ](https://qiita.com/debiru/items/d0d43ec45e6fabbc2625) B! 0
-- [:nth-child() の "of S" 構文が最強な件について](https://qiita.com/debiru/items/c91185ddb15ce28b8cee) B! 0
 - [`word-break: auto-phrase` は貧弱なので `word-break: keep-all` を使うべし](https://qiita.com/debiru/items/0a349bee3669b776d8e2) B! 0
 - [text-wrap と white-space プロパティが CSS Text Module Level 4 でどうなっているか](https://qiita.com/debiru/items/23b07bf3d7d6a0ecd69c) B! 0
 - [全ての Web アプリケーション開発者に告げる。文脈に応じたエスケープしませんか。](https://qiita.com/debiru/items/d6035f78c264572e80e1) B! 0
@@ -5641,16 +5813,15 @@
 - [PowerShellでパスに半角スペースが含まれるファイルの実行方法](https://qiita.com/MURAMASA2470/items/2ec52457923f6600067c) B! 0
 - [Chrome 120で追加されたCSSの新機能を紹介](https://qiita.com/MURAMASA2470/items/9f6da9fc4a6b25d08671) B! 0
 - [Chrome 121で追加される予定のCSSの新機能を一足先に紹介！](https://qiita.com/MURAMASA2470/items/cdc5742ef90d7c79a520) B! 0
-- [遅いSQLを爆速へ！SQLでインデックスが効きづらい書き方＆対処法9選](https://qiita.com/MURAMASA2470/items/d06cb3b6ad6b43b12a4b) B! 0
+- [遅いSQLを爆速へ！SQLでインデックスが効きづらい書き方＆対処法8選](https://qiita.com/MURAMASA2470/items/d06cb3b6ad6b43b12a4b) B! 0
 - [MSBuildを使用して.NET Frameworkで作成されたアプリをコマンドラインからビルド&デプロイする](https://qiita.com/MURAMASA2470/items/ef80566fa42a0b82d86d) B! 0
 - [Googleカレンダーの予定をSlackに連携する with GAS](https://qiita.com/MURAMASA2470/items/5187380312afbb0f951e) B! 0
 - [Vue3 + Element Plus + TypeScript + Viteでシンプルモダンなアプリケーションを作成](https://qiita.com/MURAMASA2470/items/618772cf270a7ae5a5d5) B! 0
 - [AppcmdでPowerShellからIISを操作する](https://qiita.com/MURAMASA2470/items/a2d75e9c8836b2d3edb8) B! 0
 - [MySQLのストアドプロシージャで「ERROR 1137： Can't reopen table： 'table_name'」が発生した際の回避策](https://qiita.com/MURAMASA2470/items/e61191dea144c7561b0b) B! 0
-- [Githubで草を生やすのを忘れて、芝に穴が開いてしまったときの対処法](https://qiita.com/MURAMASA2470/items/64df1653e69626fab616) B! 0
+- [Githubで草を生やすのを忘れて、芝に穴が開いてしまったときの対処法/コミット日付を変更する](https://qiita.com/MURAMASA2470/items/64df1653e69626fab616) B! 0
 - [Microsoft Edgeの閲覧履歴をエクスポートする(Windows, Mac対応)](https://qiita.com/MURAMASA2470/items/35cf540cf44a3c1617ab) B! 0
 - [Vercel v0でコピペ出来る画面を生成する](https://qiita.com/MURAMASA2470/items/86864b8b324f854fd068) B! 0
-- [Tailwind CSSのhasクラスについて解説](https://qiita.com/MURAMASA2470/items/e907ac6b6d95fd4457e2) B! 0
 - [コードレビューについて思うこと](https://qiita.com/MURAMASA2470/items/08813184350c620ec698) B! 0
 - [【レビュアー向け】コードレビューをするときに気を付けること](https://qiita.com/MURAMASA2470/items/bf1729098e8fd1fd4fbb) B! 0
 - [【新人向け】コードレビューを依頼する時に気を付けること](https://qiita.com/MURAMASA2470/items/35c99aa4db67ef9ffb4a) B! 0
@@ -5768,7 +5939,6 @@
 - [electron + reactの学習](https://qiita.com/youfuku/items/d6a6de51ecdc44c7332f) B! 0
 - [reactで何を作る？](https://qiita.com/youfuku/items/66022716201f11924efb) B! 0
 - [chakraUIを用いた左メニュー作成](https://qiita.com/youfuku/items/6d34643823cd9b4ac276) B! 0
-- [wsl(ubuntu)にasdfを導入](https://qiita.com/youfuku/items/9e228f7259900c7cd380) B! 0
 - [S3互換のminIOで実験](https://qiita.com/youfuku/items/723e186015c6187c50a4) B! 0
 - [electron-updaterを使って自動アップデートに対応](https://qiita.com/youfuku/items/5120f31d9e1b7bb3fe8d) B! 0
 - [electronのCD](https://qiita.com/youfuku/items/a4473a77d8829277fe9c) B! 0
@@ -5811,7 +5981,6 @@
 - [SQLiteのインメモリデータベースで単体テストを書く](https://okuzawats.com/blog/testing-sqlite/) B! 0
 - [SnapFlingBehaviorを使ってLazyListのスクロールで要素を常に真ん中に表示する](https://qiita.com/fztkm/items/46d24da5f05587bce3b7) B! 0
 - [[Android] BottomSheetDialog にフッターを設定する](https://qiita.com/nishimy432/items/dd66ace603a9e0d07ccf) B! 0
-- [N予備校 Android アプリで Android 14 の「写真と動画への部分的なアクセス権を付与する」に対応した話](https://qiita.com/hiesiea/items/4f563ff16bd85445de83) B! 0
 - [Compose化する前にGroupieについて簡単に学ぼう！](https://qiita.com/Tuna0104/items/6ef2eedbfdd052611cfc) B! 0
 - [Androidでminioにデータを送るのは簡単なんだ．でも依存関係で地獄を見た．](https://qiita.com/log_suzaki/items/e5fdb0f4c956690908cc) B! 0
 - [学祭ハッカソンの技術まとめ(Apollo Kotlin編)](https://hahahamada.hatenablog.com/entry/2023/12/08/001837) B! 0
@@ -5893,6 +6062,7 @@
 - [Swift 29 SwiftUIスタック整列 ](https://qiita.com/June_/items/dcd79038e2bdf40c458e) B! 0
 - [SwiftUIでEnvironmentValuesを使ってカスタムActionをDIする](https://qiita.com/hyuga_amazia/items/37ca3422959ed07a9d6c) B! 0
 - [マクロが実装されたTCAは導入しやすいかも?](https://zenn.dev/zunda_pixel/articles/b72d8b736847f0) B! 0
+- [[Swift] DropDelegate で画面外に放したアイテムを検知する](https://qiita.com/hcrane/items/efa0c0b79c468ddb9262) B! 0
 - [曇りガラス風のビューをNSVisualEffectViewを使ってカスタムする](https://qiita.com/IKEH/items/2a1720a328188be052a2) B! 0
 - [[SwiftUI]Styleを定義する](https://zenn.dev/ryodeveloper/articles/kame_ga_12_hiki) B! 0
 - [みんなのSwift。 - 作ってみよう！](https://note.com/dngri/n/n48c70a6ceb29) B! 0
@@ -5921,7 +6091,6 @@
 - [【ansible】FRRoutingにてBGP設定（ipv6編）してみた！](https://qiita.com/mimilog/items/fb3433af130e6387222d) B! 0
 - [2023年の Ansible 関連リリースや動向まとめ](https://tekunabe.hatenablog.jp/entry/2023/12/24/ansible_recap2023) B! 0
 - [2024年のAnsibleとわたし](https://rheb.hatenablog.com/entry/2023/12/25/000114) B! 0
-- [AWS Application Composer と cdk-from-cfn で CDK はノーコード開発できるのか](https://zenn.dev/winteryukky/articles/cb4eebdf3028ae) B! 0
 - [IConnectable/IGrantableに関するポエム](https://zenn.dev/rrrraaaaa6/articles/8f188c8e07378f) B! 0
 - [AWS CDKで作ったAPI Gateway + LambdaからOpenAPIドキュメントを生成してみた](https://zenn.dev/ncdc/articles/42c7d2b8dfec3e) B! 0
 - [Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service をCDKで書いてみた](https://dev.classmethod.jp/articles/dynamodb-to-opensearch-cdk/) B! 0
@@ -6085,12 +6254,16 @@
 - [GitLabでの標準的な設定](https://qiita.com/kutaka742/items/5d061c5a03807e092d47) B! 0
 - [GitLab Container Registryの容量削減](https://qiita.com/ntrlmt/items/09acbfe6d0f6a326ba9f) B! 0
 - [Gitlab CI カタログをみんなで作ろう！](https://zenn.dev/ftd_tech_blog/articles/ftd-gitlab-2023-12-10) B! 0
+- [GitLab Duo Chatに聞いてみた - 要件定義のコツは？](https://qiita.com/Hurry_Fox/items/cb4fb2961c7c648361ed) B! 0
+- [GitLabが持っている、セキュリティスキャンを、秒で使う方法(実際は分かかる) - Proxy-based analyzer](https://qiita.com/SerinaMorino/items/8b948724df3d68085a20) B! 0
 - [サブモジュールを使ってのコンポーネント開発](https://qiita.com/jun2/items/5df093068285dfd4e961) B! 0
 - [Gitによるチケット管理](https://qiita.com/kutaka742/items/6b48858bfc9987d48603) B! 0
+- [OmnibusインストールされたGitLab 16.7のPostgreSQLを14.9にアップグレードした話](https://qiita.com/ynott/items/8ac94ff782468e0af19d) B! 0
 - [GitLab for Open Source Programについて書こうかと](https://zenn.dev/maeda_naoki/articles/gitlab_oss_program) B! 0
 - [GitLabを使ってPodcast運営のボトルネックを可視化してみた](https://qiita.com/naoharu/items/195da97f237c1b97f690) B! 0
 - [GitLabの操作効率を極めたい人のためキーボードショートカット5選](https://qiita.com/toshihue/items/d67e84fba2630eebf408) B! 0
 - [gitlabのMRテンプレートでreviewer指定する](https://qiita.com/bluelemmon/items/8519efd54791f22c2faf) B! 0
+- [GitLabが持っている、セキュリティスキャンを、まじで"秒"で使う方法 - Browser-based analyzer](https://qiita.com/SerinaMorino/items/c4b2ad2732cec7b3893e) B! 0
 - [HerokuのEco dynoプランで実現する、なるべく安くて立派な個人開発](https://qiita.com/shown_it/items/b1206ccf7628c240748b) B! 0
 - [Data Cloud でID解決したデータをAPIで取得して Heroku Connect 経由で Sales Cloud に連携する](https://qiita.com/tomyf/items/a522a38efdf2b2349291) B! 0
 - [Heroku PostgresとAWS BedrockとHugging FaceでRAGを作ってみた](https://qiita.com/misu007/items/60db3364992566f389a5) B! 0
@@ -6169,7 +6342,6 @@
 - [大規模システムの早期復旧のために気にしていること](https://qiita.com/masatong/items/17269cddf1ae0ebc63ad) B! 0
 - [システム障害対応実践ガイドを読んだ](https://c80py.hatenablog.com/entry/2023/12/24/215456) B! 0
 - [これから（未来）のITサービスマネージャを考える](https://qiita.com/NAGISA0101/items/8e4da6f2092fbb2a5a43) B! 0
-- [Mackerel SRE が実践する監視の育て方](https://helen.hatenablog.com/entry/2023/12/03/233322) B! 0
 - [ヒューリスティックコンテストのスコアを Mackerel に投稿してみる](https://mds-boy.hatenablog.com/entry/2023/12/05/103000) B! 0
 - [PowerShellでMackerelにホストメトリックを投稿する](https://yohfee.hatenadiary.org/entry/2023/12/07/000151) B! 0
 - [Mackerel の PromQL 處理の內部 (2023/12 時點)](https://c4se.hatenablog.com/entry/2023/12/08/011251) B! 0
@@ -6177,10 +6349,14 @@
 - [OpenTelemetry で PostgreSQL のメトリックを収集する](https://inommm.hatenablog.com/entry/2023/12/13/100526) B! 0
 - [OpenTelemetry のヒストグラムメトリックを計装して Mackerel に投稿する](https://rmatsuoka.hatenablog.com/entry/2023/12/17/000000?) B! 0
 - [Mackerel で SAML を實裝してゐます](https://c4se.hatenablog.com/entry/2023/12/18/180939) B! 0
+- [Prompt flowをCLIから使ってみる](https://zenn.dev/microsoft/articles/promptflow-cli) B! 0
+- [2023 年の MLOps 勉強会を振り返る](https://qiita.com/tshowis/items/78b1126bb5b8ca467988) B! 0
 - [OpenShift AIで分散学習を試してみる](https://rheb.hatenablog.com/entry/2023/12/08/083428) B! 0
+- [Azure Machine Learning のモデル監視 (プレビュー) について語ってみる](https://qiita.com/ptatecom/items/d32f272f5f385d8f9e08) B! 0
 - [GKEで構築するストリーミングレスポンス](https://zenn.dev/hosimesi/articles/5b6fa9d162bafb) B! 0
 - [小さくMLOpsを始めるための前処理順序付けライブラリdagstreamの紹介](https://zenn.dev/slopetech/articles/4f299c4a1784fa) B! 0
 - [Argo Workflowsの進捗表示カスタマイズとその注意点](https://zenn.dev/kacky/articles/50d0b7d8fc53de) B! 0
+- [Azure Machine Learning Prompt Flow の歩き方](https://qiita.com/ptatecom/items/1d5a3db14afdebd4b01c) B! 0
 - [OpenShift 4.14 Anyplatform Installation をやってみる。](https://qiita.com/ArakiToshihiro/items/95e2e826adb630da3c1d) B! 0
 - [3ノードクラスタのすゝめ](https://rheb.hatenablog.com/entry/3-node-ocp) B! 0
 - [今年も載せます初心者向けセルフハンズオン](https://rheb.hatenablog.com/entry/2023/12/03/192139) B! 0
@@ -6202,6 +6378,7 @@
 - [RedHatエコシステムカタログへのコンテナアプリケーション登録手順のメモ](https://qiita.com/kkikuo/items/ad5f5a37def88a717d3b) B! 0
 - [OpenShift アップグレード 虎の巻](https://qiita.com/shin7446/items/3a103b7d7c54946af187) B! 0
 - [OpenShiftでWindowsOS Nodeを追加してみた](https://qiita.com/m_furuno/items/c073a3b286d2b01244c4) B! 0
+- [OVN Interconnectの話](https://rheb.hatenablog.com/entry/ovnk-ic) B! 0
 - [agentless metric collection for Amazon EKSについて検証してみました。](https://zenn.dev/clouddevcode/articles/067b17367dc71f) B! 0
 - [【OpenTelemetry】CLIでトレースが送れるotel-cliが便利そうだったので触ってみる](https://ryuichi1208.hateblo.jp/entry/2023/12/17/005818) B! 0
 - [GKEでEnvoy、OPAなどAP以外のプロダクトもトレース計装したいですよね](https://zenn.dev/cloud_ace/articles/envoy-opa-keycloak-trace) B! 0
@@ -6230,15 +6407,14 @@
 - [PagerDutyのカスタムフィールドについて調べてみた](https://iret.media/90160) B! 0
 - [大規模アジャイル組織におけるPagerDutyの活用](https://qiita.com/ryotaro_matsui/items/5ae2b6aa094e8c24c2b6) B! 0
 - [PagerDutyのAPIの使い方](https://qiita.com/manji0/items/635792b17861469d9c84) B! 0
+- [SlackBotでPagerDutyを操作する](https://ryuichi1208.hateblo.jp/entry/2023/12/24/000000) B! 0
 - [Platform Team にどういう人を迎え入れたらいいの？【前編】](https://qiita.com/kenojiri/items/774390c2305ad53d86e0) B! 0
 - [学生から見るPlatform Engineering](https://qiita.com/yu_720/items/7aa761dbcde5ae2ed867) B! 0
 - [Backstageによる安全な組織スケーリング〜３つのユースケースとハンバーガー屋さん〜](https://techblog.ap-com.co.jp/entry/2023/12/14/135659) B! 0
 - [Platform Team にどういう人を迎え入れたらいいの？【後編】](https://qiita.com/kenojiri/items/c29936a073fd9eb1e509) B! 0
-- [DBインスタンスを作るときの Platform Engineering 的な失敗例と学び](https://qiita.com/irotoris/items/6b159bd72d70b7775804) B! 0
 - [スタートアップでもPlatform Engineeringがしたい！Part 1 ー 組織の各フェーズにおけるPlatform Engineeringの役割とは](https://qiita.com/ryukez/items/fed3d49c0b535f2a01c3) B! 0
 - [CNCFによるPlatform Engineering maturity modelからの実践ロードマップ（案）](https://dshina.hatenablog.com/entry/2023/12/20/070000) B! 0
 - [Platform Engineering の最小単位について](https://zenn.dev/streamwest1629/articles/platform-engineering-meetup-6_2023) B! 0
-- [スタートアップでもPlatform Engineeringがしたい！Part 2 ー CloudbaseにおけるPlatform Engineeringの実践事例](https://qiita.com/ryukez/items/cacdac37638dce2d5ed1) B! 0
 - [Platform.shのサインアップ](https://qiita.com/77web@github/items/c467d5af2c80c3036cba) B! 0
 - [Platform.shでプロジェクトを作る](https://qiita.com/77web@github/items/f54fa1a14d144f88ce8e) B! 0
 - [Platform.shのCLIを使う](https://qiita.com/77web@github/items/4b37cb48aa9f51357b55) B! 0
@@ -6256,7 +6432,6 @@
 - [「タイムスタンプは、順序を決めるのに適していない」という常識を疑ってみる](https://qiita.com/riita10069/items/31ab44d8dcdee4578284) B! 0
 - [JetBrain Goland で、 export GOPROXY=direct を有効にする方法](https://qiita.com/riita10069/items/660bcc772750dc99db87) B! 0
 - [2023年もやります！アドベントカレンダー！](https://www.softbank.jp/biz/blog/cloud-technology/articles/202312/adventcalender2023/) B! 0
-- [イベントレポート用の文字起こしにWhisperを使ってみたら最高だった](https://www.softbank.jp/biz/blog/cloud-technology/articles/202312/whisper/) B! 0
 - [現役東大生がSB竹芝本社に集まってアイデアソン！？「UGIP」イベントを追ってみた！！(イベント本番編)](https://www.softbank.jp/biz/blog/cloud-technology/articles/202312/ugip-2023summer/) B! 0
 - [リアルタイムの物体検出器「YOLO」シリーズの変遷を解説](https://www.softbank.jp/biz/blog/cloud-technology/articles/202312/aitech-20231204/) B! 0
 - [データプラットフォーム「Looker」 の機能紹介](https://www.softbank.jp/biz/blog/cloud-technology/articles/202312/looker-introduction/) B! 0
@@ -6288,6 +6463,7 @@
 - [GitHub ActionsでPHPのCI環境作る（15分で）](https://qiita.com/tikamoto/items/03745ed7be082548433e) B! 0
 - [変更点に対するテストの考え方](https://qiita.com/jun2/items/307d1783c1333301a9ba) B! 0
 - [モバイル表示が異様に遅いのは、通信速度がエミュレーションされているからかも？](https://qiita.com/okauchiwani/items/7b758065114b30ce2672) B! 0
+- [「品質は誰かにとっての価値」における「誰か」とは？](https://note.com/toma_cy/n/n45c01b10039e) B! 0
 - [宇宙機にも現代的なCI/CDを取り入れたい](https://qiita.com/zacky1972/items/80fb9aa1b5bf3641f0a5) B! 0
 - [ゆるやか成長スタートアップの小さなEnabling SRE的活動](https://qiita.com/myu_mx/items/8f9a56a464b3c409ac39) B! 0
 - [地道に進めるIaC導入のアプローチ](https://blog.kefiwild.com/posts/sukoshizutsu_iac/) B! 0
@@ -6316,8 +6492,9 @@
 - [terraform おもしろ build-in function](https://blog.chaspy.me/entry/2023/12/16/120000_1) B! 0
 - [terraform-google-modules で構築したリソースを半年後に再管理する準備](https://zenn.dev/sogaoh/articles/23-12-17-8d09e44d1170d4) B! 0
 - [tflintでカスタムルールを作って適用する話](https://qiita.com/ishii1648/items/2dd4f611767d7b44aebb) B! 0
-- [TerraformのBackendについて調べてみた](https://qiita.com/kuroseets/items/303175c581fa15687f66) B! 0
+- [TerraformのBackendについて調べてみた](https://qiita.com/jerichon/items/303175c581fa15687f66) B! 0
 - [【Terraform】Terraform 1.6 で追加されたtestについて書いてみる](https://ryuichi1208.hateblo.jp/entry/2023/12/24/001802) B! 0
+- [管理単位を小さくして運用する terraform](https://zenn.dev/sogaoh/articles/23-12-24-a76758f09a72ae) B! 0
 - [Private AIに関する基礎知識](https://qiita.com/hirosat/items/f309c9f9da2d75544e59) B! 0
 - [Buildpack を使って Rye で管理された Python プロジェクトから Docker イメージを作成する](https://qiita.com/ttani03/items/ea947e62da48aa9c1b49) B! 0
 - [vSphere with Tanzu を恐る恐る触ってみたので2023年版自宅Tanzuを考える](https://qiita.com/xi_nesk/items/1cd2e37e3cedad5ffc04) B! 0
@@ -6432,9 +6609,11 @@
 - [秋月AE-TB67H450とM5Stack(Basic)とRaspberry Piを使った電磁石の制御](https://qiita.com/takashiyamanoue/items/6f01ef5493ee62938e88) B! 0
 - [技適の通っていないRaspberry Pi 5をなんの申請もなしに運用する](https://t-takeda.hatenablog.com/entry/2023/12/13/145444) B! 0
 - [LEGO x M5Stack x Node.js x Web UIでつくるルービックキューブ自動崩しロボの技術スタック紹介](https://qiita.com/miso_develop/items/5a220c045ab41d19bcea) B! 0
+- [opnizを使ってみた](https://qiita.com/SuzukIoT/items/c729bd39758358fc2d7e) B! 0
 - [M5Stack の Servo Kit 360 を UIFlow で使うメモ](https://www.1ft-seabass.jp/memo/2023/12/13/m5stack-servo-kit-360-uiflow-tips/) B! 0
 - [・・・じゃないですか！？ というゴミのような口癖を治したい！](https://qiita.com/watanabe-tsubasa/items/2f2e6d10530b456f92e7) B! 0
 - [2023年展示報告：BVEと連携する誤自宅運転台のススメ](https://qiita.com/usashirou/items/71f168a63b1b9d7d549c) B! 0
+- [Raspberry Piを用いてカーテンを動かしてみた](https://qiita.com/Kubo33/items/289d626589b167d2aa6f) B! 0
 - [Seeed Studio XIAO nRF52840 Sense とEdge Impulseで姿勢推定する](https://qiita.com/tendots/items/3ad35c87707d608989fd) B! 0
 - [ラバーダック・デバッグを楽にするラバーダック「ラバーダッ君」を作った話](https://daiking1756.hatenablog.com/entry/2023/12/26/192739) B! 0
 - [自転車用のケイデンスセンサーをハックpart1](https://qiita.com/tkyko13/items/aae108cc905b3afca509) B! 0
@@ -6447,8 +6626,10 @@
 - [ダミーLiDARを捕まえよう！](https://nageler.hatenablog.com/entry/2023/12/20/084746) B! 0
 - [LiDAR シルエットクイズ (Q2)](https://nageler.hatenablog.com/entry/2023/12/22/001712) B! 0
 - [mmdetection3dに自分で取得した点群データをdetectorに入れてみた](https://kich12345.hatenablog.com/entry/2023/12/22/003835) B! 0
+- [LovyanGFX Version 1系での変更点](https://qiita.com/nanbuwks/items/22d53c5ba33d72b0f442) B! 0
+- [User Setting で LovyanGFX を使う(JLX12864G 液晶を LovyanGFX で動かしてみる)](https://qiita.com/nanbuwks/items/c7639a6ea0700f6f7731) B! 0
+- [LovyanGFX でコンパイルエラー Sketch too big に対処](https://qiita.com/nanbuwks/items/5711c55ae01a497ba496) B! 0
 - [M5Stackでつよつよ系負荷を駆動するUNIT](https://qiita.com/akita11/items/a3fc326dbb8efaaffbd2) B! 0
-- [M5Stack CoreS3 にボタン入力をつけよう](https://qiita.com/GOB/items/ccf0aec590d0fdd059ba) B! 0
 - [M5StackでLoRaWAN](https://qiita.com/fukuebiz/items/270fc9959895b41017c4) B! 0
 - [M5AtomS3 で M5Stack-Avatar を使う](https://qiita.com/Teach/items/7591800767eeb9282447) B! 0
 - [秒でわかるM5stackの開発環境](https://qiita.com/netou_kurage/items/766f41c7fcfb5fb8fa4f) B! 0
@@ -6527,6 +6708,7 @@
 - [ネコリンピックの新作を持って海外転戦した話](https://qiita.com/nekoma-seisakusho/items/ff7d6a9c6338118e2246) B! 0
 - [Playableなメロディーを宣言して鳴らす](https://qiita.com/jp-96/items/beb46f298225f6996c58) B! 0
 - [MakeCode for micro:bit で C/C++プログラミング](https://qiita.com/jp-96/items/ce5630e9278973e96680) B! 0
+- [micro:bitの電源についての調査・非常時に電池を使う仕組み](https://qiita.com/hakatamax/items/6b5c8568f7ecae6247ec) B! 0
 - [milk-V Duo First impression](https://qiita.com/nanbuwks/items/2e704af9ea7d64480321) B! 0
 - [milk-V Duo で POE 監視カメラを作ろう](https://qiita.com/nanbuwks/items/555b6715f6778c3a3afe) B! 0
 - [V 分で説明する RISC-V](https://qiita.com/nanbuwks/items/cc8e818416ec4a4cb3e4) B! 0
@@ -6540,6 +6722,7 @@
 - [milk-v duoでREST API](https://qiita.com/kmt_t/items/ea7088d1838df4fd35d6) B! 0
 - [新型milk-v duoについて](https://qiita.com/kmt_t/items/ac6accae49e9fd4df3c6) B! 0
 - [milk-V Duo カメラのトラブルシューティング](https://qiita.com/nanbuwks/items/536ed873bc95ab353857) B! 0
+- [milk-V Duo でシリアルコンソール](https://qiita.com/nanbuwks/items/f2744a4c20748f0b13fe) B! 0
 - [【2023年12月最新】機械学習用PCの選び方：研究開発の経験から](https://qiita.com/nozomi-code/items/be004a1f7b10528b02e0) B! 0
 - [初めての 自作PC 組んでみた【RTX4070 / Ryzen7 5700X】](https://qiita.com/astaka/items/c3fb5ba4b4572d540960) B! 0
 - [余暇の時間にAI自由研究やDL OSSへのContributionをするためのロマンPC設計書](https://qiita.com/y-vectorfield/items/4ca9e72c7e72aede883d) B! 0
@@ -6556,11 +6739,14 @@
 - [雰囲気で書き始める Rustler](https://qiita.com/pojiro/items/a105021cce44ca4ff282) B! 0
 - [Elixir Nerves で 無線LAN (Wi-Fi）を設定する](https://qiita.com/mnishiguchi/items/9d7ed9f674423be26598) B! 0
 - [Nerves デバイスの /data ディレクトリ](https://qiita.com/mnishiguchi/items/39847da8df3873fec8c9) B! 0
+- [Nerves関連のMixタスクを列挙する](https://qiita.com/mnishiguchi/items/fc3d287d8c6dcd3f5ddb) B! 0
 - [Rclex で動く Nerves を作った！](https://qiita.com/pojiro/items/06ab2ce8f2c4d318e92e) B! 0
+- [ElixirでRaspberry Piのピン配置を確認](https://qiita.com/mnishiguchi/items/b08c920f841996d1cdaf) B! 0
 - [Arch LinuxでNervesをビルドすることを楽しむ](https://qiita.com/mnishiguchi/items/87b1d42f87d9931d6df5) B! 0
 - [NervesとWi-SUNドングルで自宅の消費電力を把握したい](https://qiita.com/juraruming/items/74f11b729a7859da63af) B! 0
 - [Nerves で空気質センサ SGP40 を使う](https://qiita.com/mnishiguchi/items/6d870417734e28aca94e) B! 0
 - [ElixirでGUI・Scenic [新・入門編]](https://qiita.com/myasu/items/e15ed98d08e2f2c804c3) B! 0
+- [はじめてNerves(13) Elixir API の Zenohex を使って Zenoh で Pub/Sub してみる](https://qiita.com/kikuyuta/items/8e89efb8b35aebbdf66c) B! 0
 - [Nerves，月へ行く](https://qiita.com/zacky1972/items/b9bde6aa6724960340ab) B! 0
 - [Nerves 大好きな私が2023年にやったこと](https://qiita.com/pojiro/items/e66c1082462b955e83d9) B! 0
 - [書籍「はじめてのNode-RED MCU Edition」のアップデート情報（アドベントカレンダー2023）](https://qiita.com/kitazaki/items/0768eb7484ee3c27f6e1) B! 0
@@ -6592,6 +6778,7 @@
 - [Switchbot 温度計をobnizに対応した話](https://qiita.com/wicket/items/a3529c82171e407eeef3) B! 0
 - [ブロックでつくった obniz ライト Blobniz Light をゲーミング的に光らせたメモ](https://www.1ft-seabass.jp/memo/2023/12/05/block-obniz-light-gaming-light-controling/) B! 0
 - [obnizのパーツをリモート開発してみた](https://qiita.com/wicket/items/4aa0759151b683c1fb28) B! 0
+- [Node-REDのobniz functionからDFPlayer Miniを操作する](https://qiita.com/kitazaki/items/fd08905c03c1b7d28319) B! 0
 - [switchbot Handをobnizから動かした](https://qiita.com/wicket/items/78404384c7c26efbfa1a) B! 0
 - [フットプリントエディターでパッドのリナンバー on KiCad7](https://qiita.com/nanbuwks/items/2bc3e3503c46867ad6cc) B! 0
 - [RaspberryPi で ESP32 のヒューズビット設定・ファームウェア書き込みマシンを作成する](https://qiita.com/nanbuwks/items/5bc118d3c03ed8c73793) B! 0
@@ -6649,7 +6836,6 @@
 - [ORANGE pico USB I/O UNIT のプロトコルを観察する](https://qiita.com/mikecat_mixc/items/52594c52794742d3f95f) B! 0
 - [ORANGE pico で ASCIIART (マンデルブロ集合)](https://qiita.com/mikecat_mixc/items/c60b2744115ea2c48422) B! 0
 - [【今すぐはじめるFlutter入門 #1】Flutterの特徴](https://pc.gajeroll.com/programming/flutter/flutter-basic1) B! 0
-- [Inter × Noto Sans JP は何がすごいか](https://pc.gajeroll.com/design/basic/font/awesome-noto-inter) B! 0
 - [湧水を自動計測してみた](https://qiita.com/basalte/items/426f4f2266696ee6d381) B! 0
 - [ssh で接続する時のワーニングをなくす](https://x.com/TakeyukiUeda/status/1732217798162858317?s=20) B! 0
 - [Raspberry Pi Pico で 229個の Neopixel を使って、X'masツリーを作った](https://qiita.com/nak435/items/bf8fc2da0cb4d39322ac) B! 0
@@ -6704,10 +6890,10 @@
 - [ILI9488をSpresenseで描画してみた！](https://qiita.com/Interested_in_Spresense/items/f2c900c2341ed194d1b9) B! 0
 - [SPRESENSE で超音波風速計を作ってみようとした話](https://qiita.com/TaroYoshino/items/1f4ce30c25595ab4b11f) B! 0
 - [Spresense サブコア利用でのソフトシリアル通信例](https://qiita.com/shinkage/items/b1fd175111c092f6f91e) B! 0
-- [Autosar Release Overviews](https://qiita.com/kaizen_nagoya/items/ee5080d36a0dd9bbe771) B! 0
+- [Requirements on Methodology for Classic and Adaptive Platform, AUTOSAR 362, R23-11, FO](https://qiita.com/kaizen_nagoya/items/9b77fdbec24752e3c0e4) B! 0
 - [Foundation Release Overview, AUTOSAR, 781, R23-11, FO](https://qiita.com/kaizen_nagoya/items/f249bdb8c313d8bff883) B! 0
-- [Classic Platform Release Overview, AUTOSAR 0 ,R23-11, CP](https://qiita.com/kaizen_nagoya/items/8468435185e109189ead) B! 0
-- [Adaptive Platform Release Overview, AUTOSAR 782, R23-11, AP](https://qiita.com/kaizen_nagoya/items/13a104606a34fe24fcf7) B! 0
+- [Log And Trace Extract Template, AUTOSAR 1024, R23-11, FO](https://qiita.com/kaizen_nagoya/items/126d662933e4ee27f6dd) B! 0
+- [AUTOSAR Feature Model Exchange Format Requirements, AUTOSAR 605, R23-11, FO](https://qiita.com/kaizen_nagoya/items/ee1049de90e7e6937098) B! 0
 - [Glossary AUTOSAR 55, R23-11 FO](https://qiita.com/kaizen_nagoya/items/f01ad357d9bbd0b80aad) B! 0
 - [Explanation of Security Overview, AUTOSAR 1077, R23-11, FO](https://qiita.com/kaizen_nagoya/items/061c255e381c38a17cdc) B! 0
 - [Specification of Abstract Platform, AUTOSAR 947, R23-11, FO](https://qiita.com/kaizen_nagoya/items/fac84f08069d713ef26d) B! 0
@@ -6718,6 +6904,17 @@
 - [Requirements on Diagnostics	AUTOSAR 4, R23-11, FO](https://qiita.com/kaizen_nagoya/items/897c1d51fab522c8702a) B! 0
 - [Main Requirement, AUTOSAR 54, R23-11, FO](https://qiita.com/kaizen_nagoya/items/1b66135fe83dffcf7c4b) B! 0
 - [AUTOSAR XML Schema Production Rules, AUTOSAR 122, R23-11, FO](https://qiita.com/kaizen_nagoya/items/729a46edb023f7bbf2d9) B! 0
+- [Requirements on AUTOSAR Network Management, AUTOSAR 927, R23-11, FO](https://qiita.com/kaizen_nagoya/items/4dec222de3ce36d0cb1a) B! 0
+- [Requirements on Debugging, Tracing and Profiling support of AUTOSAR Components, AUTOSAR 916, R23-11, CP](https://qiita.com/kaizen_nagoya/items/a26b0b3263a5c68950cd) B! 0
+- [Requirements on E2E, AUTOSAR 847, R23-11, FO](https://qiita.com/kaizen_nagoya/items/84854fb06cccf0fcd476) B! 0
+- [Requirements on Log and Trace, AUTOSAR 350, R23-11, FO](https://qiita.com/kaizen_nagoya/items/fcb71087b5beddf09bb0) B! 0
+- [Predefined Names in AUTOSAR, AUTOSAR 600, R23-11, FO](https://qiita.com/kaizen_nagoya/items/b870aa413163ba57b996) B! 0
+- [Project Objectives, AUTOSAR 599, R23-11, FO](https://qiita.com/kaizen_nagoya/items/4bc213380a99283a537f) B! 0
+- [Explanation of System Health Monitoring, AUTOSAR 993, R23-11, FO](https://qiita.com/kaizen_nagoya/items/bb270085abcdf7e34383) B! 0
+- [Requirements on Health Monitoring,  AUTOSAR 878, R23-11, FO](https://qiita.com/kaizen_nagoya/items/1e267079fbc7457705ac) B! 0
+- [Specification of Health Monitoring, AUTOSAR 850, R23-11, FO](https://qiita.com/kaizen_nagoya/items/0369a1db83c525ac4c3c) B! 0
+- [ARXML Serialization Rules, AUTOSAR  779, R23-11, FO ](https://qiita.com/kaizen_nagoya/items/4074f721a186ceca9e47) B! 0
+- [AUTOSAR Feature Model Exchange Format, AUTOSAR 606, R23-11 FO](https://qiita.com/kaizen_nagoya/items/d7867de596154f7d1997) B! 0
 - [何を思ったか『DO bit をたてない Unbound をビルドさせる ports コンフィグ』を(今更)作ってた件](https://qiita.com/soprano1125/items/eddf149c9224a46f1904) B! 0
 - [ChatGPTとzsync(zfs同期スクリプト)を作った。](https://qiita.com/asakawaya/items/fb3d0726099dfd7ee6d2) B! 0
 - [FreeBSD14 に Zabbix6(LTS) をインストールする](https://qiita.com/HirohitoHigashi/items/fbd80f730eb3ee422976) B! 0
@@ -6726,6 +6923,7 @@
 - [beyond the stable/12](https://qiita.com/yamori813/items/b89c4d125705059dafa9) B! 0
 - [RalinkとAtherosのSPI](https://qiita.com/yamori813/items/9920d84783fdea8ee98e) B! 0
 - [dma(8) に置き換わった影響の回避法](https://qiita.com/je3kmz/items/038694a1b4ff7c640435) B! 0
+- [FreeBSD ports を作る際の調査ノウハウ](https://qiita.com/nanorkyo/items/bc1860f624823501e197) B! 0
 - [Bhyve で胃袋を掴まれる話](https://qiita.com/strnh/items/db3ca6c4644f3c46ea43) B! 0
 - [不必要に/usr/srcを持ってませんか？ freebsd-update upgrade が遅いですよ](https://qiita.com/belgianbeer/items/a5ffcee86d2c660747f6) B! 0
 - [NanoPi R5S その後の状況](https://qiita.com/mina_im/items/c6ee9d872d31b950134f) B! 0
@@ -6779,7 +6977,7 @@
 - [Arch Linux に Docker Compose をインストールする](https://qiita.com/mnishiguchi/items/62744d09ce9a8a2d109c) B! 0
 - [Linus Torvaldsさん(Linux開発者)とGreg Kroah-Hartmanさん(Linuxカーネルメンテナー)に会ってきた♪](https://www.opensourcetech.tokyo/entry/20231224/1703416500) B! 0
 - [docker使い始める。Mac OS(Appleシリコン)](https://qiita.com/kaizen_nagoya/items/189ffd309eb4fd32a504) B! 0
-- [AppleシリコンのMacでDocker上にSQL Serverを構築できるようにする](https://qiita.com/flutter_daisuki/items/5639ef87c37cb20032e2) B! 0
+- [AppleシリコンのMacでDocker上にSQL Serverを構築できるようにする](https://qiita.com/ikeike_ryuryu/items/5639ef87c37cb20032e2) B! 0
 - [MacOS USキーボードでの入力ソース切り替え](https://qiita.com/nak435/items/829daaaa501e1efe3258) B! 0
 - [NetBSD上のFirefoxで、text-to-speechを試す](https://blog.onodera.asia/2023/12/netbsdfirefoxtext-to-speech.html) B! 0
 - [NetBSDの開発版(current)を使ってみる](https://qiita.com/furandon_pig/items/6373fdf0bd7995f0fcee) B! 0
@@ -6808,7 +7006,6 @@
 - [NetBSDカーネル内のstruct procからプロセスの親子関係をグラフ化してみる](https://qiita.com/furandon_pig/items/e77bfc75c4a42367b608) B! 0
 - [ITRONプログラミングTIPS 第1回：リングバッファの実装](https://qiita.com/hiroakitakada/items/360fc7fef2fc772f9e31) B! 0
 - [秋のTOPPERS/箱庭合宿に参加してきました](https://hakoniwa-lab.net/2023/11/19/blog-hakoniwa-camp2023-11/) B! 0
-- [Arduino UNO R4で始めるTOPPERS RTOS開発](https://qiita.com/h7ga40/items/5653d0c6ac01c4af76b8) B! 0
 - [ITRONプログラミングTIPS 第2回：セマフォを用いたリングバッファの実装](https://qiita.com/hiroakitakada/items/ee8531d67d600841e5f1) B! 0
 - [Arduino CLIをMakefileで使うためのmsys+Visual Studio Codeの環境構築](https://qiita.com/h7ga40/items/e67380f4fd5ffaafb418) B! 0
 - [Smallest Set Profile and Automotive Profile](https://qiita.com/kaizen_nagoya/items/0c5484f6562cc259e7f0) B! 0
@@ -6852,7 +7049,7 @@
 - [Emacsのセッション情報と履歴を保存する](https://qiita.com/j8takagi/items/64cc011a333345d2d749) B! 0
 - [Emacs で git jump を使ってみる](https://zenn.dev/eggc/articles/7ad4678df4ef73) B! 0
 - [パラグラフ・ライティングをEmacsで楽にする関数を書いた](https://blog.ecofirm.com/post/231223paragraphsupporter/) B! 0
-- [新たなスペルチェッカー Jinx](https://www.p-snow.org/posts/20231212_1850/) B! 0
+- [新たなスペルチェッカー Jinx](https://p-snow.org/20231212-1850.html) B! 0
 - [Android版のGNU Emacsについて](https://qiita.com/ayatakesi/items/54e5bcd5f76d96163040) B! 0
 - [大企業のプロキシ環境で、Nix (Twist)を使ってEmacsをインストールする](https://qiita.com/akirak/items/517b26a14a54d43f3652) B! 0
 - [Emacsのカスタム変数について](https://qiita.com/j8takagi/items/701eb40029369c6ccc04) B! 0
@@ -6934,6 +7131,7 @@
 - [効率の良いソートアルゴリズム クイックソートとマージソートをGoで実装](https://qiita.com/tsukasaI/items/c6b3a5f898c9e5d2ce58) B! 0
 - [個人的Goでアルゴリズムとデータ構造の基本文法まとめ](https://qiita.com/tsukasaI/items/d3d8579372a70b7f0590) B! 0
 - [心理物理と尺度構成：Weber-Fechner則とStevensの冪乗則](https://qiita.com/MikiYonemura/items/199b164c41927ff32ebb) B! 0
+- [ffmpegで音声ファイルを動画に変換する](https://qiita.com/n-taishi/items/9659dc12c1300c2f00eb) B! 0
 - [局所ガウスモデルとはなんぞや？](https://zenn.dev/yoshipon/articles/22e39bd4396312) B! 0
 - [jaCappellaコーパスを作ったときの話](https://mahogany-sort-b9e.notion.site/jaCappella-27d0f2dd5d4e43e185f90f7ec38e048a?pvs=4) B! 0
 - [音楽を始めたのでフリーハンドで波形を描いて任意の周波数で鳴らす](https://note.com/wangoroge333/n/nea2b751ec64c) B! 0
@@ -7149,6 +7347,9 @@
 - [単一化変数の話をしよう](https://qiita.com/h_sakurai/items/e0bbe8082ef90e00d6a7) B! 0
 - [Prologで作る簡単な日本語プログラミングによるインタプリタ実装](https://qiita.com/h_sakurai/items/e2b3d5767e9c609de919) B! 0
 - [mindの研究 その55](https://qiita.com/ohisama@github/items/dd92b3971f3b1d997312) B! 0
+- [mindの研究 その51](https://qiita.com/ohisama@github/items/6dd0c8b88037db62298c) B! 0
+- [wslでelixir その119](https://qiita.com/ohisama@github/items/a995883335dc3427cedc) B! 0
+- [wslでelixir その118](https://qiita.com/ohisama@github/items/2cdeb1d3261fdc03331a) B! 0
 - [ChatGPTとPythonで学ぶ 非尺度型多次元尺度構成法 (NMDS)](https://qiita.com/maskot1977/items/017815c32f2b683ba6a2) B! 0
 - [グーグルの10セントダイエットを解いてみた](https://note.com/futureforecast/n/nb5a8c605d82f) B! 0
 - [ChatGPTとPythonで学ぶ 局所接線空間アラインメント (LTSA)](https://qiita.com/maskot1977/items/add09962c626014a9f03) B! 0
@@ -7174,7 +7375,6 @@
 - [【J-Quants】指数四本値を取得できる新規のAPIについて](https://qiita.com/j_quants/items/68ffe2383cd6c3b8f6e1) B! 0
 - [窓際族はクリスマスに億り人の夢をみる](https://note.com/nonbiri_tech/n/n7429ffebb9d9) B! 0
 - [Pytorchによるテーブルデータのmixup](https://zenn.dev/tonic/articles/4245664ba2a5a0) B! 0
-- [【J-Quants】売買内訳データの紹介及びその利用例について](https://qiita.com/j_quants/items/ae423b14dcdcf819eb27) B! 0
 - [条件付き確率と確率の乗法定理のイメージを掴みたい](https://qiita.com/mkto052/items/c45e1c9988231889ad8e) B! 0
 - [グーグルの10セントダイエットを解いてみた](https://note.com/futureforecast/n/nb5a8c605d82f) B! 0
 - [ChatGPTとPythonで学ぶ ARIMAとSARIMA](https://qiita.com/maskot1977/items/0bfa5074a981f993010e) B! 0
@@ -7187,7 +7387,6 @@
 - [ChatGPTとPythonで学ぶ 協調フィルタリング](https://qiita.com/maskot1977/items/f32c514e46e0b5bd432e) B! 0
 - [ChatGPTとPythonで学ぶ アソシエーションルールマイニング](https://qiita.com/maskot1977/items/2621069ba42b92518c56) B! 0
 - [ChatGPTとPythonで学ぶ HDBSCAN クラスタリング](https://qiita.com/maskot1977/items/339ab0395b80218b0ef3) B! 0
-- [統計検定1級の勉強の仕方【2023年末版】](https://qiita.com/Ayumu_walker/items/461705df5afd8eedf692) B! 0
 - [統計応用という名の沼に飛び込もう](https://taro-masuda.hatenablog.com/entry/2023/12/21/100937) B! 0
 - [統計検定1級を受験してみた](https://note.com/youhei0917/n/nfa95542125ce?from=membership-note) B! 0
 - [ChatGPTとPythonで学ぶ 共起ネットワーク分析](https://qiita.com/maskot1977/items/9d2e89152218699367f4) B! 0
@@ -7202,10 +7401,10 @@
 - [【事例共有】ホテル客室清掃　担当割り振り業務　の最適化](https://qiita.com/ookamikujira/items/d9fbb4ba0a6ea1a84886) B! 0
 - [Metaheuristics.jl を使ってジオフェンスを計算する](https://zenn.dev/takilog/articles/36f5a9a61cc9ae) B! 0
 - [Robustness of Magicの計算方法 (86PiBサイズのL1ノルム最小化問題を解く為には)](https://qiita.com/hari64/items/2cb676862149802add11) B! 0
+- [いいかんじに区分線形近似する](https://zenn.dev/h_atsu/articles/piece_wise_linear) B! 0
 - [gurobi-logtools を用いた Gurobi のログファイルの可視化](https://qiita.com/kenkoba2119/items/90c049f3e5c6b035f6b9) B! 0
 - [行けたら行く](https://zenn.dev/sfujiwara/articles/0761134945fbfc) B! 0
 - [二部グラフの最小重み完全マッチング](https://qiita.com/manman4/items/fdd56b76051e9a0331d1) B! 0
-- [RustでFEMを実装してみた](https://qiita.com/tm0377/items/a84171908b1cb018f638) B! 0
 - [OpenRadiossを用いた流体ー構造連成解析モデルの構築](https://drive.google.com/file/d/19FYtoXGJOgeb2mUn9NlE0Dxy6jRLUZbo/view?usp=sharing) B! 0
 - [OpenRadiossの衝撃子をエアバッグで受け止める解析](https://takun-physics.net/16885/) B! 0
 - [OpenRadiossのインプットファイルに書かれた節点、要素番号をモデル上で確認する方法](https://hammamania.tech/4e403133c5f143658f019d8725699fc5) B! 0
@@ -7242,8 +7441,10 @@
 - [博士課程進学と生き方の選択](https://drive.google.com/file/d/1rZ5JDiNbssTtKtELp6932Y0pF2bx4tkh/view?usp=sharing) B! 0
 - [テンソルネットワークへの関数の埋め込み](https://qiita.com/wotto27oct/items/547d49716ada9aaba4e7) B! 0
 - [産総研の半導体量子コンピュータを見てきた](https://blueqat.com/yuichiro_minato2/8b39d2bd-45f4-4de1-8e69-4d563f851b10) B! 0
+- [Qulacs向けJordan Wigner変換のC++実装](https://qiita.com/mikan_bit/items/5bd31ef67f29bf8dff0c) B! 0
 - [基礎から学ぶGPUとcuQuantum / cuStateVec講座](https://blueqat.com/yuichiro_minato2/ef24d5d2-b7b5-4d9e-b6a4-fddbd857ce3b) B! 0
 - [テンソルネットワークによる連続関数の最適化](https://zenn.dev/rihitosakurai/articles/7cd09ad6f53bd3) B! 0
+- [PyTorchだけで量子計算！](https://blueqat.com/yuichiro_minato2/f7e27f5e-595f-45de-a390-e6a290deb286) B! 0
 - [量子特異値変換を大まかに理解する](https://qiita.com/notori48/items/98e9f2199493f86839b4) B! 0
 - [量子回路生成における補助量子ビット削減（卒論供養）](https://qiita.com/Koewelo/items/e72839a61f011a342596) B! 0
 - [見えてきた自作QPU](https://quantum.siprop.org/handmade_qpu/) B! 0
@@ -7251,6 +7452,7 @@
 - [テンソルネットワークと量子ゲート方式](https://zenn.dev/torataro/articles/2023-11-12-tensor_network) B! 0
 - [量子プログラミングAIアシスタント”Azure Quantum Copilot” を触ってみた](https://qiita.com/Narry0309/items/8e4c739737b8c80decda) B! 0
 - [表面符号と戯れる【量子コンピューター Advent Calendar 2023 23 日目】](https://trsasasusu.com/blog/172/quantum-surface-code/) B! 0
+- [Tytan SDKは使いやすい上に量子コンピュータの勉強の取っ掛かりに最適なシミュレーターか？？](https://qiita.com/y-vectorfield/items/697fdd269ed9c18415c3) B! 0
 - [強化学習の理論の勉強の内容とやり方の備忘録（Shumi-Noteについて）](https://syuntoku14.github.io/post/rl-theory-2023/) B! 0
 - [有限ホライゾンLQRをSystem Level Synthesisってやつで解く](https://github.com/syuntoku14/Shumi-Note/blob/main/notebooks/RL_LQR_SLS_finite_horizon.ipynb) B! 0
 - [制約付きMDPにおけるリグレット解析](https://github.com/syuntoku14/Shumi-Note/blob/main/notebooks/RL_CMDP_explore_exploit_LP.ipynb) B! 0
@@ -7268,7 +7470,10 @@
 - [ロバストMDPは凸最適化問題で書けるよ](https://github.com/syuntoku14/Shumi-Note/blob/main/notebooks/RL_robust_MDP_convex.ipynb) B! 0
 - [Control as Inferenceざっくり入門](https://zenn.dev/bb777/articles/3258a7871543c9) B! 0
 - [MDPとPOMDPって結局なんやねん](https://qiita.com/maguro27/items/03dd0aa9ea195e304a29) B! 0
+- [Diffusers: 拡散モデルで画像生成](https://qiita.com/asaoka/items/f6cac5705a0fc7604ccf) B! 0
 - [Creative Robot Tool Use with Large Language Models](https://qiita.com/makolon/items/dd8090e46c7c80cab4c9) B! 0
+- [Diffusers: 拡散モデルを訓練](https://qiita.com/asaoka/items/427ec9dd461dde1bdf3a) B! 0
+- [GAIA-1: 自動運転向けの実世界のマルチモーダル世界モデル](https://qiita.com/asaoka/items/abc1302da5b045a150be) B! 0
 - [Foundation Model & Roboticsの動向　- 大規模モデルとロボティクスの現状キャッチアップ - ](https://qiita.com/MeRT/items/31018829b857c71c5c96) B! 0
 - [VLM(GPT4V)×Robotics             Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning](https://qiita.com/kosei1515/items/1abbe66e0959108b2a1e) B! 0
 - [形式言語を用いた強化学習について](https://qiita.com/terurl/items/f495b2730f27195a56a8) B! 0
@@ -7291,11 +7496,9 @@
 - [Amazon Bedrock and LangChain Workshopを使って、Claude2と2.1を比較する](https://zenn.dev/tomoya_oka/articles/17eed4969a996f) B! 0
 - [Amazon Bedrock × LangChainでマーケティングした話！](https://qiita.com/akiraabe/items/0d5e3dd22d8b89437d9d) B! 0
 - [Model Evaluation on Amazon Bedrockを動かしてみた](https://wp-kyoto.net/just-tried-to-use-mode-evaluation-for-amazon-bedrock/) B! 0
-- [Amazon Bedrockでモデルをカスタムして偉大なミュージシャンを降臨させた(?)話](https://qiita.com/triwave33/items/b36f85f95db44d252e32) B! 0
 - [JAWS DAYS 2024 のロゴ素案を Bedrock で生成した話](https://techblog.forgevision.com/entry/2023/12/19/085905) B! 0
 - [Bedrock＋サーバレスでSlackボットを作成してみた](https://zenn.dev/uchiko/articles/ebd6d605c786d5) B! 0
 - [三システム寄れば文殊の知恵](https://zenn.dev/fusic/articles/monju-system) B! 0
-- [Where Are You Christmas? At Agents for Amazon Bedrock! 世界最速(?) Agent for Amazon Bedrock デモ](https://qiita.com/kazuneet/items/36f6d42fecbad0469d35) B! 0
 - [Amazon BedrockとRustでコーディングアシスタントを開発した](https://note.com/k_urushi/n/n6aa24b977485) B! 0
 - [Amazon ConnectのWebRTC通話をWebアプリケーションに実装する](https://www.geekfeed.co.jp/geekblog/implement-connect-webrtc) B! 0
 - [[アップデート]Amazon Connect 顧客プロフィールで生成 AI を活用した顧客データのマッピングができるようになりました ](https://dev.classmethod.jp/articles/amazon-connect-generative-ai-powered-data-mapping/) B! 0
@@ -7339,11 +7542,13 @@
 - [AWS謹製OSS Bedrock Claude Chatの機能アップデートをご紹介！！ツンデレとずっと一緒にいられるぞおぉぉ！！](https://xblood.hatenablog.com/entry/bedrock-claude-chat-new-feature-2023-12) B! 0
 - [Redshift Serverless の Data API を使用して、S3 にある CSVファイルのデータを取り込む](https://zenn.dev/nkmrkz/articles/aws-redshift-serverless-data-api) B! 0
 - [Amazon QuickSight Q + 生成系 BI 機能をさらに拡張した「Amazon Q in QuickSight」が発表（プレビュー）](https://www.sunnycloud.jp/column/20231210-02/) B! 0
+- [スタートアップが技術を成功させるためのデータ分析の考え方とその手法](https://aws.amazon.com/jp/blogs/startup/techblog-how-to-grow-the-business-with-data-analytics-for-startup/) B! 0
 - [ついにGAした Redshift と Aurora の Zero-ETL でニアリアルタイム連携](https://qiita.com/suzukihi724/items/94da186ab159db98bd52) B! 0
 - [QuickSightでサードパーティデータと連携してみた](https://www.sunnycloud.jp/column/20231224-01/) B! 0
 - [Amazon Q in QuickSightの振り返り](https://www.sunnycloud.jp/column/20231210-02/) B! 0
 - [AWS App Runner 振り返り 2023～決別・ECSを使うぞ～](https://koudenpa.hatenablog.com/entry/2023/12/04/000000) B! 0
 - [re:Invent 2023 セッションレポート「[NEW LAUNCH] Enhance workload security with agentless scanning and CI/CD integration」](https://blog.mmmcorp.co.jp/2023/12/09/reinvent-2023-report-new-launch-enhance-workload-security-with-agentless-scanning-and-ci-cd-integration/) B! 0
+- [Amazon EKS Anywhere ベアメタルサポートを仮想環境 (VMware ESXi) で検証する](https://aws.amazon.com/jp/builders-flash/202401/eks-anywhere-bare-metal-support/?awsf.filter-name=*all) B! 0
 - [Red Hat OpenShift Service on AWS (ROSA)を無料で試してみよう](https://rheb.hatenablog.com/entry/202312-rosa-hcp-trial) B! 0
 - [PipeCDにおけるECSのCanary Releaseに対して、ListenerRule対応のコントリビュートした話](https://zenn.dev/moko_poi/articles/9f6898e49dc496) B! 0
 - [PipeCDでECS Service DiscoveryでのCanaryリリースを簡易実装したので解説します](https://qiita.com/t-kikuc/items/25bd032606d878229ed7) B! 0
@@ -7369,18 +7574,17 @@
 - [Bedrockのtitan text modelをpythonで呼び出してみた](https://qiita.com/JamyJamy/items/8683699bf221b1c25555) B! 0
 - [Amazon Redshift Serverless with AI-driven scaling and optimizations (Preview) を使ってみた](https://qiita.com/s-niim/items/863c92f2699fb9d34c96) B! 0
 - [Amazon API Gatewayを利用して相互TLS認証通信の実現](https://qiita.com/matthew-ke/items/7b8724db9077b8c6872b) B! 0
-- [[機能拡張]IaC対応されたAmazon CodeWhispererの稼働検証をしてみた](https://qiita.com/duelist2020jp/items/090a98e5fa17fa96e319) B! 0
 - [Redshift Serverlessのスケジュールスナップショット機能を試す](https://qiita.com/hoshiko/items/f48f787d849776480468) B! 0
 - [Terraformを利用して、API Gateway+Lamba構成を作成してみる。](https://qiita.com/Tterima/items/c83593a9eace4dcde976) B! 0
 - [AWS Fault Injection ServiceとSystems Manager Documentsで実践Chaos Engineering](https://qiita.com/thegreenflash/items/19329d7dcdb04c7e9730) B! 0
 - [AWSで複数イベントを待ち合わせて後続をトリガする方法を考えてみる](https://qiita.com/SawaShuya/items/0b137c06dfe7e4980b58) B! 0
 - [【SlackAPI】無料版Slackワークスペースに所属している全ユーザーをAPIを利用して取得する](https://qiita.com/Wadadada/items/89b47eacdede278c6829) B! 0
 - [[新機能]CloudFormationのGit同期機能を稼働検証してみた](https://qiita.com/duelist2020jp/items/de4e7c4d015e0effc0c6) B! 0
-- [Azure SQL Databaseに接続するWebアプリをデプロイする際はODBCの設定を忘れずに](https://qiita.com/flutter_daisuki/items/8d1763eebf65507d6e7d) B! 0
-- [Azure Digital Twinsの情報をSignalRを使ってリアルタイムにクライアント側への送信](https://qiita.com/flutter_daisuki/items/3254d293f23188e70272) B! 0
-- [AzureのStatic Web Appsに自動でデプロイするPipelinesを作成](https://qiita.com/flutter_daisuki/items/2f49d1ee9404d3cc084f) B! 0
-- [AzureのStatic Web AppsにIP制限をかける方法](https://qiita.com/flutter_daisuki/items/76e1446ec6a10bacf439) B! 0
-- [作成したアプリをPipelineでApp Serviceに自動デプロイする方法](https://qiita.com/flutter_daisuki/items/a9996a11eae00b6b2ddf) B! 0
+- [Azure SQL Databaseに接続するWebアプリをデプロイする際はODBCの設定を忘れずに](https://qiita.com/ikeike_ryuryu/items/8d1763eebf65507d6e7d) B! 0
+- [Azure Digital Twinsの情報をSignalRを使ってリアルタイムにクライアント側への送信](https://qiita.com/ikeike_ryuryu/items/3254d293f23188e70272) B! 0
+- [AzureのStatic Web Appsに自動でデプロイするPipelinesを作成](https://qiita.com/ikeike_ryuryu/items/2f49d1ee9404d3cc084f) B! 0
+- [AzureのStatic Web AppsにIP制限をかける方法](https://qiita.com/ikeike_ryuryu/items/76e1446ec6a10bacf439) B! 0
+- [作成したアプリをPipelineでApp Serviceに自動デプロイする方法](https://qiita.com/ikeike_ryuryu/items/a9996a11eae00b6b2ddf) B! 0
 - [Container Apps + API Managementで構築するAPI Gateway](https://zenn.dev/aishift/articles/881504222e1e85) B! 0
 - [【Azure】オンプレ環境とAzure環境を接続する方法](https://qiita.com/tomomi-kawashita/items/c39188c4269ff0d636d4) B! 0
 - [UDR は OS には効かない](https://zenn.dev/skmkzyk/articles/udr-is-not-effective-for-os) B! 0
@@ -7436,7 +7640,6 @@
 - [ボラティリティを収益源とする仮想通貨自動売買における損益と時間帯の関係および考察](https://note.com/tomoatx/n/nf913f616a7eb) B! 0
 - [金利をサンドイッチするBotのアイデア](https://qiita.com/lud-botter/items/6b4412fe2c7b3a9578a5) B! 0
 - [40行で支度しな](https://qiita.com/hesoponyo/items/fb374788d8ed17d07009) B! 0
-- [Neural SDEを用いた金融時系列データ生成](https://zenn.dev/ymd/articles/ff718d217c6037) B! 0
 - [FTXで最後までML botを動かした結果1500万溶けた話](https://note.com/ky45687465/n/n611a3f85f86a) B! 0
 - [なぜbotterはバブルを切望し養分に感謝するのか（初心者向け）](https://note.com/aiba_algo/n/n81a59ede9845) B! 0
 - [JPYCから始めるBotter入門](https://note.com/brave_acacia668/n/nb902a208133b) B! 0
@@ -7466,7 +7669,6 @@
 - [一体いつからBoxのフォルダアクセス権を絞れないと錯覚していた？](https://note.com/daharas/n/n31ffbdc5fc38) B! 0
 - [Slackで共有するファイルを自動でBoxへ格納する「Box for Slack: Custom Files Store」でファイルの格納先を指定する](https://blog.cloudnative.co.jp/22304/) B! 0
 - [Amazon Q For Business UseでRAGアプリを構築しBoxデータと対話する](https://blog.cloudnative.co.jp/22280/) B! 0
-- [ChatGPTをプログラミングに活用しよう！おすすめの質問の仕方も解説](https://musclecoding.com/chatgpt-programming/) B! 0
 - [ChatGPTを使って資格取得を目指してみた](https://qiita.com/jun2/items/8813fb8a70a84d089475) B! 0
 - [ChatGPTとPythonで学ぶ BERT：1. 感情分析編](https://qiita.com/maskot1977/items/3c519d9980a823a71fe0) B! 0
 - [ChatGPTとPythonで学ぶ BERT：日本語で質問応答（失敗）編](https://qiita.com/maskot1977/items/3f401c5f10c4eae939f5) B! 0
@@ -7500,7 +7702,6 @@
 - [Cloud Run Integrations で Firebase Hosting にかんたんに接続する](https://zenn.dev/google_cloud_jp/articles/cloudrun-itg-hosting) B! 0
 - [Cloud Run サービスのデプロイの基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-deploy-basic) B! 0
 - [Cloud Run サービスのデプロイのよくあるパターン 3 選](https://zenn.dev/google_cloud_jp/articles/cloudrun-deploy-pattern) B! 0
-- [Cloud Run のサービス アカウントの基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-serviceaccount) B! 0
 - [Cloud Run サービスのリビジョンの基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-revision) B! 0
 - [Cloud Run サービスに負荷テストを実施する](https://zenn.dev/google_cloud_jp/articles/cloudrun-loadtest) B! 0
 - [Cloud Run のインスタンスあたりの最大同時リクエスト数 (コンカレンシー) を負荷テストで確認する](https://zenn.dev/google_cloud_jp/articles/cloudrun-concurrency) B! 0
@@ -7511,7 +7712,6 @@
 - [Cloud Run サービスから Cloud SQL にダイレクト VPC 下り (外向き) を使ってプライベート接続する](https://zenn.dev/google_cloud_jp/articles/cloudrun-cloudsql) B! 0
 - [Gemini Pro Vision による画像タグ付けを Cloud Run ジョブで並列処理する](https://zenn.dev/google_cloud_jp/articles/cloudrun-jobs-gemini) B! 0
 - [Cloud Run のマルチコンテナ (サイドカー) の基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-multi-container) B! 0
-- [Cloud Run と Cloud Storage FUSE (GCS FUSE) の基本](https://zenn.dev/google_cloud_jp/articles/cloudrun-gcs-fuse) B! 0
 - [Cloud Run でサーバーレス WordPress を構築する](https://zenn.dev/google_cloud_jp/articles/cloudrun-wordpress) B! 0
 - [Cloud Run で画像リサイズ API を作る](https://zenn.dev/google_cloud_jp/articles/cloudrun-resize-image) B! 0
 - [2023年の Cloud Run のアップデートまとめ](https://zenn.dev/google_cloud_jp/articles/cloudrun-updates-2023) B! 0
@@ -7664,7 +7864,6 @@
 - [Fastly Compute HTTP リクエストの作成 (3) 並列/ストリーミング処理](https://zenn.dev/remore/articles/e4e79ebf88db67) B! 0
 - [Fastly Compute 揮発データの読み書き (1) SimpleCache API](https://zenn.dev/remore/articles/ad117556540681) B! 0
 - [Fastly Compute 揮発データの読み書き (2) CoreCache API](https://zenn.dev/remore/articles/b2e13b9b2b9f98) B! 0
-- [次世代 Web カンファレンス で Edge Computing の話をしてきた](https://rimuru.lunanet.gr.jp/notes/post/attended-next-web-conf-2023/) B! 0
 - [Fastly Compute 永続ストレージへの読み書き (1) Dynamic Configurationの利用](https://zenn.dev/remore/articles/7dd733e8a28f51) B! 0
 - [Fastly Compute 永続ストレージへの読み書き (2) KVStore の利用](https://zenn.dev/remore/articles/d27bcba9a26767) B! 0
 - [Fastly Compute ストレージのまとめ(2023年末版)](https://zenn.dev/remore/articles/95ef4db310e64b) B! 0
@@ -7682,7 +7881,6 @@
 - [Web サイトやアプリケーションのモックアップを作る際、Figma データとして作らないもの](https://qiita.com/xrxoxcxox/items/77835b6d77e3e6b3681e) B! 0
 - [Figma Community FoFG千葉オフイベント楽しかったレポート](https://note.com/ngrymand/n/n80cb67b6aee2) B! 0
 - [Figmaプラグイン開発でUIデザイン翻訳コストの大幅削減](https://offshore.craid-inc.com/cost-cut-by-figma-plugin/) B! 0
-- [STUDIOで働くデザイナーの "Figma to STUDIO" 活用方法](https://note.com/sakinotomiura/n/n08da6d32ebf7) B! 0
 - [2023年のFigmaのアップデートを振り返る ](https://note.com/nomura_keibyou38/n/n87d0f597e40e) B! 0
 - [Firebase Local Emulator Suiteを使う](https://qiita.com/kaito_111/items/7053e1c5b3ff3df5f73e) B! 0
 - [[Firebase] Firestoreの集約クエリ (count, sum, average) について](https://qiita.com/Ryu0118/items/05c744d25f5a7115c90b) B! 0
@@ -7744,6 +7942,7 @@
 - [Solaris上でRBDをTransform Piecesをする](https://godofsuama.hatenablog.com/entry/2023/12/03/advent) B! 0
 - [巻雲を作る](https://note.com/pontayamazato/n/n0971875bae97) B! 0
 - [ゲームエフェクトによく使うメッシュの作り方と便利なノード](https://qiita.com/Kumikosuke/items/3f8ab408bdf9138c2c5d) B! 0
+- [Houdini で複数本ユニークな最短経路を見つけ出す方法](https://qiita.com/talkyren/items/185525d7d4ab24844dc1) B! 0
 - [Topo Transferを使ってみる](https://support.borndigital.co.jp/hc/ja/articles/26635935405465) B! 0
 - [For Loopについて書きます](https://kickbase.net/entry/feedback_merge) B! 0
 - [TOP×COPでまとめて画像合成をする話をかきます](https://note.com/thesaurus/n/n184331a412d5) B! 0
@@ -7777,7 +7976,6 @@
 - [地味にたまに必須になる機能の備忘録](https://qiita.com/m__a__/items/3bc3b6c874d41dc58116) B! 0
 - [HDAのちょっと便利な機能について書きます](https://kickbase.net/entry/descriptive_parm) B! 0
 - [道先が変わるパズルレールを作ろう](https://qiita.com/TF_siri/items/b1334d665adf3f181093) B! 0
-- [HoudiniでSeifert Surfaces（ザイフェルト曲面）の可視化](https://qiita.com/jhorikawa_err/items/03191c4e2cb022bf2f69) B! 0
 - [【Houdini】 TOPからDiscordにメッセージや動画を送信する！ 【HDA配布】](https://qiita.com/Lethe_movie/items/e34ee85f52d61a7cfad9) B! 0
 - [Attribute Interpolate SOP を用いた、空間中の Point を限定的な補間の一例](https://qiita.com/talkyren/items/9fd49cf550495254b462) B! 0
 - [DynamicなHDAの作り方について](https://blog.trsnium.net/dynamic%E3%81%AAhda%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-682b37625a62) B! 0
@@ -7817,7 +8015,7 @@
 - [関西Kaggler会の軌跡：2023年ふりかえり（運営チームメンバーより）](https://mi7mi7mi.hatenablog.com/entry/kansaikaggler2023) B! 0
 - [Kaggle【非公式・非営利目的コミュニティTシャツ】を製作するために公式に許諾を得た話](https://taro-masuda.hatenablog.com/entry/kaggle-2023-12-14) B! 0
 - [RAPIDS RMMでRAMをGPUメモリとして使う](https://zenn.dev/karunru/articles/7ff503d8ef7480) B! 0
-- [ニューラルモデルをONNXにしてブラウザ拡張で使おう](https://qiita.com/yufuin/items/afdaeda9eb8788d91756) B! 0
+- [ONNXRuntime-Webを使ってブラウザ拡張でニューラルモデルをローカル推論しよう](https://qiita.com/yufuin/items/afdaeda9eb8788d91756) B! 0
 - [【Kaggle】初心者こそイベントに参加/発表してみよう](https://qiita.com/tetsuro731/items/638453c5f222b92b730f) B! 0
 - [LBを駆け上がる快感は初心者にとって強烈なモチベーション](https://note.com/yyama0/n/ne7ded322a84d) B! 0
 - [【Weekly Kaggle News 4 周年】記事閲覧数ランキング 2023](https://upura.hatenablog.com/entry/weekly-kaggle-news-4th) B! 0
@@ -7899,7 +8097,6 @@
 - [Inplace pod vertical Scalingについて調べる](https://qiita.com/ys1/items/2bd32750977960b7ef33) B! 0
 - [Helmチャートのスナップショットテストのすゝめ](https://qiita.com/jlandowner/items/2326379c7163d9c364aa) B! 0
 - [Argo CDのとある不具合について](https://zenn.dev/mikutas/articles/fd2176de0d6cdb) B! 0
-- [runc の不具合で Kubelet が暴れた話](https://zenn.dev/kkk777/articles/53031503389bf2) B! 0
 - [EKSとKarpenterの環境でNVIDIA GPUノードを立ち上げる](https://zenn.dev/distkloc/articles/876d31cd6c606f) B! 0
 - [Kubernetes1.13ぶりに触ったおじさんの復活記](https://doridoridoriand.hatenablog.jp/entry/2023/12/15/072556) B! 0
 - [3-SHAKE SRE Tech Talk #8レポート（k8sの話もたくさん）](https://shu-kob.hateblo.jp/entry/2023/12/18/234306) B! 0
@@ -7907,7 +8104,6 @@
 - [【解決】Windows側のminikubeクラスターにWSL2からアクセスしたい](https://qiita.com/matoruru/items/e178e6b3457fb48d0ca7) B! 0
 - [「IDOLY PRIDE」におけるArgoRolloutsを使ったBlue/Greenデプロイ](https://technote.qualiarts.jp/article/69/) B! 0
 - [クラウド環境(Azure/GCP/AWS)におけるkubernetesの永続ボリューム(ストレージ)利用](https://www.opensourcetech.tokyo/entry/20231224/1703419804) B! 0
-- [AWS CDKでLambda Function URLsを試したい](https://qiita.com/prinprinprrr/items/00117962d7471d4f9998) B! 0
 - [AWS Compute Optimizer で Lambda 関数の推奨事項を提示させてみた！](https://nobelabo.hatenablog.com/entry/2023/12/02/130000) B! 0
 - [今更ながらLambdaプロキシ統合でプロキシリソースの使用有無について比較してみる](https://zenn.dev/tkg216/articles/c9aede81c20a8e) B! 0
 - [AWS Lambda handler はどのように呼ばれるのか](https://zenn.dev/hkdord/articles/lambda-handler-deep-dive) B! 0
@@ -7917,7 +8113,6 @@
 - [Serverless Stackでサーバレス & フロントエンド開発](https://zenn.dev/uchiko/articles/e09436c5fe42ad) B! 0
 - [aws-nukeで作るマルチアカウントのお掃除機能](https://blog.mmmcorp.co.jp/2023/06/29/account-clean-up-with-aws-nuke/) B! 0
 - [ServerlessVideoのアーキテクチャを深掘りする](https://xblood.hatenablog.com/entry/about-serverlessvideo) B! 0
-- [AWS Step Functions を使って NAT Gateway 無しの VPC から外部へ HTTPS 通信](https://zenn.dev/sugikeitter/articles/external-https-from-vpc-using-step-functions) B! 0
 - [【2023年版】LINE WORKS Developersでできること](https://qiita.com/mmclsntr/items/064f1d6fd7f82e4a261a) B! 0
 - [Python + Selenium で LINE WORKS の User Account 認証 (OAuth) の Access Token 発行](https://qiita.com/iwaohig/items/91102d2c1a8821e08a56) B! 0
 - [【LINE WORKS × kintone 】kintone の通知を LINE WORKS のトークBotで呼び出す](https://qiita.com/taroyamada5963/items/b46facef1e49506254ba) B! 0
@@ -7929,7 +8124,6 @@
 - [LINE WORKS API の Token を OAuth で取得してみる](https://qiita.com/msato-3/items/37508eb84f518cf86b2a) B! 0
 - [ノベルティの入出庫管理を LINE WORKS の Bot でやってみる](https://qiita.com/iwaohig/items/273705a87ac2d0a1f8c6) B! 0
 - [LINE WORKS API x LLM を使ってチャットから予定調整してみる](https://qiita.com/8hu1/items/56b170732be815d7f801) B! 0
-- [ローカル LLM を用いた Instruction データセット の Data Augmentation と  Evol-Instruct](https://qiita.com/kunishou/items/1c78f4d55f8df90137eb) B! 0
 - [GPT-4 にゲームのステージを生成させてみた―AIからの挑戦状 powered by GPT-4](https://zenn.dev/os1ma/articles/82bd79f70b15ad) B! 0
 - [自動開発ツール、GPT Engineer の入門記3。生成ルールを自分色に染める。](https://qiita.com/nassy20/items/c5ce9e1e2178b1f1bbb7) B! 0
 - [Whisperとgpt-3.5-turboで、話した内容を英語に翻訳してくれるChrome拡張機能を作りました！](https://note.com/nyosubro/n/nf13b83b4c108) B! 0
@@ -7945,6 +8139,7 @@
 - [Mapbox GL JS v3と国土地理院 標高タイルで「自分で作る色別標高図」風の地図を作成してみました](https://qiita.com/shi-works/items/303114b4e19a92d48a55) B! 0
 - [Mapbox Standardスタイルに対応した新しいSDKがリリースされました！](https://zenn.dev/mapbox_japan/articles/3e31b95f7c2c88) B! 0
 - [Mapbox GL JS ver3 で実装された distance expression](https://qiita.com/humohumo/items/9b6962db43da0c526e95) B! 0
+- [OCPIプロトコルとは？](https://zenn.dev/mapbox_japan/articles/c7d2e31489365e) B! 0
 - [「Software Design 2023年12月号 位置情報エンジニアリングのすすめ 第5回」をMapbox GL JSで実装してみる](https://zenn.dev/mapbox_japan/articles/4b6ed508f2e24f) B! 0
 - [地図上のマーカーをクラスター化する技術](https://zenn.dev/wagao/articles/ab7ac09478a4eb) B! 0
 - [AI ボイスチェンジャー 初級編](https://qiita.com/u-kusama/items/3844cc587b2412e618ce) B! 0
@@ -7954,10 +8149,10 @@
 - [【L1】Vuetify 3で画面を作成してみよう](https://qiita.com/k-kawashima/items/dfc4b2eeb1ae0714ac58) B! 0
 - [AGIは何年以内に実現するのか、みんなの予想を集めてみた](https://qiita.com/s-nagase/items/517a35225b8efae4d8fa) B! 0
 - [Geminiの性能評価に使われているベンチマークの概要まとめ](https://qiita.com/s-nagase/items/2baced05d9db8efcf073) B! 0
-- [【L1、L2】ブラウザでWorkerを動かしてみる（番外編）](https://qiita.com/k-kawashima/items/ee3a21e2d1bbdb24f06a) B! 0
+- [【L1、L2】ブラウザでWeb Workerを動かしてみる（番外編）](https://qiita.com/k-kawashima/items/ee3a21e2d1bbdb24f06a) B! 0
 - [pythonでAWSの処理にasync／multiprocessingを使ってみた。](https://qiita.com/t-ogawa-MARSFLAG/items/d55b0d28ebcf3bbcd645) B! 0
 - [『世界一流エンジニアの思考法』を読んでみて](https://qiita.com/mars-tatsuru/items/aa5bf9b4c3f61ffd546c) B! 0
-- [【L2、L3】サーバーでWorkerを動かしてみる](https://qiita.com/k-kawashima/items/4081666dfc328c2f194f) B! 0
+- [【L2、L3】サーバーでWeb Workerを動かしてみる](https://qiita.com/k-kawashima/items/4081666dfc328c2f194f) B! 0
 - [Solr入門(Solrを動かしてみよう！！)](https://qiita.com/suga_MARSFLAG/items/3d5f2f4c8c19c25dd8b0) B! 0
 - [Solr入門(tokenize入門)](https://qiita.com/suga_MARSFLAG/items/6b43ca7eac0bca4afe5d) B! 0
 - [【MATLAB】真理値表で直接回る！ブラシレスモータ](https://qiita.com/motorcontrolman/items/391f194a6ef36478f52f) B! 0
@@ -8123,10 +8318,8 @@
 - [OpenAI Assistants APIとRetrievalを使ってChatGPTとの会話記録を要約する](https://qiita.com/Isaka-code/items/5f94490888ba4bf05ab1) B! 0
 - [【2023年12月最新】ChatGPT・LangChain関連の技術書まとめ（全10冊＋α）](https://qiita.com/Isaka-code/items/7a9f19aef6284b7789ed) B! 0
 - [【2023年12月最新】LangChainを用いてPDFから演習問題を抽出する方法【RAG】](https://qiita.com/Isaka-code/items/f45a9a8288710aa807d9) B! 0
-- [【2023年12月最新】LangChainを使用した質問応答エージェントの作成【LCEL・FAISS】](https://qiita.com/Isaka-code/items/fcc3400adcb51d131fe8) B! 0
 - [数字で見るGitHubレポジトリ　～LangChainを例に～](https://qiita.com/Isaka-code/items/69f5d8535064670230bb) B! 0
 - [シンガポール国立大学に研究留学するためにやったこと（＋当時生成AIがあったら）](https://qiita.com/Isaka-code/items/ece08ee69b94312df91c) B! 0
-- [生成AIについての記事を書こうとしたら、既に神記事があった（80選）](https://qiita.com/Isaka-code/items/0d35e7f69020088c249f) B! 0
 - [【祝・アドカレ完走！】生成AIについての記事を1人で25件投稿してみた！](https://qiita.com/Isaka-code/items/d5eff037f2c7d3cdbbf6) B! 0
 - [FireDucks のインポートフック機能にまつわるエトセトラ](https://qiita.com/shu_ohm1/items/b0a35cfb4fce5b71c715) B! 0
 - [光ファイバセンシングとアレイセンサ](https://qiita.com/tonami1073/items/c23a5c373156a5b74323) B! 0
@@ -8233,6 +8426,7 @@
 - [3D都市モデルPLATEAU 3DTiles+GeoJSONで3D主題図を作る](https://qiita.com/shi-works/items/262fe394319d4f903814) B! 0
 - [3D都市モデルPLATEAUの建物データ（LOD1）からPMTilesを生成する方法](https://qiita.com/shi-works/items/284706a30b15ffd85106) B! 0
 - [RPRP というワークショップを古橋先生とつくってみた](https://qiita.com/hisayan/items/63eaea25907d6c1ace75) B! 0
+- [PLATEAUコンソーシアム始動！](https://link.medium.com/z8PX6zZOYFb) B! 0
 - [PLATEAUの3D都市モデルをフォートナイトに入れてみた](https://tatsuya1970.com/?p=17796) B! 0
 - [3D都市モデルから高さの情報を処理していた話](https://zenn.dev/takilog/articles/8ebddbd296452a) B! 0
 - [PLATEAUの属性データに任意座標系のデータをぶちこんでやるぜ！！](https://note.com/soh_01/n/ne0716640f660) B! 0
@@ -8329,6 +8523,7 @@
 - [秒でわかるProtoPedia](https://qiita.com/netou_kurage/items/b5ce12a6bf6483059e6e) B! 0
 - [初めてヒーローズリーグの個人スポンサーになってみた](https://note.com/yskmjp/n/n1d8e9afa1dc3) B! 0
 - [世界へはばたくProtoPedia](https://qiita.com/airpocket/items/073fe8934f56b985f3d5) B! 0
+- [今年のTakSanのメイク活動振り返り](https://qiita.com/TakSan/items/ade1f8ed007814cb9a35) B! 0
 - [ヒーローズリーグ のBINGOが当たった話](https://scrapbox.io/610t/%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%AA%E3%83%BC%E3%82%B0_%E3%81%AEBINGO%E3%81%8C%E5%BD%93%E3%81%9F%E3%81%A3%E3%81%9F%E8%A9%B1) B! 0
 - [複数アカウントを1つにまとめる](https://protopedia.gitbook.io/helpcenter/faq/account-merge) B! 0
 - [NPUを限界まで使い切って400FPSで物体(パイロン)検出する](https://qiita.com/ysuito/items/a0d3201581f9057c973b) B! 0
@@ -8355,6 +8550,7 @@
 - [もしTeamsで「メンションする時は役職を付記しなさいルール」ができてもコミュニケーションコストを高めない工夫](https://sasami-axis.hatenablog.com/entry/2023/12/13/070000) B! 0
 - [(BizRobo!)Webページの表を正規化してみよう！](https://qiita.com/YG_10_04/items/f8f1e73ea591b9c29378) B! 0
 - [【Power Automate for desktop】Power Fxを使ってみた](https://powerplatformnikki.com/pa4dpowerfx/) B! 0
+- [【Power Automate for desktop スクレイピング編】ホットペッパーグルメのキャンペーン店舗一覧からGoogle Maps APIで評価を取得してPower Appsで表示する](https://powerplatformnikki.com/hotpeppergooglemaps1/) B! 0
 - [WinActor アウトプットのススメ](https://qiita.com/inaho3517/items/ce8304a7e332d1e9f31b) B! 0
 - [Power Automate Desktopを触ってみた2023～なかなか触れないとこうなる～](https://qiita.com/saosao885/items/b42a15d6f1bc5338f262) B! 0
 - [やることリストが無限に長くなるあなたへ](https://qiita.com/gyoumunosukima/items/36e13dd2fc29b481a558) B! 0
@@ -8428,6 +8624,7 @@
 - [Splunk Observability CloudとSplunk Enterpriseを使ってF1 2023ゲームデータを可視化してみた](https://qiita.com/ykoe/items/47482d6537c43a2999ef) B! 0
 - [セキュリティ監視におけるSIEMユースケース例のご紹介](https://qiita.com/hasec/items/e09a774ab8e525d72f2d) B! 0
 - [SplunkセキュリティコンテンツのSIEM検知ルール(相関サーチ)の探し方!!](https://qiita.com/hasec/items/44da44bcca40403c64b0) B! 0
+- [Splunk Security Essentials(SSE) を使ったSIEM検知ルール(相関サーチ)の探し方!!](https://qiita.com/hasec/items/eccad0739beeb4abfd26) B! 0
 - [SplunkとF1の関連情報を調べてみた](https://qiita.com/aoichiba/items/27ec2852b7f3e310f255) B! 0
 - [supabaseのローカル環境を整える](https://qiita.com/eno49conan/items/4596c1983ee5e3f9e324) B! 0
 - [生成AI ✖️ SQL 🟰 ⚡️ Supabase SQL Editor](https://zenn.dev/takajun/articles/25a7c65cbb2ea8) B! 0
@@ -8442,7 +8639,7 @@
 - [trocco®でファイル名のカラムを追加しながら一括で転送する方法](https://zenn.dev/suzupappa/articles/d0d90518708ca0) B! 0
 - [troccoでBigQueryからHubspotへデータ転送して、顧客データをマーケティングに活用する](https://qiita.com/AD_yuta/items/0d0e108f8cb66a583eb0) B! 0
 - [troccoの無料プランでdbtジョブを動かしてみた](https://stable.co.jp/blog/trocco-dbt-job) B! 0
-- [データ活用を進めたい人必見　troccoではS3のcsvをBigQueryへ手軽に移行できちゃいます！](https://qiita.com/wakama1994/items/0e586a0954dd0f4f1f2d) B! 0
+- [データ活用を進めたい人必見！troccoではS3のcsvをBigQueryへ手軽に移行できちゃいます](https://qiita.com/wakama1994/items/0e586a0954dd0f4f1f2d) B! 0
 - [【UEFN】ビルボードにスコアを表示させてみる](https://qiita.com/eisuke114/items/c26787b51779dd03afaf) B! 0
 - [【UEFN】Verseでプレイヤーの状態変更の起点を取得していろいろやってみる](https://qiita.com/eisuke114/items/0f0746fd1f7e9099fa32) B! 0
 - [【UEFN】ワールド制作時の効率化を図ってみる＃１](https://qiita.com/eisuke114/items/d504535e7377b1bf8109) B! 0
@@ -8475,7 +8672,6 @@
 - [メロンの皮の呪いを見てみた（多変量）](https://qiita.com/emikosh/items/f74bf489851f0fb110f2) B! 0
 - [デコポンの皮の呪い（相関がある多次元データ）](https://qiita.com/emikosh/items/be6a1b02fdc3f8293d69) B! 0
 - [アニメ・漫画から見るAIの進化](https://qiita.com/kyosuke_sezai/items/15e58147ce79faa2211c) B! 0
-- [LangChain RetrievalQAのカスタマイズ](https://qiita.com/_YFTS/items/124d44b5ca5a791309ea) B! 0
 - [ラバネッリさんのSincNetフィルタ](https://qiita.com/emikosh/items/ac4f1e4e4d44ac5e6047) B! 0
 - [Hypothesis による Property-Based Testing の実行メモと、Metamorphic Testing や Fuzzing との違い](https://qiita.com/snsk/items/63244f224e4f7e7e540e) B! 0
 - [「Ostrandの4つのビュー」の原典をたどる旅](https://qiita.com/yamasaki696/items/6f6e1f848877a49a0726) B! 0
@@ -8507,7 +8703,7 @@
 - [IBM Analytics Engine Sparkからwatsonx.data を操作: 「3. Sparkによる処理」](https://qiita.com/nishikyon/items/732a9c1e56de7560356c) B! 0
 - [watsonx assistantを外部サーバーと連携してみる](https://qiita.com/KwangsooLee/items/c99029b7e25957dc50b5) B! 0
 - [watsonx Assistantの小ネタ：３つのプレビュー方法](https://qiita.com/karamaki/items/5cbb84c0ddd3e2cc3fe5) B! 0
-- [wataonx Assistantでの過去の会話履歴の分析をしてみよう！](https://qiita.com/Kazuma__Shimizu/items/4c43b59e8c613056cad9) B! 0
+- [watsonx Assistantでの過去の会話履歴の分析をしてみよう！](https://qiita.com/Kazuma__Shimizu/items/4c43b59e8c613056cad9) B! 0
 - [watsonx.dataでのコンピュートとストレージの分離](https://qiita.com/KTZM/items/78cc1ba189669b34797d) B! 0
 - [watsonx.aiで最適な出力を手に入れるためのパラメーター調整術](https://qiita.com/r-nakayamasan/items/00a4da02e5b9bcbff2f5) B! 0
 - [社内文書について回答できるQAのためにwatsonx.aiとLangChainを使ったRAGを構築してみた](https://qiita.com/i_toma/items/c83f850261cdd0484cc2) B! 0
@@ -8548,6 +8744,7 @@
 - [ZPA Browser Access用: Let’s Encrypt証明書の発行と適用](https://qiita.com/naret/items/a7b11c088da3ba7cde0c) B! 0
 - [iOSでSSL Inspectionをしてみた](https://qiita.com/ylin/items/417b3bdd70bcc05d88e8) B! 0
 - [iOS端末で擬似Tunnel With Local Proxyモードを試してみた](https://qiita.com/kentarokoba/items/19551885b9ecb1561d9b) B! 0
+- [Japan Zscaler User Group(JZUG) 2023 Autumn が最高だった！](https://community.zscaler.com/s/question/0D54u0000AFSTQhCQP/japan-zscaler-user-group-2023-autumn%E3%81%8C%E6%9C%80%E9%AB%98%E3%81%A0%E3%81%A3%E3%81%9F?fbclid=IwAR2SPQYpPX6Z5C2LT0L80fvUn3X1fnUeclKDWSrUlplTdg8pnBrzSvT5Syc_aem_AbSKUZoBIL7YIYmBUVVrx_AGeCq4kNrMDpuYE8jIwHur7dg_APvzHqgzcpQFeWqJxOs) B! 0
 - [実は社内LANでGlobal IPを使っているけど、ZIA経由でインターネットにアクセスできるのか？](https://qiita.com/kentarokoba/items/32ca9bd3747e89c7cfa2) B! 0
 - [入社約1週間の中途入社が会社の魅力について書いてみた。（技術的な話はいっさいありません。）](https://qiita.com/HajimeSumiya/items/cd693fabb8890278e9a7) B! 0
 - [マシントンネルを使ってドメイン参加してみた](https://qiita.com/ylin/items/f3e6826cdd01a8a52893) B! 0
@@ -8601,7 +8798,6 @@
 - [イスラエル・パレスチナ情勢における情報技術に関連した戦略について ー長期的な支配構造と非対称な戦闘を背景としてー](https://medium.com/@74N3/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB-%E3%83%91%E3%83%AC%E3%82%B9%E3%83%81%E3%83%8A%E6%83%85%E5%8B%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%97%E3%81%9F%E6%88%A6%E7%95%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-f72acc6dbb38) B! 0
 - [シリコンバレーのエンジニアに教えてもらったGitの使い方](https://qiita.com/takumihara/items/5086d8a64157266bb165) B! 0
 - [おすすめの本など](https://qiita.com/sleepyfox97/items/8c683ae0455dca0bca98) B! 0
-- [Slack UI を 2023年夏以前に戻してメンション一覧へ一発で移動する](https://qiita.com/naohikowatanabe/items/21ea23917e12bf5d923f) B! 0
 - [GPTsのサイバーセキュリティ：プロンプトリーキング対策についてのメモ(2023年11月版)](https://qiita.com/Yam3939/items/c80f1cb83a4cb69a2f45) B! 0
 - [@tonionagauzzi（OB）: 大規模なリファクタリングに備えて、Androidアプリのアーキテクチャーに対する今までの考え方を変えました](https://zenn.dev/tonionagauzzi/articles/7eb817606511d8) B! 0
 - [2023年に生成AIの動向を追いかけて落ち着いた動画情報源](https://qiita.com/Yam3939/items/9ed4abea2a2c139e2b52) B! 0
@@ -8706,11 +8902,9 @@
 - [GTMで非同期に外部サービス埋め込みとデータ連携を行う](https://zenn.dev/dhik/articles/8fbb539ef360c9) B! 0
 - [なぜエンジニアリングマネージャーを目指すのか](https://note.com/chycara344/n/n9172c627e734) B! 0
 - [JavaScriptの新機能2023年版 - コード例を交えた変更点](https://qiita.com/cloudAC/items/bd25efc3af68564455ef) B! 0
-- [AWS CDK + LocalStackでAWSサーバレスのローカル開発環境構築した話](https://note.com/nghia_nt/n/nb97c37c3600f) B! 0
 - [NLB & Cloudfront](https://note.com/billy2016/n/n6b0c55b4a438) B! 0
 - [Kotlin Serialization を使う利点について](https://zenn.dev/aldagram_tech/articles/47af1a197e8a2a) B! 0
 - [Vim + TypeScript の環境を一から作ってみる](https://zenn.dev/aldagram_tech/articles/2451d83fce35ac) B! 0
-- [Testcontainers と sqldef を用いて Spring Boot のテストでリアルDBを使えるようにする](https://zenn.dev/aldagram_tech/articles/5ff03e5cb40114?redirected=1) B! 0
 - [NestJS で Swagger Spec の言語を切り替えて出力する](https://zenn.dev/alda_yassuaan/articles/e0137dd4ec3f26) B! 0
 - [OS でカメラロールの写真を扱う時のパーミッションの注意点](https://zenn.dev/aldagram_tech/articles/c122a501e9ae7e) B! 0
 - [ユーザーの最初の一歩：初回利用体験を向上させたアプローチと3つの具体例](https://note.com/big_island/n/n452a748ca1dd) B! 0
@@ -8869,6 +9063,7 @@
 - [[Ansible]AAP内のPlaybookからgit clone, pushを行う](https://qiita.com/miyuk/items/a4e3b97b755a3872c5de) B! 0
 - [serialディレクティブと、run_once + delegate_to を付けたタスクを実行したらハマった](https://nakayumc0278.hatenablog.com/entry/2023/12/23/152036) B! 0
 - [【Python】OpenCVを用いて動画からサムネイル画像を生成してみた](https://techblog.ap-com.co.jp/entry/2023/12/28/102900) B! 0
+- [チャットGPTについて考えた](https://qiita.com/yuki_watanabe_apc/items/b4584def5a0ff59319ab) B! 0
 - [ほぼ質問だけでプログラミング 「Chat GPTが書いてくれたおカタヅケ君」 with Python](https://qiita.com/gwak/items/d8485091da14518076fb) B! 0
 - [Kubernetes のコンテナ起動時に起こる pvc のトラブル](https://qiita.com/hanzo-k/items/2df6764132b8e248d1ff) B! 0
 - [MySQLのグループレプリケーションについて学習してみた](https://qiita.com/nanashi_yd/items/1ac5986be0fd37a7122e) B! 0
@@ -8883,12 +9078,10 @@
 - [肩こり&腰痛の改善方法　元理学療法士が教えちゃいます！](https://qiita.com/kumachaso2525/items/331701b4d8c13611a1bc) B! 0
 - [【Next.js】Server Actionsを試してみた](https://zenn.dev/tomoaki16/articles/99a9509c6caa1c) B! 0
 - [ラズパイ+赤外線モジュールで帰宅前に暖房ONする](https://zenn.dev/smotoshei/articles/a8b46d3f1af18d) B! 0
-- [IUnityLinkerProcessorでCodeStrippingからコードを守る](https://zenn.dev/hatopopo_0113/articles/279d3b89c791d1) B! 0
 - [【Jenkins】「このビルドはパラメータが必要です。」を消す](https://qiita.com/ref3000/items/66056227def7d280a24c) B! 0
 - [自宅にJekninsのローカル環境を構築してみた](https://qiita.com/Tigger0414/items/06e4322ff9f9691df82c) B! 0
 - [スピードと品質を両立する！エンジニア×デザイナーで考える新規開発のコツ5選](https://note.com/_tetchann/n/n83b5152f5353) B! 0
 - [自作パッケージの依存関係ちゃんと管理してる?静的解析とGraphvizで実現した自作パッケージ依存関係可視化ツール"prelviz"](https://zenn.dev/kazdevl/articles/8ad950c92e8dca) B! 0
-- [【Unity】グラフィックス周りを業務で扱うまでにやったこと](https://zenn.dev/siguma_sig/articles/4c5294d3b6ef77) B! 0
 - [ゲーム開発を経験したエンジニアが、今DX事業部で大活躍している理由](https://note.com/growsic/n/nefec0cdfd8f9) B! 0
 - [Raspberry Pi Pico と馴れ初め戯れた記録](https://qiita.com/Nanai10a/items/1d00a9a0fffbe1f9045d) B! 0
 - [クソコード鑑賞しようぜ!!!](https://qiita.com/raiga0310/items/f1a846afd45483b95ebe) B! 0
@@ -8952,7 +9145,6 @@
 - [TypeScriptでの良さげなORM見つけた。その名もDrizzle](https://qiita.com/tsukasaI/items/bbfac8f4319981d2bcaf) B! 0
 - [FlutterのDropdownButtonでタイトルを実装する](https://zenn.dev/arsaga/articles/8c893b794f6f12) B! 0
 - [Next.js × ECS（Fargate）で実現するSSRデプロイの裏側](https://zenn.dev/arsaga/articles/24945b3c800a94) B! 0
-- [「なんとなく」でやらないための私的Web API設計ノウハウ](https://zenn.dev/arsaga/articles/4a72774b1c93d2) B! 0
 - [swift concurrency 基礎編](https://zenn.dev/arsaga/articles/ccf24049ea2610) B! 0
 - [PHP/Laravelで文字コードの変換可否を判定する方法](https://zenn.dev/arsaga/articles/e56a0c862c26c0) B! 0
 - [React Three Fiberを使ってオーディオビジュアライザーを作りたかった](https://zenn.dev/arsaga/articles/18d79f2d7fcfa4) B! 0
@@ -8964,7 +9156,6 @@
 - [VNet統合、プライベートエンドポイント、サービスエンドポイントについて(App Service、Azure Database)](https://zenn.dev/arsaga/articles/e309d2074600de) B! 0
 - [Next.js × Auth.js(NextAuth) × cognitoでカスタムログイン画面を作成しセッション管理をする](https://zenn.dev/arsaga/articles/4fac54eb4d5bd8) B! 0
 - [Laravelのfactoryで使用されるstateメソッドに関して学ぶ。](https://zenn.dev/arsaga/articles/6ff49d5dc553a5) B! 0
-- [街にもクマは現れる！宮城県「アーバン・ベア」の出没地点を可視化しました](https://note.com/asahi_ictrad/n/n6d1741c2ec08) B! 0
 - [アンケートクイズ作成ツール「QuzillA」](https://note.com/asahi_ictrad/n/na9f944328887) B! 0
 - [ChatGPT(DALL·E 3)で同じ人物の服とか表情とか変えたい](https://qiita.com/htamori/items/169399db1565d6a9671a) B! 0
 - [【日本語OCR】画像からChatGPTでイベント情報を抽出してGoogleカレンダーに反映する【Zapier連携】](https://qiita.com/sugino-k/items/1bef87c3a20d66bab93b) B! 0
@@ -9087,10 +9278,8 @@
 - [Project Reactorの仕組み](https://qiita.com/dongohlim/items/0eee67fde77c1cf899e0) B! 0
 - [【ElastiCache】Redisサーバーのレプリケーションラグについて](https://qiita.com/isoda/items/42d53b28189c808b2a0a) B! 0
 - [アドベントカレンダーの終わりに………………………………………………………………………………社内イベントのライブ配信環境を語る](https://qiita.com/kei75/items/389b6830cbe2349034ff) B! 0
-- [Amazon Bedrockに新登場した「Knowledge base」を試してみた（Pinecone利用編）](https://wp-kyoto.net/get-started-with-bedrock-knowledge-base-with-pinecone/) B! 0
 - [AWS Step Functionsの新機能「Call third-party API」を試してみた](https://zenn.dev/kmiura55/articles/stepfunctions-thirdparty-api) B! 0
 - [Introduce Amplify Flutter DataStore Extension](https://fossamagna.github.io/introduce-amplify-flutter-datastore-extension/) B! 0
-- [Let’s apply for the AWS Community Builders！！世界規模でつながりが増えて良かった(変わった)こと！　#awscommunity](https://tech.nri-net.com/entry/aws_changed_about_increasing_connections_on_a_global_scale) B! 0
 - [持続可能なコミュニティ運営を目指して〜Amplify Japan User Group 2023年の運営体制改善](https://zenn.dev/ikenyal/articles/75637f3d3ce52a) B! 0
 - [AWS未経験WebエンジニアのAWS Community Builder 1年目振り返り #jawsug #awscommunity](https://note.com/east_takumi/n/nfd480d870895) B! 0
 - [AWS Community Buildersに応募した理由](https://sugimisu.vercel.app/articles/79ad7l_5vkg1) B! 0
@@ -9100,6 +9289,9 @@
 - [JAWS Festa 2023 in kyushuを終えて](https://showm001.hatenablog.com/entry/2023/12/16/104014) B! 0
 - [AWS Community Builderになっての数ヶ月を振り返る](https://zenn.dev/nnydtmg/articles/aws-community-builder-lookingback-2023) B! 0
 - [Amazon EventBridge Pipesを使って、ECS Taskを起動するAWS CDKスタックを作ってみた](https://zenn.dev/keni_w/articles/efa49eed071c31) B! 0
+- [AWS Community Builder振り返り 2023](https://note.com/coosuke/n/nc676fd850b94) B! 0
+- [AWS Community Builder(＆Hero) Directoryのカード情報を全取得して棒グラフにしました](https://zenn.dev/mjxo/articles/8797ce489a90c9) B! 0
+- [I became a Serverless AWS Community Builder, but this was just the beginning of my journey.](https://dev.to/aws-builders/i-became-a-serverless-aws-community-builder-but-this-was-just-the-beginning-of-my-journey-5gce) B! 0
 - [AWS Community Buildersで捗るアウトプット活動](https://go-to-k.hatenablog.com/entry/aws-community-builders-output-2023) B! 0
 - [コードレビューの完了時間を30%削減した時の取り組み](https://qiita.com/hotarian/items/cd8fe743485caffb56d7) B! 0
 - [Last-Modified / If-Modified-Since を使ったブラウザのキャッシュ機能が動作しない【トラブル対応日誌より】](https://qiita.com/kubo-h_beng/items/c4dc4bb343192af1d44b) B! 0
@@ -9189,9 +9381,7 @@
 - [Netskopeでできる絶対に期限を守りたくなる文化の作り方](https://qiita.com/h_r_w_t_r/items/27ee764cbaff204272d5) B! 0
 - [【Salesforce】ビジネスを前進させる「項目設計」へのこだわり　](https://qiita.com/junnakase/items/38db43c4a9aa704f3747) B! 0
 - [社内ツールカオスマップを描いて、2024年の抱負を考えてみた](https://qiita.com/h_r_w_t_r/items/c8be86ee5173b07b5ac7) B! 0
-- [ChatGPTを使って自動FAQ回答Chatbotを作ってみた](https://qiita.com/y2y/items/9368109206319d2da154) B! 0
 - [【OpenAI】RailsでChat GPTを導入しよう](https://qiita.com/mokio/items/6e65ff8572f303c18750) B! 0
-- [ChatGPTに対する賢い質問方法 n選(チートシート)](https://qiita.com/zizynonno/items/29de3beb0ff867357ab3) B! 0
 - [db:migrateをちゃんと理解する](https://qiita.com/hitsuji789/items/f32d4a7d75af689baf27) B! 0
 - [rails deviseを使用したメールアドレス変更](https://qiita.com/mone_pi/items/8ae772e10ad7a91ec1cb) B! 0
 - [『Web系未経験者がReact×TypeScriptでポートフォリオサイトを作る』を読む](https://qiita.com/hirokimry/items/0a9f8ade6ae28289ac4d) B! 0
@@ -9330,10 +9520,12 @@
 - [vercel v0を使って簡素なgcode viewerを作ってみる](https://zenn.dev/tenmihi/articles/ff785b5792cfbf) B! 0
 - [D-Waveを利用して、量子コンピューティング技術でチームにタスクを割り振りを試した](https://qiita.com/naoki_hayashida/items/6e1c7df80a3c24580914) B! 0
 - [ペアプロで改めて学んだ CSS たち](https://note.com/_miyukich_/n/nb4522df69a3f) B! 0
+- [スクラムチームからタスクフォースというアプローチ](https://note.com/waaaaall/n/n66c4d8ec08c1) B! 0
 - [一日店長タコス屋でChat GPTを副店長にお迎えした話](https://note.com/saudade56/n/ncd1bd8198647) B! 0
 - [マーケターがSQL×GAS×GPT-3.5 APIをつかって業務を自動化した話](https://qiita.com/mizu-taku/items/64e743e8570937ae634c) B! 0
 - [事業とユーザー価値に向き合うエンジニアの挑戦](https://qiita.com/matinana/items/2a3430ad37dac5e1c168) B! 0
 - [私たちはなにを讃えたいのか？に向き合ってみる](https://note.com/shirokurosanpo/n/n5cc628a8a884?sub_rt=share_pb) B! 0
+- [重なり合う居場所](https://ieiri.co/n/nad6ea3f8decb) B! 0
 - [プロダクトアニマル（ズ）](https://momotarabit.ch/blog/productanimal) B! 0
 - [JenkinsのパイプラインをDocker outside of Dockerで実装する](https://csblog.casareal.co.jp/archives/944) B! 0
 - [SwiftUI の dismiss() って「関数()」じゃなくて「オブジェクト()」だよね？](https://qiita.com/aokiplayer/items/3305083d2d54f9e6e524) B! 0
@@ -9357,6 +9549,7 @@
 - [dnd KitのSortableとReact Hook Formを使ってソート可能なフォームを作る](https://zenn.dev/castingone_dev/articles/dndkit_sortable_react_hook_form) B! 0
 - [DBアクセスがあるユニットテストをトランザクションを使って倍速にした](https://zenn.dev/castingone_dev/articles/3bb77e48dd2028) B! 0
 - [useInfiniteQueryで簡単に無限スクロールを実装する](https://zenn.dev/castingone_dev/articles/0a88b85cfa7fe3) B! 0
+- [CastingONE開発振り返り2023](https://zenn.dev/castingone_dev/articles/casone_retro_2023) B! 0
 - [CDN版Vue3で単一ファイルコンポーネントを作る](https://qiita.com/konbraphat51/items/768c5c414fca988ffa97) B! 0
 - [CDN版Vue3でお手軽多言語対応](https://qiita.com/konbraphat51/items/9cdcc1ceacb3c736c9be) B! 0
 - [技術書典に初出展してみて](https://qiita.com/rikugamesion/items/3f37a1d4584364ae5049) B! 0
@@ -9459,7 +9652,7 @@
 - [Meraki meets TouchDesigner](https://qiita.com/koshimi2468/items/85feeff34179e00f6408) B! 0
 - [IOS-XE Catalyst 9k（CML） で EVPN-VXLANを構築してみた](https://qiita.com/kykanno/items/41ba540bf635d97e3f3b) B! 0
 - [なんちゃってFlexlink+を実装してみる。](https://qiita.com/dmatsumu/items/b4f603525a669f5e2278) B! 0
-- [【Next.js/TypeScript/Firebase】OpenAI を用いたAPIレスポンスの自動レンダリング](https://qiita.com/uzumal/items/0ee07e2472bb8787ffe0) B! 0
+- [Web開発の新境地: OpenAIとFirebaseを活用したNext.jsでのAPIレスポンスのリアルタイムレンダリング](https://qiita.com/uzumal/items/0ee07e2472bb8787ffe0) B! 0
 - [ネットワークの振る舞い検知でセキュリティ強化を実現しよう - 脅威検知されたホストの自動隔離 -](https://qiita.com/naixia/items/a63c970ec3d58a87a354) B! 0
 - [AI-Driven TelemetryでNetworkの可視化もAIにお任せできる？](https://qiita.com/tkamata/items/385d47728607e7090c7f) B! 0
 - [オンラインも交えたこれからの新しいコミュニケーションについて考えてみる　- WebexOne 2023 での発表も踏まえて -](https://qiita.com/kazkaz_o3/items/8facfab78a11e397b8fc) B! 0
@@ -9472,6 +9665,8 @@
 - [IntersightをCLIでさくっと自動化 (isctlを試してみよう！)](https://qiita.com/tossy773/items/36330502e99cd44b955a) B! 0
 - [Gemini 使ってみた](https://qiita.com/daiogawa/items/ba216032e139f0a1e9f7) B! 0
 - [【初心者向け】4STEPでわかる! IETF WG入門](https://qiita.com/maboom/items/d24ca4f9112c8443980e) B! 0
+- [「ソフトウェアアーキテクチャの基礎」輪読会の感想](https://qiita.com/iNoma_main/items/358b024eb4fb34b4b630) B! 0
+- [新感覚ドキュメント管理アプリを作った話](https://qiita.com/iNoma_main/items/d2af8ec7d9f7d1a095b1) B! 0
 - [FastAPIでWebSocketに入門してみた](https://zenn.dev/knot/articles/dbce3e3a2f3f3a) B! 0
 - [GoでEtherCATパケットを生成する](https://zenn.dev/bana7/articles/5e7544f8d69bed) B! 0
 - [VRM Animation (.vrma)をUnity上で簡単に生成できるようにした話](https://note.com/baku_dreameater/n/n26908f443e5b) B! 0
@@ -9502,7 +9697,6 @@
 - [【スターウォーズ】帝国軍に学ぶコードレビュー心得](https://qiita.com/kei3da/private/571839403bc5d9092d84) B! 0
 - [ポケモンカードのショッピングサイトを作ってみよう!](https://qiita.com/nk60/items/0e492a658add9ff0f8d4) B! 0
 - [ChatGPT Slack Botを作った話](https://qiita.com/rougan/items/6c33c51484e2b5cec8f5) B! 0
-- [GitHub Copilot Chat を使ったワンフレーズコードレビュー](https://qiita.com/c_hammerhead/items/1d67b523d2ee93aa4f45) B! 0
 - [TextMeshProでOSにインストールされたフォントを使いたい](https://qiita.com/dhorio/items/de1dc7253039c5629a78) B! 0
 - [EC2 Macインスタンスの構築と運用について](https://qiita.com/yamada_yuki/items/a24a98d8a5448aafc579) B! 0
 - [【Unity】MVP設計に業務で初めて触れて見えてきたこと](https://qiita.com/KyoheiOkawa/items/f2d76ba67551fdbc9456) B! 0
@@ -9549,19 +9743,16 @@
 - [プロジェクトセカイ COLORFUL LIVE 3rd - Evolve -　グラフィックス進化の中身をチラ見せ](https://media.colorfulpalette.co.jp/n/n5b3c7fe16970?magazine_key=m753f507dae79) B! 0
 - [画像生成モデルのLCMを使ってSlackのコマンドから高速に画像生成を行う](https://media.colorfulpalette.co.jp/n/n42e078557e21) B! 0
 - [【Unity】ノード表現でロジックをアセットに！ GraphViewの入門とツール活用](https://media.colorfulpalette.co.jp/n/nf16e36c291b0) B! 0
-- [NOVAShaderで作るエフェクト制作Tips](https://media.colorfulpalette.co.jp/n/n6ac955632f7f) B! 0
 - [【Unity】Sobel Filterを使ってリムライト表現を実装する](https://media.colorfulpalette.co.jp/n/na124e7072200) B! 0
 - [「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」の譜面の進化とこだわり](https://media.colorfulpalette.co.jp/n/nf36e1946d71b?sub_rt=share_pw) B! 0
 - [Colorful Paletteに新卒入社して感じたこと](https://media.colorfulpalette.co.jp/n/n927fd417af38) B! 0
 - [Cloud Native Community Japan Kickoff meetupに参加してきた！](https://www.opensourcetech.tokyo/entry/20231202/1701523432) B! 0
 - [障害対応に役立つであろう5つのTips](https://qiita.com/YoheiKanamaru1/items/29f975c2b38449876610) B! 0
 - [ペアテスト分析を通じてわかった機能テストのテスト分析に必要な能力](https://zenn.dev/kawabeaver/articles/f7b5e9577c4c7d) B! 0
-- [vercel/satoriでfavicon時計を作る](https://qiita.com/anoChick/items/14ffc8f66c70d6b3aa2f) B! 0
 - [Next.jsでDall-E(open ai)を使えるようにしてみた（その１）](https://zenn.dev/commmune/articles/4772f57fb9f267) B! 0
 - [Log AnalyticsでCloud Buildの時間を可視化してみた](https://qiita.com/mongamae-nioh/items/3adf88a5b1e768498fa3) B! 0
 - [今年の残り日数を表示してくれるchorme拡張機能を実装](https://qiita.com/YoheiKanamaru1/items/2907aa9785b7b15b7dee) B! 0
 - [WebSocketを使おうと思ったけどやめました](https://qiita.com/srd7/items/f8c952d3c2b70089c749) B! 0
-- [アウトプット重視輪読会を実施したら業務へのアウトプットが活発になった](https://qiita.com/YoheiKanamaru1/items/54d00c0db247a9367472) B! 0
 - [Next.js14でDall-E(open ai)を使えるようにしてみた（その２）](https://zenn.dev/commmune/articles/03309f1f54768f) B! 0
 - [PlaywrightでVisual Regression Test実装する＋便利そうなオプションの紹介](https://qiita.com/YoheiKanamaru1/items/3cd477e3dbc7868b7837) B! 0
 - [Next.jsのServer ActionsをtRPCライクに使う[next-safe-action]](https://qiita.com/anoChick/items/54c38f2824eb33d35b10) B! 0
@@ -9623,6 +9814,7 @@
 - [ぼくのかんがえたさいきょうのOpenAPI(Swagger) 仕様の策定環境　その1 redocly(yamlのLINT)の導入](https://qiita.com/chr/items/7a21d65cd38091a82adf) B! 0
 - [ぼくのかんがえたさいきょうのOpenAPI(Swagger) 仕様の策定環境　その2 docker-composeでのSwagger UI の導入](https://qiita.com/chr/items/c835a80448ca74446b87) B! 0
 - [ぼくのかんがえたさいきょうのOpenAPI(Swagger) 仕様の策定環境　その3 docker-composeでのmockserver(Prism) の導入](https://qiita.com/chr/items/5b3560d9c2761ff000e2) B! 0
+- [Figmaプラグイン開発でUIデザイン翻訳コストの大幅削減](https://offshore.craid-inc.com/cost-cut-by-figma-plugin/) B! 0
 - [CLに転職して3年経ったはなし](https://www.creationline.com/?p=67369) B! 0
 - [今後クリエーションラインの事業の核となる「CL指名型開発」とは？](https://www.creationline.com/author/tadahiro-yasuda/67604) B! 0
 - [今さら聞けない、AIに関する豆知識：Air Street Capital社の"State of AI Report 2023"を紐解く](https://www.evernote.com/shard/s21/sh/645f4238-ac28-54a3-5538-04115b5bcb39/SH9AFpdzuWB16cuaAwWscTRogE5J6E4FWuF4KueOuYa9LPfvJ24CLStWog) B! 0
@@ -9648,7 +9840,6 @@
 - [LLM+ナレッジグラフ](https://www.creationline.com/tech-blog/68014) B! 0
 - [Scrum.orgのOpen Assessmentでは、回答の選択肢を読む前に自分で答えを考えてみよう](https://www.creationline.com/tech-blog/68586) B! 0
 - [【Event-Driven Architectureへの道】結果整合性にどのように向き合うか？ データベース分割とビジネスインパクトへの対応](https://www.creationline.com/tech-blog/65917) B! 0
-- [本業、副業、趣味でソフトウェア開発している話](https://engineer.crowdworks.jp/entry/2023/12/02/084602) B! 0
 - [そういえばプログラマ35歳定年説とかあったね](https://qiita.com/linyclar/items/94f71caef0727703f60e) B! 0
 - [生成AIを使ったリスキリング](https://qiita.com/53able/items/f5c792a2e85ad2d2a736) B! 0
 - [もしあなたが1人っきりでSaaSのインフラを作ることになったら...](https://zenn.dev/ciloholic/articles/d1adb80dbc6674) B! 0
@@ -9735,7 +9926,6 @@
 - [Googleが推奨する新しいリターゲティング手法について](https://zenn.dev/d2c_mtech_blog/articles/33a1b5b4193132) B! 0
 - [生存時間分析を使ってみたのでざっくり説明](https://zenn.dev/d2c_mtech_blog/articles/cfe222214576bf) B! 0
 - [JupyterLab Extension開発入門](https://zenn.dev/d2c_mtech_blog/articles/ca66fd9296e7f7) B! 0
-- [VPC Service Controlsを用いてデータ制限を行う](https://zenn.dev/d2c_mtech_blog/articles/45f6138235b904) B! 0
 - [チームで実施したコードレビューの見直しについて](https://zenn.dev/d2c_mtech_blog/articles/4930f45ae01cec) B! 0
 - [AWS Lake Formationの導入効果](https://zenn.dev/d2c_mtech_blog/articles/44e3eca1c44f7f) B! 0
 - [Amazon QでチャットQ&Aアプリケーションを作る](https://zenn.dev/d2c_mtech_blog/articles/13cb85ed161f5b) B! 0
@@ -9769,6 +9959,7 @@
 - [技術書典１５にチャレンジしてみて分かったことと今後の課題①](https://qiita.com/deafengineers/items/d0db621c5538639c98cb) B! 0
 - [なぜ海水魚飼育は難しいのか](https://qiita.com/sipadan2003/items/b2a6099457ed0650f2a4) B! 0
 - [Python学習の振り返り](https://qiita.com/Atsulabo/items/bc9e7d8464c537967bc5) B! 0
+- [きこえない開発者にとってのウォーターフォール開発とアジャイル開発とは（前編）](https://qiita.com/mamineko/items/ad3ebc3983444190e3ff) B! 0
 - [Pythonで時計アプリを作ってみた](https://qiita.com/Chihiro_0808/items/d978a671358fcaf859bb) B! 0
 - [電話リレーサービスのおしいところを改善した話](https://qiita.com/kentant/items/7924b0d183464ef1b06e) B! 0
 - [デフエンジニアの勉強の機会を増やすために](https://qiita.com/mamineko/items/c41fece301c244af48b7) B! 0
@@ -9782,16 +9973,18 @@
 - [統計検定DSエキスパートチートシート(その１:統計基礎）](https://qiita.com/DeepTama/items/4eed0a5eb5a234bde8b0) B! 0
 - [統計検定DSエキスパートチートシート（その２：数学基礎）](https://qiita.com/DeepTama/items/9cd9828714db702bd678) B! 0
 - [そのタスク LLM？ Fine-tuning？（論文：「Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond」）](https://qiita.com/DeepMata/items/03fa1fcac271935debc2) B! 0
+- [LLMの実行方法と周辺ツールまとめ](https://qiita.com/simakihiro/items/7467b849212fb3863e3b) B! 0
 - [注目！の国産LLM「LLM-jp」でGoogleコラボ上でRAGを使ってみた](https://qiita.com/DeepTama/items/4fec9a2ad6cde3a215f6) B! 0
 - [注目! 国産LLM「LLM-jp」を ELYZAタスク100 で検証してみた](https://qiita.com/DeepTama/items/00ee147118d660485fcc) B! 0
 - [「Gemini」：Googleの新AI、実際のところは？](https://qiita.com/DeepMata/items/2b96ff9bf512483e1a7e) B! 0
 - [【Llama.cpp】GGUFモデルの量子化具合による生成文章の違いを徹底比較！【houou-7b】](https://qiita.com/keisuke-okb/items/b8092ed946bcf3864295) B! 0
 - [オリジナルアバターでGoogle Meetに参加しよう](https://qiita.com/DeepTama/items/e4a8d8402b1552b7a82d) B! 0
 - [１枚のイラストから動くアバタを作ってZoomに参加しよう！](https://qiita.com/keisuke-okb/items/579d78615d460683bd39) B! 0
-- [【LLM】Temperatureが大きいほど出力は多様！…なんで？](https://qiita.com/simajiro/items/ac4074f5f5e632fae895) B! 0
+- [【LLM】Temperatureが大きいほど出力は多様！…なんで？](https://qiita.com/simakihiro/items/ac4074f5f5e632fae895) B! 0
+- [【Petals】3人で力を合わせてLlama-2-70bを動かす【Colab】](https://qiita.com/simakihiro/items/3fccc19e0dcf532732e7) B! 0
 - [【実験】正面の顔写真一枚からアバタ画像を作る＆逆変換してリアルにしてみる](https://qiita.com/keisuke-okb/items/b61fee76a0457bd85541) B! 0
 - [LLMを社内で活用する場合に必要な知識について【RAG】【オープンソースモデル】](https://qiita.com/RisaM/items/0dc092274232c084bca4) B! 0
-- [全ての人に送るMac入門書](https://qiita.com/simajiro/items/b51f26d8fdff636731d9) B! 0
+- [全ての人に送るMac入門書](https://qiita.com/simakihiro/items/b51f26d8fdff636731d9) B! 0
 - [【WSL2】Stable Zero123をWindows11ローカルマシンで動かして好きな画像を3D化してみよう](https://qiita.com/keisuke-okb/items/1b590c21aa9cd94332ac) B! 0
 - [【統計検定準１級】クックの距離を深めに理解する](https://qiita.com/DeepMata/items/1657b3c463b9f5d2a39f) B! 0
 - [SwiftUI の Layout System について調べてみる🤔( DeNA 24 新卒 Advent Calendar 2023 Day 1)](https://medium.com/@amisummer/swiftui-%E3%81%AE-layout-system-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%82%8B-advent-calendar-2023-day-1-3f821f156cb0) B! 0
@@ -9936,23 +10129,18 @@
 - [【Python】非推奨になった関数やメソッドのリプレイス工程にとっても便利な`typing_extensions.deprecated`](https://qiita.com/junkmd/items/479a8bafa03c8e0428ac) B! 0
 - [元保育士の友人にLinuxを教えている話](https://qiita.com/Naoumi1214/items/7efbc310d60023af4435) B! 0
 - [クリぼっちに送るPowerBIハンズオン](https://www.notion.so/youzhen0x38/5a460108abfe4668a2e7d1f88e9914d6) B! 0
-- [SLIの見直し 開発者目線からユーザー目線へ](https://inside.dmm.com/articles/slo-no-minaoshi/) B! 0
 - [DMMプラットフォームで発生したノイジーネイバー問題に対してのSLI/SLOを検討した話](https://inside.dmm.com/articles/noisy-neighbor-slo/) B! 0
 - [SwiftUIで作る複数行カルーセル](https://inside.dmm.com/articles/swiftui-multi-row-carousel/) B! 0
 - [DMM会員基盤　オンプレミスMySQLからAmazon Aurora MySQLへの移行方法とハマった点](https://inside.dmm.com/articles/issues-we-faced-when-migrating-from-on-premise-mysql-to-aurora/) B! 0
-- [Diátaxisによる知見の体系化を図ろうとしている話](https://inside.dmm.com/articles/systematicness-documentation-diataxis/) B! 0
 - [フロントエンドで制御するLive2Dキャラクター ~個性的にキャラクターを動かす工夫~](https://inside.dmm.com/articles/vc-live2d-control/) B! 0
 - [OasysのL2チェーンを自社運用している話 〜DMMのweb3事業とブロックチェーン運用Tips紹介〜](https://inside.dmm.com/articles/seamoon-protocol-pf-dm2verse/) B! 0
-- [DMMオンラインサロンアプリのプロジェクト構成を紹介します](https://inside.dmm.com/articles/swiftpm-project-management/) B! 0
+- [Swift Package Managerを使ったプロジェクト管理方法を紹介します](https://inside.dmm.com/articles/swiftpm-project-management/) B! 0
 - [内定者アルバイトから新卒として入社した2023年の振り返り](https://inside.dmm.com/articles/antifraud_security/) B! 0
 - [KubeCon + CloudNativeCon North America 2023 参加レポート](https://inside.dmm.com/articles/kubecon-na-2023-report/) B! 0
 - [Google Kubernetes Engine のクラスタ認証情報をローテーションするまでに考えたこと](https://inside.dmm.com/articles/gke-authentication-rotation/) B! 0
-- [サービスの稼働状況をStatus Pageを使って可視化した話](https://inside.dmm.com/articles/implement-internal-status-page/) B! 0
 - [AWS re:Invent 2023 新発表サービス AmazonQを試してみる](https://inside.dmm.com/articles/amazonq/) B! 0
-- [横断的コードレビューを1年間やった個人的な振り返り](https://inside.dmm.com/articles/interdepartmental-codereview/) B! 0
 - [開発を通して感じたマイクロサービスを採用する大変さ](https://inside.dmm.com/articles/dmm-platform-microservice-development-difficulties/) B! 0
 - [DMMデザイン組織の動き2023](https://inside.dmm.com/articles/dmm-design-2023/) B! 0
-- [Dagger Go SDK vs Shell in GitHub Actions ~ モノレポのCIの実装をGoで実装するまでの道のり ~](https://inside.dmm.com/articles/monorepo-ci-shell-vs-go/) B! 0
 - [エンジニアが何故マネジメントを難しいと感じるのか](https://inside.dmm.com/articles/engineering-management-difficult/) B! 0
 - [なんか書きます(csqlについて)](https://zenn.dev/yadon/articles/fe8b965746a418) B! 0
 - [一等無人航空機操縦者の夜間限定解除試験について(教習所経由)](https://qiita.com/TEMMIEHOIHOI/items/98fbf9c2f14bc4f1ad99) B! 0
@@ -9963,7 +10151,6 @@
 - [dirtyの由来を調べてみた](https://qiita.com/mrskiro/items/56cba87ff8c89f510c95) B! 0
 - [ゲームエンジンとしてのDenoの可能性](https://zenn.dev/_username/articles/9f87627d8199db) B! 0
 - [野菜を育てて暮らす技術 ~ 1年間の野菜づくり生活総まとめ ~](https://namaozi.hatenablog.com/entry/2023/12/17/192924) B! 0
-- [ニコ生の開発環境が不足しがちなのでKubernetes/IstioとChrome機能拡張を使ってスケールするようにしてみた話](https://zenn.dev/cornet_higashi/articles/scale-development-environment) B! 0
 - [private npm registryの移行ノウハウ](https://qiita.com/takiga/items/c7bc7d26c2fc4cc800b5) B! 0
 - [とあるサービスのサーバー代を年間半千万円(500万円)削減する方法](https://qiita.com/ystmg/items/b293cd73d2cc2546bd90) B! 0
 - [EEIC民的全休の過ごし方](https://note.com/hirui_ari/n/n6dd83c156286) B! 0
@@ -9973,7 +10160,7 @@
 - [本郷飯屋とその周辺 ～本郷編～](https://note.com/hirui_ari/n/n76a9fd7609b5) B! 0
 - [本郷飯屋とその周辺 〜周辺編〜](https://note.com/hirui_ari/n/n4938eccc4a8c) B! 0
 - [Xで最新の技術を追うのが日課の話](https://qiita.com/SuperHotDogCat/items/ba09ed9036e7b84674a6) B! 0
-- [インドで学ぶLLM②](https://takuonon.com/2023/12/08/india_2/) B! 0
+- [インドで学ぶLLM②](https://takuonon.com/india_2/) B! 0
 - [本郷キャンパスとオートバイのはなし](https://note.com/br2c74/n/n98fbee345036) B! 0
 - [趣味:散財がおくる、買って微妙だったもの集](https://note.com/meltpoint/n/ndb497236af9e) B! 0
 - [集中したいときのためのお菓子と音楽](https://ta1sa.hatenablog.com/entry/2023/12/11/002910) B! 0
@@ -10033,6 +10220,7 @@
 - [[Unity]シックスボールパズル再現への道](https://qiita.com/Jun_Ishikawa/items/fe6a533c0531a9071d99) B! 0
 - [最近の流行りの曲で使われがちな音楽手法](https://qiita.com/zinenzyo_machida/items/b39a75a35b4a7beec723) B! 0
 - [[Swift]Realmのデータを更新(削除)する時に配列にするかResults構造体かで少し悩んだ話](https://qiita.com/atsuastu_jr/items/192f80ea8474d7d1bce8) B! 0
+- [エンジニアとしての振り返り2023](https://note.com/txxxxc/n/n17b141f5fe79) B! 0
 - [[GASでカンタン自動化] 個人にお知らせくん](https://qiita.com/fuki_01/items/e8c4c5d17844e17d38b8) B! 0
 - [アドベントカレンダーを主催して良かったことを考えてみた.](https://note.com/kimura_koya/n/n321610798d77) B! 0
 - [ソフトウェア見積りにおいて実践してること](https://tech.enigmo.co.jp/draft/entry/YoTMpG95WSlT8wMWZ_P4tkyrM-I) B! 0
@@ -10065,14 +10253,11 @@
 - [k6 operatorを使った開発者が気軽に実行できる負荷試験環境](https://medium.com/eureka-engineering/k6-operator%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E9%96%8B%E7%99%BA%E8%80%85%E3%81%8C%E6%B0%97%E8%BB%BD%E3%81%AB%E5%AE%9F%E8%A1%8C%E3%81%A7%E3%81%8D%E3%82%8B%E8%B2%A0%E8%8D%B7%E8%A9%A6%E9%A8%93%E7%92%B0%E5%A2%83-19924f8d25a4) B! 0
 - [A/Bテストの実験成熟度を押し上げた話](https://medium.com/eureka-engineering/a-b%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E5%AE%9F%E9%A8%93%E6%88%90%E7%86%9F%E5%BA%A6%E3%82%92%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%81%9F%E8%A9%B1-52a608689ed9) B! 0
 - [iOS Simulatorに画像をOverlayするmacOSアプリケーションを作ってみよう](https://medium.com/eureka-engineering/ios-simulator-overlay-image-37748109911c) B! 0
-- [“Immersed VR” でディスプレイごと作業環境を持ち運ぶ](https://medium.com/eureka-engineering/immersed-vr-portable-monitors-96c774340fd8) B! 0
 - [ケーススタディで学ぶ、AWSにおけるIP制限: CloudFront、ALB、アプリケーションレイヤにおける実装と考慮点の整理](https://medium.com/eureka-engineering/%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3%E3%81%A7%E5%AD%A6%E3%81%B6-aws%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8Bip%E5%88%B6%E9%99%90-cloudfront-alb-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%AC%E3%82%A4%E3%83%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9F%E8%A3%85%E3%81%A8%E8%80%83%E6%85%AE%E7%82%B9%E3%81%AE%E6%95%B4%E7%90%86-25726d0096c2) B! 0
 - [Performance Insightsを利用したMySQL負荷改善プロセスの紹介](https://medium.com/eureka-engineering/mysql-improving-load-performance-using-performance-insights-8aa5ae2f223e) B! 0
-- [Pairsの成長を推進させるデータ分析](https://medium.com/eureka-engineering/pairs%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E6%8E%A8%E9%80%B2%E3%81%95%E3%81%9B%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90-d24c0b2bea9d) B! 0
 - [こんなに伸びた！2023 年 Pairs の Web チーム新卒研修](https://medium.com/eureka-engineering/2023-web-team-new-graduate-training-d8aef1a367f3) B! 0
 - [eurekaにおけるプロジェクトマネジメントチームの立ち上げとこれから](https://medium.com/eureka-engineering/eureka%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%81%A8%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89-66baa59afaf1) B! 0
 - [2023年近況](https://note.com/wiroha/n/n169eca95a777) B! 0
-- [絶えず灯り続けるアジャイルのこころ](https://kakkablog.hatenadiary.jp/entry/2023/12/25/114954) B! 0
 - [Asana Intelligenceとは何か？](https://qiita.com/ishibashi-futoshi/items/e137aceadb5d9b967f90) B! 0
 - [生成AIで歴史の闇を暴くぜ](https://qiita.com/asama_kotaro/items/8e9b6276b13fcc941dd0) B! 0
 - [LangchainでExcelファイルを読み込んでもらう](https://qiita.com/toyokawa_tasuku/items/8f8c33c3780f309cb090) B! 0
@@ -10089,6 +10274,7 @@
 - [ヴァイオリンの音色のよさはスペクトラムアナライザーで分かるか試してみた](https://note.com/jooji/n/n4488690289ec) B! 0
 - [Cedarで（超最小限な）RBAC認可を実装してみる](https://sogo.dev/posts/2023/12/cedar-rbac) B! 0
 - [N100で楽しい自宅インフラ](https://o108minmin.hatenablog.com/entry/2023/12/08/001333) B! 0
+- [DoS攻撃に役立つdnsdist設定集GitHubで開く](https://zenn.dev/hunter9x/articles/dnsdist-ddos-relates-configs) B! 0
 - [SwitchBotのBLEでデータを取ってみた](https://qiita.com/ktakaaki/items/c3e0a33878e8397ab15e) B! 0
 - [アラート対応の自動化](https://qiita.com/ks2022/items/0355310013c84dcb2ebb) B! 0
 - [【WASI】ちょっとデータを整えたい！ブラウザでワンライナーが使えるエディタを作ってみた](https://qiita.com/Syuparn/items/2ded4d781429a9982f04) B! 0
@@ -10119,6 +10305,7 @@
 - [Flutter開発の効率化：VSCodeのlaunch.jsonにInputsを追加してデバイスプレビュー選択を簡単に](https://zenn.dev/kazukidddd/articles/c448f33d812e23) B! 0
 - [FlameとDart Frogでオンラインゲームを開発している話](https://zenn.dev/miyasic/articles/bf69f36143e7d9) B! 0
 - [初めての個人開発アプリリリースとなぜ勉強が遅れたのか](https://qiita.com/asano369/items/4b7ec4bf4edebee79761) B! 0
+- [ダイアログ上にListを表示したときに選択位置までスクロールしたい](https://zenn.dev/knaka/articles/487240f1f31f4c) B! 0
 - [Flutter × Shader 入門](https://zenn.dev/yuki_maitani/articles/4a1c0340ed179c) B! 0
 - [ServerpodをAWSにdeployする](https://zenn.dev/flutteruniv_dev/articles/24359ad3ca8a3b) B! 0
 - [Flutterの入門書出版までの流れを紹介！](https://note.com/fujikei/n/nfe572d8ce633?sub_rt=share_pb) B! 0
@@ -10150,13 +10337,12 @@
 - [Vega解説 〜Reactアプリ上でVegaグラフを表示し、グラフのイベントを捕まえる〜](https://qiita.com/ihgs/items/ed7ac7309696184008b4) B! 0
 - [AWS CDK vs Pulumi - Deep Dive](https://qiita.com/hikarunakatani/items/462600a734c581eb6900) B! 0
 - [Office Scriptsチートシート](https://qiita.com/negimijin/items/b3f82fbc318f619a7914) B! 0
-- [マグロ超音波AI](https://note.com/fujitsu_pr/n/n371db816cbac) B! 0
 - [OptiOps（Optimization Operations）を提唱してみる](https://qiita.com/bellvine/items/0a8a7582e15e16817a32) B! 0
 - [Amazon FSx for NetApp ONTAPを複数HAペアでデプロイしてみる(AWS re:Invent2023 recap)](https://qiita.com/Pretzelisa/private/e60a65a491079fa3e558) B! 0
 - [Office Scriptsでできなかったことまとめ](https://qiita.com/negimijin/items/f4749879fc4d950993b1) B! 0
 - [自分に管理者権限がないSPOリストの列名取得方法](https://qiita.com/negimijin/items/7ab3f8ca9575416cce7c) B! 0
 - [Microsoft Power Automate Desktop（無償版）でカッコよく定時実行をする！](https://qiita.com/caffeine1202/items/743f598767ff20936bec) B! 0
-- [Shorアルゴリズムによる素因数分解 on 量子計算機シミュレータ](https://prtimes.jp/main/html/rd/p/000000001.000134275.html) B! 0
+- [量子計算機シミュレータを用いた素因数分解](https://qiita.com/izutetsuya/items/aed61b16574c8f78cb91) B! 0
 - [【AWS】CloudShellでVPC内にSIEMを構築してみた](https://qiita.com/maru3ka9/items/d84a79d1e0e666954702) B! 0
 - [Azure MapsとGoogle Maps Platformを比較してみた。](https://qiita.com/r_07089713/items/0a1f7148f5faec365906) B! 0
 - [耐量子計算機暗号に対応したBoringSSLをお試しする](https://zenn.dev/shutendohg/articles/231220-advent-pqc) B! 0
@@ -10165,6 +10351,7 @@
 - [PyATSとSi-R](https://qiita.com/koishi_105/items/1c4eb245795affdb3892) B! 0
 - [etcdのraft.tickは何をしているのか](https://qiita.com/ystkfujii/items/dc232dbaefcdec83b05c) B! 0
 - [LLVM-BOLTのメモリ配置最適化](https://qiita.com/joule/items/955ffa9992abbc61335d) B! 0
+- [ソフトウェア開発職の若手技術者が通算1年AI研究者(仮)をやり、社内転職もやったので色々まとめてみた](https://qiita.com/y-vectorfield/items/4d3c6957de7d28beb038) B! 0
 - [スクラム未経験者がスクラムについてまとめてみた](https://qiita.com/plumchang/items/3daee8de3437fe651fb8) B! 0
 - [PaLM2 を用いた AI チャット開発 (ハンズオン形式)](https://qiita.com/bearone236/items/3d79eb59c269b41df90d) B! 0
 - [visionOSで簡単なアプリを１つ作ろう](https://zenn.dev/ansuke/articles/2ed899aaab34a9) B! 0
@@ -10192,10 +10379,12 @@
 - [1on1は自分が主役であることを再認識した話](https://note.com/funteractive_inc/n/n7d372fe3f206) B! 0
 - [好きに気づくと、もっと好きになる。](https://note.com/funteractive_inc/n/n8fd9dca5b028) B! 0
 - [怒られ駆動開発エンジニア](https://qiita.com/nuinteedev/items/aeb06b68744caa232816) B! 0
-- [UX戦略をなぜクライアントワークに持ち込むか](https://funteractive.co.jp/views/ux-strategy-for-client-work/) B! 0
-- [ゼミ論中間報告](https://medium.com/furuhashilab/plateau-lod1%E5%BB%BA%E7%89%A9%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92osm%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E6%B3%95%E3%81%AE%E7%A2%BA%E7%AB%8B-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC12-21-6eec99e14ec0) B! 0
-- [[小澤]ゼミ論中間報告](https://medium.com/furuhashilab/%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-811f5efadaab) B! 0
-- [ゼミ論中間報告](https://medium.com/furuhashilab/%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC12-23-37305e3dcce6) B! 0
+- [PLATEAUコンソーシアム始動！](https://link.medium.com/z8PX6zZOYFb) B! 0
+- [ゼミ論中間報告](https://medium.com/furuhashilab/%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-46ed4c790288) B! 0
+- [PLATEAU LOD1建物データをOSMにインポートする際の事前準備法の確立](https://medium.com/furuhashilab/plateau-lod1%E5%BB%BA%E7%89%A9%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92osm%E3%81%AB%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E6%B3%95%E3%81%AE%E7%A2%BA%E7%AB%8B-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC12-21-6eec99e14ec0) B! 0
+- [[小澤ゼミ論中間報告] 画像生成AIでゼミ用画像生成する際に使用する、ゼミワードリストを作成しています！](https://medium.com/furuhashilab/%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-811f5efadaab) B! 0
+- [検索ワードを変えるだけで面白い論文がたくさん見つかります！（ゼミ論中間報告）](https://medium.com/furuhashilab/%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC12-23-37305e3dcce6) B! 0
+- [対話型aiと教育成果-チャットボットを活用した学習支援の実証的分析-アドベントカレンダー](https://medium.com/furuhashilab/%E5%AF%BE%E8%A9%B1%E5%9E%8Bai%E3%81%A8%E6%95%99%E8%82%B2%E6%88%90%E6%9E%9C-%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E3%81%AE%E5%AE%9F%E8%A8%BC%E7%9A%84%E5%88%86%E6%9E%90-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-c8bc74bf97f5) B! 0
 - [電磁場上で動く電荷のシミュレーションについて](https://qiita.com/kim-hyunwoo/items/461dfd2c74585ecfd412) B! 0
 - [Google の Looker Studio を使って競馬の勝率とかを可視化する](https://qiita.com/dacchan/items/4ccde274dec981308c9e) B! 0
 - [この1年の開発組織体制の変更について](https://tech.furyu.jp/entry/2023/12/04/202359) B! 0
@@ -10216,7 +10405,6 @@
 - [AppStore#verifyReceiptの代替対応](https://qiita.com/maya_yan/items/30b7ea39e6edfdfdfb45) B! 0
 - [新メンバー向けに機能実装ワークショップを行った話](https://tech.furyu.jp/entry/2023/12/23/TriedRakugakiWorkShop) B! 0
 - [SPAJAM 2023 本選 のレポート2日目](https://tech.furyu.jp/entry/2023/12/24/070000) B! 0
-- [【音声合成】Matcha-TTS🍵で日本語音声を生成してみる](https://zenn.dev/fusic/articles/bd7da12adf5901) B! 0
 - [rectorとrector-laravelでLaravelをアップデートしてみる](https://qiita.com/hkusaba/items/e91cbdb1b69d550e13d6) B! 0
 - [TensorRT-LLM を動かしてみる](https://zenn.dev/fusic/articles/try-tensorrt-llm) B! 0
 - [Kaigi on Rails 2023に登壇しました](https://qiita.com/NaotoCoding/items/1360ebd91732c3229e95) B! 0
@@ -10225,6 +10413,7 @@
 - [Redshift + Laravel でお安くBIツールを作る](https://zenn.dev/yutakaokabe/articles/d5991bcb310d0f) B! 0
 - [EC2インスタンスのスケーリングや配置のあれこれを理解する](https://zenn.dev/fusic/articles/317f01dbfd78c7) B! 0
 - [Auth0 + Laravelで簡単Passkey実装](https://qiita.com/kozo/items/3d6a73cc4c32f5a2cbfe) B! 0
+- [対話的にChat Completions APIにテストコードを書いてもらう](https://zenn.dev/fusic/articles/c93efa06148a7c) B! 0
 - [3年半で60人以上の社員を福岡という地方都市で採用できたワケを棚卸ししてみた](https://note.com/super_orchid81/n/n5ca5e891a25c?sub_rt=share_pw) B! 0
 - [Docker で nmv を使うと docker exec で node コマンドが使えない時の対処法](https://qiita.com/tutida/items/fb38957d2b94dbcb64a3) B! 0
 - [TerraformでCloudWatchのクロスアカウントオブザーバビリティ設定](https://zenn.dev/fusic/articles/4f6446c3a077c1) B! 0
@@ -10254,7 +10443,6 @@
 - [Rust + Shuttleでバックエンドサーバー立ててみた](https://qiita.com/kapiyva/private/e6572c217a45aca7bc0d) B! 0
 - [5,000円ポッキリで自分専用のサーバ&リモートクライアントを持とう！](https://qiita.com/rkyymmt@github/items/3b63bec2b0446cb584bb) B! 0
 - [デカいパワポファイルを小さくする技術](https://qiita.com/920oj/items/5cdac93674cc24f61b16) B! 0
-- [Golangの新しいORM「Bun」を触ってみた](https://qiita.com/fujito_shion/items/a523c97c10b71eebe34a) B! 0
 - [パズル愛好家必見！SMTソルバーで解く、探索不要の数学的ルービックキューブ攻略術](https://qiita.com/wsysuper/items/9a37e0e1dd017352d1b1) B! 0
 - [AWS CDK 超入門！―導入ポエム―](https://zenn.dev/galapagos/articles/d013b8939580b8) B! 0
 - [AWS CDK 超入門！―Hello, world―](https://zenn.dev/ryusuke_math/articles/aws-cdk-intro-hello-world-former) B! 0
@@ -10286,6 +10474,7 @@
 - [runalsnの記事の上長サイドを書きます](https://tech.gamewith.co.jp/entry/2023/12/11/180333) B! 0
 - [Embeddingを用いたOpenSearchでのベクトル検索](https://qiita.com/menon/items/c0e074bafff8d9beff4e) B! 0
 - [RAGを使ったChatbotの実践と実装](https://qiita.com/menon/items/97350aa0b5e89f661852) B! 0
+- [WebエンジニアのiOSアプリ開発入門　SwiftUI Tutorials編](https://note.com/onukichi/n/ne40c94e5c4de) B! 0
 - [Gather運用例](https://note.com/hanadev/n/nd64581e3b095) B! 0
 - [認識齟齬を防ぐための仕様書](https://qiita.com/aburasoba/items/a18dd4f6b1a907f6ab87) B! 0
 - [Social sign ins with Flutter and NestJS](https://medium.com/@limcheekeen.63/social-sign-ins-for-flutter-with-nestjs-faa750cba015) B! 0
@@ -10378,7 +10567,6 @@
 - [詳解 Flutter Widgetbook](https://zenn.dev/natoring/articles/3d6638ab499117) B! 0
 - [私ってなんでHRになりたいんだっけ](https://note.com/_na73ta/n/n27cbba9d5552) B! 0
 - [sqlc + MySQL で集計関数を使用した時の返り値の型を正しくキャストする](https://zenn.dev/ken2403/articles/b8b8df8e6fc769) B! 0
-- [プロダクトマネージャーとして一番大切にしていること](https://note.com/geshi1/n/neb397ef5a452) B! 0
 - [LLama2をGoogle Colaboratoryでfine tuningしてみよう！](https://hajimemath.com/llama2_fine_tuning/) B! 0
 - [PHP8.3のjson_validateについて](https://hajimemath.com/json_validate/) B! 0
 - [abceedをvisionOSネイティブビルドできるようにした](https://qiita.com/toshi0383/items/b324e4e5a529985574ce) B! 0
@@ -10419,7 +10607,7 @@
 - [海外からフルリモートで働くソフトウェアエンジニアの仕事のすすめかた](https://www.samuraikun.dev/articles/working-from-abroad) B! 0
 - [Try Hack Me: Sakura Room Writeup](https://qiita.com/nabeen/items/2c4706b582c8de9f48b7) B! 0
 - [ProviderとかViewModelとかRepositoryとかDIとかMVVMとかよく分かんねぇよ！って人のために](https://qiita.com/homio/items/80ce1636a5da7c5b83fc) B! 0
-- [不格好ながら開発組織の変化に向き合った2023年を振り返る](https://note.com/mshrwtnb_/n/n33018b2e8be3) B! 0
+- [開発組織の変化に向き合った2023年を振り返る](https://note.com/mshrwtnb_/n/n33018b2e8be3) B! 0
 - [「Webpack → Vite」載せ替え体験記 - バックエンド統合編【軽量版】](https://qiita.com/HorikawaTokiya/items/fcf795ffa90fb7b2a840) B! 0
 - [数字で振り返るGLOBIS SRE 2023 - 手動作業の依頼は年間で185件でした](https://qiita.com/chroju/items/d0b0b899d0caca531d80) B! 0
 - [プロダクト開発組織を大胆に改革してみた後、どうなったのか](https://note.com/globis_engineers/n/ne8d2183b05a5) B! 0
@@ -10432,7 +10620,6 @@
 - [iOSアプリ開発の品質と効率の向上を目指した、実践的な社内標準化の取り組みを紹介](https://goodpatch-tech.hatenablog.com/entry/2023/12/21/120000) B! 0
 - [継続運用で実感する、PaaSだけで（主にFirebaseで）サービスを構築していく快適さ](https://goodpatch-tech.hatenablog.com/entry/2023/12/22/121555) B! 0
 - [「あると便利かも」という思いつきから始まった、SDXLを活用したバナー画像生成の試み](https://goodpatch-tech.hatenablog.com/entry/2023/12/23/070000) B! 0
-- [Golangのフレームワーク](https://qiita.com/GpAraki/items/7bf6c1794d50f0fc27aa) B! 0
 - [visionOSで空間に溶けるソフトウェア](https://goodpatch-tech.hatenablog.com/entry/2023/12/25/171820) B! 0
 - [データベースのスキーマ定義をGitHub Actionsで更新しよう！](https://qiita.com/mouri-goq/items/d175d8a6f0e4a89c6030) B! 0
 - [App Routerを使用したTodoアプリを作成してみる](https://qiita.com/iwata-goq/items/0a623133a019c6606ebc) B! 0
@@ -10474,7 +10661,6 @@
 - [KotlinでAndroidのTODOアプリを作る　Part1](https://qiita.com/hayaharu3220/items/b98fbb7c4ac1627f0936) B! 0
 - [CSS の色々な「上下左右の中央揃え」を試してみた](https://qiita.com/Masahiro111/items/4a14721e69afe0aabe19) B! 0
 - [【業務改善】GASを使って業務フローを改善した話](https://qiita.com/guolam/items/c1b17022c0d601216d6e) B! 0
-- [GPT4VとDALL•E３ APIでimg2img実装 Flask使用](https://qiita.com/katsuki1128/items/a84e948b64071f9ad44a) B! 0
 - [Vercel（CloudFlare）でGitHubのブランチごとに開発用の検証（プレビュー）環境を作る](https://arrown-blog.com/vercel-cloudflare-deploy-per-branch/) B! 0
 - [GAS×Google Spreadsheetで簡単なAPI（タピオカAPI）を作る](https://arrown-blog.com/gas-spreadsheet-tapioka-api/) B! 0
 - [VSCode環境で手軽にDocstringを挿入するPython Docstring Generator](https://arrown-blog.com/python-vscode-docstring/) B! 0
@@ -10488,7 +10674,6 @@
 - [Gitのブランチ管理をスマートにするための命名規則とメモ・コメント・説明書きの設定](https://arrown-blog.com/git-branch-management) B! 0
 - [【React-admin】Reactで簡単に作る管理画面](https://zenn.dev/ikeo/articles/f73ff384949d71) B! 0
 - [GitHubのプルリクエスト（Pull Request）作成時のコメントで気をつけること＆テンプレートを考えてみた](https://arrown-blog.com/github-pullrequest-template/) B! 0
-- [Laravel10 x Livewire3 環境構築ことはじめ➕α 【2024年度もたぶんOK】](https://qiita.com/tatun55/items/b196696298f64c7d1567) B! 0
 - [時代の潮流、取り入れていく柔軟性](https://note.com/daisu_yamazaki/n/n3cb47f95b08a) B! 0
 - [VS CodeでDevContainerを触ってみた](https://qiita.com/hiromu00/items/bed03f9dc810f80bfee7) B! 0
 - [新入社員研修の内容を過去の自分に紹介しよう！～技術編～](https://qiita.com/asaka271/items/a48c66ce3b4197e1b6d8) B! 0
@@ -10508,7 +10693,6 @@
 - [転職したての人から見るGxPはどんな会社？](https://qiita.com/yisobe-gxp/items/c82f9fdf75c839914665) B! 0
 - [Nuxt3 × Vuetify3 × TypeScript × SCSS × ESLintでプロジェクトをはじめるために](https://qiita.com/nmorishita/items/ba752fcef5b183ccd5a2) B! 0
 - [Transformer-VQの探求：効率と複雑度の新しいバランス](https://qiita.com/Shinen_Cho/items/e7738a9b1fc7281cfb73) B! 0
-- [C# + xUnitのプロジェクトでユニットテストの結果とテストカバレッジ率をレポートに出力させる。](https://qiita.com/h-uminoue-gxp/items/9218fd32a33e3b71edae) B! 0
 - [お金をかけずにLLMで遊んでみた](https://qiita.com/nmorishita/items/dfe482d8eb7a1d6f0d9f) B! 0
 - [【B01】ベジェ曲線](https://qiita.com/metaphysical_bard/items/7fa1ed619e965c4f92e7) B! 0
 - [【B02】ベジェ曲面](https://qiita.com/metaphysical_bard/items/774dcd150074eb9ceafb) B! 0
@@ -10516,6 +10700,8 @@
 - [【S01】3次スプライン補間](https://qiita.com/metaphysical_bard/items/e558b005255d1767fc70) B! 0
 - [【S02】3次スプライン補間(変数の正規化ver.)](https://qiita.com/metaphysical_bard/items/af436d24eedb71bdac91) B! 0
 - [Thomas法で解く三重対角行列](https://qiita.com/metaphysical_bard/items/92a1e97f5c611fb883c8) B! 0
+- [C++標準threadの同期処理がめんどくさいのでラップする](https://qiita.com/metaphysical_bard/items/cba6e84565a2ec8291c8) B! 0
+- [【S03】丸み不均一スプライン](https://qiita.com/metaphysical_bard/items/049cb9a4414a47298b4b) B! 0
 - [社員数5名から200名へ…ベンチャー企業で10年過ごしてみた / note / 日高聖子](https://note.com/shidaka/n/n7ba5d3d276ed) B! 0
 - [EM"として入社してからの１年間で悩み考え、実施したこと](https://note.com/jikun1234/n/nc4bef6626e21) B! 0
 - [開発チームオフラインイベントレポート / note / 井川千裕](https://note.com/chiiiii_81/n/naf0cd58c396e) B! 0
@@ -10579,8 +10765,6 @@
 - [オブジェクト指向の未来と古代東洋哲学](http://blog.vrai.jp/article/501694871.html) B! 0
 - [VRイベントサイト制作の振り返り2023 Nuxt3対応とWebアニメーションに寄せて](https://qiita.com/rohitotsubakura/items/938ec3d6703b4656b500) B! 0
 - [Railsで開発を行うときに考えていること](https://qiita.com/otsuka_kenchan/items/27168d5f3964ccca12c5) B! 0
-- [Nuxt3のメタバースサービスにPWAを導入した話](https://qiita.com/iori_yuki/items/a8dc416d9868ee25802b) B! 0
-- [[C#]asyncを利用してCPUバウンドな処理を呼び出すと、スレッドは分散しない](https://zenn.dev/meglia/articles/0f7262c09d87dc) B! 0
 - [リモートピザを巡る冒険](https://magazine.vket.com/n/n08d3edcbf2f9) B! 0
 - [基礎から始めるVket Cloudワールド作成](https://qiita.com/IwahanaFuku/items/d69a99dbab732b5822e7) B! 0
 - [VketCloudSDK公式マニュアルの加筆に参加を！](https://qiita.com/negi_trotsky/items/14e03775bb3ae79069ec) B! 0
@@ -10675,6 +10859,7 @@
 - [バックエンドエンジニアがAI-OCRを通じて機械学習を体験した話](https://qiita.com/naon708/items/a95f5e474c1f7d0bb902) B! 0
 - [Deviseのtoken_generatorの仕組みを調べてみた](https://qiita.com/kk-icare/items/f21138c210d20ac6d3e9) B! 0
 - [エンジニアからQAEを経験してみて学んだこと](https://note.com/ayanon259/n/n3cb29bf7322a) B! 0
+- [開発でよく使用するgitのコマンド一覧](https://qiita.com/hisashi-hayashi/items/cbcdac068c413730a2b8) B! 0
 - [2023年を3単語で振り返るよ](https://note.com/jacky234/n/n2b2fbe4b79fe) B! 0
 - [エンジニアとして生きている、生きていく](https://note.com/msykd/n/n6f30574d8e22) B! 0
 - [[UEFN] SkyboxAIで生成したスカイボックスをインポートする方法](https://note.com/katsunishi/n/nf537e854c391) B! 0
@@ -10682,7 +10867,7 @@
 - [CTFの作り方 [How to create CTF]](https://qiita.com/se4weed/items/e51893ba44d256a96fa8) B! 0
 - [オレオレCD(N)を作る](https://qiita.com/xpadev-net/items/193e2c4232ed6f523035) B! 0
 - [GolangのDesignPatternをコード付きで簡単に紹介！](https://zenn.dev/thinov/articles/8114860f44340d) B! 0
-- [LangChainを活用してAIアシスタントDiscord Botを作ってみた件](https://qiita.com/Yoshipy/items/986fe45eb7ec85bbc3cb) B! 0
+- [LangChainを活用してAIアシスタントDiscord Botを作ってみた件](https://qiita.com/YoshiYoshiPro/items/986fe45eb7ec85bbc3cb) B! 0
 - [爆速でコードを読む方法](https://qiita.com/Koder/items/bb6f8ed2fc5f21a0286a) B! 0
 - [OSを含んだデータ移行にご注意を！！](https://qiita.com/haruto19/items/3a3ceefbe76b04df414d) B! 0
 - [SSHハニーポットに対する不正アクセスの最新動向](https://qiita.com/shuki/items/af675fc5ba66349770fe) B! 0
@@ -10739,12 +10924,13 @@
 - [Ruby on Railsで始めるWeb API実装](https://zenn.dev/sasan0/articles/7d0d9c5a2f1edb) B! 0
 - [おひとりさまPleromaの運用](https://www.miyulab.dev/content/detail/xm-9wa6_4rov) B! 0
 - [無料で使えるLLMでもChatGPTっぽい会話がしたい！](https://gist.github.com/rsimd/da92123ea029e872a85cdd57a54bd4cf) B! 0
-- [アルテローマ字配列が神すぎた](https://note.com/kkkkrasx/n/ne631c6c942cf) B! 0
 - [FXトレーディングにおけるAIの重要性とその活用方法](https://qiita.com/teketeke_w/items/0814ce69d0aace557bda) B! 0
 - [【３分クッキング】ReactでVSCodeを作ろう！【React_Ace】](https://qiita.com/h-koichiro/items/3638b0cb473f7b54e9d9) B! 0
 - [【Godot】メインメニュー画面を作りたかった](https://qiita.com/pNautil/items/52c01212a71e0c609865) B! 0
 - [MacでOpenCV2.4をDockerを用いて扱う](https://zenn.dev/taquan/articles/opencv24-in-docker-mac) B! 0
 - [自分が作った作品の振り返り(blender)](https://note.com/miramirayuyuyu/n/ncb8862d63dbc) B! 0
+- [Python×Next.js×PostgreSQLの環境をDockerで構築する](https://zenn.dev/syuya2036/articles/416c8f7a3a4765) B! 0
+- [基本的なグラフアルゴリズムの解説とPython実装](https://zenn.dev/syuya2036/articles/6e77df7083fc4f) B! 0
 - [[Slime VR]安価にフルトラッキングしよう[準備編]](https://zenn.dev/sleep_agency/articles/f9b2d4fd715cf3) B! 0
 - [RedwoodJSはいいぞおじさん「RedwoodJSはいいぞぉ」](https://qiita.com/yuuya08110/items/bc746cfd5f9e4f1f5c4a) B! 0
 - [【WordPress】ACFで作ったブロックのデータを他のページで取得する](https://qiita.com/ituki_b/items/66ff469a99e4a8a8b511) B! 0
@@ -10775,6 +10961,7 @@
 - [余りの計算](https://qiita.com/kooji/items/5fccf122e60f43c25a39) B! 0
 - [Generative Agentsを試してみた](https://qiita.com/yurisaaaan/items/1c5fe63e3b64c5014909) B! 0
 - [ノーリスクなことから始めてみたら仕事が楽しくなった](https://qiita.com/r_kunisan/items/e418fa409964241e0f17) B! 0
+- [iOSシミュレータのデータディレクトリを開くスクリプト](https://blog.ottijp.com/2023/12/30/open-simdir/) B! 0
 - [スマホのカメラに映る景色を音声で案内するVisual Sonarの試作](https://zenn.dev/mganeko/articles/visual-sonar) B! 0
 - [iPhone15 Proの空間ビデオをMeta Questで見るには](https://zenn.dev/mganeko/articles/spatial-quest) B! 0
 - [App Serviceからメールを送信するためにAzureでSendGridを設定する（ドメイン認証編）](https://mshimomu.hatenablog.jp/entry/2023/12/24/224149) B! 0
@@ -10806,7 +10993,6 @@
 - [[CAIで作るAPI開発] データアクセスサービスコネクタ （通称DAS）を使ってみた【実装編】](https://qiita.com/amatsuba-infa/items/a744ca09e1970b20908b) B! 0
 - [【Ruby on Rails】Railsをdocker-composeで動かすときのミニマムな構成](https://qiita.com/ukwhatn/items/bc934a8357adba4db8cf) B! 0
 - [【Ruby on Rails】dependabotを設定しよう](https://qiita.com/ukwhatn/items/9eab83e48cfdc0899c40) B! 0
-- [初心者向けgitのあれこれ](https://qiita.com/Fkinds/items/6ac5603fda195dd77c5c) B! 0
 - [【Ruby on Rails】RuboCopでコードの治安を守ろう](https://qiita.com/ukwhatn/private/0140540d132ad2f6374c) B! 0
 - [【Ruby on Rails】paramsについて理解しながら検索機能を作ろう](https://qiita.com/recodeyo1ko/items/b6f9445a271ab396fcc7) B! 0
 - [【Ruby on Rails】RSpec（rspec-rails）を使ってみよう](https://qiita.com/ukwhatn/items/468d2ee700f79b7c5587) B! 0
@@ -10814,7 +11000,6 @@
 - [Rails フォロー・フォロワー機能を詳しく](https://qiita.com/72_mikan/items/187857bff90e536ac956) B! 0
 - [ratyを用いた星評価機能の実装( ruby on rails )](https://qiita.com/Pakku8914/items/7da1be88b2a29b710f87) B! 0
 - [メール機能の実装 ( ruby on rails )](https://qiita.com/Pakku8914/items/8e089f77a576523a91f5) B! 0
-- [【脱 初心者】Railsで学ぶN+1問題](https://qiita.com/yagi_green/items/bcc71b49822978868f08) B! 0
 - [Rails初学者に知ってほしいこと](https://qiita.com/y-428/items/2b8a974f852676236ca7) B! 0
 - [【Rails】初学者向け!グループ機能を実装したアプリケーションを作ってみよう!](https://qiita.com/GotouAsahi/items/06041fca20f5e68badd6) B! 0
 - [アンカーリンクが外部からのリンクでずれる場合の対処](https://toji.tech/%e3%82%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%af%e3%81%8c%e5%a4%96%e9%83%a8%e3%81%8b%e3%82%89%e3%81%ae%e3%83%aa%e3%83%b3%e3%82%af%e3%81%a7%e3%81%9a%e3%82%8c%e3%82%8b%e5%a0%b4%e5%90%88/) B! 0
@@ -10913,6 +11098,7 @@
 - [WebのUIコンポーネントの再利用性を下げた例についていくつか紹介](https://qiita.com/tomatoaiu/items/64c73c694aa691479fbd) B! 0
 - [Unitree 4D LiDAR L1でFAST_LIOを試す](https://takizawa-robotics.com/2023/12/15/unitree-l1/) B! 0
 - [Prismaでの多対多（Many-to-Many）リレーションが便利だった](https://qiita.com/taiyyytai/items/758f128a4e7c0bc548d2) B! 0
+- [とっても古いPython,OpenCV,TensorFlow環境を構築する時の苦悩過程](https://t-takeda.hatenablog.com/entry/2023/12/31/175823) B! 0
 - [S3→Glue→MySQLをローカル環境で実行（コピペで完了！）](https://qiita.com/yokota1013/items/f58d7249aa39f5d8a81d) B! 0
 - [猫でもできる！Next.jsを一瞬でVercelへデプロイする方法](https://qiita.com/go-shun/items/b3eb1a0b766915ae3e5c) B! 0
 - [意外と知らない!? SQLAlchemy + SQLServerの落とし穴3選](https://qiita.com/taku222/items/ffc77fe0a6fe122fa59a) B! 0
@@ -11007,28 +11193,28 @@
 - [JAWS-UGで人生が変わった？話](https://makky12.hatenablog.com/entry/2023/12/24/202153) B! 0
 - [オペレーションズリサーチにおけるビジネス課題の解決とは？](https://qiita.com/youhMO/items/f247703af2ba771e0fab) B! 0
 - [serdeを使ったRustとPythonでの相互変換GitHubで開く](https://zenn.dev/jij_inc/articles/serde-pyobject) B! 0
-- [Jij エンジニアのインタビュー記事](https://www.j-ij.com/55043426b3a44ce1bce2df80108c12bf) B! 0
+- [Jij エンジニアのインタビュー記事](https://www.j-ij.com/ja/news/20231204) B! 0
 - [QURI Partsで量子計算に触れてみる](https://zenn.dev/jij_inc/articles/ba59eee2969d29) B! 0
 - [ChatGPTを使って広報活動レポートを作成し業務効率化](https://zenn.dev/jij_inc/articles/371d0736797b3e) B! 0
 - [シミュレーテッド量子アニーリングの導出](https://zenn.dev/jij_inc/articles/sqa_hamiltonian) B! 0
 - [Jijのプロダクト開発にRustを採用した](https://zenn.dev/jij_inc/articles/fa5693fa2c7e27) B! 0
 - [Slackに導入したポエムくん5歳](https://note.com/weekendhikach/n/nefd126eb13ea) B! 0
 - [Dazing -Wolfe分解と列生成法](https://zenn.dev/jij_inc/articles/column_generation_theory) B! 0
-- [Jij UI/UXデザイナーのインタビュー記事](https://www.j-ij.com/57666a3aa60e4321a3ce6fc8f88cb62a) B! 0
+- [Jij UI/UXデザイナーのインタビュー記事](https://www.j-ij.com/ja/news/20231211) B! 0
 - [inventory crateを使って複数のproc-macroの結果を統合する](https://zenn.dev/jij_inc/articles/introduction-to-inventory) B! 0
 - [Slackのワークフロービルダーを利用して、業務フローの効率化！](https://zenn.dev/jij_inc/articles/9fcd38fd0e6944) B! 0
 - [スタートアップ1人目デザイナーが学んだこと。](https://note.com/yusukee_t/n/n02805f33a64a) B! 0
 - [[Python] キーワード専用引数をおすすめしたい](https://qiita.com/NY57/items/431cdb87e2ca415de85c) B! 0
 - [Cognito + SES + Lambdaで任意のタイミングでメール送信](https://zenn.dev/jij_inc/articles/c07b357b775b53) B! 0
 - [Benchmark Measurements using Quantum State Tomography on 127-qubit IBM Device](https://qiita.com/Hweihao/items/8ab13de8ce9a38a488eb) B! 0
-- [Jijエンジニアのインタビュー記事](https://www.j-ij.com/256a9259a445411e9f3f983657b559a6) B! 0
+- [Jijエンジニアのインタビュー記事](https://www.j-ij.com/ja/news/20231218) B! 0
 - [ Topcoder MM 150 QueenAttack 参加記](https://zenn.dev/jij_inc/articles/04841efec345f1) B! 0
 - [列生成法をQUBO求解に応用する論文 (Hirama and M. Ohzeki (2023)) の紹介](https://zenn.dev/jij_inc/articles/62f1d044ad6b5a) B! 0
 - [transformersのTrainerを有効活用する話](https://zenn.dev/makid/articles/9ade741342756d?redirected=1) B! 0
 - [モンテカルロ法による3体相互作用を持つ全結合イジング模型の解析](https://zenn.dev/jij_inc/articles/5387626bf92f85) B! 0
 - [線形計画の双対問題のラグランジュ緩和からの導出 ](https://zenn.dev/jij_inc/articles/56fe6ff411c4d4) B! 0
 - [GolangとAzure API Managementを利用したテスト戦略](https://zenn.dev/jij_inc/articles/9e3206731cb2ee) B! 0
-- [Jij エンジニアのインタビュー記事](https://www.j-ij.com/065988abf4fe4b96b0fa4c369e152054) B! 0
+- [Jij エンジニアのインタビュー記事](https://www.j-ij.com/ja/news/20231225) B! 0
 - [SASEで新オフィスのネットワークを構築してみた](https://qiita.com/knt-okada/items/f57e4320fe4347578c6b) B! 0
 - [無かったので造った話](https://qiita.com/r-kanzaki/items/ea4cf1dfafe7322ef4b1) B! 0
 - [在席フロアとフロアごとの混雑率を表示してみた話](https://qiita.com/j-uchi/items/ca45a443e63f82a37854) B! 0
@@ -11072,7 +11258,6 @@
 - [オフショア開発チームとオフラインで「熱気球」のふりかえりを実践した。](https://qiita.com/takatein/items/e1b9bdb69e061a6da875) B! 0
 - [アイデアの質が変わる！デザイン思考のHMW(HowMightWe)で課題解決を加速させよう](https://qiita.com/piyonakajima/items/06ad9678c3a64c0645c9) B! 0
 - [【Swift】iOSアプリでWeb認証画面を実装する方法まとめ](https://qiita.com/ka-iguro/items/85c0fb7b15b72f75a997) B! 0
-- [ビジュアルデータを含む資料を使ったマルチモーダルRAGをさくっと試す](https://qiita.com/s3kzk/items/8d28b7acac6954d20f47) B! 0
 - [Azure App Serviceってどんなの？](https://qiita.com/hirobel/items/a6a5b5d93a3554b07c28) B! 0
 - [リモートワークでのチーム作業に！おすすめのZoom機能3選](https://qiita.com/ykkk/items/28c594127c1a9fa0f97e) B! 0
 - [ペルソナで一番大事なのは「顔面」！！！](https://qiita.com/yu-nakasatomi/items/5c1696cbffb175d753b4) B! 0
@@ -11104,6 +11289,9 @@
 - [2023年の可茂IT塾](https://www.kamo-it.org/blog/kamoit-2023-before/) B! 0
 - [【Flutter】重なり合いのUIの作り方](https://www.kamo-it.org/blog/flutter-shifted-stack/) B! 0
 - [FlutterのtextScaleFactorが非推奨になっていた件について](https://www.kamo-it.org/blog/text_scale_factor/) B! 0
+- [【運用中のDBとうまく付き合うBFF開発】① NestJSとPrismaで生SQLを使ってデータを取得する](https://www.kamo-it.org/blog/develop-new-bff-with-running-db-part-1/) B! 0
+- [【運用中のDBとうまく付き合うBFF開発】② passport-localを使った認証とハッシュソルトの実装](https://www.kamo-it.org/blog/develop-new-bff-with-running-db-part-2/) B! 0
+- [【運用中のDBとうまく付き合うBFF開発】③ 複雑な条件分岐に宣言的プログラミングで立ち向かう](https://www.kamo-it.org/blog/develop-new-bff-with-running-db-part-3/) B! 0
 - [【エンジニアの基本】汚いコードを書く人の末路](https://qiita.com/kagura1/items/70ebac32e058f3f03e30) B! 0
 - [【Flutter】スクロールでFloatingActionButtonのアニメーションをつける！](https://www.kamo-it.org/blog/flutter_scroll_animation/) B! 0
 - [GASを使ってChatGPTで返信するSlackBotの作り方（前編）](https://www.kamo-it.org/blog/slack-chatgpt-bot-1/) B! 0
@@ -11207,7 +11395,6 @@
 - [すすむ生成AI(ChatGPT)プロンプトのアプリ化　人材育成活動](https://qiita.com/simdroid/items/5bfd4d708f14cbb14b8d) B! 0
 - [おすすめテクスチャ素材サイト紹介](https://zenn.dev/kd_gamegikenblg/articles/8f51bf3808dcbc) B! 0
 - [VSCodeで始めるGit(Hub)管理](https://zenn.dev/kd_gamegikenblg/articles/b220e23b0b7ef9) B! 0
-- [学生ならとりあえずGitHubCopilot使え！！！](https://zenn.dev/kd_gamegikenblg/articles/cea1618ff8a209) B! 0
 - [C++ライブラリ化のすゝめ](https://zenn.dev/kd_gamegikenblg/articles/d8bcb50348415e) B! 0
 - [C++でjsonのschemaを使ったvalidationをする](https://zenn.dev/kd_gamegikenblg/articles/98cf3004c4c46f) B! 0
 - [Jenkins+PythonでUnityの自動ビルド&自動デプロイ](https://zenn.dev/kd_gamegikenblg/articles/c8b89f317d9cee) B! 0
@@ -11281,12 +11468,13 @@
 - [Colab Enterpriseを使ってLoRA学習](https://qiita.com/takada-at/items/8a6e45fcbcdc83da0be3) B! 0
 - [GPT-3.5に簡単な自然言語処理をさせてアプリに機能として組み込んだ話](https://setchi.hatenablog.com/entry/2023/12/22/210101) B! 0
 - [(Unity/URP製)モバイルゲームの描画負荷制御](https://qiita.com/suzuna-honda/items/88c39dd558ded989dd22) B! 0
+- [自社のAndroidアプリがHTTP/2を利用しているか確認してみた](https://qiita.com/hnw/items/9a1d1e6604d418cfa8f9) B! 0
 - [SwitchBot API 1.1 を使用して、温湿度計のデータを取得する](https://qiita.com/taiki-kuraishi/items/7739cffc79611d27045c) B! 0
 - [室内温度の予測モデル構築](https://qiita.com/taiki-kuraishi/items/7c8fa2f689bbd9da1fc3) B! 0
 - [ESP32をRESTfulなAPI Server化 in micropython](https://qiita.com/taiki-kuraishi/items/4e7455e80b0639e10f48) B! 0
 - [nfcpyを使用して、学生証から氏名と学籍番号を読み取る](https://qiita.com/taiki-kuraishi/items/9c8d7d66bddb9efa20f3) B! 0
 - [nuxt3でOAuthの実装](https://qiita.com/taiki-kuraishi/items/0d94908d843ca5c6f4fa) B! 0
-- [[C#] ExcelCreatorでできること: 基本機能のコード例](https://qiita.com/Rabinosuke/items/72132b0f1e9cdbb41448) B! 0
+- [【C#】ExcelCreatorでできること: 基本機能のコード例](https://qiita.com/Rabinosuke/items/72132b0f1e9cdbb41448) B! 0
 - [TypeScript：IndexSignatureとは何か？型による挙動の違い](https://qiita.com/bearone236/items/b52261cc83b2d1026e75) B! 0
 - [O'REILLYのPython書籍を７冊ななめ読みしたメタクラスの話](https://qiita.com/khrive/items/0c3db4a7f96b816bf518) B! 0
 - [Fixstars Amplifyで，制約充足問題(N-Queen問題)に挑戦してみた](https://qiita.com/khrive/items/78fceb402599ce7fd775) B! 0
@@ -11370,6 +11558,7 @@
 - [フルリモートワークで働いている地方在住のエンジニアが家を買うまで](https://sizu.me/eccyun/posts/k0uf6cddh4dz) B! 0
 - [【MySQL】照合順序でハマった話](https://zenn.dev/tanei/articles/7f0317fc97f3cb) B! 0
 - [2023年の社内勉強会を振り返る ~参加する側から主催する側に~](https://zenn.dev/sazanami5/articles/b65f4cea276ec6) B! 0
+- [PHPUnitを低速化する技術](https://zenn.dev/lancers/articles/how-to-slow-phpunit) B! 0
 - [ランサーズ生成AI活用振り返り](https://note.com/terukazu/n/n59f79d826bb5) B! 0
 - [CharaXivはなぜニッチでも愛されるのか？](https://sizu.me/nano/posts/mb0acks2mdr3) B! 0
 - [本業以外に10万字記事を書くひとり法務が、文章を速く書くコツをまとめてみる](https://x.com/Iidasame/status/1731139445309763690?s=20) B! 0
@@ -11385,6 +11574,7 @@
 - [Phomemo で 感熱紙に Hello World ! ](https://qiita.com/ryo-endo/items/2000009d0783b34b7228) B! 0
 - [とりま、GPT-4で開発効率バク上げしとく？](https://qiita.com/Tsubo-Tsubo/private/eaf36502edd9b83a87b0) B! 0
 - [MinecraftでMODを作る](https://qiita.com/K__chan/items/ce5fcc514ab16a3d105f) B! 0
+- [ARLISSについて](https://white-tea.notion.site/About-ARLISS-ca73e05fd19c474fbdc419d7ef941da7?pvs=4) B! 0
 - [Photonの完全上位互換？同接100人まで無料のStrixとは！](https://qiita.com/kota_geek/items/41cf13438c8d5bba88a8) B! 0
 - [Swift&Metalで綺麗なクリスマスツリーを作る](https://qiita.com/yukiny/items/bb7fbac8736d456d3ee8) B! 0
 - [Discordに入らずに、投稿をするbotを作成してみた](https://qiita.com/Tsubo-Tsubo/items/a0efafbe8906b2d28721) B! 0
@@ -11426,6 +11616,7 @@
 - [気づいたら約１年ぶりだった](https://note.com/wing3298/n/n54d242e3e9d2) B! 0
 - [自動開発ツール、GPT-Engineer の入門記4。React , FastAPI 構成の todo アプリを生成する。](https://qiita.com/nassy20/items/4fc3b50fd128d0ba169b) B! 0
 - [作りたがりからの脱却と最初の一歩](https://note.com/wing3298/n/n9ce2dc723e03) B! 0
+- [技術記事の校正プロンプトと ChatGPT で最後まで出力しきる Tips](https://qiita.com/nassy20/items/22604f4cc1de0670c1ee) B! 0
 - [初めてUE5を触ってぷちコンに参加した話](https://qiita.com/kawakawaFire/items/feb9d5f18f2bd411e1c4) B! 0
 - [何も知らない23歳がIT企業に飛び込んだ結果](https://qiita.com/a__sato/items/6160c35363135cac8fa7) B! 0
 - [習慣が重要だと思ったときに僕の思うこと](https://qiita.com/KMatsu_linc/items/d578724cb7d326ae5d72) B! 0
@@ -11479,14 +11670,13 @@
 - [M-1の季節なのでChatGPTにしゃべくり漫才を考えさせる座付き作家プロンプトを本気出して作ってみた](https://qiita.com/shibayoh/items/e2e4d5e907fab0ece99e) B! 0
 - [[AWS] Terraform で CloudFormation のカスタムリソースと同等のことを実現する](https://zenn.dev/loglass/articles/16021f7330d39f) B! 0
 - [転職して１年経ったので振り返りとこれから](https://qiita.com/wakuto-o-ga/items/9bfbf7998b98b3198593) B! 0
-- [【コーディング不要】Microsoft Formsの複数回答をExcel Power Queryを使ってクロス集計する](https://qiita.com/sonesonee/items/59a276fc8fc4e6849c73) B! 0
 - [画像データに対するGraph Neural Network（GNN）入門](https://qiita.com/takubb/items/638454be4e8a440536d5) B! 0
 - [深層強化学習のパッケージ調査](https://qiita.com/s-inoue-git/items/edafea0bca155ce1e7a6) B! 0
 - [reCAPTCHA v2 を Rails に導入する方法](https://qiita.com/y_tengben/items/3f60aafce3c91651b2af) B! 0
 - [開発チームの心理的安全性を高めるためにやっていること6選](https://qiita.com/napoano365/items/f353c914bbd77bde02ad) B! 0
 - [インスタンス上でコンテナを立ち上げる際の注意点と便利な確認コマンド](https://qiita.com/Ruuchami/items/b91f23821ec0401f6bec) B! 0
 - [エンジニアでも知っといた方が良い?〜各国の生成AIガイドラインのポイント〜](https://qiita.com/mikihisa_t/items/8c3ec9717482e77fd7d8) B! 0
-- [データ分析の民主化の鍵となる「BI Ops」](https://qiita.com/kosukeeeee/items/4a4e3741d128585f16b4) B! 0
+- [データ分析民主化の鍵となる「BI Ops」](https://qiita.com/kosukeeeee/items/4a4e3741d128585f16b4) B! 0
 - [自然言語処理(NLP)におけるニューラルネットワークのこれまでと大規模言語モデル(LLM) ](https://qiita.com/Ruuchami/items/1d773d3b0b1e0c7d21be) B! 0
 - [【vue.js】<script setup>の基本](https://qiita.com/c-tyan410/items/454d910f08601e11da2d) B! 0
 - [ログの調査で役立つLinuxコマンド](https://qiita.com/wakuto_m-n/items/e0980ae69f616af2f59b) B! 0
@@ -11509,7 +11699,7 @@
 - [サークルでTsukuCTF2023に参加してきました💪](https://zenn.dev/lumos/articles/72b1cc980b8207?fbclid=IwAR1ojtNT-1kflWFbVCa5-RVfd0P2KG4CNMUoPwK4efxDfvHSwWp8k_-FyUk) B! 0
 - [実はオークションは「落札額＝支払額」じゃなくていい、という話](https://qiita.com/satake231/items/b7b136fc75464ed3a222) B! 0
 - [大学の課題を自動通知して欲しかった](https://qiita.com/taroa36912/items/79e32c1bf3781246e699) B! 0
-- [Lumosアンケート](https://qiita.com/eikichi-city/items/a670ed51d6d093b4bd1f) B! 0
+- [Lumos メンバーアンケート 2023](https://qiita.com/eikichi-city/items/a670ed51d6d093b4bd1f) B! 0
 - [Visual Studio 2022 拡張機能の提出方法](https://qiita.com/dhq_boiler/items/f6695630efa36317f809) B! 0
 - [【解決編】XmlSerializer で DefaultValueAttribute を使ったときのモヤっとした動き](https://qiita.com/lx-sasabo/items/89c71fb906d2ad1876b9) B! 0
 - [`dependent: :destroy`のhas_one関連レコードbuild時の奇妙な挙動](https://qiita.com/Kyo18/items/96dd5d213ee57a42f482) B! 0
@@ -11518,15 +11708,12 @@
 - [ドメイン駆動設計入門書を読んだので簡単にまとめる](https://qiita.com/kkksssyyy/items/94fef167e98d992a2bec) B! 0
 - [paramsメソッドとは何か？](https://qiita.com/naomichi-h/items/a0e91b3952a171339c5b) B! 0
 - [Roslyn API でフィールドとプロパティの型と名称を取得する](https://qiita.com/lx-sasabo/items/5732e944e290391771bc) B! 0
-- [Roslyn API でサマリータグのコメントの一行目だけを取得する](https://qiita.com/lx-sasabo/items/793a0b5b8b7d56579acb) B! 0
 - [JavaScriptのテンプレートエンジンをつかって簡易テンプレートエンジンをつくる 前編](https://qiita.com/ledsun/items/7073c673d8c7b35fda94) B! 0
 - [ListのオブジェクトをRemoveで削除しようとしたらできなかった話](https://qiita.com/kkksssyyy/items/d2fbfaaf0af2b40e0b59) B! 0
 - [JavaScriptのテンプレートエンジンをつかって簡易テンプレートエンジンをつくる 後編](https://qiita.com/ledsun/items/418f5418e664158210a1) B! 0
-- [C#でメソッドチェーンをうまく作る方法　前編](https://qiita.com/dhq_boiler/items/61752b74db5f1fa6dfd5) B! 0
 - [アクセシビリティカンファレンス福岡 2023](https://techblog.lycorp.co.jp/ja/20231204a) B! 0
 - [デザインシステム改善:デザイナーとエンジニアで一緒に進めるコンポーネント整理](https://lydesign.jp/n/nfd699e1d0177?gs=2ff30c485773) B! 0
 - [Yahoo!フリマiOS背景切り抜き出品機能](https://techblog.lycorp.co.jp/ja/20231215a) B! 0
-- [ゴリゴリのクラシックエディタをブロックエディタにした【移行編】](https://qiita.com/yadon_yadon_yadon_don_don/items/d55bf88b61e338738ad8) B! 0
 - [WordPressでサイト全体にベーシック認証かける場合の注意点](https://qiita.com/yadon_yadon_yadon_don_don/items/1df3a461c13f3e8b28f7) B! 0
 - [ゴリゴリのクラシックエディタをブロックエディタにした【メリット編】](https://qiita.com/yadon_yadon_yadon_don_don/items/7be4c56fd0838dd28a1d) B! 0
 - [技術力向上のためにエンジニア組織全体で取り組んでいること](https://qiita.com/atkondo/items/b33445ff6418e4ca6e90) B! 0
@@ -11567,16 +11754,18 @@
 - [RDBからBigQueryにデータを流したいのでGoでツールを作った](https://developers.matsuri.tech/posts/embulk_gallon) B! 0
 - [開発部の教育兼採用試験の振り返り](https://qiita.com/iori-ikeda/items/49ed081737a0792530f4) B! 0
 - [Matsuri Frontend Weekly 2023-12-15](https://developers.matsuri.tech/posts/frontend-weekly_2023-12-15) B! 0
+- [画面遷移図を作るようになった話](https://developers.matsuri.tech/) B! 0
 - [開発部メンバーに実績を付与しよう！から始まったmatsuri-achievementsという取り組み](https://developers.matsuri.tech/posts/matsuri-achievement) B! 0
 - [Deep Dive useState()  （initial render 編）](https://developers.matsuri.tech/posts/deep-dive-useState) B! 0
 - [Matsuri Frontend Weekly 2023-12-22](https://developers.matsuri.tech/posts/frontend-weekly_2023-12-22) B! 0
+- [Proposal Issueを書くようにしたらめちゃくちゃ良かった話](https://developers.matsuri.tech/posts/proposal-issue) B! 0
 - [remixv2をbunでビルドしてwrangler deployする](https://nash1111rgba.com/jp/posts/how_to_deploy_remix_v2_bun_wrangler) B! 0
 - [ハッカソンって何？メリットやハードルは？彼女はいるの？調べてみた！](https://qiita.com/hiroto_dnpk/items/22fd35516c89427d5a9d) B! 0
 - [Node.jsのCJSとESM の挙動の違い](https://qiita.com/minntoko/items/c4a579c7b7f26cfa9a69) B! 0
 - [卒業研究でGo言語に触れてみた話](https://qiita.com/Naga564/items/86273dcf452ca5b02a55) B! 0
 - [PostgreSQL  チートシート](https://qiita.com/taku10101/items/eae3bfafa5acf68fcd44) B! 0
 - [技育CAMP名古屋キャラバンにFlutterを抱えて参加した話](https://qiita.com/Mount-Book/items/9c53e02c38be6f1e853b) B! 0
-- [マイクロサービス・アーキテクチャの「マ」](https://qiita.com/Yoshipy/items/abd4313617f6860c9efc) B! 0
+- [マイクロサービス・アーキテクチャの「マ」](https://qiita.com/YoshiYoshiPro/items/abd4313617f6860c9efc) B! 0
 - [高校で就職失敗したやつが、専門入学して半年で内々定出た話。](https://qiita.com/suzukihaya/items/2a78f066d15169d07b1d) B! 0
 - [【Next.js】ApolloClient×GraphQLCodegen 使ってみた](https://qiita.com/taku10101/items/0f696df560e799b795ff) B! 0
 - [1次元データのk-meansクラスタリングを実装する](https://qiita.com/Shika-san/items/88775db0fe6f69bbef69) B! 0
@@ -11592,7 +11781,6 @@
 - [Next 13 + scss でインポートエイリアスを設定する](https://qiita.com/yuramaru/items/c997ea6f163fa14d1ee0) B! 0
 - [デザイン思考で考えるプロダクト提案](https://qiita.com/kanakanho/items/a6ad53cab1547d688d77) B! 0
 - [電気学科がReact、flutterを学んで思ったこと](https://qiita.com/tate051603/items/9546500d7d1050258129) B! 0
-- [超便利な自宅サーバーを構築した話](https://qiita.com/stLuciano/items/49652543192f2402e7c8) B! 0
 - [osmdroidを使ってMapを表示してみる](https://qiita.com/harutiro/items/bde7f976cc3ee7dcae4c) B! 0
 - [ウィンドウを動かして遊ぶ「おじさんを探せ！ゲーム」を作った。](https://zenn.dev/heysya_onsya/articles/0e2417c2b2debe) B! 0
 - [AI時代(仮)のVimmer](https://qiita.com/kitatuba/items/7b20f0835f753b99cc11) B! 0
@@ -11626,10 +11814,8 @@
 - [型トリビアの泉〜素晴らしき型知識〜](https://engineering.meetsmore.com/entry/2023/12/13/173512) B! 0
 - [Designing A Good Event System API](https://qiita.com/zacharydavison/items/78e453de8d1b05b287c7) B! 0
 - [LLMを使ってSEO記事を整理する試み](https://engineering.meetsmore.com/entry/2023/12/18/113451) B! 0
-- [PythonからRedashを実行する話](https://engineering.meetsmore.com/entry/2023/12/20/104047) B! 0
 - [Redash importdataを完全にGAS化した](https://engineering.meetsmore.com/entry/2023/12/20/231014) B! 0
 - [Multilingual Workplaces — Overcoming challenges](https://engineering.meetsmore.com/entry/2023/12/21/130022) B! 0
-- [ミツモアのインシデントフローを整備した話](https://engineering.meetsmore.com/entry/2023/12/22/135506) B! 0
 - [VaultをDockerで管理する方法について](https://qiita.com/jeayoon/items/db6c4946a7a34ea40f1a) B! 0
 - [Partition Projectionで 安心CloudTrailログ分析](https://qiita.com/gahirosan/items/c0c026a651525ba8e169) B! 0
 - [VaultをTerraformに統合してAWSサービスを構築する方法について](https://qiita.com/jeayoon/items/452bf49acafcdf38ce60) B! 0
@@ -11686,6 +11872,7 @@
 - [Azure VM の RHEL 7 を RHEL 8 にインプレース アップグレードする](https://qiita.com/toaoyama/items/dec44f02ae114847362b) B! 0
 - [AKS での複数可用性ゾーンの利用と、ZRS Azure Disk Persistent Volume（永続ボリューム）](https://qiita.com/tbuchi888/items/d3a1a22add7fd2c50e6c) B! 0
 - [Azure の バックボーン通信について](https://qiita.com/aktsmm/items/746d355b9b8e6fcc92a6) B! 0
+- [dapr を使った React / Express / Flask のマイクロサービスアプリケーションを Azure Container Apps にデプロイする](https://qiita.com/y__saito/items/3928f3ae94d9ae7ce59f) B! 0
 - [[Azure AD B2C][Envoy] Azure AD B2C + Envoy で JWT 検証機能を実装する](https://zenn.dev/hebo4096/articles/3848e1d1eebaba) B! 0
 - [Terraform でディレクトリ構成を意識しながら Azure OpenAI Service の閉域環境を作る](https://zenn.dev/microsoft/articles/20231221-terraform-aoai) B! 0
 - [IE モードにおけるサイトリスト 互換判定フロー (スキーマ 2.0 向け)](https://qiita.com/so_nkbys/items/90e677242e0a80e2e153) B! 0
@@ -11702,7 +11889,6 @@
 - [QGISでデフォルメマップを作る](https://qiita.com/xinmiao1995/items/393426821200bcc5d78a) B! 0
 - [Cesiumでカメラ移動毎に標高値取得したら、とてつもなく重かった話](https://qiita.com/Takayuki_Kawajiri/items/f8e5e3ff59a36186ba13) B! 0
 - [OpenSearchに「全国の道の駅」の位置情報を突っ込んでサクッと可視化する](https://qiita.com/nokonoko_1203/items/36dfe46afe261ac1513e) B! 0
-- [アナログカードゲーム aws BuilderCards の遊び方](https://qiita.com/yuskesuzki/items/97316cd3d0fb5f75fbc0) B! 0
 - [続・オープンデータで家探し](https://qiita.com/patrickyuen00/items/3002bfb3ea3081aee7f5) B! 0
 - [QField cloudを使ってみました。](https://qiita.com/bordoray/items/acea67416eab0e6fb801) B! 0
 - [Rustで点群データからGeoTiffを作成する](https://qiita.com/Guarneri001/items/472fd2083d95af19f27d) B! 0
@@ -11752,13 +11938,13 @@
 - [上流工程を担当する時に気になる事を5つ並べてみた](https://qiita.com/hirodragon/items/e51d34de41b3677ddb14) B! 0
 - [CloudWatch LogsのログをS3に転送しつつSlackにエラーログの通知をする](https://miraitranslate-tech.hatenablog.jp/entry/20231205_firehose) B! 0
 - [シグナルってなに? - シェルもどきをgoで自作する#19](https://hackmd.io/@jyami/SkJu03MLT) B! 0
+- [SAMLってなに？シングルサインオンってなに？](https://qiita.com/advent-calendar/2023/miraitranslate) B! 0
 - [複数アプリが同居するCloudFrontで404ページを表示する](https://miraitranslate-tech.hatenablog.jp/entry/not-found-page-on-cloudfront-lambdaedge) B! 0
 - [AIはどこまでデータ分析者を楽にしてくれるのだろう](https://miraitranslate-tech.hatenablog.jp/entry/whether-ai-helps-data-analysis) B! 0
 - [Apache Airflow (MWAA) から EKS の Pod を起動・停止して AWS コストを削減する](https://miraitranslate-tech.hatenablog.jp/entry/2023/12/26/153026) B! 0
 - [脆弱性管理の基礎知識](https://miraitranslate-tech.hatenablog.jp/entry/vulnerability-info-collection) B! 0
 - [日本一の競馬予想AIを決定する大会に参戦する話](https://qiita.com/nami73bnami73/items/ff5541c974fb8f477e4a) B! 0
 - [開発規模とバグ数の話](https://qiita.com/YutoM/items/53bc9b532efb13e95814) B! 0
-- [｢家族アルバム みてね｣にSwiftUIを導入しました](https://team-blog.mitene.us/introduce-swiftui-7bcc5cd50b7a) B! 0
 - [仮想環境で複数の Unity Build Server のライセンスサーバーを AWS で構築する](https://medium.com/@bbq_all_stars/create-unity-license-servers-on-docker-720f80fe440e) B! 0
 - [これまでまったくしてこなかった外部登壇を今年5回した話](https://medium.com/@kohbis/my-presentation-2023-ad8ccd069481) B! 0
 - [RustのredisクレートでPub/SubのSubscriptionが静かに切れる問題への対処をした話](https://qiita.com/Taillook/items/6dde2a045c2af85c414b) B! 0
@@ -11782,7 +11968,6 @@
 - [DevOps活動の半年間の振り返り](https://tech.mof-mof.co.jp/blog/state-of-mofmof-devops-2023/) B! 0
 - [ドメインモデリングのようなことをしたログ](https://zenn.dev/yubachiri/articles/9346b2219139a7) B! 0
 - [nest generateコマンドからざっくりとNestJSを把握する](https://qiita.com/kmkkiii/items/adebde644012aedec1bd) B! 0
-- [個人開発サービスにおいて開発以外に本気で取り組んだことがあるエンジニアは有利だよね](https://note.com/0ba/n/n28364f6ec10f) B! 0
 - [Tauriでシンプルなノートアプリを作って遊ぶ](https://qiita.com/ytoy/items/4b5630d15970f0fef42b) B! 0
 - [DALL・E3 APIとNext.jsで画像生成アプリ的なやつを作ってみた](https://qiita.com/koba_hiro_/items/39ae30c9ba66091fe956) B! 0
 - [毎週金曜日にチーム開発しなければ行けないイベントを行っています](https://note.com/shwld/n/n2d5e3728ba9c) B! 0
@@ -11814,6 +11999,7 @@
 - [Monoxer で作れる問題あれこれ](https://tech.monoxer.com/entry/2023/12/22/101427) B! 0
 - [スタートアップ企業での「General Affairs / Office Manager」の仕事とは？](https://note.com/fujiyo_/n/n690b8277f838) B! 0
 - [モノグサからもらった人生のギフト ── ネイリストだった私の新しい出会いと選択肢](https://note.com/tochimarurun/n/n44f6ecfb3430) B! 0
+- [飯田橋で働くCFOの告白～スタートアップで働き続けるために～](https://note.com/chaboze/n/n0b8cdeeb26ae) B! 0
 - [【初心者向け】CRUD機能の責任範囲の考え方](https://qiita.com/shkfn/items/8efc7866dcab2cc66d2f) B! 0
 - [Blenderで宝石を作る](https://qiita.com/Tyanri_/items/002a48de92f8dccd597e) B! 0
 - [FlaskとSlackを使ってQRコードスキャンによる自動通知システムを構築する方法](https://qiita.com/toshiki19/items/343e3ce5196eff0af017) B! 0
@@ -12012,11 +12198,13 @@
 - [うねりの可視化~Let's チューニング~](https://zenn.dev/tsubame_misa/articles/72006b0079357f) B! 0
 - [SAR干渉画像が欲しい男の奮闘記](https://qiita.com/nemiko007/items/a36a843a72fda37df92f) B! 0
 - [住宅情報を Cloud Functions for Firebase でスクレイピングしよう](https://zenn.dev/f_maple/articles/836c3f9ad2ad63) B! 0
+- [興味本位で大学院の授業潜ったらボコボコにされた話](https://qiita.com/min_/items/1cdf242383257289250b) B! 0
 - [Lexical RichTextPluginの実装を少し覗く ~本編~](https://qiita.com/nayuta9999/items/09899de5deb6cd679c28) B! 0
 - [業務RTA走者による業務爆速化のアプローチ（物理）](https://qiita.com/ment_RE/items/bfc41536bd211fbc6eb8) B! 0
 - [Sphinxの拡張時に、自分用のイベントを追加する](https://qiita.com/attakei/items/64b973e96057a31569de) B! 0
 - [フリーランス時代に学んだことで正社員でも活かせていること](https://qiita.com/msuzuna/items/f681fb56cc6b16601102) B! 0
 - [DBスキーマファーストな Prisma の型定義に対する zod の使い方 と Fragment colocation ライクな実装](https://qiita.com/ki-tamago/items/75237c9474c02c1e11ff) B! 0
+- [「ポータブルさ」を評価してPyPyを軽い業務用途で採用したケース](https://qiita.com/attakei/items/be5fbc24ae6036fbb925) B! 0
 - [Array.prototype.reduceはなぜ配列処理において万能なのか](https://qiita.com/ken7253_/items/873a8f482ecdd65e5c9c) B! 0
 - [フレームワークの差が戦力の決定的差ではない](https://qiita.com/dida_besar/items/6922af71c03315ef8993) B! 0
 - [HTMLメール: cellpadding, cellspacingは余白の実装手段となり得るか](https://qiita.com/kow_ystk/items/892264f03d26b1188775) B! 0
@@ -12031,6 +12219,7 @@
 - [私のフロントエンド学習法](https://qiita.com/ken7253_/items/eb08019db61da28bd43d) B! 0
 - [自作PCを組み立ててみよう](https://qiita.com/nanamin_yamakawa/items/d3a49dd2a3df) B! 0
 - [【初心者向け】セッションを扱う実装をするときに知っておくべきこと](https://qiita.com/wlcmty/items/0f7bc0dd75bfddce45cf) B! 0
+- [Webアクセシビリティですべきことをまとめてみる（HTML限定）](https://qiita.com/bon127/items/0e01c5501d2f160e9efb) B! 0
 - [謎](https://lisa0.hatenablog.jp/draft/entry/npF5R4E_VGSi_GhDqsbvX3GH_l8) B! 0
 - [VCTを楽しく観戦するDiscordBotをつくった話](https://qiita.com/Nimono-sleep-well/items/7660ef5dcfb9d961bc8f) B! 0
 - [研究開発でめっちゃ痛い目見た話](https://qiita.com/toreis/items/7bee7b2dbc0879d90565) B! 0
@@ -12081,6 +12270,7 @@
 - [今更だけどSubstrateのブロックチェーン作成チュートリアルをやってみる](https://zenn.dev/noplan_inc/articles/a0e891d4e3e1e1) B! 0
 - [[チート対策] ガチャサイトの抽選ロジックを実装しようとした時に気をつけたこと](https://qiita.com/okamu_/items/c45c938a24eb4d7490da) B! 0
 - [Web3ハッカソン 入賞 Tips](https://zenn.dev/noplan_inc/articles/9867384e1c2444) B! 0
+- [Lit Protocol 使ってConditional Signingを実装する](https://zenn.dev/noplan_inc/articles/c367ecc9b2440c) B! 0
 - [【超初心者向けノーコード入門】STUDIOでサイトの構築と運用〜①テンプレを駆使して最速リリース〜](https://qiita.com/okamu_/items/6fcc93e43da9caa945d5) B! 0
 - [GoogleのLLM「Gemini Pro」を使ったSlack BotをCloudflare Workersで動かしてみる](https://zenn.dev/noplan_inc/articles/fc3ff947c3c1ee) B! 0
 - [【STUDIO】ノーコードでFigma連携してデザインから一瞬でサイトを作成してみた考察](https://qiita.com/okamu_/items/df5edeef146f8a2f518e) B! 0
@@ -12099,7 +12289,6 @@
 - [愛犬が好きすぎるのでAIで画像と音楽を生成してYouTube動画を作った](https://note.com/mussso/n/nb0e2d8602b2a) B! 0
 - [ドローンを始めたらGoProを分解していた話](https://note.com/gendosu/n/nd05a0bb69494) B! 0
 - [10年振りTDLの教訓と知見](https://note.com/ara_sakana/n/n6fd2bff0a54c) B! 0
-- [Macでもゲームがしたい2023冬](https://note.com/kihaya/n/n34d168b3ee04) B! 0
 - [社内のチャットAIでKotlin Coroutinesをおさらいしてみた](https://note.com/chickenjr/n/ne64bcecb8392) B! 0
 - [コーディングアシスタントをRustで自作してみた](https://note.com/k_urushi/n/n6aa24b977485) B! 0
 - [いまさら初めて Ant のビルドファイルを書いたので、逆引きの備忘録を残す](https://qiita.com/dtsu/items/07e53ada590a22ba8dda) B! 0
@@ -12123,6 +12312,7 @@
 - [クラウドネイティブを学んで感じたインフラエンジニアの今後](https://qiita.com/ay_goma/items/3a54112f26e9da49337b) B! 0
 - [未来のエンジニアから学んでみよう](https://qiita.com/t00723/items/eecba12ff7d3112439e5) B! 0
 - [プレスリリースのすゝめ ～エンジニアもお客様に事例公開を提案しよう～](https://note.com/kano_shinichiro/n/n129250324f55) B! 0
+- [Quest3とLLMで現実世界で魔法を使おう！　~現代の魔法の使い方~](https://qiita.com/gyokuro338/items/e12219c06ddd9d293b38) B! 0
 - [cfn-docgen - AWS CloudFormationテンプレートからドキュメントを自動生成するツールを公開しました](https://qiita.com/horietakehiro/items/359ae6e9cb40fef50604) B! 0
 - [Compose MultiplatformでいつものQiitaビューアを作ってみた](https://qiita.com/etctaro/items/5f142b0661e761756b36) B! 0
 - [そのITカタカナ用語、どこから来たの？ ](https://qiita.com/Daha/items/35da2015c7c397337348) B! 0
@@ -12183,13 +12373,14 @@
 - [【2023年最新版】便利機能からサービス連携までSlack活用術総まとめ](https://qiita.com/kojiro30/items/4a1eba977fd64e6e9716) B! 0
 - [【最新決定版】タイタニックデータで学ぶ　Pandasによるデータ加工からグラフ化まで](https://qiita.com/kaita_kakihara/items/bf66e9e4927a3e3589e4) B! 0
 - [【N予備校】未経験の学生がプログラミング入門コースを完走した感想](https://qiita.com/nanasi-1/items/210cdd45576b8da44d17) B! 0
-- [記事投稿予定（後日必ず書きます）](https://walkdd2.blogspot.com/2023/12/blog-post.html) B! 0
+- [ゆるく続けています](https://walkdd2.blogspot.com/2023/12/blog-post.html) B! 0
 - [就職活動中に押さえておくべき労働とお金の話](https://sizu.me/kaisugi/posts/x7snxmsc96k2) B! 0
 - [SPA の認証に GitHub OAuth を使おうとしてつまづいた話](https://qiita.com/dorimiamn/items/aef19c7d6cf8254fa6d3) B! 0
 - [同じWebアプリを3章と4章のやり方で作った話](https://qiita.com/koppepam/items/33ca2285cbb8af82f973) B! 0
 - [VRゲームを作ろう！N予備校のVRゲーム作成コースが簡単で楽しい！！](https://qiita.com/D_drAAgon/items/fe3ad946c8f32cc1bcbd) B! 0
 - [N予備校の教材をブックマークする拡張機能を作った話](https://qiita.com/nanasi-1/items/620c686c89752d4880cd) B! 0
 - [AIで「ゆっくりダビデ先生」を作る【RVC v2】](https://qiita.com/NekoNekko/items/881a6ea76646e4bc624e) B! 0
+- [PlaywrightでJavaScriptの動的サイトをスクレイピング](https://qiita.com/labeneko/items/a34eb67ad5dcaae94ef5) B! 0
 - [N予備校の授業をコメントと一緒にピクチャー イン ピクチャーで見たい！](https://qiita.com/nymphaea/items/0e72c040375be51c564e) B! 0
 - [【Next.js】public内のファイルがリンク切れになる](https://qiita.com/nanasi-1/items/78b3b30c22b55c6c53c4) B! 0
 - [AWS の負荷試験を terraform モジュールにまとめてみた](https://qiita.com/onzuka24/items/18a80909f0d44c1d7cf4) B! 0
@@ -12257,17 +12448,17 @@
 - [盆栽](https://zenn.dev/openlogi/articles/f6cc91ac413c8f) B! 0
 - [CREチームへのお問い合わせをscikit-learnでラベリングしてみた](https://qiita.com/kt-tsutsumi/items/0b1276062093a334a599) B! 0
 - [横断的品質改善へ向けて](https://qiita.com/moaikids/items/7bd404617b7636ea0a43) B! 0
-- [Terraform / Terraform Cloud を用いた Datadog の 管理](https://qiita.com/moaikids/items/6774abd3583b9a4f2f3f) B! 0
-- [Reusable workflows / Composite action を用いて GitHub Actions の処理を再利用する](https://qiita.com/moaikids/items/0f3bf2d87fdea5354a42) B! 0
 - [巨大な処理のリファクタリングにどのように向き合っているか](https://qiita.com/imahellob99/items/64519a59b746d9daef97) B! 0
 - [Pokémon sleepの睡眠タイプ決定ロジックが知りたい](https://qiita.com/y_kono/items/f34eb6f10d9705be731a) B! 0
 - [Shopify Checkout UI Extensions でサンキューページにお知らせを表示してみよう](https://zenn.dev/shirasu/articles/1ad90a7b3172d5) B! 0
 - [useReducerは何者なのか？](https://zenn.dev/openlogi/articles/state-vs-reducer) B! 0
+- [Ajvでスキーマチェックしたいが、型を書きたくない話](https://qiita.com/motojouya/items/f1bdc830f0fbc0560238) B! 0
 - [ISUCON13にチームOL001として参加しました(インフラ編)](https://zenn.dev/takeokunn/articles/20231212144218) B! 0
 - [2023年に参加したイベントを振り返る](https://zenn.dev/openlogi/articles/57115d2250faa8) B! 0
 - [「上手くいったこと」を効率的に振り返って次に活かそう！](https://qiita.com/imahellob99/items/3f610c1a6c792034f8dd) B! 0
 - [macOSアプリ開発初心者がSwiftUIを使ってアプリを作ってみた](https://qiita.com/uchidak/items/8f102b9988f34683170f) B! 0
 - [MySQLの DELETE / INSERT によるデッドロックをインデックス観点で検証する](https://zenn.dev/openlogi/articles/763c4271e99778) B! 0
+- [フロントエンドの React 18 バージョンアップとtypescript導入の取り組み](https://zenn.dev/openlogi/articles/d71eadcb1a1fc4) B! 0
 - [ラムダ計算入門](https://zenn.dev/openlogi/articles/introduction-to-lambda-calculus) B! 0
 - [全文検索algolia入門](https://zenn.dev/hisada/articles/47997a36468cdc) B! 0
 - [業務でCloudRun Jobsを使ってみた話](https://zenn.dev/convers39/articles/7fefd01bbd8905) B! 0
@@ -12292,8 +12483,10 @@
 - [最近のインシデントからの学び](https://zenn.dev/convers39/articles/ebd2a9d1ee231a) B! 0
 - [PaLM 2 APIを使ったタスク分解ツールを作ってみた](https://qiita.com/Kapio0000/items/f6b8e9d9329fd396c3bd) B! 0
 - [チーム名に愛着はありますか？](https://qiita.com/YusukeKun/items/3a6c53e49851e3b359d9) B! 0
+- [献血が趣味です](https://note.com/joyous_mimosa508/n/nb0235070d377) B! 0
 - [得意な言語は何ですか？　─母語を極めろ……！─](https://tanuki-cake.hateblo.jp/entry/2023/12/03/174246) B! 0
 - [Camera2 APIを使ってカメラアプリを作ってみた(Kotlin)](https://qiita.com/jtakumi/items/b262fd460a29aa8cfffc) B! 0
+- [失敗ってなんだろう](https://note.com/joyous_mimosa508/n/n5f7122963ad0) B! 0
 - [スクラムマスターとメタ認知](https://note.com/mihokm/n/nbee9f65eae81) B! 0
 - [質問に対する回答には、戦略性を持たせたいよね。という話](https://qiita.com/kyonnnnn/items/230eeb40ec5f7c0021a3) B! 0
 - [アウトプット苦手ちゃんからの脱却！](https://qiita.com/osugiyama/items/0c7855a69856471fd71a) B! 0
@@ -12307,6 +12500,7 @@
 - [TOEIC学習で役に立つChat GPTコマンド集 無料版GPT3.5](https://qiita.com/jtakumi/items/f45ecada5af6a3645989) B! 0
 - [イベント参加したよ！をカタチにする POAP のススメ](https://qiita.com/arikui0520/items/67d2e6f27518d30d5f55) B! 0
 - [エンジニアリング マネージャー になってみない？](https://qiita.com/sashimix/items/bdad10d22933d3bbe5e2) B! 0
+- [クリスマスレトロスペクティブ](https://note.com/mihokm/n/n53dfe3794756) B! 0
 - [フェデレーションアイデンティティとは？図を使って説明](https://zenn.dev/yamadamadamada/articles/c95bdb795a3bee) B! 0
 - [正規表現のイロハ](https://qiita.com/tasou-pt/items/3dd32817d72a5d9e1794) B! 0
 - [linux foundationの「セキュア ソフトウェア開発」より「セキュリティ要件」「セキュア設計の原則」まとめ](https://qiita.com/hmamiya/items/3c6f48583ea1d3835fba) B! 0
@@ -12441,6 +12635,7 @@
 - [C#の始め方🔰](https://qiita.com/inakuuun/items/639499391ab8d83ae3c5) B! 0
 - [就活前に改めて確認したい用語集（３０選）](https://qiita.com/jinta_02/items/63b8d68c254ac87b97f7) B! 0
 - [Python学習備忘録②　Anacondaを使わず、ScrapyでLaravelで作った自分のポートフォリオをモルモットにしてスクレイピングしてみた（本編）](https://qiita.com/thinking-weed/items/9de1556ccc40904b411c) B! 0
+- [Bubbleを転職先で使うので、特徴をざっくりとだけまとめてみた](https://qiita.com/sora154cm/items/cc39e5717903aeadebe4) B! 0
 - [Progate Path リリース1周年の棚卸しと今後の話](https://path.progate.com/team-blogs/20231201-6MVikdaj7Vxb5Njd73u-d) B! 0
 - [知り合いが困っていたのでGitを触ってみようセミナーを開催した話](https://qiita.com/ulxsth/items/ba13e1510a24476138aa) B! 0
 - [[Three.js]Web上でMinecraftのスキンを表示してみる](https://qiita.com/ulxsth/items/c102a5aa576ec8d60e07) B! 0
@@ -12509,10 +12704,7 @@
 - [ChatGPTを利用してバックオフィスへの問い合わせを削減した話](https://qiita.com/takashimax/items/fa9624200eea3c78176e) B! 0
 - [QualiArts engineer blogの歴史とその運用について](https://technote.qualiarts.jp/article/68/) B! 0
 - [Anjinによる自動テストの活用事例](https://qiita.com/tana_hiro/items/c696076d6e98eae10a87) B! 0
-- [UnityにおけるSDFを使った円の描画とアンチエイリアス](https://qiita.com/sune2/items/834b17f68f495c570c9f) B! 0
-- [Unityでシグナルハンドリングする](https://qiita.com/housei/items/0a6adfa744de700de1ba) B! 0
 - [エンジニアみんなで「ムービング・モチベーターズ」やってみた](https://qiita.com/kawashimo_mio/private/a06e75985d7442068fa1) B! 0
-- [QualiArtsのGitHub Actionsへの取り組みやアプリビルドについて](https://qiita.com/Yui_Yamamoto/items/c9dab445edc7a1b60d02) B! 0
 - [QualiArtsの2023年の技術組織を振り返る](https://technote.qualiarts.jp/article/70/) B! 0
 - [RWKVをjuliaで試してみる](https://qiita.com/10long/items/dac17c82138883545ecb) B! 0
 - [初めてのpython cvxpy](https://qiita.com/mizoguchi_ryosuke/items/a9033203742be09b1127) B! 0
@@ -12567,7 +12759,6 @@
 - [[Laravel]脱FatController](https://qiita.com/hatake_aki/items/3eeb9591abdd668e0963) B! 0
 - [BQクエリ高速化のボトルネックを討伐しろ！〜実行グラフという名の地図〜](https://qiita.com/wimpp0105/items/9dec499009a645c5cd8d) B! 0
 - [異業種からRP営業に転職して学んだこと](https://qiita.com/miho_kido/items/16c83c974aa81ec155ec) B! 0
-- [OpenCVでミャクミャク作ってみた](https://qiita.com/keiudesu/items/7c14f07982bf0d8ece83) B! 0
 - [【Pytorch】SONYのSQ-VAEを実装する＋3次元画像に対応](https://zenn.dev/pythocial/articles/fabb9558369f7a) B! 0
 - [プレゼントもらえるかどうかクリスマス前に知りたい！！！そう思った幼少期](https://zenn.dev/yosuke00/articles/ff577087c44340) B! 0
 - [AWS AuroraMySQL3時代のデータ分析](https://zenn.dev/k_igaiga/articles/3024ca8cd38a3f) B! 0
@@ -12743,7 +12934,6 @@
 - [【Cloud Automator】ジョブワークフローを REST API で操作できるようになりました](https://blog.serverworks.co.jp/job-workflow-rest-api) B! 0
 - [AWS re:Invent 2023 で感じたエンジニアとしての成長のヒント](https://blog.serverworks.co.jp/2023/12/14/231638) B! 0
 - [サバワの代表電話を徹底解析！（実はAmazon Connect使ってるの）](https://blog.serverworks.co.jp/?_ga=2.208077713.240416579.1699846353-1445583153.1694135695) B! 0
-- [Amazon OpenSearch Serviceのindex運用の基礎を学ぶ（２）](https://blog.serverworks.co.jp/aos-maintenance-basic02) B! 0
 - [GraphQLの概要を理解してAWS AppSyncへの第一歩を踏み出そう](https://blog.serverworks.co.jp/appsync-introduction) B! 0
 - [【DynamoDB Streams】ある属性が特定の値に変更されたときにLambda関数を実行させたい](https://blog.serverworks.co.jp/cdk-dynamodb-streams-filtering) B! 0
 - [Workshop 体験記・Amazon Connect を利用し顧客のプロファイルに合わせて処理を自動化させる](https://blog.serverworks.co.jp/2023/12/21/112252) B! 0
@@ -12864,6 +13054,7 @@
 - [HTTP/3についてまとめるの巻](https://qiita.com/Mayu0628/items/9f8db6d5c8de89ed46c7) B! 0
 - [【.exe on Mac??】AviUtl.exeをAviUtl.app化させる方法](https://qiita.com/matttchan/items/5542b9291c77a4c36774) B! 0
 - [Jetpack Composeでカメラアプリを作ろう！](https://qiita.com/9chbita/items/42024892fa90f09e31e8) B! 0
+- [【初めてのWebアプリ開発】 Flaskを用いたTODOアプリ](https://qiita.com/mmnn/items/70713095e29e1a4b0769) B! 0
 - [Discordbotをpythonで動かしてみた。](https://qiita.com/iropazu/private/e71d022f8585e64eb5d3) B! 0
 - [仮想空間を作ろう！(クライアント編)](https://qiita.com/snct-ukai/items/595df49912993d7106a3) B! 0
 - [仮想空間を作ろう！(サーバー/インフラ編)](https://qiita.com/snct-ukai/items/5a1ee357327e41f9eba6) B! 0
@@ -12929,6 +13120,7 @@
 - [QAに携わっていて日常に役立ったこと５選](https://qiita.com/ykishi/items/c096918fad5eba96e280) B! 0
 - [統計検定１級受験戦記　〜学◯院より愛をこめて〜](https://qiita.com/jyoji_koike/items/ebd4a14d3ee615db82af) B! 0
 - [スタンバイ社はどこに向かうのか](https://qiita.com/satoshi-yamamoto/items/84fdc555dbe5d7fb44a7) B! 0
+- [certbot renew時にnginxを再起動して、mattermostへ通知する](https://qiita.com/ynott/items/2bde8909ab99ddd6fd30) B! 0
 - [Thunderbirdでも生成AIしたい Aifyのご紹介](https://qiita.com/ynott/items/2a3c724150a9b5761ce1) B! 0
 - [モゲマイクロ対策をマグネット接続方式のMicroUSBケーブルで](https://qiita.com/ynott/items/19672862c6707e99838f) B! 0
 - [ShellフォームとExecフォームの違いとENTRYPOINTとCMDの使い分けについて](https://qiita.com/ynott/items/ad2e6f608051bc60fec6) B! 0
@@ -12958,7 +13150,7 @@
 - [STYLYでシーン間の連続性を実現するために利用できる簡易的なAPIおよびその制作過程の紹介](https://qiita.com/mayfair/items/cd9f6734a1ba2c091b1e) B! 0
 - [スマホ不要で動く！ARグラス"INMO Air2"の開発者モードを有効化する](https://qiita.com/kotauchisunsun/items/6727f18752aa17c96adb) B! 0
 - [[誰得]全デバイス対応STYLYシーンを制作せざるを得なくなった時に気をつけること](https://qiita.com/noria901/items/7feb9185b294c7f3d99a) B! 0
-- [[Vision Pro] Poly Spatialの始め方 0.7.1版 [Unity]](https://qiita.com/afjk/items/74c35b254f31a0e3646b) B! 0
+- [[Vision Pro] Poly Spatialの始め方 1.0.3版 [Unity]](https://qiita.com/afjk/items/74c35b254f31a0e3646b) B! 0
 - [XR 作品が並ぶ STYLY Gallery にフロントエンドの自動テストを導入した](https://qiita.com/Shilaca/items/f004bd43fea91b90ec90) B! 0
 - [大量のHMDをイベントで運用する際に注意すべきこと](https://qiita.com/segur/items/29179f59e47107820cd4) B! 0
 - [PlayMaker EcosystemにあるJSONパース系のActionを片っ端から調べてみた](https://qiita.com/segur/items/c27aa11112cab075b2ab) B! 0
@@ -12983,7 +13175,6 @@
 - [新卒エンジニアで輪読会をしている話](https://qiita.com/haruki_kasai/items/1e429f66d75a0285b45c) B! 0
 - [SaaSにおける最適なインフラコストを考える](https://qiita.com/shinsuke-nakamura1031/items/c6425631421f62543863) B! 0
 - [【デスクツアー】Supershipエンジニアのリモート開発環境！](https://qiita.com/Joharu/items/e9b0157a234cfc11ac0b) B! 0
-- [RAGを使った生成AIボットの検索精度向上のポイント](https://qiita.com/ps010/items/cdb75f3cad5c97f85de8) B! 0
 - [新卒エンジニアが遠方からほぼフルリモートをしてみた](https://qiita.com/shosho44/items/9cae2e69e8778bf6816c) B! 0
 - [自作のコンテナもどきをGO言語で作成する](https://qiita.com/hayama17/items/56c680b7fb178dafc4f4) B! 0
 - [安価な10GbE/2.5GbEスイッチングハブを使ってみた](https://zenn.dev/ayushio/articles/1833324973d62b) B! 0
@@ -13036,6 +13227,7 @@
 - [[SF-0001] Calendar Sequence Enumeration の解説](https://zenn.dev/dena/articles/f5f6f9f9b89695) B! 0
 - [SwiftUIとJetpack Composeを比較してみよう](https://qiita.com/clockvoid/items/4d19d254c9833a45fa6b) B! 0
 - [swift-syntaxを用いて、簡単なコマンドラインツールを作ってみる](https://zenn.dev/oks/articles/2dcd28a22d4ba6) B! 0
+- [上部と下部で背景色が異なるスクロールビューの問題と解決策(SwiftUI)](https://qiita.com/uhooi/items/ebe29aca83c053720f40) B! 0
 - [locust](https://qiita.com/Yosyamura/items/b1e0f4c1a8ef5e121504) B! 0
 - [FTPと和解せよ（2023年バージョン）](https://qiita.com/sapi_kawahara/items/4f51232e63a1dbb34ffa) B! 0
 - [RDBおよびSQLの記載に対する考え方について](https://qiita.com/shivady/items/e87b2b47ec2fc99d6aa4) B! 0
@@ -13052,18 +13244,24 @@
 - [AutocodeでDiscord botをカンタンに開発](https://qiita.com/MaiTana/items/88ab7824e59c26b83250) B! 0
 - [Streamlitで遊んでみよう](https://qiita.com/toro-osushi/items/d2443afa2d45fdc3a154) B! 0
 - [英語で技術を学習する時に感じた限界(暫定)](https://note.com/staedtler/n/n3223bfccdd1e) B! 0
+- [テストのプロセスの全体像](https://qiita.com/MaiTana/items/e07aa526c0cc2de5f95f) B! 0
 - [BusinessAnalyst(BA)って何してるの？](https://qiita.com/MaiTana/items/cd19399671e46dcdecbb) B! 0
 - [1年SAPのプロジェクトに参画した人間によるSAPって何？](https://qiita.com/nami_m4/private/6f225fbc4645d2059045) B! 0
+- [要件定義・外部(基本)設計・内部(詳細)設計の一部について知識整理](https://qiita.com/MaiTana/items/8298ecc2ae2c1e9a52e4) B! 0
+- [自動車エンジニアリングと仮想環境](https://qiita.com/MISU_auto/items/db4487f3c36414ef5685) B! 0
+- [ちょっと早めの2年間の振り返り](https://note.com/hogehuga_hoge/n/ne79bfb1464b3) B! 0
 - [スクレイピングで遊んでみた](https://qiita.com/satanibiz0/items/bf9af750084d00903f9f) B! 0
 - [右も左もわからないなりに仕事するときの個人的ポイント](https://qiita.com/toro-osushi/items/7f381a8d06b1886679e7) B! 0
+- [文系学生だった私がデータエンジニア2年目になって感じたことをまとめます](https://note.com/ponnu_777/n/n3642634f09f6) B! 0
 - [とりま仮押さえ(Julia久々に書くかも)→書いたけどリンク貼るの忘れてました](https://zenn.dev/toratti/articles/84d323373e3a48) B! 0
 - [こみゅにけーしょんの取り方](https://qiita.com/youchengdy/items/c5f6ffd5db51d2baeb4a) B! 0
 - [LLMでよく見る関数についての解説](https://qiita.com/ilovebooks0618/items/0292ec6ad09a6340f64b) B! 0
+- [テスト設計の知識の整理](https://qiita.com/MaiTana/items/f71f702de0ebd83110a0) B! 0
 - [かなり作業時間をセーブしてくれたと思うエクセルショートカットキー(Windows)](https://qiita.com/eipi/items/923d1e2d282bc0138b90) B! 0
+- [映像技術としてのXRの整理](https://qiita.com/mappou/items/7944b1ca917917cc586d) B! 0
 - [自分なりの勉強法（英語、IT）をnoteにまとめてみました〜](https://note.com/piyo_tamag0/n/n6024be6f6b8f) B! 0
 - [ウォーターフォール型アプリ開発における設計の概要](https://qiita.com/MaiTana/items/6c8140b878a69cd5379e) B! 0
 - [会社の旅行を最高に楽しくするためにアプリ作った](https://qiita.com/m1k50118/items/d7af02bcf0f385783096) B! 0
-- [レトロスペクティブにPOが出なくていいっていつ誰が言ったんだ？(怒)](https://note.com/msts_on/n/n97d1b3f98b69) B! 0
 - [初一人暮らしin東京でのカイゼンの日々](https://note.com/yu_sakabe/n/n55f185df0448) B! 0
 - [できたて！新オフィスでアジャイルイベントやってみた](https://note.com/tanakama/n/n3801e5b767c1) B! 0
 - [【アジャイル体験記 #1】スプリントバックログの捉え方？ ~初学者が感じた違和感~](https://qiita.com/T_Sekine/items/f66d9d8c353a9124c3ff) B! 0
@@ -13115,6 +13313,7 @@
 - [マークアップを今よりちょっと良くする](https://qiita.com/tomo-ka/items/7622ba488a8880ac08e4) B! 0
 - [令和5年秋期 応用情報技術者試験 合格体験記](https://qiita.com/mitsuyossy/items/5b30d3f39cb14377df6b) B! 0
 - [楽しいシェルスクリプト入門](https://zenn.dev/azunasu/articles/fd1816089b6ab1) B! 0
+- [10月以降のコミュニティ活動および登壇の振り返り](https://note.com/kaho_eng/n/nb2ef9f7ec20e) B! 0
 - [2023年のWeb3トピック大総括～Web3はどこへ向かうか～](https://tec.tecotec.co.jp/entry/2023/12/01/000000) B! 0
 - [【入門】Swiftの"プログラミング言語らしい部分”に注目する](https://tec.tecotec.co.jp/entry/2023/12/02/000000) B! 0
 - [【PHP】Laravel collectionの進化の軌跡を辿る](https://tec.tecotec.co.jp/entry/2023/12/03/000000) B! 0
@@ -13225,6 +13424,7 @@
 - [djangoのメール送信とawsサーバーを並列化した話](https://qiita.com/Y-Tsukahara/items/6da480c60b88615f59cd) B! 0
 - [SEOについて自分なりにまとめてみた](https://qiita.com/Y-Tsukahara/items/455ce5343836978db33f) B! 0
 - [Blender で制作した3DモデルをWeb上に描画する](https://qiita.com/soichiro-h/items/2d86d69efec18c354af8) B! 0
+- [kubernetes の cronjob のマニフェストファイルが長すぎ問題に対応するために動的に作る](https://tech.torico-corp.com/blog/kubernetes-cronjob-manifest-maked-dynamic/) B! 0
 - [ラズパイにVNCを導入した①](https://tech.torico-corp.com/blog/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4%E3%81%ABVNC%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%9F%E2%91%A0/) B! 0
 - [ラズパイにVNCを導入した②](https://tech.torico-corp.com/blog/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4%E3%81%ABvnc%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%9F%E2%91%A1/) B! 0
 - [SchemaSpyを使ってデータベースの中身をまとめたかった](https://qiita.com/kazuyaseo/items/4dc76d4d2847f009c3bb) B! 0
@@ -13298,7 +13498,6 @@
 - [ISUCON初挑戦記](https://techblog.tver.co.jp/entry/mizuno/isucon13) B! 0
 - [SnapHelperがどうやってSnappingを実現しているのか](https://techblog.tver.co.jp/entry/ishii/snap-helper) B! 0
 - [レコメンドエンジンで日本を元気に](https://techblog.tver.co.jp/entry/yui/tver-advent-calendar-2023-cheer-up-japan-with-recommend) B! 0
-- [GCP版Dataformで冪等性を担保する設計ポイント3つ](https://techblog.tver.co.jp/entry/endo/dataform_idempotence) B! 0
 - [初級→中級者向けのプログラミング教室を運営してみて](https://qiita.com/ShunsukeMizuo/items/73f792b4a3f47195316c) B! 0
 - [DDNSの代替手段を考えた話](https://hpcmemo.hatenablog.com/entry/2023/12/09/203054) B! 0
 - [浮動小数点数を比較するにはどうすりゃ良いのって話](https://hpcmemo.hatenablog.com/entry/2023/12/10/223032) B! 0
@@ -13341,6 +13540,7 @@
 - [[Ruby] Hash 内の文字列をすべて force_encoding する](https://qiita.com/Takayuki_Nakano/items/b8f7af81811d6d1c6218) B! 0
 - [OAuth2.0モックサーバーの紹介](https://qiita.com/syungyo/items/eb1ed970cdddaf1b226c) B! 0
 - [Wasmを触ってみた ~DOM操作の夢を見る~](https://qiita.com/cruv/items/c1d011f5db3b2770f9fe) B! 0
+- [PostgreSQLのテーブル分割について](https://drive.google.com/file/d/1N4EAZBbQ2NM7XFkFSmV5A8skNzaoVr4Z/view?usp=sharing) B! 0
 - [storybook-vue3-router で URL クエリパラメータが絡む挙動をするコンポーネントをテストする](https://qiita.com/katsumata_yusuke/items/792fa743b322de70a7a7) B! 0
 - [WordPress オリジナルテーマ作成において、チーム開発がしやすいローカル環境を作りたい](https://qiita.com/shuhosaka/items/9f6fb36ed406b3eab9e5) B! 0
 - [【コーディング未経験のデザイナー向け】知ってると役立つHTMLタグとCSSプロパティ](https://qiita.com/zumi_ys/items/ea8b5d46e07a26befc2e) B! 0
@@ -13448,7 +13648,6 @@
 - [PRD がデザインプロセスを高速化した話](https://www.wantedly.com/companies/wantedly/post_articles/877828) B! 0
 - [「プロダクトマネジメントはみんなの仕事」という考え方](https://www.wantedly.com/companies/wantedly/post_articles/877914) B! 0
 - [アウトプットする心構え](https://www.wantedly.com/companies/wantedly/post_articles/878081) B! 0
-- [情報を整理し、構造化していくこと](https://www.wantedly.com/companies/wantedly/post_articles/878750) B! 0
 - [爆速CoreData](https://qiita.com/sawakishuto/items/dc0ef144f6312a2cc89b) B! 0
 - [flutterリポジトリパターンでリファクタリングする](https://qiita.com/kaka0913/items/11228d7d0d4285d67fca) B! 0
 - [ちょっとスクレイピング触った話](https://qiita.com/hiromuota166/items/df703d0f1411a31f35de) B! 0
@@ -13458,10 +13657,12 @@
 - [COWで四則演算を実装したい](https://qiita.com/Eiji358/items/c408109b9ae0456718ac) B! 0
 - [早期リターンを学ぶ](https://qiita.com/takumiino/items/5d982d8508eb613faa7b) B! 0
 - [Spotify APIでのkeyとmodeを対応付けて出力してみた！](https://qiita.com/Wakanaaaaa/items/03afcd389244852a612a) B! 0
+- [世界一わかりやすい非同期処理ハンズオン](https://zenn.dev/masamichi2004/articles/c743910649d514) B! 0
 - [GitHubのブランチ状況が目でわかる！！](https://qiita.com/shimochanchan/items/09bd437b599366d69958) B! 0
 - [PostgreSQLのインデックス戦略](https://qiita.com/nosuke_engineer/items/b157d2ccf8776356844a) B! 0
 - [Next.jsでuseRouterを使ってページ遷移する！](https://qiita.com/maruhashiyukina/items/f2c2e24f148c8e322aeb) B! 0
 - [今日から始めるアクセシビリティ~少しの気遣いでより使いやすいアプリへ~](https://qiita.com/yu-ka/items/b5d251cab7c7399acfba) B! 0
+- [Slackへ定期的にデータベースの内容を通知するシステムを作成する](https://zenn.dev/masamichi2004/articles/8623398542ba63) B! 0
 - [chatGPTを使って効率よく勉強しよう！](https://qiita.com/shinpochi2002/items/274c781d87ec8c4040d8) B! 0
 - [MLKitを使った簡易的な翻訳アプリ](https://qiita.com/KURO__48/items/54b75ced143c548ac4f3) B! 0
 - [GPTs Builderを用いて大学のキッチンカーアプリを構築する方法](https://qiita.com/shuz/items/55e7ef3ef2a2dfcaab1d) B! 0
@@ -13538,6 +13739,7 @@
 - [Stripe Destination Charges](https://zenn.dev/lamphanqg/articles/be9733f4167804) B! 0
 - [Migrate from Sources and Tokens APIs to PaymentMethods API](https://zenn.dev/lamphanqg/articles/627f9af76a3589) B! 0
 - [A Rack middleware to remove null bytes](https://zenn.dev/lamphanqg/articles/640d91cae4c8dd) B! 0
+- [ChatGPT API + Next.jsで3000ページの静的ページを生成: YAMAP2023振り返り機能開発の反省会](https://zenn.dev/yamap_dev/articles/65824b74b2a1dc) B! 0
 - [湯豆腐好きなので OpenTofu を触ってみた](https://zenn.dev/yamap_dev/articles/9e4f3367a8be47) B! 0
 - [Chat GPTで人の活動を褒めるとエモい：YAMAP2023振り返り機能開発顛末記](https://zenn.dev/yamap_dev/articles/944c714aaf01d9) B! 0
 - [アクセシブルなコンボボックスをReactで実装する](https://zenn.dev/yamap_dev/articles/0d04465558a506) B! 0
@@ -13553,15 +13755,12 @@
 - [業務の自動化ってどうすればいいの？ってか自動化ってなに？自動化するといいことあるの？を考えるヒント](https://qiita.com/nofa/items/dd7d318129422d6fbec6) B! 0
 - [第一回 Yayoi (Engineer) Beer Bashを開催しました！](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/11/150000) B! 0
 - [ChatGPTのプロンプトテクニック](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/12/000000) B! 0
-- [AWS認定合格に役立つ公式神リソースがこんなにあるって知ってました？](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/13/000000) B! 0
 - [エンジニア未経験の新卒が語る弥生の開発ってこんなところ](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/14/000000) B! 0
 - [AWS社内イベントに登壇（AWS MMSA Townhall meeting）](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/16/000000) B! 0
 - [EMNLP2023の論文からChatGPTが世界に与えた影響を分析してみる](https://qiita.com/siida36/items/e3e19690d865315d307a) B! 0
 - [スクフェスでアウトプットしてみた話](https://note.com/taroken_/n/n5e59d473122a) B! 0
 - [インフラエンジニアがChatGPTを触ってみた](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/19/000000) B! 0
-- [本当に英語（英会話）ができないエンジニアがre:inventに参加しても楽しめるのか？](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/22/000000) B! 0
 - [re:Inventに参加した、ぶちょーの話](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/23/000000) B! 0
-- [Amazon Qでトラブルシューティングしてみた【和訳付き】](https://tech-blog.yayoi-kk.co.jp/entry/2023/12/24/000000) B! 0
 - [スクラムマスター始めました](https://qiita.com/Takumiooo__/items/3e734d2b9ed1f91a1547) B! 0
 - [Pythonの自作APIラッパーでChatGPTをしばく](https://qiita.com/Chroma7p/items/5ba7b7c11aaf6aaa3113) B! 0
 - [PythonでSwitchBotのAPIをしばく](https://qiita.com/Chroma7p/items/8e1817d313beca2b2641) B! 0
@@ -13615,7 +13814,6 @@
 - [Dart CLI App で Riverpod を使ってみた](https://qiita.com/blendthink/items/84148bd27c52459d9190) B! 0
 - [ゆめみ大技林 '23 (2)の執筆に参加しました](https://note.com/iseryu/n/n6421f99d58a0) B! 0
 - [AppleScriptで表計算ソフトからJSONを生成する](https://qiita.com/Hyperbolic_____/items/5fc6c7372746f322d59b) B! 0
-- [SwiftUI でデジタル時計のUIを実装してみる](https://qiita.com/a_jike/items/c4c35d4c846b56cddaf0) B! 0
 - [Rustのタイムトラベルビジュアルデバッガー「FireDBG」を触ってみた](https://qiita.com/notakaos/items/4b4819c4484e19de0d9d) B! 0
 - [Malbolge で AtCoder 精選過去問10問の2問目を解く、そしてその先の世界を見る](https://qiita.com/ten986/items/df7ed64fa343e6dacdef) B! 0
 - [個人的におすすめしたいTextFieldの設定について](https://qiita.com/isekiryu/items/114b39654cd71dd920d6) B! 0
@@ -13639,7 +13837,6 @@
 - [neo4jのMERGEでつまずいた話](https://qiita.com/date03/items/172af4d44b0caee7b354) B! 0
 - [Git の Interactive rebase で自在にコミット履歴を操る](https://qiita.com/Flisan/items/6c34e93399480d292d83) B! 0
 - [【SwiftUI】StretchableなUIを作成する](https://qiita.com/reeen/items/7bb600c1946f5d59314d) B! 0
-- [学生団体(非IT)で資金管理アプリのPMをやった時の苦労話](https://qiita.com/imaimai17468/items/518d8ab5d76f70f750ce) B! 0
 - [ChatGPTはまだテトリスができない](https://qiita.com/namn1125/items/4d0f65874820decdff62) B! 0
 - [FlutterKaigi 2023 参加レポート](https://note.com/k9i/n/nb5c2cece1fbd) B! 0
 - [Freezed + Riverpod 導入時にやること備忘録](https://qiita.com/Yo2_engineer/items/566d0bd392d071cbeab8) B! 0
@@ -13678,9 +13875,10 @@
 - [Vault ACME on minikube](https://qiita.com/TakanariKo/items/2ab990ed69d979784a38) B! 0
 - [rootlessコンテナの必要性と現状](https://qiita.com/inajob/items/268c4d8336d1a6307170) B! 0
 - [OWASP Kubernetes Top 10 を理解して Kubernetes クラスタを安全に運用しよう](https://qiita.com/ryysud/items/dcb23f4a7e24f22e0ab4) B! 0
+- [Kubernetes 1.29: SIG-Apps の変更内容](https://qiita.com/yosshi_/items/d7cb8add71ba719e48b5) B! 0
 - [SPIRE Bundle Publisher plugin](https://qiita.com/hiyosi/items/af433010f9cb4ab036dd) B! 0
 - [Wasm を利用したフレームワーク Spin について（前編）](https://qiita.com/takuhiro/items/d825c46942321a271679) B! 0
-- [Kubernetes: CSI Storage Resizing Authenticated(NodeExpandSecret)](https://qiita.com/ysakashita/items/90d23e11dc19624e034a) B! 0
+- [Kubernetes: CSI Storage Resizing Authenticated(NodeExpandSecret)の動作検証](https://qiita.com/ysakashita/items/90d23e11dc19624e034a) B! 0
 - [Wasm を利用したフレームワーク Spin について（後編）](https://qiita.com/takuhiro/items/34aabb846c0e4b89c819) B! 0
 - [CLIコマンド1発でBigQueryデータセットの権限を付与/削除する方法](https://qiita.com/shiozaki/items/55e85e8d87d76aa7d3d8) B! 0
 - [EKS Upgrade to 1.24をした話](https://qiita.com/gold-kou/items/1dce9948d467a1148136) B! 0
@@ -13746,14 +13944,12 @@
 - [Node用Cloud Function用環境構築](https://qiita.com/99no_exit/items/988460d9de90a9dbe650) B! 0
 - [LaravelでWordPressの記事を取得して、Vueで表示する](https://qiita.com/99no_exit/items/1fb88ec189f203c11fe4) B! 0
 - [tailwind.config.js のよく使う設定](https://qiita.com/99no_exit/items/809fd7c3cbc2ffcaf7df) B! 0
-- [Twitter APIが使えないので、RSS経由でDiscordにニュースを送る](https://qiita.com/99no_exit/items/6cd2d0a4440c535d5388) B! 0
 - [Open Propsって何？調べてみました！](https://qiita.com/99no_exit/items/994fd77c46709554289f) B! 0
 - [ちょっと待って！そのGCP、本当に無料枠？](https://qiita.com/99no_exit/items/b36f74170df4dbdaa9ba) B! 0
 - [Vue + Typescript環境でeslint --initで生成されたコンフィグが動かない時](https://qiita.com/99no_exit/items/3efb805f09f30ad085e1) B! 0
 - [Cloud Functionsのデプロイ時に色々はまった](https://qiita.com/99no_exit/items/dfd99ac6cddb97399bd1) B! 0
 - [MIDI Remoteを使って、自分のMIDIデバイスをCubaseに対応させる](https://qiita.com/99no_exit/items/b5a2f9dc6904e58bf893) B! 0
 - [VitePressで最近よくみるかっこいいドキュメントを作る](https://qiita.com/99no_exit/items/a54708c8a3586f67f894) B! 0
-- [ESLint + Prettierの代わりにBiomeを試す](https://qiita.com/99no_exit/items/4b880735621d7f7416f3) B! 0
 - [QoLが上がる自作左手デバイスのコーディング](https://qiita.com/99no_exit/items/83aa59f9420837bebde7) B! 0
 - [IntersectionObserverを使いやすくしたい](https://qiita.com/99no_exit/items/a0e23ed649e46dc25ae4) B! 0
 - [Win11 23H2で追加されたDev Homeを試してみる](https://qiita.com/99no_exit/items/a4fe32cd34954be54cf8) B! 0
@@ -13811,7 +14007,7 @@
 - [Four Keys って何？ | Datadog DORA Metrics の可視化](https://qiita.com/AoTo0330/items/3d3eda7ef651312f22a6) B! 0
 - [eBPF で SRE を始めよう！](https://qiita.com/AoTo0330/items/433e46ad6d78a86e07b8) B! 0
 - [Datadog Agent の豆知識](https://qiita.com/AoTo0330/items/5125e468232c0196d916) B! 0
-- [Datadog で GKE とマネージドサービスを効率的に運用する方法](https://qiita.com/AoTo0330/items/17dba76a7282c4b93fe7) B! 0
+- [【Google Cloud Next Tokyo ’23】Datadog で GKE とマネージドサービスを効率的に運用する方法【Datadog】](https://qiita.com/AoTo0330/items/17dba76a7282c4b93fe7) B! 0
 - [Azure Metrics Data plane API で何が変わったのか？](https://qiita.com/AoTo0330/items/10c18f9de0dbe4fce61a) B! 0
 - [Qiita Advent Calendar を個人で完走した](https://qiita.com/AoTo0330/items/9617af316ac84f086483) B! 0
 - [普段使いするGitのコマンドをまとめる](https://qiita.com/apierce/items/9b1e8452c5206a4a3c3b) B! 0
@@ -13938,11 +14134,11 @@
 - [Slack をフル活用するために Slack の拡張機能を調べてみた](https://qiita.com/caunu-s/items/5981d6faff2a3736abb0) B! 0
 - [Kong Gateway を触ってみる](https://qiita.com/caunu-s/items/636aff1d04778fbbd779) B! 0
 - [Go で Kong Gateway カスタムプラグインを作成する](https://qiita.com/caunu-s/items/b6ea0a86252ad7b3f6dc) B! 0
+- [OpenFaaS を使って API サーバをたててみた](https://qiita.com/caunu-s/items/6342d7b5812a85d0c52b) B! 0
 - [lapras.comの技術スコアを4に上げることへの考察](https://qiita.com/nakamoto/items/d347d7742111c5675995) B! 0
 - [21年半勤めた会社を辞め40代半ばでの転職→意外と何とかなった](https://qiita.com/pedalclecle17/items/da39284930d356205166) B! 0
 - [組込エンジニアとWEBエンジニアは別な職業だと思った](https://qiita.com/jun2/items/3ee20a32cfad4671d8e7) B! 0
 - [IT業界完全未経験の30代前半が大手SIerに転職した話](https://qiita.com/dessin/items/0f9d12b4364a41a0a47d) B! 0
-- [六回の転職二回の転勤　成功と失敗](https://qiita.com/kaizen_nagoya/items/60fd6dc1712d007050b4) B! 0
 - [lapras.comの影響力スコアを4にしようと頑張って諦めた話](https://qiita.com/nakamoto/items/a72aa414bdb9321fb164) B! 0
 - [30代、他業界・他職種からIT企業エンジニア職に転職](https://note.com/fukudamg/n/nb13c48573e88) B! 0
 - [未経験Webエンジニア転職 これまでとこれから](https://note.com/shin_k_2281/n/nd26dfe7e6ae8) B! 0
@@ -13964,6 +14160,7 @@
 - [シビックテックは消防団の社会的処方かもしれない](https://note.com/mamisada/n/n96d31a909ea8) B! 0
 - [Code for SOKAを立ち上げた話](https://note.com/kawazu255/n/n18ff8d953659) B! 0
 - [Civic TechとWeb3とブリコラージュ](https://note.com/naoki_akazawa/n/ne309bfd50ce5) B! 0
+- [スプリントでシビックテックを継続的に進める](https://note.com/yu23ki14/n/na5386ddf9d11) B! 0
 - [タイ人高校生と日本人家庭がともに過ごすホームステイプログラム「ルアムジャイ」と活動を支えるデジタルツール](https://medium.com/@hiromihagiwarayamamoto/%E3%82%BF%E3%82%A4%E4%BA%BA%E9%AB%98%E6%A0%A1%E7%94%9F%E3%81%A8%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%AE%B6%E5%BA%AD%E3%81%8C%E3%81%A8%E3%82%82%E3%81%AB%E9%81%8E%E3%81%94%E3%81%99%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A4%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0-%E3%83%AB%E3%82%A2%E3%83%A0%E3%82%B8%E3%83%A3%E3%82%A4-%E3%81%A8%E6%B4%BB%E5%8B%95%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%83%BC%E3%83%AB-9a5bbe88533a) B! 0
 - [GPT4Vで5374カレンダーを更新してみる](https://hr-sano.net/blog/5374-and-chatgpt4v/) B! 0
 - [シビックテックで生活困窮支援の輪を広げよう](https://note.com/snoozing_jelly/n/nb49cd7ca56c4) B! 0
@@ -14006,6 +14203,7 @@
 - [匿名selenimu](https://qiita.com/o________o/items/4dc196db0ca9daa1e152) B! 0
 - [犬がうんちする前に回るから回った回数をグラフにした](https://qiita.com/chariumaboat/items/4c7f2e50f10591b51382) B! 0
 - [PDFの内容をCSVにする](https://qiita.com/o________o/items/08356342520800fe0b5d) B! 0
+- [Bandlab by cakewalkを立ち上げてすぐオーディオデバイスの確認中(WDM Kernel Streaming)とでて落ちる場合の対策](https://qiita.com/chariumaboat/items/5239a45ad3baac459543) B! 0
 - [Kali-Linux環境構築RTAに失敗した話](https://qiita.com/Bindume_shiba/items/ab48de07c0ec391b0ae9) B! 0
 - [旧式のiPodClassicをレストアする](https://qiita.com/Teslamk2/items/4044c4cd55916634eaf4) B! 0
 - [生活と欲求と節約](https://qiita.com/o________o/items/ed91dae35e90130e4168) B! 0
@@ -14019,7 +14217,6 @@
 - [プログラミングの邪魔だったから親知らず抜いた](https://qiita.com/chariumaboat/items/baa35a7423f044f3e20d) B! 0
 - [【DDIA 読破】監訳者まえがき](https://qiita.com/ebi_yade/items/49671384a9be18d91054) B! 0
 - [【DDIA 読破】1章 信頼性、スケーラビリティ、メンテナンス性に優れたアプリケーション](https://qiita.com/ebi_yade/items/232bebba0f104f9e5c40) B! 0
-- [翻訳記事：デザインシステムチームなしでデザインシステムを構築する](https://note.com/nobsato/n/ne15bd21b7fbc) B! 0
 - [Chatworkのデザイントークンを整備中に直面した課題と教訓](https://creators-note.chatwork.com/entry/2023/12/23/100608) B! 0
 - [デザインシステムの実装を行う上で、大事にしたこと・難しかったこと・失敗したこと](https://zenn.dev/t0yohei/articles/94c0bd2e96fce5) B! 0
 - [DevRelとオープンソースの関係](https://medium.com/@taiponrock/devrel%E3%81%A8%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E9%96%A2%E4%BF%82-d2394d023de3) B! 0
@@ -14070,6 +14267,13 @@
 - [個人的な転職失敗談](https://qiita.com/KitaDaro/items/19a6ac94c7941c412e6f) B! 0
 - [エンジニアに資格は必要か](https://qiita.com/jun2/items/bc880d0929aa41ccc528) B! 0
 - [Discord.pyの使い方](https://qiita.com/kakuteki/items/3af25651c65a2e76dc03) B! 0
+- [RealSenseで点群を取得する方法](https://qiita.com/kakuteki/items/73d4fce886a99230a2d6) B! 0
+- [pip install pyrealsense2で対応するバージョンがないと言われた時の対処法](https://qiita.com/kakuteki/items/9d2f912a372a04a812ce) B! 0
+- [RealSenseからIMUの情報を取得する方法](https://qiita.com/kakuteki/items/3cdf59dad3ff39b6ff35) B! 0
+- [RealSense入門: カラーとデプス映像の取得方法](https://qiita.com/kakuteki/items/9de8dbd5ecdf966c65f3) B! 0
+- [画像認識の処理の手順](https://qiita.com/kakuteki/items/3bfbbc81e92ff0257e5b) B! 0
+- [ROIとは](https://qiita.com/kakuteki/items/1525ea4c3d2c14cbdc0a) B! 0
+- [qrcodeライブラリで簡単QRコード作成術](https://qiita.com/kakuteki/items/3b24bd240da50553dc94) B! 0
 - [手軽に実現！OpenCVとWebカメラでQRコードの位置を特定する方法](https://qiita.com/kakuteki/items/609d80473315a9c2207d) B! 0
 - [OpenCVでwebカメラの映像を表示する](https://qiita.com/kakuteki/items/e48b47e8ce77332bc051) B! 0
 - [さよならGoogle Domains](https://zenn.dev/vlapwd/articles/da130caf816084) B! 0
@@ -14162,14 +14366,13 @@
 - [GBFSデータ+MapLibre GL JSでシェアサイクルマップを作成する](https://qiita.com/shi-works/items/f13dd3cf133fcfd8897e) B! 0
 - [初代GBFS特別賞をゲットするのは君だ！アーバンデータチャレンジに向けたアイデア出し大会！](https://note.com/keijipoon/n/n236e36a2b929?sub_rt=share_pb) B! 0
 - [Google Colabで気軽にGBFSに触れてみる](https://qiita.com/KentaHarada/items/e31a7c2239f70b850e0c) B! 0
-- [フランスのモビリティデータサービス：Fluctuo（フラクチュオ）の Q3 European Index レポートを読んでみよう！](https://note.com/keijipoon/n/n01a4e2f1000a?sub_rt=share_pb) B! 0
+- [フランスのモビリティデータサービス：Fluctuo（フラクチュオ）の Q3 European Index レポートを読んでみよう！](https://note.com/keijipoon/n/n01a4e2f1000a) B! 0
 - [東京大学大学院情報理工学系研究科「交通情報学特論」がアツい。GBFSも！](https://note.com/keijipoon/n/n31afbf3be7d6?sub_rt=share_pb) B! 0
 - [ジェネ系VJで使った要素集エントリ](https://w0nyv.hatenablog.com/entry/2023/12/02/070000) B! 0
 - [VJ ゆるWriteup (VRChat WIREDVEIN 2023-12-01)](https://renard.hateblo.jp/entry/2023/12/05/232037) B! 0
 - [謎のビジュアルソフト Lumenについて](https://note.com/karasimemtai/n/nb8dcc405284f) B! 0
 - [【VJソフト】SynapseRackのBeat Syncの実装とUI/UX](https://note.com/sainakey5/n/nfa944ae7e2de) B! 0
 - [ジェネ系、なんか使いにくい素材を修正する話](https://ryomport.me/blog/genadcal2023_day10/) B! 0
-- [オンラインB2BジェネVJツールを作った話](https://note.com/sainakey5/n/n2e7a402ca535) B! 0
 - [TouchDesignerのなにかしらについて](https://note.com/karasimemtai/n/nb97f80ee111b) B! 0
 - [VJ ゆるWriteup (VRChat Sequence 16 2023-12-18)](https://renard.hateblo.jp/entry/2023/12/18/214600) B! 0
 - [【ジェネ系VJ】オーディオビジュアルイベント draw();](https://note.com/sainakey5/n/n4d96094ac212) B! 0
@@ -14216,7 +14419,6 @@
 - [text-wrap: balance;試してみた](https://qiita.com/gilly/items/1b105dfa93488ae3973a) B! 0
 - [initial-letterを試してみた](https://qiita.com/gilly/items/2b8cc892dee5383240e2) B! 0
 - [2023年12月19日 ついに:has()が主要ブラウザで使えるようになった!?](https://qiita.com/gilly/items/6d4aca2d3bd434e6dd5c) B! 0
-- [HTMLだけで簡単に作れるアコーディオンが進化していた](https://qiita.com/gilly/items/56bd57ff4026379cdf62) B! 0
 - [Selectタグに水平線が追加できるようになったので試してみた](https://qiita.com/gilly/items/b526a4963f2a5c2c7fd6) B! 0
 - [JavaScriptにおけるundefinedとnullの違い](https://qiita.com/gilly/items/3871bbd7371b4dec2e41) B! 0
 - [aria-labelの適切な利用について調べてみた](https://qiita.com/gilly/items/704680d57aba1381e9d0) B! 0
@@ -14267,7 +14469,7 @@
 - [mock interview - UberEats編２](https://qiita.com/KitaDaro/items/b295c82d8555ad8fd0e1) B! 0
 - [mock interview - Uber編](https://qiita.com/KitaDaro/items/9d9dc199ed34b222862c) B! 0
 - [mock interview](https://qiita.com/KitaDaro/items/f017966016da13243f5b) B! 0
-- [mock interview](https://qiita.com/KitaDaro/items/669a9c7835a4d2306206) B! 0
+- [meeting での英語 簡単なまとめ](https://qiita.com/KitaDaro/items/669a9c7835a4d2306206) B! 0
 - [Job Interview 英語について簡単なまとめ](https://qiita.com/KitaDaro/items/d49e3c52926de07e718f) B! 0
 - [Job Interview Questions SQL 1](https://qiita.com/KitaDaro/items/4150a6fd35e1b5a698cc) B! 0
 - [Job Interview Questions SQL 2](https://qiita.com/KitaDaro/items/fec9b1679d0b83d2c6aa) B! 0
@@ -14372,7 +14574,6 @@
 - [💩クソアプリハッカソン出てみた！](https://qiita.com/o-ga/items/e7fc8fc017698c4dda80) B! 0
 - [画像生成の元になったダジャレ当てクイズを作った](https://qiita.com/Frappuccino2316/items/f158cf5b2009398475d3) B! 0
 - [🚢遣隋使：小野妹子の航海を可視化してみた ～歴史上の人物を動かすアプリ～](https://qiita.com/gis/items/12d6417e2e382d4d9883) B! 0
-- [AIでどんなネタも寿司にする🍣 寿司画像生成iOSアプリをつくった](https://zenn.dev/mesummery/articles/8c54128f0dfbe2) B! 0
 - [ChatGPTを使って「クイズ☆タレント名鑑」のワンコーナーを蘇らせたい](https://qiita.com/kaminoitte/items/d26e649489e63dd6a096) B! 0
 - [音声でしか投稿できないSNS](https://qiita.com/kira_puka/items/707fe07e0091a2f98861) B! 0
 - [Fortnite上にUEFNでクソアプリ(ゲームマップ)を作ろうと思ったけど、クソアプリを作るのも普通に難しいという話](https://kan-kikuchi.hatenablog.com/entry/Release_One_Million_Christmas_Cakes) B! 0
@@ -14475,7 +14676,6 @@
 - [マナビDX Quest：QRコードでのデジタル化 -DXへの第一歩-](https://qiita.com/rairai255/items/1d465c8ad2942ba47a4a) B! 0
 - [データの背後を読む: ビジネスデータ分析のためのマインドセット](https://qiita.com/CornerBook/items/4b36a9698335c2f59583) B! 0
 - [マナビDXQuestで得たもの　～人生はプランドハプンスタンスセオリー～](https://qiita.com/MiyaKrmt/items/c3e383847bf058546724) B! 0
-- [統計検定2級：合格体験記とオススメのコンテンツ](https://qiita.com/yossha-yuki/items/a513ed46fd09f9d6a162) B! 0
 - [現場研修プログラムで感じた「DXしたい企業が外部デジタル人材とうまく付き合う方法」の一考察](https://takagerbera.com/entry/method-of-communicate-dx-expert) B! 0
 - [PowerBI超初心者:ExcelからPowerBIへの移行](https://qiita.com/Papico_2020/items/1468b28332b36bc76d63) B! 0
 - [Road to E資格](https://qiita.com/mountaingorillas/items/032fb501497430c38490) B! 0
@@ -14514,7 +14714,6 @@
 - [データ分析の検証を他社(他部署)とやるときに気を付けたほうがいいと思ったこと](https://qiita.com/Maruhoppe8/items/e3b1bcb8dbede8f21cca) B! 0
 - [今年使って便利だったツール(2023)](https://zenn.dev/yk96/articles/3f0a9720ad5358/) B! 0
 - [イベント運営 as a オーナーシップの発揮機会](https://zenn.dev/na9amura/articles/cc9c1dd16776d3) B! 0
-- [PHPでGoogleログインの実装をする方法(2023年11月時点動作)](https://qiita.com/mendoitarou_/items/9d6838a0db468c4f5dee) B! 0
 - [私がChromebookで開発環境を整えるときにやっていること](https://qiita.com/mendoitarou_/items/ea6e98f22ecf4730187a) B! 0
 - [Discord.pyで引っかかったポイントを紹介](https://qiita.com/mendoitarou_/items/7013d5cfe811a0adda36) B! 0
 - [低スペックPCでQiitaの記事を書くおすすめの方法](https://qiita.com/mendoitarou_/items/ec1067c50d26cd964272) B! 0
@@ -14594,6 +14793,7 @@
 - [コンサマトリーなクリエイティブコーディングを p5.js で.](https://note.com/kimura_koya/n/nf9f43f2cd39f?sub_rt=share_pw) B! 0
 - [WebGPUでクリスマスクリエイティブコーディング🎄](https://github.com/HosodaMath/WebGPU-Study-Notebook/tree/main/particle/christmas2024) B! 0
 - [専門業務型の裁量労働制とはなんだろう](https://qiita.com/rorensu2236/items/3a95ab7aa438280e519e) B! 0
+- [レンタルWi-Fi vs Starlink](https://qiita.com/KBT777/items/a2c0780956126b57964b) B! 0
 - [生成aiの代表的な論文に自作のGPTsで簡易化して見る。](https://qiita.com/Yuki_in_OWL/items/3245cfa206b315ef1f04) B! 0
 - [[1日目] 学校の食堂をIT化させる話　どのようにIT化させるか](https://qiita.com/narikakun/items/2e6e53b8d3cd3b5b543e) B! 0
 - [[2日目] 学校の食堂をIT化させる話　混雑度カメラを開発するための人数の計測方法](https://qiita.com/narikakun/items/0b9ef1a0184ce7a9e147) B! 0
@@ -14617,6 +14817,8 @@
 - [[21日目] どのAIがプログラミングに強いのか](https://qiita.com/narikakun/items/9ad8ef9ca0b620394138) B! 0
 - [[22日目] YouTubeも流せるDiscord 音楽Botを自分でホストする](https://qiita.com/narikakun/items/f5b608128622ef9e8635) B! 0
 - [[23日目] Cloudflareで作る無限メールアドレス](https://qiita.com/narikakun/items/b2f3fb2d692090ef718b) B! 0
+- [[24日目] JavaでWebSocket (SSL可)](https://qiita.com/narikakun/items/a0d8bbc2c62194614b32) B! 0
+- [[25日目] Leaflet.js 自分なりのメモ](https://qiita.com/narikakun/items/63ba39710967c3e295c7) B! 0
 - [自宅サーバの夢と課題](https://qiita.com/Negishi_tako/items/05cda2a68b23eab29643) B! 0
 - [自作VPN](https://qiita.com/Negishi_tako/items/3251952c179f93893283) B! 0
 - [中高生もイベントに参加しよう!!](https://qiita.com/Negishi_tako/items/4ca870ba4ef6f1f421bb) B! 0
@@ -14654,6 +14856,7 @@
 - [技術書典15で新刊5冊の制作に関わりました](https://zenn.dev/drumath2237/articles/50ab6055283919) B! 0
 - [pnpmで作ったWebフロントをGitHub ActionsでGitHub Pagesへデプロイする](https://zenn.dev/drumath2237/articles/13c51f94b3e513) B! 0
 - [canvasをWebページいっぱいに表示するCSS](https://zenn.dev/drumath2237/articles/80fa6fc244ae6e) B! 0
+- [Viteのlibraryテンプレートでブラウザ向けnpmパッケージを作ってみる](https://zenn.dev/drumath2237/articles/616ea9a1bb5fe7) B! 0
 - [Qiita CLIでできること、できないこと](https://qiita.com/niwanowa/items/f8441d3b2183f2d4d67b) B! 0
 - [Denoでプログレスバーを表示する](https://qiita.com/niwanowa/items/eee2846e9af9d699a1c3) B! 0
 - [MacBookPro環境構築メモ](https://qiita.com/niwanowa/items/55780746d9563215b3dd) B! 0
@@ -14737,6 +14940,8 @@
 - [TypeScriptでGoogleAppsScriptを書いて数値計算ライブラリを作っている](https://qiita.com/k1y6k/items/9ab6afad5b8c5bab8042) B! 0
 - [cyamli: YAMLからCLIを自動生成するツール](https://jumpaku.hatenablog.com/entry/2023/12/14/cyamli%3A_YAML%E3%81%8B%E3%82%89CLI%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B%E3%83%84%E3%83%BC%E3%83%AB) B! 0
 - [プログラミングを覚えて作るNotionブログ「astro-notion-blog」をどのように育ててきたか](https://alpacat.com/blog/advent-calendar-2023-oss/) B! 0
+- [TensorFlowの内部構造を理解するために必要なことを考える(備忘録)](https://qiita.com/y-vectorfield/items/2ec76e2ad5b49916755f) B! 0
+- [GitHub IssuesのOSS振り返り](https://zenn.dev/koya6565/articles/20231231_github-issues) B! 0
 - [私的Goで作るアプリのコード設計](https://qiita.com/renon0827/items/cf20492458d534993096) B! 0
 - [宮廷プロファイラの紹介](https://qiita.com/renon0827/items/70ef5fa10f11069be26d) B! 0
 - [HTTPレスポンスをAny で受けると？ボブは訝しんだ](https://qiita.com/3dy3day/items/affdad598d5f7bcb4ed7) B! 0
@@ -14780,7 +14985,7 @@
 - [Azure Arc 対応の Kubernetes クラスターを設定して Logic Apps をデプロイ](https://qiita.com/e99h2121/items/c16e042c4e4a7aceda14) B! 0
 - [「世界一流エンジニアの思考法」を読んで、そのメモ](https://qiita.com/e99h2121/items/c81071b7d8e7813dd5fd) B! 0
 - [IT エンジニア、マサカリ上等か？、批判文化は良いことないか？](https://qiita.com/e99h2121/items/3d3226de0944bf165dbf) B! 0
-- [2020 年当時のもやもやと答え合わせ](https://note.com/e99h2121/n/n44b2ccc150d3) B! 0
+- [日付と時刻の表記に関する国際規格 ISO 8601 覚書](https://qiita.com/e99h2121/items/c298fee44ea4e57986c9) B! 0
 - [象、死んだ魚、嘔吐](https://qiita.com/e99h2121/items/6af4b909eb005b383392) B! 0
 - [2023 年の IT エンジニア、小学生と保育園児との Work from home](https://qiita.com/e99h2121/items/db0790a47734ce4ec258) B! 0
 - [Azure の Storage 的な諸々](https://qiita.com/e99h2121/items/25ae757eaa884b8e35c1) B! 0
@@ -14790,7 +14995,7 @@
 - [AI-900 合格まで (2023.11)](https://qiita.com/e99h2121/items/f32fcf4648bdf33a5ebd) B! 0
 - [Azure の負荷分散的な諸々](https://qiita.com/e99h2121/items/2f0061fa01d12a0a86ff) B! 0
 - [Azure のコンテナ的な諸々](https://qiita.com/e99h2121/items/b8e0a785e8659463b92f) B! 0
-- [Azure Logic Apps お手軽レシピ週](https://qiita.com/e99h2121/items/f0a16e40885cb0090f04) B! 0
+- [Azure Logic Apps お手軽レシピ集](https://qiita.com/e99h2121/items/f0a16e40885cb0090f04) B! 0
 - [Azure Logic Apps および Power Automate ワークフロー式関数芸](https://qiita.com/e99h2121/items/81c94afdbb063846cd16) B! 0
 - [私はサポート職きらいじゃないぞ、という話](https://qiita.com/e99h2121/items/e25a4a6990c3997e472b) B! 0
 - [おっさんの小言 令和版](https://qiita.com/e99h2121/items/1177d324026f4ad6ebfb) B! 0
@@ -14800,7 +15005,6 @@
 - [データベーススペシャリスト試験に合格するまで](https://qiita.com/pitao/items/f9753242a0de7ce986cb) B! 0
 - [【自作NAS】まさかデータが吹っ飛んじゃうなんてェ...もう疲れちゃってバックアップも面倒くさくてェ...](https://qiita.com/yosoyalumno/items/b4f3467f76d8d729187f) B! 0
 - [🔰GraphQLをLaravel+Reactで使ってみる](https://zenn.dev/oratake/articles/graphql-first-impression) B! 0
-- [うわっ…私のカバレッジ、低すぎ…？ - GitHub ActionsでRSpecのカバレッジレポートを出力する](https://zenn.dev/shu_illy/articles/b4e635730c5ec0) B! 0
 - [スキャフォールディングツール Scaffdog 使ってみた](https://qiita.com/mororyou/items/cba30c2c0fc43f57f4b8) B! 0
 - [【TypeScript】バックエンド・フロントエンドで共有できるプライベートGithubPackagesの作り方](https://qiita.com/ikuma_hayashi/items/769dea50b5b45084f882) B! 0
 - [未経験でエンジニア業界に転職した理由](https://qiita.com/masao_pro/items/d3a58e6eb84af87477cb) B! 0
@@ -14929,7 +15133,6 @@
 - [エンジニア採用のアプローチで色々やったこと](https://qiita.com/newta/items/d347a554c4208f80d44a) B! 0
 - [【エンジニア採用】年間1名だったエントリーが349名になるまで1年間でやったこと（後編）](https://note.com/delta_sevenrich/n/n3d2fba741554) B! 0
 - [物理サーバ1台の上に Red Hat OpenStack Platform 17.1 の環境を作ってみよう](https://rheb.hatenablog.com/entry/2023/12/01/100940) B! 0
-- [libkrunで遊ぶ](https://rheb.hatenablog.com/entry/libkrun-intro) B! 0
 - [OpenShift 4.14 から非推奨となった DeploymentConfig について](https://qiita.com/mamomamo/items/e2b8acb19b3fa19489db) B! 0
 - [libkrunでのネットワーク通信](https://rheb.hatenablog.com/entry/libkrun-networking) B! 0
 - [パブリッククラウド上の従量課金制RHELをRed Hat Satelliteで管理してみよう](https://rheb.hatenablog.com/entry/202312-payg-rhel-satellite) B! 0
@@ -15032,6 +15235,7 @@
 - [アーキテクチャテンプレートA2G配置について](https://qiita.com/juraruming/items/da5965c7e0ede945fd53) B! 0
 - [SOLID原則の学習順番をS→I→D→O→Lにしたら理解度が増した気がする話](https://qiita.com/juraruming/items/9260e16b33becc293683) B! 0
 - [C/C++でユニットテストするときの未解決のシンボル解決どうするのか知りたい](https://qiita.com/naghbIQtIqHom/items/6a5531d1d92a43cba306) B! 0
+- [マインドマップによるテスト設計と実施](https://note.com/toma_cy/n/nc9f7a628c158) B! 0
 - [SoftwareDesign 2023/9月号 輪読会メモ (2023/9/4)](https://qiita.com/kitazaki/items/193e08e5724d683a5595) B! 0
 - [SoftwareDesign 2023/10月号 輪読会メモ (2023/10/2)](https://qiita.com/kitazaki/items/07185b30ff0a146ab518) B! 0
 - [SoftwareDesign 2023/11月号 輪読会メモ (2023/11/13)](https://qiita.com/kitazaki/items/20cf2efe3484ff925b45) B! 0
@@ -15045,6 +15249,7 @@
 - [Software Design マイ・ランキング 2023](https://ken1flan.hatenablog.com/entry/softwaredesign-my-ranking-2023) B! 0
 - [2023年3月号の輪読会メモ](https://www.slideshare.net/kitazaki/20230306sd42kitazakipdf) B! 0
 - [2023年1月号&2月号の輪読会メモ](https://www.slideshare.net/kitazaki/20230206sd41kitazakipdf) B! 0
+- [SoftwareDesign 2023/12月号 輪読会メモ](https://qiita.com/jukiya/items/14a4b5bcdd1eadbc72a0) B! 0
 - [Software Design 2023年10月号感想](https://qiita.com/sugin/items/3213d3033a4b1c12f075) B! 0
 - [【SotfwareDesign】結城浩の再発見の発想法連載終了](https://qiita.com/big_dama/items/095554c178cef9e6004f) B! 0
 - [ Software Design輪読会ドリブン読書](https://ken1flan.hatenablog.com/entry/softwaredesign-reading-club-driven-reading) B! 0
@@ -15055,7 +15260,6 @@
 - [2023年、毎月SoftwareDesign輪読＆座談会をやってきた振り返りなど](https://qiita.com/kitazaki/items/e11460b8dce66b0680d0) B! 0
 - [スタヌキの2023年](https://note.com/i_property/n/n16ce3886251d) B! 0
 - [会社でｽﾀｯｸﾁｬﾝを布教したのでもっと広めたい話](https://qiita.com/B-SKY-Lab/items/0232e49a9acef908d019) B! 0
-- [ｽﾀｯｸﾁｬﾝ沼１年目を振り返ります](https://mzmlab.hatenablog.com/entry/stackchan23) B! 0
 - [SCS0009をArduinoFrameworkで使いこなす。](https://raspberrypi.mongonta.com/stack-chan-scs0009-arduino/) B! 0
 - [ｽﾀｯｸﾁｬﾝ深センへ行く~準備編~](https://note.com/stack_chan/n/ne01f7be2e182) B! 0
 - [【2023年12月】一番簡単なｽﾀｯｸﾁｬﾝのつくりかた(アタマだけ編)](https://note.com/am003004/n/na81fc2ef6e05?sub_rt=share_pw) B! 0
@@ -15067,6 +15271,7 @@
 - [ｽﾀｯｸﾁｬﾝ深センへ行く~展示編~](https://note.com/stack_chan/n/n9c9d3f7784b5) B! 0
 - [Coreシリーズ以外のM5製品でｽﾀｯｸﾁｬﾝを作ったお話](https://qiita.com/Azuma_Kinjo/items/c6084b9b20c97573f7f8) B! 0
 - [Stack-chan_Takao_Baseが生まれた経緯](https://qiita.com/akita11/items/3e12644773c8e7722d44) B! 0
+- [みんな違ってみんないいｽﾀｯｸﾁｬﾝ分類学(アドカレ増刊号)](https://qiita.com/Azuma_Kinjo/items/ed99f811a06eac59b2ae) B! 0
 - [レゴ×ｽﾀｯｸﾁｬﾝ、Bluetoothでラジコン化](https://note.com/ku_nel_5/n/n3ba1890044d7) B! 0
 - [クリスマスイルミネーションなｽﾀｯｸﾁｬﾝをお迎えしよう！](https://qiita.com/tmac116/items/a1f310699020426abc62) B! 0
 - [M5Stack/ｽﾀｯｸﾁｬﾝでキッズと遊びたい→センサで遊ぶ装置をいろいろと。](https://qiita.com/kanten_namako/items/bdb972124f6777275370) B! 0
@@ -15140,7 +15345,6 @@
 - [昨年のアドベントカレンダーで得られたアイデアを実際にやってみた](https://qiita.com/yutaka_sashima/items/d01abb21f230d848b671) B! 0
 - [PHPカンファ沖縄2023に参加した話](https://qiita.com/pranaria9/items/36cf2d305eda8e754869) B! 0
 - [ボランティアスタッフが出来る範囲で映像周りの配線を頑張る ](https://note.com/phpcon_odawara/n/n1360ca13780a) B! 0
-- [PHPカンファレンス福岡を主催したら何が起きたのか](https://zenn.dev/akase244/articles/2a63f3b4f49b6a) B! 0
 - [技術カンファレンスの愉しみ](https://note.com/beppu01/n/n3fdf7e4de660) B! 0
 - [技術カンファレンスから始まる技術広報キャリア](https://zenn.dev/eco_kuman/articles/9581c79d38e8b1) B! 0
 - [【今から追いつく！】PHPカンファレンス関西2024](https://note.com/phpcon_kansai/n/n05a5d466dfaa) B! 0
@@ -15230,7 +15434,6 @@
 - [leading quality](https://note.com/dora_e_m/n/n94cb1f1fab2c) B! 0
 - [「NLPの原理と道具」を読んだ (注意：自然言語処理ではありません)](https://qiita.com/newta/items/e30bfd8bb23bc340a6bc) B! 0
 - [『決断の本質』](https://blog.kiwatchi.com/entry/unread-books-20231222) B! 0
-- [積読解消に読んだ『プロジェクトマネジメントの基本が全部わかる本』が最高だった件](https://qiita.com/NAVYSHUNTA/items/902aacc579887aaa8aea) B! 0
 - [【Unity初歩】~インストール~](https://qiita.com/usomaru/items/7e5e2aad995bc51ac0af) B! 0
 - [【Unity初歩】~オブジェクトの配置~](https://qiita.com/usomaru/items/f81e46dd8246fe61e112) B! 0
 - [個人的よく使うC#とTypescriptで配列操作](https://qiita.com/usomaru/items/b4221dcac4a7cc33b039) B! 0
@@ -15286,7 +15489,6 @@
 - [おわりに](https://note.com/fukuy/n/n10c649c3464c) B! 0
 - [Storybook と Ladle のセットアップを比較してみる](https://qiita.com/xrxoxcxox/items/040fbf98e840e6f4d8e6) B! 0
 - [コードのフォーマットを ESLint Stylistic に任せる](https://qiita.com/xrxoxcxox/items/d82485eb061683ec65df) B! 0
-- [次世代 Web カンファレンス 2023 でのセッションを経て](https://qiita.com/xrxoxcxox/items/ef3c7dac33f5d4601431) B! 0
 - [2023 年は 18 登壇していたので、発表の準備プロセスを振り返る](https://qiita.com/xrxoxcxox/items/9130cb7874cd1e4cbf46) B! 0
 - [WebGL で色々な表現に挑戦する - 時間経過による変化](https://qiita.com/xrxoxcxox/items/7e21802bab3ab6f11614) B! 0
 - [デザインシステムを作りたいなら、実はコンポーネントライブラリ「以外」を作った方が良いのではないか？](https://qiita.com/xrxoxcxox/items/e7a579e82b5c0ede135b) B! 0
@@ -15350,7 +15552,6 @@
 - [やたら増えるログの闇に対する防衛術2023[MySQL]](http://blog.kimuradb.com/?eid=877707) B! 0
 - [ 闇の魔術に対抗するための正攻法](https://ultrabirdtech.hatenablog.com/entry/2023/12/16/152345) B! 0
 - [カード情報売買業者を欺こうとする闇（黑吃黑）に対する防衛術](https://qiita.com/kshibamo/items/a651ea5006b60093690a) B! 0
-- [コンテンツ全消ししちゃった話](https://qiita.com/tosiooooooo/items/8805b9a0f9846efec334) B! 0
 - [【Rails】パスを見てDBを切り替えるとテストが落ちるのを回避](https://qiita.com/yothio/items/fb0c57c00396a455126e) B! 0
 - [OBS Studio の新バージョン（バージョン30）で個人的に気になった部分の情報をまとめる【完走賞ゲット-1】](https://qiita.com/youtoy/items/0cd508187c4d55ffb8e1) B! 0
 - [Protokolアプリを使って Gamepad の入力をモニタリングしてみる【完走賞ゲット-9】](https://qiita.com/youtoy/items/bccb2c1062aaf915805e) B! 0
